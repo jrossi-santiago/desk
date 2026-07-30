@@ -1,0 +1,22 @@
+---
+episode_id: "KVAaAf1Qb38"
+title: "How to Make Content That Promotes Your Business"
+published: "2026-02-09"
+duration_seconds: 74
+episode_url: "https://www.youtube.com/watch?v=KVAaAf1Qb38"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# How to Make Content That Promotes Your Business
+
+Video: [https://www.youtube.com/watch?v=KVAaAf1Qb38](https://www.youtube.com/watch?v=KVAaAf1Qb38)
+Published: 2026-02-09
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=KVAaAf1Qb38&t=0s)
+
+All right. To start an automation business for finance departments of companies of 200 20 to 200 people, what kind of LinkedIn content should I make? Um All right. Just talk about what you know. So, talk I mean, if you're if you're making these kind of automations for finance departments, like talk about one at a time the automations that you do and what they what happens as a result. Like, there's probably 150 like repeated tasks that finance departments do. So, I would probably like first off make myself a list of every single micro-task that somebody a finance department would do. And then one by one, that would probably be my content schedule. Then I would say, "I'm going to make uh 150 pieces of content. Each one is going to explain how to automate each one of these specific portions." People who will read that and watch that will be the types of people who will buy your stuff. And don't be afraid Talking and eating, tough. Don't be afraid of uh giving away the secrets. Like, no one in finance is going to want to learn your tech stuff. They just want to know that it works. As much as you can show like a mini like like a 5-second or 10-second thing of like a process running in the background or how it's happening automatically that's showing the result, I think that will be super viable.

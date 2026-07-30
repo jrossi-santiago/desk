@@ -1,0 +1,34 @@
+---
+episode_id: "S45XRAUHhkE"
+title: "You're Killing Conversions With This One Mistake"
+published: "2026-04-29"
+duration_seconds: 351
+episode_url: "https://www.youtube.com/watch?v=S45XRAUHhkE"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# You're Killing Conversions With This One Mistake
+
+Video: [https://www.youtube.com/watch?v=S45XRAUHhkE](https://www.youtube.com/watch?v=S45XRAUHhkE)
+Published: 2026-04-29
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=S45XRAUHhkE&t=0s)
+
+Waveman Jay. Here we go. Waveman. Well, now I know what you're doing. So, that's actually fairly straightforward. Um okay, latest I think you're getting some good views, man. Congrats. Good. Actually, I think your views are are bigger than your subscriber count. Like your relative amount of views. So, kudos there. Um let's see here. 25 minutes. Are they all Okay, so this is you showing is this are they all you talking over? Let's see here. Okay, this is direct to camera. Okay. Get waves. Okay. Okay, so what are we selling? Okay, so we got school. Let's look at Let's look at this real quick. Now, let me just check this just so I could see it. Okay, so you got CTA above the fold. That's good. Um products, Tik Tok. All right, let's look at this. I'm not going to get too far into that cuz we did the page breakdowns last time, but I just want to look. Okay. Okay, so the this is a B2B offer. Correct? Learn how to become an elite waver. I'm assuming that that means that you're teaching other people how to do waves for other people, not how to get waves themselves. Okay, you'll learn the secrets of getting elite waves in 90 days or less. Hair care mastery, wave mastery, learn every single wave method, instantly gain access to wave courses. Um I would see if I could if I could consolidate this a little bit. See if
+
+## [01:30](https://www.youtube.com/watch?v=S45XRAUHhkE&t=90s)
+
+you can See if you can cut this in half. I know we're not doing page breakdowns, but I'd see if I cut this in half. Um I would also see if you could tell like like at the end do you like two examples of people who did well? And just like John started doing this and he you know, tripled his hourly rate um and got more referrals from this because it's in and hot. Um and I would watch the page breakdown thing that we did because we went really in depth on this. All right, so I'm going to go back to the channel. All right, so I like that this is the one um So, okay. So, the CTA here seems to direct to consumer. The school seems like it's teaching people how to do it for other people. And so, I would see I see a disconnect between this CTA and what you're selling. So, that would probably be the first thing that I would fix. And so, it's it would be like learn how to give waves to other people. Uh this is terrible language, but fundamentally you want to explain that this is a B2B offer. Um and ideally, again, the benefit of the benefit. So, it's not just about waves, right? It's about what being able to do waves gets me. Right? So, for a uh a hair person or barber, I would imagine that that allows them to build at higher rates, get more referrals, um take really sexy Instagram, you know, pictures that allows them to grow their following. And so, those would be To me, those would be benefits of learning waves. And so, I would want to make sure that that is linked in my CTA and also make sure that that reflects. So, congruency, by the way, probably one of the number one things for conversion that I would say most people just miss. Like you have to
+
+## [03:00](https://www.youtube.com/watch?v=S45XRAUHhkE&t=180s)
+
+have congruency. Like they click for something, you want to give them what they clicked for. Okay, so that was that one. So, that's what I would I would tip here. Um With the daily tips and free resources, I I would I would hesitate on this one. Um I don't like multiple CTAs personally. I like to drive everyone to like maybe one or two things, but not too much more than that. That's just my personal preference. Um I think you've got the I think you've got like the whole, you know, thumb down. So, this this is I don't know if you're noticing this, but this looks really small on mobile. So, I would barely like I could barely see the the waves in the hair in this image on desktop. On mobile, it'd be impossible. And so, if everyone for everybody here, you want to look at your thumbnails on your phone before you post them because, you know, huge amount of traffic's on on mobile. And if you make mobile your standard, then when it's on desktop, it'll just be crystal clear. Um in terms of our in terms of like number of things to look at in the thumbnails, I think you're actually doing a pretty good job here. I don't like to have more than three max in terms of visual items in the thumbnail. So, two or three. Um the do and don't here like this is cool. It I probably want to show more difference between do and don't. And so, I think if you kept the check mark, but changed the background color, you'd see the contrast in the hair. Um especially cuz all the hair a lot of the hair examples are are black. And so, they kind of merge with the black the the the the background right here. So, you have black backgrounds and so, it
+
+## [04:30](https://www.youtube.com/watch?v=S45XRAUHhkE&t=270s)
+
+kind of it's a little harder to see the contrast. So, this one's a little easier to see. This is great contrast, right? You can see that one nothing, something and this one did well, right? Um I see how you reused the the same thumb. And so, uh big picture, you've got that there. I would probably eliminate the other links. I would have one link here. Um zoom in more on the on the thumbs. Um and then if you're not doing this, you should look at top performers from other people who are in the in your space and see if you can use the formula for your own headline, right? And so, um Yeah, like just look at videos that massively outperform other people. So, the way you do this you click their profile, click uh most popular. The top 10 are going to be the, you know, big outperformers for uh their audience. Look at the headline. See if you can do a version of it. And so, it sometimes this starts with a lot of people like make a video and then they figure out what to headline it and then do the thumbnail. You want to do it reverse. You want to think what's the video going to be about, how are you going to package it, and then you make to that already kind of pre-tested concept. We've got another YouTubey. Okay, so Nicholas, if this thing is direct to consumer, then it seemed like the school page was B2B. And so, I would I would basically change change whichever one is wrong. Um and make sure that it's really clear.

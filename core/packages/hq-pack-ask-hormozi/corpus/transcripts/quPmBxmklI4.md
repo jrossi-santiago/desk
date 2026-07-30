@@ -1,0 +1,22 @@
+---
+episode_id: "quPmBxmklI4"
+title: "\"Should I Have a Free or Low-Ticket Offer?\""
+published: "2026-02-03"
+duration_seconds: 61
+episode_url: "https://www.youtube.com/watch?v=quPmBxmklI4"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# "Should I Have a Free or Low-Ticket Offer?"
+
+Video: [https://www.youtube.com/watch?v=quPmBxmklI4](https://www.youtube.com/watch?v=quPmBxmklI4)
+Published: 2026-02-03
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=quPmBxmklI4&t=0s)
+
+All right, Jason question. The free and paid community model. What do you think of the idea I've seen floated? Making the first community very low ticket rather than free increase the likelihood those members will convert into coaching high ticket. Yeah, I think that people who pay will be more likely to buy something else than people who don't pay because you're ascending a customer rather than creating a customer. So that's the big difference here is that you have a much higher close rate on ascensions than you do on cold sales. That's always how it is. The question is again a math problem which is if I can get free leads for four bucks and I get one out of 10 of those people to buy my thing then that might be all of this is just going to be what's my CAC for my high ticket thing. And so let's say it cost you $400 to get a low ticket sale. Okay. And let's say I get half of those people to buy. Well, it still means that I have an $800 CAC for my high ticket thing versus a $40 CAC. So, I don't care about paid versus free. I just care about CAC and LTV. That's it.

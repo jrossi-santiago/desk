@@ -1,0 +1,30 @@
+---
+episode_id: "fXRojaMAn2I"
+title: "You're right..."
+published: "2026-03-05"
+duration_seconds: 269
+episode_url: "https://www.youtube.com/watch?v=fXRojaMAn2I"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# You're right...
+
+Video: [https://www.youtube.com/watch?v=fXRojaMAn2I](https://www.youtube.com/watch?v=fXRojaMAn2I)
+Published: 2026-03-05
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=fXRojaMAn2I&t=0s)
+
+I remember I was at a conference and I had this lady stand up in the crowd and I had just done a thing on like, I don't remember what it was, called offers. And she stood up and said, "Let me give you six reasons why this isn't going to work for my business." And so, she went down her list and I was like, "Uh-huh. Uh-huh. Uh-huh." So, I got to the end of the whole thing and um she said, "And that's why this isn't going to work for my business." And I was like, "You're right. You'll never be able to make this work for your business." And she looked at me like angry. And she lashed back. She was like, "Yes, I can Yes, I will. I'll be able to make this work for my business for this reason, this reason." And so, the thing is is that like if the victim frame is just taken to the natural extreme, you realize that you're right. You win the game. And by being right the entire team, you lose everything. And so, it's one of these frames that I love. Dr. Cash he says this. He says, "You're 99% right, but 100% wrong." And what that means is like for example, if I every time I bring a girl home and I want my parents' approval, I bring her home and they say, "This isn't the one. This isn't the one. She's not good enough." Whatever it is. Every time. It's easy for them to say that because every single person you date, except for the one you marry, they are right on. And so, they're 99% of the time they're right. And they are confirmed by saying that that person that you bring home is not good enough. Because every time, eventually you break up. Oh, it's not going to last. This isn't the one. It keeps going, right? But if you keep doing that all the way to the natural extreme, you're 100% wrong because you will be
+
+## [01:30](https://www.youtube.com/watch?v=fXRojaMAn2I&t=90s)
+
+wrong eventually. And it's the same thing as like, "I want to start this business. It's not going to work. It's not going to work. The second one won't work. The fifth one won't work. The seventh one won't won't work." And they are right. But they're just wrong on the long enough time horizon because one of them will [ __ ] work. And one of the girls or one of the guys that you bring home will be the one that you are going to be with. But it's so much safer for them to be right and right and right. And you and they get deceived by their short-term rightness that they miss the long-term wrong. And we do this to ourselves, too, when you're in the victim frame. I don't even like using the victim frame, but when you're in the powerless frame. You give the power away and you get to be right over That's why it didn't work. This didn't work. This relationship won't work. This job won't work. You keep It's not going to work this time, either. Because you get to be right over and over again. It makes you feel good in the short term, but in the long term, you guarantee the loss. >> I think there's also like social reinforcement. Like we love to complain about the weather >> It's literally the same thing as never investing. Like if you want to invest your money, right? And you like you have all this big pile of savings. If you ever invest, there's always the possibility that it goes down in the short term. It's just the nature of markets in general. But if you never invest, you guarantee that you will never get rich over the long haul. And so every day you could make this risk. You take a small risk, but you guarantee a macro win. So you take a small risk today, potential for loss today, for the guarantee over the long haul that it grows and it makes you money. But the flip side is you don't take the
+
+## [03:00](https://www.youtube.com/watch?v=fXRojaMAn2I&t=180s)
+
+small risk of loss today. You take the comfort today for the guarantee that you get the long loss. And so so many people flip their life to that same thing is that they have They flip the pleasure for today and they and they they just forget the second half of this, which is pain for tomorrow. And that today is also yesterday's tomorrow and we're living through the pain that you cast. Like you own this. And until you're like this is my fault that I'm in pain today because of decisions that I put off pain for tomorrow, where today is tomorrow. >> Real quick, if you are a business owner and you are not growing as fast as you'd like, I'd like to give you a free gift. So my team and I put together the $100 million scaling roadmap, which is basically 200 hours of us looking over all the portfolio companies we've had and what stages of growth they went through and more importantly, where they got stuck and how they got past it. And so we broke it in these 10 stages and we made this little kind of quiz thing where if you put in your business information, it'll tell you where you're at and the most important part for you, what to do for each of functions of the business across product, marketing, sales, customer success, recruiting, IT, human resources, and finance. And so, no matter what you're struggling with, someone else has already struggled with it and solved it. And so, I'd like to give you this thing absolutely free. You can go to acquisition.com/roadmap, plug in your business information, and if you want us to actually help you deconstruct the business and you're trying to scale, we'd love to help you out on the thank you page and we'll book a call with my team and we will look at your business, see if we can help, and if we can, we'll invite you out to Vegas and we'll do this in person live.

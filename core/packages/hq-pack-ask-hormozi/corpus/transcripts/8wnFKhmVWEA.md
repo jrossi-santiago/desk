@@ -1,0 +1,38 @@
+---
+episode_id: "8wnFKhmVWEA"
+title: "How to Build a Lead Magnet That Converts"
+published: "2026-04-03"
+duration_seconds: 381
+episode_url: "https://www.youtube.com/watch?v=8wnFKhmVWEA"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# How to Build a Lead Magnet That Converts
+
+Video: [https://www.youtube.com/watch?v=8wnFKhmVWEA](https://www.youtube.com/watch?v=8wnFKhmVWEA)
+Published: 2026-04-03
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=8wnFKhmVWEA&t=0s)
+
+I sell PR to like small to mid-size B2B tech companies. >> Cool. Um we do we just did 2.1 million last year. Um Congrats. Like to get to five sooner than later. Um right now we're sending out 100,000 emails per month. Nice. Yeah, sort of. Um what I've been told today is that we need to do better. Um Yeah. Basically, the suggestion is that we need a better lead magnet because we don't have one. So Um Well, we just paid for ourselves very quickly. Yeah. Yeah. Um I guess based on what we do, do you have any ideas for a lead magnet? And then also, do you have any suggestions for how often we should be following up in these email sequences? Well, how much are you following up now? >> [clears throat] >> Um I don't know exactly, but I want to say three to four times before the lead is considered like dead. Yeah. Um typically that like first for cold email it's like a a three a three email kind of sequence. And then after that [clears throat] it would be a significant delay. So it'd be like six months um before you reach out again and kind of like hit them back up and hit the the three the three email kind of like seven-day sequence. Um so that that part I'm less concerned about. I do think that the lead magnet probably is the big the big uh thousand-dollar question. So let's let's work from this perspective. What does somebody who wants PR want right now?
+
+## [01:30](https://www.youtube.com/watch?v=8wnFKhmVWEA&t=90s)
+
+Typically with our target, they're looking for more brand awareness. So a lot of times these CEOs don't have time to do content kind of like what you're able to do for whatever the reasoning is. So a lot of times what we do is kind of a good way to offset that. Um or they need some sort of brand credibility, whether it be for investor relations or whatever it is. Mhm. Um in the past we've done things like um we'll write like a free press release for you. But now with the DNA of AI, it's just not real it's just not relevant really. Mhm. Um I don't know if we're looking too closely at it, but I can't seem to figure out a good lead magnet that would be interesting to a CMO. Yeah. So one is that you can start a podcast. That was one of my ideas, too. But I feel I'm scared it's going to take too long. No. Okay. So >> [laughter] >> So you mean to start a podcast it'll take too long? Well, for it to start like converting more leads quicker >> Don't no, no, no. Oh, no, no. What's your lead magnet? We don't have one. So that would be okay. Why don't you come on my podcast? Yeah. Start a podcast, use the podcast as the lead magnet. Now you have an hour-long conversation with CEO. Right. >> By the way, do you know what we do? We also do this, yeah. Yeah. So that would be one that I would consider right off the bat. Um the second one is I think instead of doing press releases, uh I would just see if you can dress that up a little bit. Um Or you could alternatively have a true grand slam offer and say we will get you five pieces uh in these you know these
+
+## [03:00](https://www.youtube.com/watch?v=8wnFKhmVWEA&t=180s)
+
+publications um by this time period and if we don't all the PR is free. Okay. Thank you. >> [laughter] >> I mean fundamentally like as like just thinking like what what do these people want? And like what you have like just for everybody like a really good lead magnet is something that other people charge for that people would pay for that you give away for free. Right? And so they want credibility. So it's like how do we how do we build credibility for them? So one is that we can like you can build a network of other podcasts so that you can just use that network as lead magnet, right? You can have your own that you can add to that. Um they want they want you mean they want they want articles they can share on their LinkedIn basically, right? That they can that they can sound good about. So it's like basically offer that it's going to cost you almost nothing to do. Offer them what they want for free period. And if they don't like it, offer them more or offer them better. I don't know, it's just hard just to caveat. So like our the services that we do or that we're trying to Okay, so we we were industry agnostic for a while. I hate working with the big majority of those what you guys call the minnows. This B2B space is kind of where we do really well in. Those packages though are like 150k for like the year. So what how would you recommend doing free something for them for a period of time? Would it be like >> No, not it doesn't have to be time. It's
+
+## [04:30](https://www.youtube.com/watch?v=8wnFKhmVWEA&t=270s)
+
+just free we will do this thing for free. We will get you in this thing. Got it. Okay. Okay. Also, do they like raising? Are they trying to raise like >> Yeah, some of them are, yeah. Some of them are trying to raise. >> again, some of the some of the advantages there is like can we build an investor network of people who are looking for deals? Most people who are investors are just willing to look at deals. And so you gathering together a hundred or so VCs or whatever and then saying like we will for free help you script the pitch deck from working with the hundred VCs that we have to have like the best pitch deck and we will make introductions as a part of our package. You can peel that part off. But the nice thing is that you sent a hundred thousand emails. I would be split I would split test all five of those and see which one has the highest response rates. And you can do that in like four email cycles and you can figure out what your lead magnet is. But I promise you that any of those four will outperform nothing. Okay. Cool. Thank you. You're welcome. If you are a business owner and you are not growing as fast as you'd like, I'd like to give you a free gift. So my team and I put together the 100 million dollar scaling road map, which is basically 200 hours of us looking over all the portfolio companies we've had and what stages of growth they went through and more importantly where they got stuck and how they got past it. And so we broke it in these 10 stages and we made this little kind of quiz thing where if you put in your business information, it'll tell you where you're at and the most important part for you what to do for each of functions of business across product, marketing, sales, customer success, recruiting, IT, human resources and finance. And so no matter what you're struggling with, someone else has already struggled with it and solved it. And so I'd like to
+
+## [06:00](https://www.youtube.com/watch?v=8wnFKhmVWEA&t=360s)
+
+give you this thing absolutely free. You can go to acquisition.com/roadmap, plug in your business information and if you want us to actually help you deconstruct the business and you're trying to scale, we'd love to help you out. On the thank you page you can book a call with my team and we will look at the business, see if we can help and if we can, we'll invite you out to Vegas and we'll do this in person live.

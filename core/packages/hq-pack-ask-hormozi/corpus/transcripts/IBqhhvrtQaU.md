@@ -1,0 +1,34 @@
+---
+episode_id: "IBqhhvrtQaU"
+title: "How to Raise Your Minimum Standard for Work"
+published: "2026-05-17"
+duration_seconds: 288
+episode_url: "https://www.youtube.com/watch?v=IBqhhvrtQaU"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# How to Raise Your Minimum Standard for Work
+
+Video: [https://www.youtube.com/watch?v=IBqhhvrtQaU](https://www.youtube.com/watch?v=IBqhhvrtQaU)
+Published: 2026-05-17
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=IBqhhvrtQaU&t=0s)
+
+If you step out on stage or in front of half a million people on a webinar, which is the craziest sentence I've ever said, if you step out on stage in front of half a million people and you've done absolutely everything, there's nothing to fear. And that's why it's not about what everyone else will think because when I'm on stage making that presentation, the only person whose voice I'll hear is mine. And I will know if I have done everything in my control to be prepared or not. >> And what what's the best thing that comes out? I didn't do everything that I could to prepare and I managed to fluke my performance, right? >> I managed to like close my eyes, throw the dart and oh wow, it hit the bullseye. You'll even know that they'll even be guilt. You won't even be able to fully enjoy your success because you'll have tarnished it with your lack of input. >> And what's interesting is that when you start defining your own success that way, um it actually starts to feel under your own control. But the downside is you realize that you can do very few things and then all of a sudden life feels very short because you're like shoot there's like not that many things I can do before I die if I'm going to actually do my best. And what was interesting is I was talking to a CEO friend of mine. He's a public CEO. Um and he was like I need to start making content, right? I'm like dude like managing a billion dollar company. I was like you're doing okay, man. But because of that type of person, he's like I need to be doing better with my content, right? He's got a few hundred thousand followers anyways. And so I was like, "All right, well, how many pieces of content you putting out a week?" And he was like, "Well, I mean, I put out one a day." And I was like, "Dude." I was like, "We put out 300 a week." And he just he
+
+## [01:30](https://www.youtube.com/watch?v=IBqhhvrtQaU&t=90s)
+
+didn't even respond. He just took he just like pursed his lips and nodded. He was like, "Thank you for resetting my minimum standard." That's all he's like, "Thank you." Like, and I'm sure like when you talk to Phil Heath and he talks about the volume that is required in order to gain muscle and how much how how d how dialed in he is with food and all the other things. um just the amount of sheer work like the biggest change in or I'll say biggest reason that I've had significantly larger returns or outcomes that have happened later on in my career and they continue to get bigger and bigger is because the minimum standard for how much work I know I can do on something has has multiplied hundfold. Like I look at the first presentations I was telling Quinn this earlier. I look at the first presentations I ever gave and I remember thinking to myself when I had this I was like this is a good presentation. It's like 25 slides with like a heading and like three bullets on each slide and being like man this is good. I'm like this is a this is this is a pittance. This is like an afternoon but in my mind if I spent a whole day on something that was like a lot of work now it's I you know I like using this term like measure in hundreds which is like measuring hundreds of hours. How many hundreds of hours have you put towards something? If you do that, I promise you the thing that you're making will get a lot better and you'll also see how much more you're capable of, which is what I think like my undertone of listening to what you were just saying with the podcast is like the more you do, the more you realize you can do. >> And so what happens is >> you're actually even though you're you're going pro right now, you're like, "Dude, next year I'm going pro." >> Yeah. >> Because this is now just a minimum standard. Of course I work out three
+
+## [03:00](https://www.youtube.com/watch?v=IBqhhvrtQaU&t=180s)
+
+days a week. Of course I do three podcasts a week. Dude, once we have the the reality TV show and we have the full crew and we have the headquarter like because then the path gets lit of where you're going to go because you're so singularly focused and you know you have no other distractions. The attention cost isn't you're not paying that down anymore and you're just like how many times can I repeat this effort and then that's when you start unlocking mastery, right? like I I have this process for creating presentations and before we turned on the mics, uh we were talking about it, but it's like I've done a handful of presentations in my life and I've gotten decent at making them, but the the process now is so refined, which is like it is game tape. It is I make the thing, I do the thing in my head, I do it out loud, I watch the recording, I edit the thing, I do it in my head, I do it out loud, I watch the recording, I edit the thing, and I just keep doing it until it's glass. Real quick, if you're a business owner and you are not growing as fast as you'd like, I'd like to give you a free gift. So, my team and I put together the $100 million scaling roadmap, which is basically 200 hours of us looking over all the portfolio companies we've had and what stages of growth they went through and more importantly where they got stuck and how they got past it. And so we broke it into these 10 stages and we made this little kind of quiz thing where if you put in your business information, it'll tell you where you're at and the most important part for you, what to do for each of functions of the business across product, marketing, sales, customer success, recruiting, IT, human resources, and finance. And so no matter what you're struggling with, someone else has already struggled with it and solved it. And so I'd like to give you this thing absolutely free. You can go to acquisition.com/roadmap,
+
+## [04:30](https://www.youtube.com/watch?v=IBqhhvrtQaU&t=270s)
+
+plug in your business information, and if you want us to actually help you deconstrain the business and you're trying to scale, we'd love to help you out on the thank you page. You can just book a call with my team and we will look at the business, see if we can help, and if we can, we'll invite you out to Vegas and we'll do this in person live.

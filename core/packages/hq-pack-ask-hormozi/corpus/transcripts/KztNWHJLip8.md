@@ -1,0 +1,22 @@
+---
+episode_id: "KztNWHJLip8"
+title: "Why Most Agency Founders Never Break $1M"
+published: "2026-06-09"
+duration_seconds: 78
+episode_url: "https://www.youtube.com/watch?v=KztNWHJLip8"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# Why Most Agency Founders Never Break $1M
+
+Video: [https://www.youtube.com/watch?v=KztNWHJLip8](https://www.youtube.com/watch?v=KztNWHJLip8)
+Published: 2026-06-09
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=KztNWHJLip8&t=0s)
+
+Uh, I have a full-service LinkedIn agency doing content and DMs. I think that founders after a certain AR don't want DMs sent from their account. Brand risk. Yeah, that's possible. So, you got two options. Option one is you usually only pick the founders that are below a certain size. That is an option. Uh, the alternative is that you make it work from their brand. Just figure like what stops me from doing more? I have to figure out how to get this to be openable from a brand. Okay, that's another another way. Maybe it just takes twice the volume and then they're willing to do it. Um, the the next kind of thinking process there is you can frame it out to like you can either sell them heavy on why it doesn't matter. Option one. Option two is you can figure it out from the the the brand perspective. Option three, um, is that you only take on smaller guys. But, I think these are features not bugs. Unless you just figure out another way to get customers. Cuz I understand why somebody would not want that. Um, but I I would say like what is your objective as a CEO? Is it to grow the business? Okay, do you think that your your brand as a CEO would be better if your business were bigger? Right, I think you just need to sell them on it. And not everyone's going to say yes, but if half of people say yes cuz you sell them on it, then you can keep growing the business, then that sounds good enough for me. All right, good.

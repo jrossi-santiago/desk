@@ -1,0 +1,34 @@
+---
+episode_id: "DjVPfGfQyZ4"
+title: "\"Should I Fire the Customer That's 45% of My Revenue?\""
+published: "2026-07-17"
+duration_seconds: 359
+episode_url: "https://www.youtube.com/watch?v=DjVPfGfQyZ4"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# "Should I Fire the Customer That's 45% of My Revenue?"
+
+Video: [https://www.youtube.com/watch?v=DjVPfGfQyZ4](https://www.youtube.com/watch?v=DjVPfGfQyZ4)
+Published: 2026-07-17
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=DjVPfGfQyZ4&t=0s)
+
+I'm Julie I sell custom screen printing and embroidery embroidered custom merch to clubs groups and organizations through e-com. We do 17 and a half million revenue. I'd like to be I mean I'd like to be at a hundred I think a good first stop is 50. So what's stopping me is customer acquisition. A little background is we do all the production in house so we control [clears throat] production. About 20%. Um let's see about 80% of our capacity is taken up by a one big contract customer that we just get paid on the screen printing. 20% of the capacity is our own business. Our own business is about three times more profitable than the other. So if we flipped we already have the capacity done. If we flipped from that contract customer to our customers we would be a 50 million dollar company today and our employees wouldn't know that anything had changed. And so we really suck at getting people to come to our website and all we are exactly like our competitor the contract customer we print for their customers are our customers. They're huge we are not. So my question is um >> [laughter] >> Help me yeah where do we start? I mean We have a website and then we have outside sales people and they both bring in about the same amount of money.
+
+## [01:30](https://www.youtube.com/watch?v=DjVPfGfQyZ4&t=90s)
+
+We want to scale the web because I can sell 24/7 across the country whereas you know the issue with outside sales. Okay there's so two things there. So first one on the 80% what percentage of revenue is that? Uh like 45%. Yeah but it's and it keeps our work flow steady for now yeah. They're a good partner but we'd like to have it all. Good yeah. So what I'll tell you what I'm not going to say is don't kill your wealth. Not that's a good idea. Like we never stop a flow until we create another flow. Ideally, we just don't stop flows. Preferably. Great. So, what So, right now you're at full capacity because of this app. >> No. >> Okay, how much capacity do you have left? >> Enough. I'd say 25% right now. >> So, that 25% we have to demonstrate that we can double the other 20% of the business that's three times as profitable. So, we have that double in sitting there. Right? Like you could double that side. Okay, got it. So, on the website, now magic question, what stops us from doing more? It was there. >> Ooh, right now I feel like I may have answered a lot of my questions through that initial thing. I mean, more is one knowing we need to do more, two the manpower to do more. >> Okay. >> Um >> Let's solve one at a time. >> Yeah. >> So, we need to do more, so we're in agreement there. Um on the website, what does more require? >> Uh more ads is what I'm saying. >> Okay, what stops you from making more ads? >> Uh manpower. >> Okay, got it. So, you need more
+
+## [03:00](https://www.youtube.com/watch?v=DjVPfGfQyZ4&t=180s)
+
+creatives is the issue. >> Yes. We We We film all that our own. I mean, there's a question if our they convert, but could they be better? I'm sure. Like are we doing the right thing? >> Okay, so it's not a spend issue. >> No. >> It's not an ad account issue. >> No. >> Okay, great. So, we just need more creative. >> Right. >> Okay, this feels really solvable. Okay, so I mean, how what's spend per day and how many pieces of creative are you making per day? >> Yeah, this is where I should go sit down. Um Spend it. So, let's just say for a month it's 25,000, so a little less than 1,000 a day. I mean, we're running like 15 ads. >> Like a month? >> Yeah, this is kind of >> Got it. Yeah, so I mean, we just got to get to like 50 a week. And 50 a week is not hard. Like it's it's like it's not hard to do 50 ads a week. Like you can do it in like an hour and a half. Um and then you just have a couple editors. And given the size of your business, what are your uh margins right now? >> Uh not 20%. >> Okay, so you're at 3 or 4 million in your profit somewhere there. Yeah, so if you hire three editors and they cost $200,000 in total, it's going to not Your life's not going to change. >> Sure. >> But your business could double. >> Yes. >> That feels worth it. >> It does. >> You going to do that? >> [laughter] >> So, just as a side note, when you're looking for editors, I would look for organic people, not people necessarily who are paid specialists, because
+
+## [04:30](https://www.youtube.com/watch?v=DjVPfGfQyZ4&t=270s)
+
+organic and paid have more or less merged. Um and so your best pieces of organic that get proven or going to be the ones that you're going to put more money behind anyways. Um the only real change that you'll probably have is maybe like a lower third banner that has a CTA on it onto an existing money creative. Um or you can slice in a CTA at the end with like a freebie or some whatever your lead magnet is. Does that Does that all make sense? Which means that you could take your editors, ramp up your organic, which will get you more leads, and then I'll literally take all that organic and make it paid. If you're a business owner and you are not growing as fast as you'd like, I'd like to give you a free gift. So, my team and I put together the $100 scaling roadmap, which is basically 200 hours of us looking over all the portfolio companies we've had and what stages of growth they went through and more importantly where they got stuck and how they got past it. And so we broke it into these 10 stages and we made this little kind of quiz thing where if you put in your business information, it'll tell you where you're at and the most important part for you, what to do for each of functions of the business across product, marketing, sales, customer success, recruiting, IT, human resources, and finance. And so, no matter what you're struggling with, someone else has already struggled with it and solved it. And so I'd like to give you this thing absolutely free. You can go to acquisition.com/roadmap, plug in your business information, and if you want us to actually help you deconstruct the business and you're trying to scale, we'd love to help you out. On the thank you page, you can book a call with my team, and we will look at the business, see if we can help, and if we can, we'll invite you out to Vegas, and we'll do this in person, live.

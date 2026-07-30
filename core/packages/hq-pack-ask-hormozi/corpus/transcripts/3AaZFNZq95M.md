@@ -1,0 +1,34 @@
+---
+episode_id: "3AaZFNZq95M"
+title: "How To Be So Productive It Feels Like Cheating"
+published: "2025-10-02"
+duration_seconds: 294
+episode_url: "https://www.youtube.com/watch?v=3AaZFNZq95M"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# How To Be So Productive It Feels Like Cheating
+
+Video: [https://www.youtube.com/watch?v=3AaZFNZq95M](https://www.youtube.com/watch?v=3AaZFNZq95M)
+Published: 2025-10-02
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=3AaZFNZq95M&t=0s)
+
+My weeks are pretty straightforward. Like Mondays I have my my few meetings that I have. Um and then I have recording days like this would be a day. >> Um and then I have uh a day that I dedicate to talking to portfolio companies, external companies, things like that. And that's it. >> And usually when I have those days, I tell my team just destroy my schedule because I'm not going to get any like maker work done in this time period. And so >> they just stack it. >> Are you referencing the Paul >> Graham maker manager? Yeah. Yeah. >> Um I very much subscribe to that that perspective. And so it's like if I have maker days, I would like to have full days. I >> can you maybe explain it to >> Yeah, sure. So So um Paul Graham has this little essay. I expanded on the essay and wrote like a a much longer thing also for my team and like it as an external memo with a little bit less tech and a little bit more you know third grade. Um but fundamentally you have two ways of operating in a business. You have managers who a perfect day for a manager is no free time and their day is maximized by touching as many people as humanly possible and making as many decisions as they can cross departmentally so they can influence. >> Uh a maker a perfectly optimized day is completely free day completely empty. >> And that would all work well and good if managers didn't have to have to talk to makers. And that's where the conflict arises because for a manager, you can pretty much just block your time in as small chunk as you possibly can to five minute meetings, 10-inute meetings, and it becomes this this uh very very chunked process. Whereas with a maker, you pretty much have like two chunks a day. You've got morning and you've got afternoon, maybe three if you're working 18 hours, right? >> Um because most deep work takes, you
+
+## [01:30](https://www.youtube.com/watch?v=3AaZFNZq95M&t=90s)
+
+know, maybe it might take you 30 to 45 minutes to kind of like get into the flow and then you want to work as long as you possibly can when you're in that flow. And there's also something called the zigernick effect, which is the fancy word for an open loop. >> And so if you know that you have a meeting that's coming up at 10:00 a.m. and you get in at six, it's hard to like >> get in because you're like, well, I'm going to have to stop. But even at 10, you're not going to stop cold, you're going to probably start looking at the clock at 9% and be like, "All right, I got to kind of prepare like am I at a place where I can wrap this, you know, like this part that I'm working on and I have to prepare for that meeting." And so that 110 a.m. meeting from a manager seems like only it only costs them 10 minutes, but it costs you half a day, >> right? >> And so that's where there's this discrepancy between makers and managers and where a business can get really inefficient um when it doesn't know what type of work uh the individual is doing the majority of the time where they get the highest return. And so that's where like I think there's there's tiers or levels of doing this from a founder perspective. Um, when I had no money and all I had was time, um, I basically organized my day so that like from 4:00 a.m. to 9:00 a.m. >> I would do my maker stuff. And then basically at 9, I just knew my day was going to get destroyed with fires and things like that. >> As I gained more leverage and had more people who were skilled in the business, I was able to keep pushing that nine to noon. >> And then that became kind of my operating cadence for probably another five years was >> I would work from, you know, 5ish to 12
+
+## [03:00](https://www.youtube.com/watch?v=3AaZFNZq95M&t=180s)
+
+or 1. So I'd get almost a full workday in and then I would have all my meetings once I was kind of like exhausted. And so the meetings just require well which just requires less horsepower than some more creative deep work. And so that felt fine. >> Um and I would say that where I'm now is kind of like version three of this because like I I get a certain energizing feeling when I look at a day and I have nothing on it. >> Yes. >> Like the difference between zero and one meeting >> Yes. >> is like honestly it's like a double in my like subjective well for the day. And so explaining that also to my team from a scheduling perspective of like if you're going to put one in there, you have to value it at the entire cost of one day for me. So it has to be a [ __ ] important >> uh which is unlikely. >> Yeah. >> Like almost not one of one of the things that you could probably appreciate like almost nothing is urgent in business. >> Um tons of things are important but almost nothing is urgent, right? Our payment processor shuts down. That's urgent, right? Um >> even like a lawsuit, you don't get sued overnight. like it's important, but it's not like we have to do something now. Like we're going to develop a case and we're going to figure our arguments and blah blah blah blah. And so >> most people don't get that, right? Like most people like you have to teach it to to executives, your assistants, all those people. Yeah. >> And so that's that's my that's my short and skinny on on on maker versus manager. I'm absolutely a maker. >> Yeah. >> And when I don't make, >> it's like a lot of times I'm a bit of the tip of the spear from a from a innovation perspective because obviously like we >> we teach things, right? So that's at least the that's the the hub of media, right? And then that funnels into a bunch of, you know, if people learn business stuff from me and then they're like, I want to start a business, they
+
+## [04:30](https://www.youtube.com/watch?v=3AaZFNZq95M&t=270s)
+
+go to school. If they they learn, you know, learn some business stuff and they want to grow their business but not that big, then they go to the advisory practice. If they're, >> you know, if they're a pure tech company, they go to ECQ Ventures. Um, and if they're a much larger company, then they go to private equity side. But it all just starts. >> It's almost like funnel actually. >> Yeah. That's the whole thing. Yeah. So it's just it's just the the the media umbrella on top was was to was to serve that function. That's right. Um, which is generate demand.

@@ -1,0 +1,34 @@
+---
+episode_id: "JlY8cvqlXoI"
+title: "How I Started Gym Launch"
+published: "2026-02-13"
+duration_seconds: 278
+episode_url: "https://www.youtube.com/watch?v=JlY8cvqlXoI"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# How I Started Gym Launch
+
+Video: [https://www.youtube.com/watch?v=JlY8cvqlXoI](https://www.youtube.com/watch?v=JlY8cvqlXoI)
+Published: 2026-02-13
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=JlY8cvqlXoI&t=0s)
+
+like bring us back to the start of all of this. How did all of this empire begin? >> So, um, so Leila was in fitness, so was I. I had a chain of gyms and I told her like, "Hey, you should just quit your PT thing. Join me. I'm going to start this new thing called Gym Launch." So, I um I was I was pretty good at filling gyms up before we'd open them up. And so, the constraint of the business ended up being like I just needed more places to fill. And so, I was like, I wonder if any other gym owners would be okay with me just like filling their gyms up because I was just really good at the marketing, the sales side. And so turned out plenty of gyms were happy for me to come and like fill their gyms up. >> When you say fill them up, you mean get more clients. >> Yeah. I But I would fly out, set up a table, and then I would like sell 200 memberships in, you know, 20 days. >> How? >> Just Facebook ads in 2013. >> Yeah. That was like you could have like hot chick with bikini that said like lose weight fast and it was like work. It's totally okay. 2013. >> That was like that golden era of like Facebook. >> I was getting I mean I was getting 30 to1 up front. So that was like one of the big things that got me like from like zero to like level one hero or whatever was like I could put a,000 bucks in ads and make 30 or 100 in 30 days and I was 26. >> You definitely know who Chase Hero is. >> Who? Yeah, I was going to I knew it like that was okay. Sorry. >> So yeah, so we so so we started doing that and so I had this idea for it. Did three, came back and that was actually the day that Leila decided to quit. So, she picks her up from the airport and I've got this big uh backpack and we go back and I promised her I'd take on her a real date cuz everything had been like Panda Express and Chipotle like for the first 30 days of just the gentleman that I am. Great job. [laughter]
+
+## [01:30](https://www.youtube.com/watch?v=JlY8cvqlXoI&t=90s)
+
+>> And she was like, "Tablecloth and waiter." And I was like, "Fine." And I was like, "Just one thing first." And she was like, "What?" And I was like, "Can you can you help me process these?" And so it was a stack of like $100,000 worth of contracts. And so I told her how to use the POS. We processed all of them. And she was like, "How much was that?" I was like, "It was 100 grand." And she was like, "All right, I'm in." >> Wow. And >> the question she asked before that was, "Is this legal?" And then I said, "Yes." And then she said, "You >> and so then we started just uh flying around the country launching gyms." So we did like 32 gyms in the next like 18 months. Um hired a sales team. We had six guys flying out doing gyms o over that period of time. That business model kind of like broke down because we didn't control delivery. And so we would sell people into a gym and then people would just the gym owners who would come to us were struggling. And so they were struggling for a reason because they weren't good at gym business. And so I would fill it up, but they like didn't have the infrastructure, didn't have the trainers, didn't have any systems. And so like that was a big mistake for like earlier on for me. Um, and so I ended up having all these gyms have customers like they would just tell the customers to leave. They'd be like, "Just refund. I don't even want you here." Yeah. >> But I'd already be flown to the next gym. And so that was a big chargeback risk for us. And so >> I ended up uh that business uh died. Um, and so there's a a very long dramatic story around that, but anyways, it worked out. Um, and then we started selling out um, basically the kit of how I filled the gyms up. So, I was like, "Okay, I need to get into licensing rather than flying out people to each of these locations because every month I had the exact amount of gyms to match the amount of sales guys I had." So, I'd have like eight gyms every single month
+
+## [03:00](https://www.youtube.com/watch?v=JlY8cvqlXoI&t=180s)
+
+that I would be like, "Okay, are you good with me flying out a guy?" And all this logistics. And then finally one day I was like, "I think we need to get out of the gym business." And I told the next eight gyms that were supposed to come out that next month, "Hey, we're, you know, we're leaving or whatever." Um, and one of the guys was like, "Dude, you saved my buddy's gym. Like, I know you can help me. Like, I just mortgaged my house. I lost everything. Like, please help me. And I was like, "Listen, I'll I'll show you how to do it." I was like, "But I'm not flying. I'm not flying out there to save you if you can't sell." And he's like, "No, it's fine." He's like, "How much?" And I just picked the highest number I could think of at the time, which is $6,000. Um, and he said, "It's done." And I was like, "Holy shit." Um, and then I had like seven more calls and I made like $60,000 in a day selling air. And I was like, "Man, I think >> selling the howto." >> Yeah. >> Okay. And then you figured out that the knowledge was was maybe a better product for you to move. Interesting. >> Yeah. And so that was like I was like, "Holy shit." And so like the next one I said six, the next one I said eight, next one I said 10. Next one I said 12. And everyone was like done, sure. And I was like, "Holy shit." And like it was one day. Lea comes back in at the end of the day. >> Um cuz we thought we were going to pivot towards like let's just sell fitness programs and [ __ ] gyms. Like we'll just sell direct. >> And um >> and so she was like, "Hey, I just sold two deals." And I was like, "We're still in the gym business." She was like, "You just sold me on how we're getting out of the gym business and this is like we're like we're ending this forever." Um, and I was like, "Yeah, but I think we're just doing it wrong." >> And then that was when that was like the beginning of gym launch. And so the gym launch took off like a rocket. We did um I think we finished that year like 6.8 million. And then the next year we did 26 million with like 17 million in profit. And I'm like 28. Um and then we continued to grow the business and then
+
+## [04:30](https://www.youtube.com/watch?v=JlY8cvqlXoI&t=270s)
+
+we sold that um to a private equity firm in 2021 for uh 46 >> and and that congrats.

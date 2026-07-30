@@ -1,0 +1,30 @@
+---
+episode_id: "5oLcGVFzQj4"
+title: "My Thoughts on Legacy"
+published: "2026-03-19"
+duration_seconds: 251
+episode_url: "https://www.youtube.com/watch?v=5oLcGVFzQj4"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# My Thoughts on Legacy
+
+Video: [https://www.youtube.com/watch?v=5oLcGVFzQj4](https://www.youtube.com/watch?v=5oLcGVFzQj4)
+Published: 2026-03-19
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=5oLcGVFzQj4&t=0s)
+
+Yeah, I don't believe in individual legacy. >> Yeah. >> Um, I do Yeah, so like I don't believe in your name being passed on for thousands of generations. I mean, like to prove the point, do you know what your great great great grandfather's name was? Probably not. Right. And so like that's not even that many generations back. And so to have like the ego and the thinking that like you're somehow like your progeny aren't Even if you somehow became king of the world and you did have that, they wouldn't know who you were. You'd just be like another historical figure that they could then trace their bloodline back to. And then if you do the math on how related you are to them, like if you go, you know, 0.5 to the eighth, I mean, you're you're not related. You're just another human. And in that to that degree, then it then relation generalizes to all of humanity. And then you just become a humanitarian. In which case, I am uh pro legacy from that perspective. And I think that the ultimate legacy is education because all of us here are sitting here in a houseful of inventions that other people that we don't know invented and made our lives better. And that I think is like the ultimate legacy for humanity is that we just fall and someone picks up the baton where we left off and carries it. But like I think the ultimate wasted life is one where you learn lessons and pass it on to no one and force someone to quite truly reinvent the wheel. >> You know, Naval has So the book he recommends the most is the I think it's the beginning of infinity or something like that. Yeah, David Deutsch or whatever. >> it. >> So this dude and it's like a super dense read, but like I haven't completed it. But this guy's like, you know, what is wealth? And wealth is knowledge. To your point you just said it's education, right? Like that is the thing that
+
+## [01:30](https://www.youtube.com/watch?v=5oLcGVFzQj4&t=90s)
+
+continues to compound beyond you and me. It lasts beyond money. And like that is what should matter. Like how do we make people wealthy? We educate them. >> And if you think about the the reverse of that, too. If you had a lot of money and you gave it to someone, how would you guarantee that they lose the money? You have them completely uneducated and completely ignorant. And so there's a there's I think it's Sanskrit. It's a super old like ism, but it says, "If you have a bad son, there's no point in saving money. If you have a good son, there's no point in saving money. Because if you have the good son, he'll take care of himself. If you have a bad son, he's going to squander everything you have, which basically means that at no point does it ever matter what you accumulate because either you passed on education, in which case they never needed you to begin with, or you passed on no education and they were going to lose everything you had. >> That's so good. But I This is the thing. You look at all the the the wealthy people, they can't help themselves. They have to give it to your kids. And we don't have kids yet, right? But I suspect if we have kids, right? It's just like you probably end up giving it to the kids, right? >> Well, I think um I really like thinking of like I mean, and I'll probably be different when I have children, but I don't know how different. People will be surprised. Um If like if I wanted to create a human that had certain character traits, I would then think, "Okay, what are the what are the experiences someone has to go through to have that happen?" >> Mhm. >> And I would try to reverse engineer as many of those as I could. And like having uber wealth throughout your entire life and having a guaranteed ease of of eating and living and whatever is a great way to guarantee not guarantee is a great way to increase the likelihood that someone does not turn
+
+## [03:00](https://www.youtube.com/watch?v=5oLcGVFzQj4&t=180s)
+
+out good. And so, I wouldn't want to spend the rest of my life after they're 20, with a bunch of people I didn't like. And so, I would rather have them suffer to become the types of people that I'd want to spend the rest of my life with. >> Real quick, if you are business owner and you are not growing as fast as you like, I'd like to give you a free gift. So, my team and I put together the $100 million scaling road map, which is basically 200 hours of us looking over all the portfolio companies we've had and what stages of growth they went through and more importantly, where they got stuck and how they got past it. And so, we broke it into these 10 stages and we made this little kind of quiz thing where if you put in your business information, it'll tell you where you're at and the most important part for you, what to do for each of functions of the business across product, marketing, sales, customer success, recruiting, IT, human resources, and finance. And so, no matter what you're struggling with, someone else has already struggled with it and solved it. And so, I'd like to give you this thing absolutely free. You can go to acquisition.com/roadmap, plug in your business information, and if you want us to actually help you deconstruct the business and you're trying to scale, we'd love to help you out. On the thank you page, you can just book a call with my team, and we will look at the business, see if we can help, and if we can, we'll invite you out to Vegas, and we'll do this in person live.

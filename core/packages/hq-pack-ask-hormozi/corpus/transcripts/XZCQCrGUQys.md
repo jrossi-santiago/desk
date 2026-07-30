@@ -1,0 +1,22 @@
+---
+episode_id: "XZCQCrGUQys"
+title: "AI Will Only Make Your Services Easier to Deliver"
+published: "2026-02-24"
+duration_seconds: 79
+episode_url: "https://www.youtube.com/watch?v=XZCQCrGUQys"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# AI Will Only Make Your Services Easier to Deliver
+
+Video: [https://www.youtube.com/watch?v=XZCQCrGUQys](https://www.youtube.com/watch?v=XZCQCrGUQys)
+Published: 2026-02-24
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=XZCQCrGUQys&t=0s)
+
+As a video editor who's facing client acquisition problems, I get scared thinking of AI and if I even have a scope in the future. Bro. Why would you be scared of AI when AI makes your job uh a 100 times easier to scale? Like for the sh- for the short to medium term there's tremendous leverage like the the the everyone knows quote knows that AI is going to come for everyone's job. Okay. Internet is going to disrupt every industry. Okay. And it has, but guess what? There's also businesses that still don't operate on the internet so use fax machines. So like it's not going to be as it's it's it's going to still follow an adoption curve, right? Still going to follow an adoption curve of early adopters all the way to laggards and some people will never adopt it at all. And so and those businesses can still make money. Real talk. Some people use fax machines still make money. Um some people only do in-person business and only use, you know, uh paper and clipboards still make money. And so um I wouldn't fear it. You always want to harness it because as long as humans can compete against humans uh with tools, that's how it's always been for the dawn of mankind. As soon as it's uh AI versus human, AI will win. And so but as far as I'm concerned right now, use the AI to get as much leverage as you can. Maybe you could 100X your scale using technology rather than fearing it.

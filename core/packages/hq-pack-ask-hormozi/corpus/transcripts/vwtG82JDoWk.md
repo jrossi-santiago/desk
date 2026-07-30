@@ -1,0 +1,26 @@
+---
+episode_id: "vwtG82JDoWk"
+title: "What does it mean to be adaptable?"
+published: "2026-02-01"
+duration_seconds: 96
+episode_url: "https://www.youtube.com/watch?v=vwtG82JDoWk"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# What does it mean to be adaptable?
+
+Video: [https://www.youtube.com/watch?v=vwtG82JDoWk](https://www.youtube.com/watch?v=vwtG82JDoWk)
+Published: 2026-02-01
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=vwtG82JDoWk&t=0s)
+
+adaptability. So, how your new baseline compares to your old baseline as a result of this hard thing. Are you better for it or are you worse for it? And so, did the bad thing cause you to permanently change your behavior in a bad way? All right. Are you permanently worse or are you the same as you were before? That would be kind of a neutral adaptability, kind of medium. All right. Right? So if you stabilize after a bad thing happens, which you will eventually at a higher new baseline, then you have high adaptability, you let the hard times beat the strength into you, not out of you. If you stabilize to your former baseline after a bad thing happens, you have medium ad adaptability. So you're acting normally, bad thing happens, you come back, and you're back to the way you were. You have med medium adaptability. You didn't let it affect you. Fine. Great. Now, the last version of this is that you stabilize below your former baseline after a bad thing happens. And I'm going to talk I'm going to talk about this for a minute because this is going to affect more than one of you and certainly somebody you know. If that happens to you, it means that you have low adaptability. It means the hard time beat the strength out of you. So, in this little visual here, you can kind of see the three versions of this. Either you adapt above, you got stronger from it, you stay the same as you were before, you didn't let it affect you, or
+
+## [01:30](https://www.youtube.com/watch?v=vwtG82JDoWk&t=90s)
+
+you're permanently worse off as a result of the bad thing that

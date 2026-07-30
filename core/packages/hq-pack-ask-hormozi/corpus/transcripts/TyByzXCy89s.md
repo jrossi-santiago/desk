@@ -1,0 +1,26 @@
+---
+episode_id: "TyByzXCy89s"
+title: "What Is Mental Toughness?"
+published: "2026-02-19"
+duration_seconds: 144
+episode_url: "https://www.youtube.com/watch?v=TyByzXCy89s"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# What Is Mental Toughness?
+
+Video: [https://www.youtube.com/watch?v=TyByzXCy89s](https://www.youtube.com/watch?v=TyByzXCy89s)
+Published: 2026-02-19
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=TyByzXCy89s&t=0s)
+
+What is mental toughness? It's the chance a bad thing changes how you act in a way that's against your goals. That way we can take this big amorphous word and be like, what does it actually mean? It just means the percentage likelihood that when something bad happens, you change the way you act in a way that's not ideal. That means that mental toughness is no longer a do you have mental toughness or not, but instead it's how much mental toughness do you have? And so for example, lots of mental toughness would be a low likelihood or a low chance of a negative impact on your behavior as in like um well rather high mental toughness sorry low mental toughness would be a high likelihood of negative impact on your behavior. I don't I think there's a little little typo here but that's okay. Um fundamentally what we're trying to get into is how people respond to bad things. All right. And so once we have it defined which is that the chance a bad thing happens to you then we have to create an environment in which mental toughness can be exercised and then ideally measured right and when we do that I can give you a visual so that you can start thinking about your own behavior within this context. So I drew this out which is how we act when bad stuff happens. So let me walk you through each of these numbered little pieces here. So number one here hopefully it's to the right of me that's how you normally behave. So whatever your normal kind of baseline is, that's how you act every single day. Then at some point a bad thing or enough bad things happen that it forces you to change how you behave. That's step two.
+
+## [01:30](https://www.youtube.com/watch?v=TyByzXCy89s&t=90s)
+
+Step three is okay, once I've changed how I behave, how low do I go or how upset do I get? Right? Number three. Then there's a certain period of time that elapses where you continue this bad behavior and then you start coming up. You start recovering. That's the next period which is number four. Number five is going to be birectional. Either you get better as a result of this hard thing or you get worse. And then number six, the last one there is how much better did you get or how much worse did you get? And so this gives us kind of a framework to think through mental toughness not as this like amorphous like rah rah rah like beat your chest like alpha masculinity thing but really just how resilient are you as a human being. All right. And to be clear when I say bad for the rest of our time or really when you hear me say bad in general I just mean against your preferences. There's something that happened that you wish didn't happen and that was that's what makes it bad for our definition.

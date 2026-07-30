@@ -1,0 +1,22 @@
+---
+episode_id: "HTgVjHO55Fs"
+title: "Experts Without Influence Are Just Authorities"
+published: "2026-04-30"
+duration_seconds: 63
+episode_url: "https://www.youtube.com/watch?v=HTgVjHO55Fs"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# Experts Without Influence Are Just Authorities
+
+Video: [https://www.youtube.com/watch?v=HTgVjHO55Fs](https://www.youtube.com/watch?v=HTgVjHO55Fs)
+Published: 2026-04-30
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=HTgVjHO55Fs&t=0s)
+
+Uh, partnering with an influencer strategy a lot of people are using, but what about partnering with someone who's an expert and has a course that has worked, but they don't have a following, is it worth it? Um, tough. Because, I mean, you can, because if you think about this as you're assembling a, you know, a business for school, like, there's the stuff inside, and then there's the advertising. Ideally, one partner can bring both. And so, with this person, I wouldn't like, they probably want more than they really bring value to the table. It's probably because they're inexperienced from the business side. I'm just going to make a guess here. So, I'd rather cuz this is like, experts without influence are just authorities, which is like, okay, but you like, I if I had to pick between somebody who had uh, lots of traffic and not a lot of authority, and somebody had a lot of authority and a lot of traffic, I would rather have somebody who has a lot of uh, traffic, cuz then I can figure out something that they that they would be valuable that they could provide to the community. Sometimes, when somebody who has a lot of traffic, just access is is enough.

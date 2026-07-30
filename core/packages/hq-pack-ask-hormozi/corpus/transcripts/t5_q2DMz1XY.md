@@ -1,0 +1,30 @@
+---
+episode_id: "t5_q2DMz1XY"
+title: "The Secret to Staying Focused"
+published: "2026-02-24"
+duration_seconds: 252
+episode_url: "https://www.youtube.com/watch?v=t5_q2DMz1XY"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# The Secret to Staying Focused
+
+Video: [https://www.youtube.com/watch?v=t5_q2DMz1XY](https://www.youtube.com/watch?v=t5_q2DMz1XY)
+Published: 2026-02-24
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=t5_q2DMz1XY&t=0s)
+
+Productivity comes from all the things that you choose not to do. I'm going to define two more terms for you cuz I think it's important. I see commitment as the elimination of alternatives. So, if I get married, then I eliminate all alternatives to the person that I'm married to, right? That is commitment, right? Which is very similar to focus. Focus, if you think about the hypothetical extreme of focus, is that somebody does literally nothing but one thing. So, they don't eat, they don't sleep. They would eventually die. But, they would be 100% focused during the time that they were alive, right? Obviously, we have to put a couple of things in. You have to eat food. You have to sleep, right? But, the most focused person does the fewest things outside of the thing they're focused on. Focus is about the number of things that you say no to. Having this framework is, in my opinion, more powerful for productivity than just about anything else, right? People are always trying to figure out like productivity hacks, but they want to add things to their lives to become more productive, which is completely counter to what focus even means. It's getting rid of everything that's not the thing is how you focus. Now, part of that also means environmentally, right? So, if you like have a window that you look outside of, and you've got people who walk past your office, and people can knock on the door, and you've got Slack notifications, of course you're not focused because all of those things are not the work. So, I'm going to give you an analogy here. So, imagine there's a wall that you have to get over, all right? In order to You have to get a critical mass to get above this wall, right? And so, you start putting up, you know, these ladders against the wall to try and climb over the wall. All right, this should make some sense. But, as you try to build up the the little rungs of the ladder, so
+
+## [01:30](https://www.youtube.com/watch?v=t5_q2DMz1XY&t=90s)
+
+you put four rungs up. Well, you're not going to get the critical mass required to get over the hump to actually get the success you want. But, the idea, the fallacy is that, "Oh, I'll just do all three or four of these things, and I'll see which one works." When the reality is that any of them work, but none of them will work unless you work on one. And so, we have to take these four rungs that we're able to build and say, "You know what? We're not going to do that. We're going to put that rung here, cuz I'm going to take that time that I'm putting for my second opportunity and put it here. I'm going to take this rug and put it right here and then I'm going to take this rug and what do you know? I can get over this hump on top and I can get to the other side of the wall, which of course is where all the money and all the happiness and all the you know, the girls with you know, beautiful beautiful hair. Look at this beautiful hair, right? This beautiful hair. Now she just looks like a bug. Anyways, There you go. What's crazy is that this literally happens at all levels of business. Like people were starting out trying to start five things. People who are like their second or fifth year. I talked to a guy last night who has a really good business, really good margin, 50% margins, has great revenue retention. He was in cyber security. People stay with him. People pay. He has no problem getting customers. He has no problem delivering on them. I was like, "What's the problem?" He's like, "Me." He said, "I just I get bored." He's like, "I just want to start more things." And I'm like, "Yeah, you got to stop that." Like it's like the The thing is is think about how much more successful you'd be. So zoom all the way out. Think of somebody who gets better every single year and works on the same project for 20 years. You'd be like, "My god, that guy's probably really [ __ ] good." And
+
+## [03:00](https://www.youtube.com/watch?v=t5_q2DMz1XY&t=180s)
+
+what's interesting about this is that it doesn't matter what project the person works on. You do 20 years of reps and you do nothing else, so you're going to be good. And so if you know that that's a that's a fact, that's a certainty that you're going to be good with 20 years of practice, then the objective is to just get 20 years of practice in one thing and stick with it. So like your plans aren't working because the plans are wrong. The plans aren't working because you're not working on the plan. The hard part about the plan is not creating the plan or even following the plan, it's sticking with the plan. That's the hard part. Real quick, I'm going to show you the exact 10-stage roadmap from zero to 100 million plus that less than 1% of companies finish. I've now done multiple times. And so I can say with a lot of confidence that these are the stages as head count increases that you need to get through. And I broke each of these down by eight different functions of the business, what the constraint feels like, like what are the symptoms of it when you're going through it, and then what steps we actually took to graduate. And we've done this across software, physical products, uh service businesses, brick and mortar, all of this, and it works. And it's my gift to you, it's absolutely free. And so, the link's in the description, but you just go acquisition.com/roadmap, just enter your info, and it'll spit it right back to you, all free.

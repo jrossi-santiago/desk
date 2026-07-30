@@ -1,0 +1,163 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+collection="ask-hormozi"
+
+usage() {
+  printf '%s\n' \
+    "Usage: hq-ask-hormozi <command> [arguments]" \
+    "" \
+    "Run Ask Hormozi from its installed HQ pack." \
+    "" \
+    "Commands:" \
+    "  setup                 Build or rebuild the local QMD index." \
+    "  ensure                Build the index only when it is missing." \
+    "  search <question>     Search with timestamped citations." \
+    "  doctor                Check QMD and the bundled corpus." \
+    "  refresh               Update the HQ pack and rebuild the index." \
+    "  help                  Show this help."
+}
+
+find_hq_root() {
+  if [[ -n "${HQ_ROOT:-}" ]]; then
+    printf '%s\n' "$HQ_ROOT"
+    return
+  fi
+
+  local launcher_dir candidate current
+  launcher_dir="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd -P)"
+  candidate="$(dirname "$(dirname "$launcher_dir")")"
+  if [[ -d "$candidate/core/packages" ]]; then
+    printf '%s\n' "$candidate"
+    return
+  fi
+
+  current="$PWD"
+  while [[ "$current" != "/" ]]; do
+    if [[ -d "$current/core/packages" ]]; then
+      printf '%s\n' "$current"
+      return
+    fi
+    current="$(dirname "$current")"
+  done
+
+  printf '%s\n' \
+    "error: could not find the HQ root; run this inside HQ or set HQ_ROOT." >&2
+  exit 1
+}
+
+if [[ -n "${ASK_HORMOZI_PACK_ROOT:-}" ]]; then
+  pack_root="$ASK_HORMOZI_PACK_ROOT"
+else
+  hq_root="$(find_hq_root)"
+  pack_root="$hq_root/core/packages/hq-pack-ask-hormozi"
+fi
+corpus_root="$pack_root/corpus"
+
+prepare_corpus() {
+  if [[ -d "$corpus_root/segments" ]] || \
+    [[ -d "$corpus_root/episodes" ]]; then
+    return
+  fi
+
+  local archive="$corpus_root/segments.tar.xz"
+  if [[ ! -f "$archive" ]]; then
+    return
+  fi
+  if ! command -v tar >/dev/null 2>&1; then
+    printf '%s\n' \
+      "error: tar is required to unpack the bundled marketplace corpus." >&2
+    exit 1
+  fi
+  printf '%s\n' "Unpacking the bundled transcript corpus..."
+  tar -xJf "$archive" -C "$corpus_root"
+}
+
+require_runtime() {
+  if ! command -v python3 >/dev/null 2>&1; then
+    printf '%s\n' "error: Python 3.10+ is required." >&2
+    exit 1
+  fi
+  if ! command -v qmd >/dev/null 2>&1; then
+    printf '%s\n' \
+      "error: QMD is required to index and search the bundled corpus." \
+      "Install it from https://github.com/qntx-labs/qmd and retry." >&2
+    exit 1
+  fi
+  prepare_corpus
+  if [[ ! -d "$pack_root/ask_hormozi" ]] || \
+    { [[ ! -d "$corpus_root/segments" ]] && \
+      [[ ! -d "$corpus_root/episodes" ]]; }; then
+    printf '%s\n' \
+      "error: the Ask Hormozi HQ pack is incomplete at $pack_root." \
+      "Reinstall it with: hq install https://github.com/poseljacob/ask-hormozi" >&2
+    exit 1
+  fi
+}
+
+run_cli() {
+  PYTHONPATH="$pack_root${PYTHONPATH:+:$PYTHONPATH}" \
+    python3 -m ask_hormozi "$@"
+}
+
+index_exists() {
+  qmd collection list 2>/dev/null | \
+    grep -F "$collection (qmd://$collection/)" >/dev/null
+}
+
+setup_index() {
+  require_runtime
+  run_cli index --data-dir "$corpus_root" --collection "$collection"
+}
+
+ensure_index() {
+  require_runtime
+  if ! index_exists; then
+    setup_index
+  fi
+}
+
+command_name="${1:-help}"
+if (($#)); then
+  shift
+fi
+
+case "$command_name" in
+  setup|index)
+    setup_index
+    ;;
+  ensure)
+    ensure_index
+    ;;
+  search)
+    if (($# == 0)); then
+      printf '%s\n' "error: search requires a question." >&2
+      usage >&2
+      exit 2
+    fi
+    ensure_index
+    run_cli search "$@" \
+      --data-dir "$corpus_root" \
+      --collection "$collection"
+    ;;
+  doctor)
+    require_runtime
+    run_cli doctor --data-dir "$corpus_root"
+    ;;
+  refresh)
+    if ! command -v hq >/dev/null 2>&1; then
+      printf '%s\n' "error: the HQ CLI is required to refresh this pack." >&2
+      exit 1
+    fi
+    hq packs update hq-pack-ask-hormozi
+    setup_index
+    ;;
+  help|-h|--help)
+    usage
+    ;;
+  *)
+    printf '%s\n' "error: unknown command: $command_name" >&2
+    usage >&2
+    exit 2
+    ;;
+esac

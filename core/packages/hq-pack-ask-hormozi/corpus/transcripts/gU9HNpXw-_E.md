@@ -1,0 +1,26 @@
+---
+episode_id: "gU9HNpXw-_E"
+title: "You Will Never Be Sharper Than You Are Right Now"
+published: "2026-04-29"
+duration_seconds: 97
+episode_url: "https://www.youtube.com/watch?v=gU9HNpXw-_E"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# You Will Never Be Sharper Than You Are Right Now
+
+Video: [https://www.youtube.com/watch?v=gU9HNpXw-_E](https://www.youtube.com/watch?v=gU9HNpXw-_E)
+Published: 2026-04-29
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=gU9HNpXw-_E&t=0s)
+
+I mean, I think a lot about the end of my life. Maybe it's a borderline obsession of mine, but thinking about like what the last 5 years are going to look like and also thinking about my cognitive decline, which is going to be inevitable on the back half of my, you know, life. Um, and it gets really tricky when you think about fluid intelligence, which peaks when you're like between 25 and 35 and then like at our age right now, it's just all going down, like we're beginning the slow decline. And in thinking about that, I was like, I will actually never be sharper than I am today for the rest of my life. And the idea that there will be young people who will replace me because humans are all replaceable. Um, we have proven that. >> [gasps] >> And so, uh, when when I think about that, it it decreases the stakes of these huge dreams that if I don't accomplish them, I will be upset or else. Um, and so it's like we have these big or elses, like we threat we want to threaten the universe, like I can't stand it if this does not occur. It's like and the universe remains unchanged and the universe is undefeated. >> Real quick, I'm going to show you the exact 10-stage roadmap from zero to 100 million plus that less than 1% of companies finish I've now done multiple times. And so I can say with a lot of confidence that these are the stages as head count increases that you need to get through. And I broke each of these down by eight different functions of the business, what the constraint feels like, like what are the symptoms of it when you're going through it, and then what steps we actually took to graduate. And we've done this across software, physical products, service businesses, brick and mortar, all of this, and it works. And it's my gift to you, it's
+
+## [01:30](https://www.youtube.com/watch?v=gU9HNpXw-_E&t=90s)
+
+actually free. And so the link's in the description, but you just go acquisition.com/roadmap, just enter your info and it'll spit it right back to you, all free.

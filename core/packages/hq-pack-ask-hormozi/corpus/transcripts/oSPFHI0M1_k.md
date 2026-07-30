@@ -1,0 +1,38 @@
+---
+episode_id: "oSPFHI0M1_k"
+title: "Why Your Ads Stop Scaling"
+published: "2026-04-25"
+duration_seconds: 373
+episode_url: "https://www.youtube.com/watch?v=oSPFHI0M1_k"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# Why Your Ads Stop Scaling
+
+Video: [https://www.youtube.com/watch?v=oSPFHI0M1_k](https://www.youtube.com/watch?v=oSPFHI0M1_k)
+Published: 2026-04-25
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=oSPFHI0M1_k&t=0s)
+
+I'm 21 years old and me and my wife are currently running a VSL funnel. Yeah. Selling a subscription program on the love relationship niche. Okay. And it's regenerating around like 600,000 per month in revenue. >> Super cool. >> three to one ratio. Great. >> And our goal is to make a million dollar per month. Sure. However, we are only using Facebook ads and the revenue tends to fluctuate a lot on a daily basis. Yeah. And when we put a lot of money on the CPAs goes up like a lot. Yeah. So my question is on three key points. The first, how would you solve this to make like the result as consistent as possible? Second, how can we scale from the 500k 600k to 1 million per month? Uh-huh. >> And third, what is the difference between the mindset between someone who makes a million dollar per month versus someone who makes a 500k? So, rather I'm going to put a pin in the mindset thing for a second. Um So, big thing number one is that most people underestimate wildly underestimate how much more creative and how how much better the creative needs to be to continue to scale. And so, where's my Old Spice? Right? The the level of So, that that ad campaign So, you made the Old Spice ad, which is like one of the legendary ads of all time. Um that ad was so good that it converted
+
+## [01:30](https://www.youtube.com/watch?v=oSPFHI0M1_k&t=90s)
+
+everyone. And so, I just see it as very much you have the levels of awareness. Uh Eugene Schwartz talks about this in Breakthrough Advertising in terms of what types of hooks you're using. And so, at the at the highest level you have unaware people. Then you have problem aware. You have solution aware. You have product aware. And then you have most aware, which is typically your your your your most recent customers, right? And so, when we think about scaling ads, we write hooks to those different audiences. And so, if you run an What is my uh So, you guys do your uh reactivation campaign to uh home services. So, you just go to most aware people and you just make them an offer. So, they don't have to educate them on what home services are. They don't need to explain why it increased the value of a house. They just make an offer, period. And that's their advertising. But the issue there is that that doesn't work at all for anyone who doesn't already know who this person is. And so, that's the kind of equal opposite extremes where on this level there's just a hilarious ad. And when you're doing at the top level, it's based on curiosity and entertainment. A level below that, when you're uh when you're at pain-based, if you've ever seen the ads that are like, "Do you have trouble sleeping at night? Do you pee six times a day?" You know, whatever like like whatever the thing is. Is that they that hook could lead you to ashwagandha root. It could also lead you to a sleep program. It could also lead you to orthotics. Like it's so broad, but it starts with the pain. Now, solution aware is what you might not have known about ashwagandha compared to compared to these orthotics is that ashwagandha blah blah blah. So, now
+
+## [03:00](https://www.youtube.com/watch?v=oSPFHI0M1_k&t=180s)
+
+you're comparing things, right? And so, you the hooks are based on the audience that you're going after and the quality of the creative itself. So, those will be the two variables, which typically most people need to make significantly more creative to expand your ads. Like many people here who run ads have this artificial limit that you guys have hit. Who here has run ads and is like, "I'm good up to here and then after that I can't." Right. The difference between here and here is just the quality of creative. Number two, CRO, so conversion rate optimization. And so, you have a VSL funnel. This is what I would test in order. The first two things is I would test You've probably already tested the headline on the on the VSL funnel a bunch. But have you tested the first five minutes of the VSL? It will give you one of the biggest lifts in conversion rates. Basically, just slice out the first five minutes, reintroduce it tighter, package it, put some more proof up front, make sure they know they're in the right place, and run two three four five variants. You will be able to see 20% 30% lifts to uh cost to acquire or decreases, rather, um in CAC just from running the actual VSL uh slicing out the front end and then testing the intro. Um the last piece is that you're in a bidding war. And so, these things these first two things will get you lower CAC. That's what this is, right? Better creative CRO that lowers the cost to acquire customers. The other one, the back end, is increasing how much you can spend.
+
+## [04:30](https://www.youtube.com/watch?v=oSPFHI0M1_k&t=270s)
+
+Right? And so, do you have a back end for the VSL that you have? You do. I have two upsells. One is 97 and the other one is 67. Yeah, it's a phone team, though. You you're doing low-ticket upsells. You need a high-ticket upsell. Okay. Yeah, you need like a 5,000 10,000 dollar thing. And so, the big difference between people who like who can get, you know, in the in the number of 600k versus a million doesn't really matter. It's more about uh just more. Fundamentally. So, whenever you add phones, you always can get a double or triple in terms of LTV. And so, it's just like when do you pull that lever? And so, you got to here on 600,000, you might be able to get to 2 million a month just from doing these three things. If you are a business owner and you are not growing as fast as you'd like, I'd like to give you a free gift. So, my team and I put together the 100 million dollar scaling road map, which is basically 200 hours of us looking over all the portfolio companies we've had and what stages of growth they went through and more importantly, where they got stuck and how they got past it. And so, we broke it into these 10 stages and we made this little kind of quiz thing where if you put in your business information, it'll tell you where you're at and the most important part for you, what to do for each of functions of the business across product, marketing, sales, customer success, recruiting, IT, human resources, and finance. And so, no matter what you're struggling with, someone else has already struggled with it and solved it. And so, I'd like to give you this thing absolutely free. You can go to acquisition.com/roadmap, plug in your business information, and if you want us to actually help you take control of your business and you're
+
+## [06:00](https://www.youtube.com/watch?v=oSPFHI0M1_k&t=360s)
+
+trying to scale, we'd love to help you out. On the thank you page, you can book a call with my team and we will look at your business, see if we can help. And if we can, we'll invite you out to Vegas and we'll do this in person live.

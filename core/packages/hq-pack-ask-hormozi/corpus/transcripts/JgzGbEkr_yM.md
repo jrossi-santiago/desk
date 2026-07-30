@@ -1,0 +1,26 @@
+---
+episode_id: "JgzGbEkr_yM"
+title: "Why Your Next Business Always Grows Faster"
+published: "2026-05-08"
+duration_seconds: 169
+episode_url: "https://www.youtube.com/watch?v=JgzGbEkr_yM"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# Why Your Next Business Always Grows Faster
+
+Video: [https://www.youtube.com/watch?v=JgzGbEkr_yM](https://www.youtube.com/watch?v=JgzGbEkr_yM)
+Published: 2026-05-08
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=JgzGbEkr_yM&t=0s)
+
+Whenever I whenever I'm going to a room of entrepreneurs, I say, "Hey, who here is on more than is is on their second business or beyond?" And like almost the whole room raised their hands. I'm like, "Okay, cool." Now, of those of you who are on your second business and beyond, who here your current business grew way faster or past your first businesses? And like almost the entire room raised their hands. And I I always think like, "So, why is that?" And so, I think that at the most basic level, it's pattern recognition, but especially when it comes to talent. And so, like if you think about building like to say a million-dollar business, it's like first you have us you have some marketing function, you have some sales function, you have some delivery function, you know, whatever, uh you know, across the board. And for the first time ever when as soon as you know, maybe million, maybe it's three million a year, whatever it is, like it's not you anymore. Like somebody else has to do some of this stuff. And so, you you get your first pattern recognition of like, "Oh, this is somebody who can do some advertising. This is some person who can do some sales. This is the person who can do some low-level management. This is the person who can do some uh you know, some delivery, whatever." And so, and you basically keep struggling and keep plateauing at that level until you find that one person who's like competent. And then you're like, "Oh my [snorts and clears throat] god, you could do the job. This is amazing." And then the business grows until that next level, you know, that next constraint. And so, then across the board by department, one by one, it's like you have these 6-month, 12-month periods where you go through interviews and interviews and hiring and onboarding just to see if this person's competent. And then whenever they're not, you're like, "I have to start over again." And then the business basically stays where it's at. And so, I think that um I think the the the the more experience we've had on each of these roles of like this
+
+## [01:30](https://www.youtube.com/watch?v=JgzGbEkr_yM&t=90s)
+
+is what, you know, a SDR looks like. This is what a SDR manager looks like. This is what a closer looks like. This is what a senior closer looks like. This is what a closing manager looks like. This is what um this is what a director of sales looks like. This is what a VP of sales looks like. Like it took me time to learn each of these levels and obviously do that across departments. But then after that point, when you go out these new the new businesses you have to you're not even building the business, you're just assembling it. Real quick, if you are a business owner and you are not growing as fast as you'd like, I'd like to give you a free gift. So, my team and I put together the $100 million scaling roadmap, which is basically 200 hours of us looking over all the portfolio companies we've had and what stages of growth they went through and more importantly where they got stuck and how they got past it. And so we broke it in these 10 stages and we made this little kind of quiz thing where if you put in your business information, it'll tell you where you're at and the most important part for you, what to do for each of functions of the business across product, marketing, sales, customer success, recruiting, IT, human resources and finance. And so no matter what you're struggling with, someone else has already struggled with it and solved it. And so I'd like to give you this thing absolutely free. You can go to acquisition.com/roadmap, plug in your business information and if you want us to actually help you deconstraint the business and you're trying to scale, we'd love to help you out. On the thank you page you can just book a call with my team and we will look at the business, see if we can help and if we can, we'll invite you out to Vegas and we'll do this in person live.

@@ -1,0 +1,26 @@
+---
+episode_id: "M7c8TF9eGE0"
+title: "You Just Need Skills"
+published: "2026-02-19"
+duration_seconds: 143
+episode_url: "https://www.youtube.com/watch?v=M7c8TF9eGE0"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# You Just Need Skills
+
+Video: [https://www.youtube.com/watch?v=M7c8TF9eGE0](https://www.youtube.com/watch?v=M7c8TF9eGE0)
+Published: 2026-02-19
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=M7c8TF9eGE0&t=0s)
+
+I think about this equation a lot and I actually had some video of somebody on me for this, but I'm gonna say it anyways because there's the 20% that are gonna say it. That's right. I'm not gonna dilute myself. >> So, I saw a salesman say this at a at a at a conference and he he wrote a million dollar on a whiteboard >> and he called up a lady in the in the audience and he said, "How much do you make?" And she said, "$50,000 a year." And so he wrote $50,000 underneath of the million and he subtracted it and it said, " $950,000." He said, "It costs you $950,000 every single year. you don't know how to make a million dollars a year. And so the question is, what is the value of that skill? And the answer is the difference. And so the the the troll who who who who responded to this originally was like, well, you can keep going. What about $100 million a year or a billion dollars a year? And I was like, yes, yes, if you had the skill of making a billion dollars a year, then the difference between 50,000 and a billion is the delta of the value of that skill. And it's really not one skill. It's many skills that ladder up to when combined together to create that kind of value. But I remember that being like seared into my memory, which is like whatever I want to have, the delta between where I'm at and where that thing is is what basically what I've what I'm willing to sacrifice in order to learn what I need to learn to get there. And I think that if people appraised that delta, not by the money in their wallet or the time that they currently have, but how much they would be making or how much time they would have and how much that's
+
+## [01:30](https://www.youtube.com/watch?v=M7c8TF9eGE0&t=90s)
+
+worth to them, then I think far more people would be willing to invest in their education. And it's such a taboo word because people hate the word education. It's like, oh, it's like work, but like you want to be an entrepreneur, like you got to learn. You just have there's so much stuff to learn. Real quick, I'm going to show you the exact 10-stage road map from zero to 100 million plus that less than 1% of companies finish I've now done multiple times. And so I can say with a lot of confidence that these are the stages as headcount increases that you need to get through. And I broke each of these down by eight different functions of the business, what the constraint feels like, like what are the symptoms of it when you're going through it, and then what steps we actually took to graduate. And we've done this across software, physical products, uh service businesses, brickandmortar, all of this. And it works. And it's my gift to you. It's absolutely free. And so the link's in the description, but you just go acquisition.comroadmap. Just enter your info and it'll spit it right back to you.

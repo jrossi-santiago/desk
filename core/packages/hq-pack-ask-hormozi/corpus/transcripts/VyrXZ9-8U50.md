@@ -1,0 +1,26 @@
+---
+episode_id: "VyrXZ9-8U50"
+title: "\"I Have an In-Person Service Business. How Do I Switch to Online Only?\""
+published: "2026-02-25"
+duration_seconds: 92
+episode_url: "https://www.youtube.com/watch?v=VyrXZ9-8U50"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# "I Have an In-Person Service Business. How Do I Switch to Online Only?"
+
+Video: [https://www.youtube.com/watch?v=VyrXZ9-8U50](https://www.youtube.com/watch?v=VyrXZ9-8U50)
+Published: 2026-02-25
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=VyrXZ9-8U50&t=0s)
+
+I'm brand new to school/content creation/making money online. Where do I begin? My dream outcome is to take my one-to-one in-person coaching service and sell it as a digital course with weekly coaching. But I do not have a digital course built out, nor do I have content posted. Where do I start and what one to two things should I absolutely focus on? >> Geez. Um, well, however you get clients now in person, I would just transition to remote. So, one is you can sell in person and then deliver remotely. So, this is something we did with gyms during COVID because we could do one-on-one appointments, but we couldn't do uh delivery one to many. And so, you could sell individually and then deliver remotely with like for us, we had remote classes or whatever. And so, I call this a hybrid model. The reason I think it's actually really interesting if you can sell in person is that the conversion rates and the lead costs are way different than online because there's inherent trust. You're like, "Oh, this is a real person who lives in my city." Like for whatever reason, people trust it and they think you're not going anywhere, right? So I think the the 1.0 version of this is just sell like you currently are, but just sell remote services. The 2.0 version is sell remotely and sell remote services. So it's the the acquisitions remote and the deliveries remote. But if you're just getting started with this, like the number one and number two is going to be advertising. It's going to be letting people know about your stuff. Otherwise, no one is going to buy no matter what. which is what the whole leads book is about. You can just follow the steps in
+
+## [01:30](https://www.youtube.com/watch?v=VyrXZ9-8U50&t=90s)
+
+there.

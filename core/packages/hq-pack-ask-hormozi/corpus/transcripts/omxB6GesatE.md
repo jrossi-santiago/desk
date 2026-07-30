@@ -1,0 +1,34 @@
+---
+episode_id: "omxB6GesatE"
+title: "Helping a Home Services Business Get More Leads"
+published: "2026-03-30"
+duration_seconds: 330
+episode_url: "https://www.youtube.com/watch?v=omxB6GesatE"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# Helping a Home Services Business Get More Leads
+
+Video: [https://www.youtube.com/watch?v=omxB6GesatE](https://www.youtube.com/watch?v=omxB6GesatE)
+Published: 2026-03-30
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=omxB6GesatE&t=0s)
+
+Try to make it short. I feel like I'm I'm at a casino three black jack tables. First agency sucked. I got the next dealer, they sucked. I got the next dealer. But I have faith. So what [clears throat] kind of that screwed in most of our business most blind faith. Yeah. Most of our most of our business based off of just organic networking in person. >> Cool. Um just trying to figure out like a formula or how to determine a budget What do you sell? >> for ads. What do you sell? Uh roofing and windows. Okay, got it. Helpful. Um Yeah, I mean you most guys who succeeded that are either doing outbound one. They have referral partners. So they have other businesses that are tangential to windows and roofing that go into customer's homes. These are other home services businesses and they set up good kickbacks for those sales reps and those people at those businesses. Or it's usually PPC driven or or social driven. So there's a kind of like the four most common besides word of mouth, right? Um that people used to grow those businesses cuz we have home services that come through all the time. So very familiar with the the model. Um So the issue that you're having to some can restate the problem is that you've tried three agencies and they have not produced results. So when you say they haven't produced results, did they not produce leads or the leads sucked? Yes. Uh both. Difference? Both. Uh yeah. Okay. Now so of the ones that produced leads what was the problem with the leads?
+
+## [01:30](https://www.youtube.com/watch?v=omxB6GesatE&t=90s)
+
+Not relevant or people have said that they were they didn't fill out the forms or they don't know why we contacted them. Some of them don't even own a home. Don't own a home. Uh-huh. Okay. Yeah. So um the the crappy part with the agency gambit, especially if you don't know what you're doing, is that like you end up getting burned. But it's one of those things where like you're not going to quit. Right? And so it's kind of like agencies didn't work for us. It's like well there's obviously agencies that are in home services that do great. And so um like path one is you just keep find you keep going until you find an agency and when you talk to them you're like, "Hey if I don't see results in 30 days I'm out. But if I do, I'll keep paying you for a very long time." And also ask them for their best practices because if an agency does not give you best practices, they suck. So just give you that as a warning. So the best agencies will be like, "Okay this is the funnel the leads are coming in on. This is the offer they're seeing. The people who see the most success call leads within 5 minutes. This is the script they use. This is how they maximize show ups, blah blah blah blah blah." So they're going to give you their kind of like best system. And some of them will also just work the leads for you because business owners in general suck at working leads. And so like if you're not getting an agency that's even talking that lingo, then I would say that that would be a that would be a red flag. So just use that as like at least filter number one. Um But in terms of like how I would probably approach that business, it would be going to tangential. So it's like carpet cleaning and landscaping and
+
+## [03:00](https://www.youtube.com/watch?v=omxB6GesatE&t=180s)
+
+other home services where people are in those on a regular basis and they see the you know they see the the roof and the windows on on a regular it's like, "Hey, I'll give you a thousand bucks or whatever you know whatever your referral fee could be." And so what's your cost per customer right now? Uh that's another constraint. That's another constraint. Okay. Well, how much do you make from a customer on average? Uh 8,000. Okay, cool. So you could pay a grand for a customer and be happy with it. Is that margin 8,000 or revenue? Uh margin. Okay, great. Yeah, so then yeah, I mean if you give landscapers a thousand bucks a referral, they will beg, borrow, and steal to get you referrals. And so obviously that's a very different strategy for acquisition. If I were in your shoes, fastest easiest path is look for an agency that follows those check marks. And I don't know how your buying process went but I would recommend also reading the agency chapter in case you read it. Um but in it like talk to 10 of them before you buy. Like actually talk to 10. Sounds crazy. I think that's been our problem is just dating two people and choosing one. >> Yeah, like date more than one. It's like I got a crazy chick and a fat chick and you're like, "Ah, you know." >> [laughter] >> You know, so like whatever. So like just you know, like open the pool of who you can pick from, right? So that's that's kind of where I would where I would go with that. Does that make sense? So just open the selection up and then I will promise you this by the time this is when you know you
+
+## [04:30](https://www.youtube.com/watch?v=omxB6GesatE&t=270s)
+
+can pick. So I'll give you the litmus test is when you stop learning things on the call. So you talk to the first guy and you're like, "Okay, that's a lot of new information. Thanks for that. We'll be back to you." Talk to the second guy, he mentions more new stuff. For me it takes me about 15 calls with experts to really wrap my head around a space. And so that's like kind of like my litmus test. So once I start like being able to say like, "Well, what about this? And what about this consideration?" And they're like, "Oh, he's a more knowledgeable consumer." And like I can start to talking their lingo, um that's how I know I can make an informed decisions and because they're getting bad results, which is not surprising. Make sense? I meant no insult to the the women in the room. It just It was a It's just a hypothetical. So if you've hit a revenue ceiling or your entire business relies on you to grow, then I'd love to invite you out to our headquarters here in Vegas to learn how we scale. It's in my team spends two days with you to identify the thing that's holding your business back. And so if that sounds interesting, click book a call and if you're a fit, we'd love to potentially see you out here in Vegas.

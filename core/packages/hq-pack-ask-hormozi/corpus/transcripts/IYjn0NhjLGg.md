@@ -1,0 +1,30 @@
+---
+episode_id: "IYjn0NhjLGg"
+title: "Do You Have to Go Through Hell to Become Successful?"
+published: "2026-03-12"
+duration_seconds: 184
+episode_url: "https://www.youtube.com/watch?v=IYjn0NhjLGg"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# Do You Have to Go Through Hell to Become Successful?
+
+Video: [https://www.youtube.com/watch?v=IYjn0NhjLGg](https://www.youtube.com/watch?v=IYjn0NhjLGg)
+Published: 2026-03-12
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=IYjn0NhjLGg&t=0s)
+
+Alex, do you have to go through hell to become successful? No. You have to learn the skills to become successful. And oftentimes learning those skills is painful because you don't know the skills when you're trying to learn them. And mistakes hurt. And so I think there's just a huge amount of skills that you have to learn in order to be successful. And if we define success as material success for business at least, then it's just there's so many things you have to learn. It's very hard to learn them scar-free. And I think that's really what it comes down to. But if someone were able to like, you know, if your if your father were Rockefeller and you also had, you know, the proclivity to be ambitious, I'll bet you he could probably teach you a lot of the things that you wouldn't have to learn on your own. It probably would be significantly less painful. So, I think it's uh it's degrees of hell. I'm sure there are some people have suffered significantly more than others in order to be successful. Almost everyone has suffered in general to be successful, but I also think that people in general suffer. And so, when we ask somebody who's successful, "Hey, did you Do you think the reason that you're successful is because you had a hard childhood?" Well, there's tons of people who had hard childhoods who are not successful. So, is it the hard childhood or is it just other things? And so again, when I see people on both sides, then maybe this thing doesn't matter. It's not a variable worth studying. I just want to look for the few things that are in common. And the few things they all have in common is that they did certain behaviors that promoted activities that promoted promoted products. They had products that people loved and that they just kept buying and they were able to do that at a price point that generated significant gross profits. They were able to reinvest in the business and gain disproportionate, you know, growth as a as a result. Like
+
+## [01:30](https://www.youtube.com/watch?v=IYjn0NhjLGg&t=90s)
+
+those are the things that must occur in terms of the person themselves. I think suffering is a fact of life. And so, poor people suffer and so do rich people. Everyone suffers. And everyone's just looking at the other side and hoping that the other one has an answer. Said differently, life is painful. Some people make money at the end and some people don't. Yeah, I think a lot of people try to retrace the data. Um They they they look at the data and they're like, "Oh, it made sense because of this reason." But Yeah, it's only it's only it's only retracing in retrospect. Real quick, if you are a business owner and you are not growing as fast as you like, I'd like to give you a free gift. So, my team and I put together the $100 scaling roadmap, which is basically 200 hours of us looking over all the portfolio companies we've had and what stages of growth they went through and more importantly where they got stuck and how they got past it. And so we broke down these 10 stages and we made this little kind of quiz thing where if you put in your business information, it'll tell you where you're at and the most important part for you, what to do for each of functions of the business across product, marketing, sales, customer success, recruiting, IT, human resources, and finance. And so no matter what you're struggling with, someone else has already struggled with it and solved it. And so I'd like to give you this thing absolutely free. You can go to acquisition.com/roadmap, plug in your business information, and if you want us to actually help you deconstruct the business and you're trying to scale, we'd love to help you out. On the thank you page, you can book a call with my team and we will look at the business, see if we can help, and if we can, we'll invite you
+
+## [03:00](https://www.youtube.com/watch?v=IYjn0NhjLGg&t=180s)
+
+out to Vegas and we'll do this in person live.

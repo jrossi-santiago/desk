@@ -1,0 +1,26 @@
+---
+episode_id: "Afcvxed2rko"
+title: "The Trait That Makes You Rich Can Make You Miserable"
+published: "2026-07-24"
+duration_seconds: 96
+episode_url: "https://www.youtube.com/watch?v=Afcvxed2rko"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# The Trait That Makes You Rich Can Make You Miserable
+
+Video: [https://www.youtube.com/watch?v=Afcvxed2rko](https://www.youtube.com/watch?v=Afcvxed2rko)
+Published: 2026-07-24
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=Afcvxed2rko&t=0s)
+
+What's the biggest downside of building yourself into the type of person who can become a billionaire? >> I think it's very common that the pattern of behavior that creates financial success uh can create life dissatisfaction. Because the what you are looking for when you are building a business is what's wrong. How can I How could this be better? How can I fix it? And so it's a constant raising of the bar so that the business can grow. But when you do it that way, it often creates this constant sense of deprivation of never achieving what you wanted to achieve. Because by the time you do, you realize you could have done better. And so um I've got a guy on my team who I'd say suffers from this. Um and we joke that like hey, you know, if you go to this thing, if if it's great, you should have gone harder. And if it's not great, well, there's all the reasons you messed up. And so there's basically like no good outcome. Um but I think that that's that's just a big part of it. Um and I think it's learning when to use that pattern of behavior and when not to. And so it's like what conditions is this pattern uh useful and what conditions is it uh hurtful. >> If you like this video and you're a business owner who wants to break through your current revenue ceiling, I just sold every lesson from scaling 10 businesses past 10 million and three businesses past 100 million into a completely free scaling road map that I've used to go from zero to one, zero to 10, and zero to 100 plus. And so you
+
+## [01:30](https://www.youtube.com/watch?v=Afcvxed2rko&t=90s)
+
+can click here and you can check it out. Again, absolutely free. And since you're a business owner, I appreciate you and enjoy.

@@ -1,0 +1,30 @@
+---
+episode_id: "2_SQTj98_Vs"
+title: "Advice for Anyone with Employees"
+published: "2026-03-04"
+duration_seconds: 258
+episode_url: "https://www.youtube.com/watch?v=2_SQTj98_Vs"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# Advice for Anyone with Employees
+
+Video: [https://www.youtube.com/watch?v=2_SQTj98_Vs](https://www.youtube.com/watch?v=2_SQTj98_Vs)
+Published: 2026-03-04
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=2_SQTj98_Vs&t=0s)
+
+You have to take care of people who work in your company's personal life so that they can succeed in their professional life. So, I'll tell you what how this manifests in reality. The biggest one is if someone's spouse or significant other is not a fan or supportive of the job or the work that they have, they will never achieve their potential. And it's it's sad, it's unfortunate, but and it may be controversial for some of you, but I have yet to see it. If you have a spouse or a significant other, somebody you live with, somebody who's like your other person, and they're they're not like even if they're neutral, you will not achieve your potential. Honestly, I don't even think close. Not even close to your potential. Because I think, at least I'll just speak for men, being good on the home front allows you to have full access to your brain so that you can go after the hunt, right? If you're worried about what's happening at home because you know that when you come back, there's going to be bitching and moaning or like, "Why are you working?" Ugh, it's just it's always another another tough season. It's always going to be It's always going to be busy. If you have that in the back of your mind or in your ear, it's like you start pulling your punches. You start cutting out early. You start You start avoiding taking on the bigger projects to take the slightly smaller project. You don't set the bigger goal because you know the effort that it's going to take to hit it. And so, you just say, "Well, this is an adequate goal." And I want to be clear, nothing wrong with that if you don't want to see how far you can go. And not everyone does, and that's fine. But when I think about the people in this organization, I have taken more and more attention to making sure that their personal lives are supportive. Their
+
+## [01:30](https://www.youtube.com/watch?v=2_SQTj98_Vs&t=90s)
+
+environment is conducive to them doing the best work they possibly can because I want people to be able to do their life's work at acquisition.com. I want like Think about the record I just talked about. When someone is 85 years old and looking back on their life, there are very few moments that you actually remember, right? Like you don't remember the vast majority of life. You just have a couple moments that stand out. And like when you get I'm sure when you're much older, you might only remember like one moment from a year. Think about how crazy that is, right? And so, I got to say truthfully to the team, "When you're looking back on this part of your life, you will be able to say that you made history. And there's not that many days that you get to do that. And so, making history though only happens when you've got every single thing aligned and luck." And so, to think, to be arrogant enough to believe that you're going to overcome your your conditions that you've set out for yourself and that you've got somebody who's not supportive versus somebody who does, good luck. But that was just It was a It was a big It was a big lesson for me in that I'm paying attention to that from a team perspective of who's got supportive environments at home, who's got supportive spouses, and is there ways that I can help them get the support of their spouse so that I can unlock their discretionary effort towards the goal. And I will say that making sure that if you do have super hard workers in your team, well, hard workers will run themselves into the ground uh when the goal is big enough. And so, they will usually look to you to see when to rest. And so, you have to be willing to be like, "Take the day, dude. Take the weekend, unplug." And then, usually, I've just seen This is me personally
+
+## [03:00](https://www.youtube.com/watch?v=2_SQTj98_Vs&t=180s)
+
+saying this. I think that when they see it from above or see it from the person who they're rolling into or responsible for or getting managed by, getting led by, they can actually unplug for a couple days cuz they're like, "Hey, he asked me to chill out. I'm going to chill out, right?" And I think that it's it's your responsibility to have a gauge on where people are getting close to cracking and and doling those out. >> Real quick, if you're a business owner and you're not growing as fast as you'd like, I'd like to give you a free gift. So, my team and I put together the 100 million-dollar scaling roadmap, which is basically 200 hours of us looking over all the portfolio companies we've had and what stages of growth they went through and more importantly, where they got stuck and how they got past it. And so, we broke it in these 10 stages and we made this little kind of quiz thing where if you put in your business information, it'll tell you where you're at and the most important part for you, what to do for each of functions of the business across product, marketing, sales, customer success, recruiting, IT, human resources, and finance. And so, no matter what you're struggling with, someone else has already struggled with it and solved it. And so, I'd like to give you this thing absolutely free. You can go to acquisition.com/roadmap, plug in your business information, and if you want us to actually help you de-constrain the business and you're trying to scale, we'd love to help you out. On the thank you page, you can book a call with my team and we will look at the business, see if we can help, and if we can, we'll invite you out to Vegas and we'll do this in person live.

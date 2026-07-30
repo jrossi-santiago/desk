@@ -1,0 +1,38 @@
+---
+episode_id: "0ACmZguiDyc"
+title: "Be a Perfectionist"
+published: "2026-03-24"
+duration_seconds: 363
+episode_url: "https://www.youtube.com/watch?v=0ACmZguiDyc"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# Be a Perfectionist
+
+Video: [https://www.youtube.com/watch?v=0ACmZguiDyc](https://www.youtube.com/watch?v=0ACmZguiDyc)
+Published: 2026-03-24
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=0ACmZguiDyc&t=0s)
+
+The whole like don't be a perfectionist like your like it's just another word for procrastination. I actually think that's complete [ __ ] I think that >> That's my quote. >> Being Is it? >> [laughter] >> Perfectionism is procrastination masquerading as quality control. >> Okay. Yes. Okay. So then I'm going to I'm going to put a sub a sub footnote on it that I think will will add context. Which is that most people who claim to be perfectionists are not perfectionists. They're actually procrastinating cuz they're not doing anything. And so it just is a socially acceptable label because the real perfectionists feel this this sickness where they like want to itch their skin off until the thing's done, but they are trying to get it done. Whereas the perfectionist or the the procrastinator uses that to say like I'm not sure. I'm just getting it right, but like the person who's an actual perfectionist one wants to finish and is working every hour of every day on the thing and seeing progress towards it because if you don't know how your thing is getting better, you're not a perfectionist. You're just ignorant. They're also moving toward the goal every single step of the way as opposed to just sitting back. I had this huge list of things that I'm not doing the thing. Planning to do the thing isn't doing the thing. Thinking about the thing isn't doing the thing. Getting angry at people on the internet that have already done the thing isn't doing the thing. And um there's also a People who are perfectionists within the thing that matters most are prepared to see things that are ancillary to that. For instance, you're not absolutely a
+
+## [01:30](https://www.youtube.com/watch?v=0ACmZguiDyc&t=90s)
+
+perfectionist, I'm going to guess with the short form content that goes out on your Instagram. It's like this is sawdust as you call it. This is just it's extra, right? It's it's freebie stuff. Look, if we have one in a hundred videos that have got a typo or the hyphen's missing or something like that. All right. But if we're talking about the school announcement release, if there's a [ __ ] typo in that or if in the the video one of the links is broken or even if one of the links is slightly pixelated, >> Yeah. that's something that I can have a problem with. So, picking your battles as a perfectionist, I think actually, or someone as someone with high standards, is super important, because you can't have that degree of high standards at absolutely everything, because if you don't pick your battles, you're not going to make sufficient movement at the velocity you need to actually make progress. So, find the areas that are the highest contribution. Yeah. And don't compromise on those. And it's funny you say that because I the way that I immediately reframe that was that the perfectionism was around volume. It's like, that is what we will that is what we are optimizing towards. And then we can because if we look at if we knew how people responded ahead of time to content, then we would make things differently than we do. But I, probably like you, am often surprised, pleasantly and sometimes unpleasantly, by the stuff that just grabs hold and then just goes, you know, viral as hell, um, in content. And so, I think part of that is making up for our own ignorance
+
+## [03:00](https://www.youtube.com/watch?v=0ACmZguiDyc&t=180s)
+
+by increasing volume. And I like and so that would be like it my reframe on the perfectionism there is like we know that if we make 10 pieces of content, it is more likely that we will have more people see it than if we try really hard at one. And so we make 10 because the net benefit of the 10 is greater, and so that's the ideal that we commit to. Tiago Forte has a fantastic take on this, where he talks about perfectionism allows people to sit back and not produce work at a rate required to work out what actually works. >> Have you heard the the story of the the pottery class? Oh, I feel like the All right, well. I I just feels like total modern business. >> where someone comes in behind and then holds the thing in front? So, there's two two, uh, there's a teacher and he's got two classes that he teaches. And one class he says, "The only assignment for this whole semester is that you come with a come back with a perfect, uh, clay pot. That's it. That's the assignment. The other class, he says, "Your objective is to make the most total quantity of clay pots and you'll be measured by how many pots you make." And at the end of the quarter, the pots that came from the team that had to just make sheer volume, not only did they make more pots, but the quality of all of their pots was better compared to the teams that only had to make one. And it just underlines the the biggest lesson that I've learned in my life, which is that volume negates luck. Is that you can try to be lucky and pick the one perfect thing and try and make it, but if you don't want to try and be lucky, you can just do so much [ __ ] work that you will you will brute force
+
+## [04:30](https://www.youtube.com/watch?v=0ACmZguiDyc&t=270s)
+
+your way to figuring it out. Like if you do a thousand podcasts, you'll be pretty [ __ ] good at podcasts, right? But if you try to say, "Okay, you're you're brand you're brand new and all you have to do is make one perfect podcast." The problem is that you don't have the perspective from which to make a judgment to say what is good because you have zero data to base anything off of. And so you're basing your idea of a perfect podcast on something that you've literally never done before. And so doing the volume gives you put the perspective to then have the best podcast at number 1,000 or 1,001. Anyways, I just thought you'd love the clay pot. Real quick, if you're business owner and you're not growing as fast as you'd like, I'd like to give you a free gift. So, my team and I put together the $100 million scaling road map, which is basically 200 hours of us looking over all the portfolio companies we've had and what stages of growth they went through and more importantly, where they got stuck and how they got past it. And so we broke it in these 10 stages and we made this little kind of quiz thing where if you put in your business information, it'll tell you where you're at and the most important part for you, what to do for each of functions of the business across product, marketing, sales, customer success, recruiting, IT, human resources and finance. And so no matter what you're struggling with, someone else has already struggled with it and solved it. And so I'd like to give you this thing absolutely free. You can go to acquisitions.com/roadmap, plug in your business information and if you want us to actually help you deconstruct the business and you're trying to scale, we'd love to help you out. On the thank you page, you can book a call with my team, and we will look at the business, see if we can help, and if we can, we'll invite you out to Vegas, and we'll do this in
+
+## [06:00](https://www.youtube.com/watch?v=0ACmZguiDyc&t=360s)
+
+person live.

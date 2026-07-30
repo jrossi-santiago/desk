@@ -1,0 +1,22 @@
+---
+episode_id: "Pal3Z97jZpM"
+title: "If You Sell SaaS to B2B, Sell Like This"
+published: "2026-03-23"
+duration_seconds: 88
+episode_url: "https://www.youtube.com/watch?v=Pal3Z97jZpM"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# If You Sell SaaS to B2B, Sell Like This
+
+Video: [https://www.youtube.com/watch?v=Pal3Z97jZpM](https://www.youtube.com/watch?v=Pal3Z97jZpM)
+Published: 2026-03-23
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=Pal3Z97jZpM&t=0s)
+
+Okay, PQ, what did you learn about selling to chiropractors? I'm currently selling SAS to chiropractors. Been struggling though. Um, big thing is you're not selling SAS to chiropractors. Uh, you're not really ever selling SAS. You're not selling products. You're not selling service in general. We're selling an outcome, right? And so, if you're struggling to sell SAS to chiropractors, it's because no one wants to buy software. But everyone wants the problems to go away. And so, we have to sell to the problem and then we ascribe our value relative to the problem as the chiropractor suffers from it. And so, as far as I'm concerned, chiropractors would love to have more time. They'd love to be more efficient with their patients. They'd love to charge more money. They'd ra they'd love to have better margins. They'd love to improve their team. They'd love to get more leads. Like, all of these things are things that um chiropractors would like to do. The problem is that their CRM doesn't allow them to do those things. Yours does. That's why they want to buy yours. Real quick, I'm going to show you the exact 10stage road map from zero to 100 million plus that less than 1% of companies finish. I've now done multiple times. And so I can say with a lot of confidence that these are the stages as headcount increases that you need to get through. And I broke each of these down by eight different functions of the business. What the constraint feels like, like what are the symptoms of it when you're going through it. And then what steps we actually took to graduate. And we've done this across software, physical products, uh service businesses, brickandmortar, all of this. And it works. And it's my gift to you. It's absolutely free. And so the link's in the description, but you just go acquisition.comromadap. Just enter your info and it'll spit it right back to you all

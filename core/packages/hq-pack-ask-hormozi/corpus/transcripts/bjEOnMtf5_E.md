@@ -1,0 +1,34 @@
+---
+episode_id: "bjEOnMtf5_E"
+title: "How to Build a Good Product"
+published: "2026-03-11"
+duration_seconds: 280
+episode_url: "https://www.youtube.com/watch?v=bjEOnMtf5_E"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# How to Build a Good Product
+
+Video: [https://www.youtube.com/watch?v=bjEOnMtf5_E](https://www.youtube.com/watch?v=bjEOnMtf5_E)
+Published: 2026-03-11
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=bjEOnMtf5_E&t=0s)
+
+What about for people who are listening right now and they're like, "Damn, I don't know if my product's that good. I don't know if my service is that good." And they're thinking like, "I think I got to go back and ideate and figure this out." >> Yeah. Like, what am I What What do you What advice do you have for that type of person? >> Yeah. So, there is a baseline of promotion that you have to have. Because if like again, like let's base this on absolutes. If no one knows about your stuff, you will make nothing ever. So, someone has to find out about it. So, you have to promote first. You have to let people know that you have a thing. Now, scaling that promotion, you only want to do when you know the thing is good. But in the beginning, you will have to let people know and you have to accept the fact that it won't be as good. And the reason I'm a big fan of the samples is that it lowers the stakes, especially on your personal uh reputation. And so, you're like, "Hey, I've got this new service that I'm trying out. Can I try it out Like, can I Can I give it to you? Can I Can I gift this to you, please?" Right? Now, if no one wants to take your free thing, that's great feedback. Like, this is probably not something that they're going to pay for, right? But if people are willing to take the free thing, there's three ways you can make money from somebody you give away for free. Number one is that they become a paying customer. Awesome. They're like, "Hey, uh I've given this up to so many people that I actually can't take the demand anymore, and so I have to put a paywall up because I just my time's limited." And people get that. Course, well, I am willing to pay. Great. Version number one. Version number two is they say, "You know what? I can't financially whatever right now, but I think this is awesome." And you're like, "Great. Can you leave me a review?" And so, then they leave you a testimonial, case study, whatever, so that you can then use that to get you another customer.
+
+## [01:30](https://www.youtube.com/watch?v=bjEOnMtf5_E&t=90s)
+
+Um and uh the third way I have in my book, but I forgot what it is, but it's in there. >> [laughter] >> But that's But the But basically, they can leave you a review, they can send you a referral, or they them Actually, I think I just called two as one. They can They can get you another customer as a referral. Yeah, so they leave you a review, get you another customer, or they themselves become a customer for you. And all of those come from you just giving something for free. And so, if you're like, "Okay, well, my [ __ ] sucks." Fine. Give it to them for free and then ask them for feedback. And that's So, if you want to make a trade, it's like, "Listen, I'm not going to charge you. I just want honest feedback on how I can make it better." That's it. And if they like it, review. If they don't like it, personal review. Not public review. And then you spin the wheel of iteration. And like, if I can drill this into everyone's mind, like, you're not going to get it right the first time. Like, I love the I mean, I love The Matrix, my favorite movie of all time, but he says like, "Everyone falls the first time." When they're talking about Neo trying to make the big jump. And like, I just think it's so true with with the business stuff. It's like, everyone falls the first time and everyone has this idea that they're they're going to be Jeff Bezos on their first swing. And like, almost every entrepreneur, with the exception of Bezos and Zuck, have many a a a graveyard of failed attempts, but they're not really failed attempts. They're like, "Oh, yeah, that's when I learned that this thing was really important. So, then my second business, I did this better." And that one did better than my first business did, but then your second business, you're like, "Oh, I didn't understand this part." And then you make your third business. And so, like, every one of the businesses just becomes lessons to
+
+## [03:00](https://www.youtube.com/watch?v=bjEOnMtf5_E&t=180s)
+
+ultimately build the asset that matters, which is you. And that's at least how I see it, which is that like, the friction we get from the marketplace only serves to build who we become, because at the end of the day, we're going to die. Everyone's going to forget about us. It's not going to Oh, sorry. Excuse me. Sorry. Yeah. And And it's not ultimately going to matter whatever accumulation we have here. And so, I I see that as my my in-progress journey so that I can get rewarded for the actions that I'm doing despite not necessarily having uh like, money manifest. See, there you go. Uh in front of me immediately. Right? I I got I got it. >> [laughter] >> And that's that's at least the the framework that I have with it. But, if your [ __ ] sucks, give it to more people and ask them for feedback and then just ask them what it would take to suck less and eventually it'll be good. Real quick, if you're a business owner and you are not growing as fast as you'd like, I'd like to give you a free gift. So, my team and I put together the $100 million dollar road map, which is basically 200 hours of us looking over all the portfolio companies we've had and what stages of growth they went through and more importantly where they got stuck and how they got past it. And so we broke it in these 10 stages and we made this little kind of quiz that where if you put in your business information, it'll tell you where you're at and the most important part for you, what to do for each of functions of the business across product, marketing, sales, customer success, recruiting, IT, human resources and finance. And so no matter what you're struggling with, someone else has already struggled with it and solved it. And so I'd like to give you this thing absolutely free. You can go to acquisition.com roadmap, plug in your business information and if you want us to actually help you deconstruct the business and you're trying to scale, we'd love to help you out. On the thank
+
+## [04:30](https://www.youtube.com/watch?v=bjEOnMtf5_E&t=270s)
+
+you page you can just book a call with my team and we will look at the business, see if we can help and if we can, we'll invite you out to Vegas and we'll do this in person live.

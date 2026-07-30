@@ -1,0 +1,26 @@
+---
+episode_id: "qiloFrBdbq4"
+title: "AI Won’t Change Business the Way You Think"
+published: "2026-01-28"
+duration_seconds: 99
+episode_url: "https://www.youtube.com/watch?v=qiloFrBdbq4"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# AI Won’t Change Business the Way You Think
+
+Video: [https://www.youtube.com/watch?v=qiloFrBdbq4](https://www.youtube.com/watch?v=qiloFrBdbq4)
+Published: 2026-01-28
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=qiloFrBdbq4&t=0s)
+
+With the disruption of AI in most businesses, what are the rules that you think in business would change? For example, one channel, one offer, one avatar, $100,000 per month. I kind of have a problem with No, it's just an opinion, just a guess, a wild guess after the implementation of AI that I can open multiple channels and get good as them as long as I have two people running each channel. So, it's not a one person that split the focus on each channel. That's the first question I have basically. What do you think of the disruption AI for some rules and about this topic exactly? >> So two things. So first the rules of business will remain the same. The principles aren't going to change. Supply and demand will stay the same. Like these rules are fundamental to business. >> In terms of my rules of thumb of one product, one avatar, one channel. >> You can for sure have more than one. I recommend people start with one because you say, "Okay, I'm going to have two of these channels." My question after that would be why? Because you're not that good at one. You're not even good enough to do 100,000 a month off one. Why would you do a second? Yeah, >> it's a skills. It's like why not just get better? >> Yeah. >> The only exception that I've added to that is local businesses. >> So if you are in bum [ __ ] Missouri and there are 10,000 people in your local market and you run a lawn care service, there's only 10,000 people and so you're going to have to go on as many channels as you can to saturate letting all 10,000 people know about your stuff. And so in those instances, I would say yeah, you can be more multi- channelannel. But because each of the channels that most people advertise on have virtually limitless scale, especially when compared to a million- dollar revenue
+
+## [01:30](https://www.youtube.com/watch?v=qiloFrBdbq4&t=90s)
+
+run rate, there's no point in doing more when you could just get better at the one that you're currently doing. In so and in so doing gain more leverage and then ultimately make more money with less operational complexity.

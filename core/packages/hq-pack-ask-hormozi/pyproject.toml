@@ -1,0 +1,32 @@
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ask-hormozi"
+version = "0.2.2"
+description = "Search MoreMozi videos locally with cited transcript timestamps."
+readme = "README.md"
+requires-python = ">=3.10"
+license = "MIT"
+authors = [{ name = "Jacob Posel" }]
+keywords = ["alex-hormozi", "moremozi", "qmd", "transcripts", "rag"]
+classifiers = [
+  "Development Status :: 3 - Alpha",
+  "Environment :: Console",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3 :: Only",
+  "Topic :: Text Processing :: Indexing",
+]
+dependencies = []
+
+[project.scripts]
+ask-hormozi = "ask_hormozi.cli:main"
+
+[project.urls]
+Homepage = "https://github.com/poseljacob/ask-hormozi"
+Repository = "https://github.com/poseljacob/ask-hormozi"
+Issues = "https://github.com/poseljacob/ask-hormozi/issues"
+
+[tool.setuptools.packages.find]
+include = ["ask_hormozi*"]

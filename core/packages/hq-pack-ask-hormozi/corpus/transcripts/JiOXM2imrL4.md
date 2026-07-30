@@ -1,0 +1,34 @@
+---
+episode_id: "JiOXM2imrL4"
+title: "Every Week 20 New Opportunities Try to Distract Me"
+published: "2026-05-22"
+duration_seconds: 305
+episode_url: "https://www.youtube.com/watch?v=JiOXM2imrL4"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# Every Week 20 New Opportunities Try to Distract Me
+
+Video: [https://www.youtube.com/watch?v=JiOXM2imrL4](https://www.youtube.com/watch?v=JiOXM2imrL4)
+Published: 2026-05-22
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=JiOXM2imrL4&t=0s)
+
+When you don't have anything to say no to, it's easy to focus on one thing. As success begins to get you more opportunities, your ability to say no becomes increasingly important. And that's something that I'm feeling now. Just more attention. This we're hockey sticking quite aggressively. And I'm not anywhere near like even middling Z-list fame, but it's enough for people to see what they think is a penny stock and decide that they're going to try and throw the hat in the ring. Which means that there's like 20 things I need to say no to every single week from new people that want to that want to do a thing. Why don't we try this thing? Why don't we do that thing? Why don't we do the other thing? It was a piece of piss 5 years ago to say or 3 years ago in the middle of COVID to go like, "I'm going to go pro and I'm just going to focus on this one thing." Cuz what else am I going to do? All of my nightclubs have been shut down. I got nothing else to do with my life. Now, oh, you said you were going to go pro? Interesting. Let's see what happens when you have 30 other things every single week vying for your attention. Now, let's see how committed you are. >> This is my favorite analogy for this, which is the woman in the red dress. But, you know, every many people have seen The Matrix. If you haven't seen The Matrix, you don't need to have seen it to understand the analogy. So, Neo is going through the training program, the protagonist. Morpheus is his his educator, his his teacher. And the education program only has one objective. And so, he's walking through the city. People are going left and right. He's he's bumping into people going through like crowded New York. And then all of a sudden, it's kind of a black and white pale-ish look. It's
+
+## [01:30](https://www.youtube.com/watch?v=JiOXM2imrL4&t=90s)
+
+green, black, and white, but it's still black and white. And then all of a sudden, this woman in the in a red dress enters the frame. And you can't help but stare at this woman in the red dress, and she's a complete knockout. And Morpheus is talking to Neo trying to teach him something. And as he's talking, he's like, "Neo, are you looking at me or are you looking at the woman in the red dress?" And he says, "Look again." And he looks back, and it's Agent Smith holding a gun to his head. And he says, "Freeze." And and everything freezes in the frame. And he's like, "If you're not one of us, you're one of them." And I see that as the opportunities that we have to say no to every day. It's like another woman in the red dress, and it's become a term that we use internally, right? It's like it's a woman in the red dress. And the thing is is that the the more successful you become or the more able you become, the hotter the woman in the red dress is, right? Like you >> [laughter] >> You got a homeless girl that you're walking, you know, past on the on the street. She's like all dirty, but she's got a red dress on. You're like, "The thing is is that that homeless girl, when you were in your apartment, actually looked like >> Right? She's like, "You know, I'm not, you know, I I could, you know, right?" Um But then the better you get, the the bigger the opportunities, and that's where you have not your hypothetical 10, but what about your hypothetical 100? >> Yeah. >> And I had a mentor say this to me right as we sold uh Gym Launch. He said, "Alex, that you know now that if it's not a billion, it's not worth your time." And that was such a single a great razor for all decisions. And so people come to me, they're like, "Hey, we should do this endorsement. Hey, we should partner with this, whatever." I mean, think about it. Like we're in the deal world. So how many deals like we get? We have 3,000 companies a month that reach out to us
+
+## [03:00](https://www.youtube.com/watch?v=JiOXM2imrL4&t=180s)
+
+to do a deal. That's 100 a day, currently. And we've done 13 deals in 2 years. And so like you think about the acceptance rate. It's like, you know, and I'm not saying you shouldn't apply. By all means, go to Acquisition.com and apply if you have an awesome business. Um but but the point is is that like your no muscle isn't really a no muscle. It's just a yes muscle for the one thing that matters most. >> Yep. >> We'll get back to talking to Alex in 1 minute, but first I need to tell you about the number one e-commerce platform, Shopify. When I was a nightclub promoter in the UK, I started an online apparel brand with no experience, no coding ability, no marketing background, no inventory management, and after a ton of research, I decided on Shopify. Shopify is the commerce platform revolutionizing millions of businesses worldwide. You've probably already heard of it. In fact, a lot of your favorite brands still use Shopify, including Gymshark, one of the biggest sports apparel brands on the planet. Shopify is the only tool you need to start, run, and grow your online business without the struggle. What I loved about Shopify was that as we added in new lines and different verticals, it grew with the business. It required zero experience. Every single time there was a problem, I was able to sort it myself. That's how simple it is. And there is a $1 per month trial period that you can sign up for right now with the link in the description or by going to shopify.com/modernwisdom, all lowercase. That's shopify.com/modern wisdom to take your business to the next level today. Heroes and villains always have the same backstory, pain. The difference is what they choose to do about it. Villain says, "The world hurt
+
+## [04:30](https://www.youtube.com/watch?v=JiOXM2imrL4&t=270s)
+
+me. I'll hurt it back." The hero says, "The world hurt me. I'm not going to let it hurt anybody else." Heroes use pain. Villains are used by it. And full kudos here, this is a permutation of what Donald Miller said, who's a great writer and he has a a number of of books. And he he he talked about the first element. The second element of that quote is the part that I added to it about heroes using pain and villains being used by it. And so one of the things for people who are not where they want to be

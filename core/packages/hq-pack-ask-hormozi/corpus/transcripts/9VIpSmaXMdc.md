@@ -1,0 +1,34 @@
+---
+episode_id: "9VIpSmaXMdc"
+title: "Finite vs Infinite Games"
+published: "2026-04-23"
+duration_seconds: 308
+episode_url: "https://www.youtube.com/watch?v=9VIpSmaXMdc"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# Finite vs Infinite Games
+
+Video: [https://www.youtube.com/watch?v=9VIpSmaXMdc](https://www.youtube.com/watch?v=9VIpSmaXMdc)
+Published: 2026-04-23
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=9VIpSmaXMdc&t=0s)
+
+I think most people are just as happy and just like you're 50% happy, 50% sad for most of your life. If you're in an extreme circumstance, then change your life. If you're not like conditions like people get handicapped, they break their legs, or you know, they they can never move again, and they have a dip in their subjective well-being, and they go back to the same baseline. And so like the baseline is independent of conditions. And so the world wants to tell us that we need to change our, you know, change our circumstances, and then we will be whatever, but like every modern religion, every Buddhist monk will tell you that all of that's from the inside, not the outside. Um but these are words and words that me and you Yeah. >> can say. Don't follow. Yeah. >> [laughter] >> So cuz I'm sure that you've you've experienced like the attainment of a goal, and then I just need three times more. Yeah. I'm referencing a study there where they they asked people how much money they would need to be happy. And all the way up the income wealth spectrum, people said three times more than they have now. So people with 10K said 30. People with 3 million said you know, six, nine million. No, [ __ ] I can't do math. Three. >> [laughter] >> Three times three. Yeah. Um and you you I imagine you still experience that now, right? Yeah. Different reasons, but yeah. For sure. When is enough enough? Um I don't think it's enough thing. I think it's more like who I want to be. Who do you want to be? I want to be the person capable of Of? doing that, doing X. Like we'll get to a billion, and then after a billion I'll make it 10. I already know that. You know what I mean? But like I love playing the game. What is the game? The game of business.
+
+## [01:30](https://www.youtube.com/watch?v=9VIpSmaXMdc&t=90s)
+
+To what to what end? >> Or just just for the play. To play. Yeah, I'm I'm sure you know more about this than I do, but like just game theory. Like the if finite and infinite games. Simon Sinek has a great piece on it. Um but yeah, with infinite games you have known and unknown players. You have no agreed upon rules, and the point of the game is to keep the game going. And so a lot of times people will take a finite game where you have known only known players, agreed upon rules, and a set outcome um for winning, and they will apply it to an infinite game. So people are like, I want to they apply a finite contract to health. They're like, I want to win health. It's like you don't win health. Like, okay, you're in shape. Now what? You stay in shape. You keep staying in shape. I want to win at marriage. You don't win at marriage. You keep the marriage going. That's playing the game of marriage. If you want to you don't win at business. You keep playing the game of business. And so we want to take these finite contracts and put them on on on infinite games, and I think that's where people get it get in trouble because they're they're like, I have to keep moving the goalpost. But if the goalpost is to play, then you win by playing. And so for that like, sure we set goals for the company, but like I'm a thousand percent super motivated, and at the same time if we never hit it, I'm just going to be happy that I was able to play. I also know that in three generations everyone will forget who I am. I saw your post about the Queen. Yeah. That's a good >> [laughter] >> That was a status update. No, no, no. That wasn't It wasn't for me, if I'm being honest. >> [laughter] >> Um but I but it's an interesting What did the post say? Was Do you remember? >> She amassed more wealth than 99.99%
+
+## [03:00](https://www.youtube.com/watch?v=9VIpSmaXMdc&t=180s)
+
+of the world. She ruled for 70 years. Uh was, you know, a female monarch, which is insane, especially 70 years. Like it just like all had an amazing family, all this amazing, whatever. I I don't know the tabloids, you do. Um And when I posted it, it'd been I think five or six months since she had died. Exactly. And I was like, you probably haven't thought about her today, except for this post. She probably accomplished more in her life than we probably will. So, if you were afraid of other people thinking about you, just remember that six months after you die, they're not going to be. And so it's like we have all these fears about other people, but like most of them won't even show up to your funeral cuz they're going to be busy. >> [laughter] >> And so like I I think about death all the time. And that's that's what I think for me has given me a lot of freedom to take big shots. Because like at the end of the day, I think that it's not going to matter. No one's going to remember. People in Thailand don't know who I am today, let alone in five, 10 years, 100 years. It's a trap that the mind can quite easily fall into, they thinking you are the center of the universe, and with that comes an immense amount of weight and pressure and anxiety. >> Totally. Real quick, if you're a business owner, and you are not growing as fast as you'd like, I'd like to give you a free gift. So my team and I put together the $100 million scaling roadmap, which is basically 200 hours of us looking over all the portfolio companies we've had, and what stages of growth they went through, and more importantly, where they got stuck, and how they got past it. And so we broke it in these 10 stages, and we made this
+
+## [04:30](https://www.youtube.com/watch?v=9VIpSmaXMdc&t=270s)
+
+little kind of quiz thing where if you put in your business information, it'll tell you where you're at, and the most important part for you, what to do for each of functions of the business across product, marketing, sales, customer success, recruiting, IT, human resources, and finance. And so no matter what you're struggling with, someone else has already struggled with it and solved it. And so I'd like to give you this thing absolutely free. You can go to acquisition.com/roadmap, plug in your business information, and if you want us to actually help you deconstruct the business, and you're trying to scale, we'd love to help you out. On the thank you page, you can just book a call with my team, and we will look at your business, see if we can help, and if we can, we'll invite you out to Vegas, and we'll do this in person live.

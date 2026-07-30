@@ -1,0 +1,38 @@
+---
+episode_id: "N86eJtVS7bo"
+title: "\"My Clients Leave the Moment They Get Results\""
+published: "2026-07-25"
+duration_seconds: 381
+episode_url: "https://www.youtube.com/watch?v=N86eJtVS7bo"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# "My Clients Leave the Moment They Get Results"
+
+Video: [https://www.youtube.com/watch?v=N86eJtVS7bo](https://www.youtube.com/watch?v=N86eJtVS7bo)
+Published: 2026-07-25
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=N86eJtVS7bo&t=0s)
+
+Sorry. Watch your videos couple of years ago when I had had a heartbreak and the mustache videos they helped me a lot to get through it. So the question I have is I have a similar problem actually I have a dating business and coaching consulting business. My whales are business people. And I talk with them about business the whole time. >> Okay. >> So but I still have my core offer. It's a 4K product for 6 months. >> Uh-huh. >> They're all happy and after that they leave and I'm alone and I cry and >> [laughter] >> So >> They're always like yeah Matt's I'm totally fine. Thank you very much. I don't have any problems anymore. I'm like >> Well what was the question? >> My question is how um can I increase the lifetime value? >> So you sell a 4K how to find your mate thing. >> Yes. >> Right? So dating's interesting. Because the objective is that they don't need you. Right? It's kind of like Tinder the only app that's ever meant to be deleted which is a great slogan. Sucks for them. But the thing is is that the the value that they have is that they have access to a network of fish. And so as soon as people need to go fish again cuz they break up then they go back on the app and they pay for premium again whatever. You're probably teaching them sort of some sort of skills education right? And so they have one time value and so you bill one time for it. Hmm.
+
+## [01:30](https://www.youtube.com/watch?v=N86eJtVS7bo&t=90s)
+
+Well um okay. If I'm being a crazy man which why not right? Um if I really wanted to create continuation the objective is that they get a girl right? Or I'm assuming it's guys that you're going after right? So if their objective is to get a girl then it's like well the first thing you need as soon as you get into a relationship is not to lose it. >> They feel too confident after the coaching. >> Oh you You got to break them down a little bit. >> [laughter] >> I totally used to feel the same way cuz like you get really you feel really good, you got the girl and I was like but this is actually when you're the most prone to messing everything up. >> [laughter] >> I tried that. Didn't work. >> Tried it one time? >> No. >> Five times? >> No. >> 20 times? >> 50. >> 50? You tried it 50 times? So, they're all just so confident after that. They were so insecure that they paid you for dating advice and then months later they're so confident they don't want to do anything else. So, the question is just what the offer is. I'll bet you it's an offer issue. Cuz fundamentally they have like there are problems in every relationship. Ask every person here. Right? And so they have problems and so you might have to play to their egos if you need to. I don't like that perspective but if you had to, right? It's like this is like you got a girl, great. But the dynamic is she you're whipped right now and that sucks. And so if you want this relationship to be what you ultimately have in your mind, there's steps that you can take. >> A lot of guys are interested in business
+
+## [03:00](https://www.youtube.com/watch?v=N86eJtVS7bo&t=180s)
+
+after the dating stuff. >> want to have a business coaching business on the back of dating? >> Yeah. >> You did you want it makes no sense. >> I talked with your team about it and they said to me it makes sense so now I'm confused. >> go. So, the thing is is like >> [sighs] >> on one hand, if everybody's screaming that they want something from you, then I'm like all right, we'll give it to them. From a enterprise value perspective of how would I package this to sell which is always how I'm thinking cuz if I buy this thing tomorrow, I want to be able to put into a box and say this is this asset that I have and I have a clear narrative to how I help this particular avatar. Right? It is super weird to go from like [laughter] let me help you get a girl to by the way, let me improve your profit. Like >> But I mean it works so many ways because [clears throat] of that. >> Yeah. Um >> [laughter] >> It's like talking to your hairdresser about your Anyways, doesn't it? Uh Jeez. Okay. It's weird. Um and so I would I like It sounds like you want to do it. And so I'm not going to fight you. You know what I mean? Like if you want to do it and they want to buy it from you, then you know, by all means. It's America or like >> Germany. >> Yeah, sure. It's Germany. You can do >> [laughter] >> kind of whatever you want as long as it looks and talks a certain way. Anyway, um Too soon. [laughter] Anyways, uh So, will it make you money to do it? Yeah, if you sell stuff and people buy
+
+## [04:30](https://www.youtube.com/watch?v=N86eJtVS7bo&t=270s)
+
+it, then you'll make more money. I would If if I were you, I would still be doing this. Like if I have somebody who comes in with one problem and I solve that problem, always creates another problem. And I want to sell something around that problem that naturally works with the original offer. That's how I think about things. And so if you tried one thing 50 times, it's like you might have to try two other things. And that's like I just I wouldn't have been satisfied with that. I would have been like I have to find something else that I can sell. >> Should I come back after the 200 >> Well, it depends if you do the business thing or not. >> [laughter] >> So, I mean, I if I were you, I would do that. >> Yeah. >> Will you make more money faster just giving people what they want? Yes. That will be a very hard business to sell. If that's something that you have a goal for. If you don't have a goal, then yeah, then yeah, you'll make more money, sure. Then you can do that. >> Easy. >> There's your easy button. Yeah. Give them what they want. >> So, if you are a business owner and you are not growing as fast as you'd like, I'd like to give you a free gift. So, my team and I put together the 100 million dollar scaling road map, which is basically 200 hours of us looking over all the portfolio companies we've had and what stages of growth they went through and more importantly, where they got stuck and how they got past it. And so we broke it into these 10 stages and we made this little kind of quiz thing where if you put in your business information, it'll tell you where you're at and the most important part for you, what to do for each of functions of the business across product, marketing, sales, customer success, recruiting, IT, human resources, and finance. And so, no matter what you're struggling with, someone else has already struggled with it and solved it. And so, I'd like to
+
+## [06:00](https://www.youtube.com/watch?v=N86eJtVS7bo&t=360s)
+
+give you this thing absolutely free. You can go to acquisition.com/roadmap, plug in your business information, and if you want us to actually help you deconstruct the business and you're trying to scale, we'd love to help you out. On the thank you page, you can book a call with my team, and we will look at the business, see if we can help, and if we can, we'll invite you out to Vegas, and we'll do this in person, live.

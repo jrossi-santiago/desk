@@ -1,0 +1,30 @@
+---
+episode_id: "zlufflFw2NM"
+title: "The Two Voices That Hold You Back from Trying"
+published: "2026-05-16"
+duration_seconds: 256
+episode_url: "https://www.youtube.com/watch?v=zlufflFw2NM"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# The Two Voices That Hold You Back from Trying
+
+Video: [https://www.youtube.com/watch?v=zlufflFw2NM](https://www.youtube.com/watch?v=zlufflFw2NM)
+Published: 2026-05-16
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=zlufflFw2NM&t=0s)
+
+I think that most people are actually very okay with sucking. I think they're very not okay with being judged for sucking. And so, I think that at the at the onset, we have to redefine success as trying and not as succeeding. Uh or at least getting whatever desired outcome there is. Because failure and success are are salt and pepper. They're married. They're the one one leads to the next. And so, the idea is we want to get as many failures out of the way as fast as possible. And so, it's like we want to pay down that failure debt again as soon as we can. And so, the the very tactical thing that I would advise is think about there's we think I don't I don't want people to think that I'm a failure. It's actually not people. There's like two people that you hear their voice in your head. And so, when you actually get really clear on who whose voice is that? Cuz I'll tell you I'll tell you a real world example. So, for me when I say this this sounds ridiculous, but just but just to show you hopefully how ridiculous whatever you think sounds, I'll share one of mine. >> [laughter] >> So, when I was uh thinking about selling my company, the the offer was for for 46.2 million. And I I was afraid that it wasn't enough to impress the people that I wanted to impress. And so, and I had to figure that out. I was like, I don't know. I mean, is it worth it? Maybe I should hold on to it longer and grow more. And I went, you know, back and forth. And when I thought more more about it, I was like, actually there's only one person whose opinion I'm concerned about. And then when I named it, when I was like, oh, it's Tom. Tom's the And like, I'm not even that close with Tom. But Tom my envisionment
+
+## [01:30](https://www.youtube.com/watch?v=zlufflFw2NM&t=90s)
+
+of Tom judging my my my my exit is not good enough for their approval. I was like, wait, I'm letting Tom have this much influence over my life? That's absurd. And so, one of the big um reframes that I have in my head is that if you don't know why you believe what you believe, it's not your belief, it's someone else's. And so, if you can't explain like why am I not doing this? If you can't actually explain it, it's because there's someone else's voice that is influencing you that you're not aware of. And so, I try and name it. Yeah, the The naming is the key part because as soon as you see that you're like, "Tom?" >> [laughter] >> You're like, "Screw Tom." You're like, "I'm going to So it's like, is is Tom's approval worth more than the dream that you want to pursue?" And as soon as you get that you're like, "Well, hell no." And then you move forward. And I can tell you just from from the other side of this. And I want to I want to be really clear. I understand how scary it is. It took me 6 months to quit my job and I talked I talked to my friend every single day saying, "This is the day. This is the day. This is the day." And when I did finally quit my job, I drove across the country and I only called people from home when I was already halfway across. I didn't tell anyone I was leaving because I was so afraid of what they would say. So I say this as somebody who absolutely gets it. But I would just want to tell you from the other side of it, it's you know, this is a Layla quote, not me, but it you know, fear is a mile wide and an inch deep. And so it looks like this vast ocean of of like, "I'm going to drown." But as soon as you take the first step you're like, "Oh, this is a puddle." And there's a quote from Jocko Willink that I love that's recent that's been top of mind for me, which is besides death, all failure is psychological.
+
+## [03:00](https://www.youtube.com/watch?v=zlufflFw2NM&t=180s)
+
+It's just when you the longer you think about it the more you're like, "Wait, all failure is just me drawing an arbitrary line in the sand that I say anything that does not meet the standard will force me to be upset." >> [laughter] >> And so it's like, "Okay, well, if I don't die, then I can keep going. And if I don't die, then it means I can stand it." >> Yeah. >> Real quick, if you are a business owner and you are not growing as fast as you'd like, I'd like to give you a free gift. So my team and I put together the $100 million scaling road map, which is basically 200 hours of us looking over all the portfolio companies we've had and what stages of growth they went through and more importantly, where they got stuck and how they got past it. And so we broke it into these 10 stages and we made this little kind of quiz thing where if you put in your business information, it'll tell you where you're at and the most important part for you, what to do for each of functions of the business across product, marketing, sales, customer success, recruiting, IT, human resources, and finance. And so no matter what you're struggling with, someone else has already struggled with it and solved it. And so, I'd like to give you this thing absolutely free. You can go to acquisition.com/roadmap, plug in your business information, and if you want us to actually help you deconstruct the business and you're trying to scale, we'd love to help you out. On the thank you page, you can just book a call with my team, and we will look at the business, see if we can help, and if we can, we'll invite you out to Vegas, and we'll do this in person live.

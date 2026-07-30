@@ -1,0 +1,30 @@
+---
+episode_id: "enLlQLUH4As"
+title: "The Real Reason I Work Out"
+published: "2026-02-08"
+duration_seconds: 262
+episode_url: "https://www.youtube.com/watch?v=enLlQLUH4As"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# The Real Reason I Work Out
+
+Video: [https://www.youtube.com/watch?v=enLlQLUH4As](https://www.youtube.com/watch?v=enLlQLUH4As)
+Published: 2026-02-08
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=enLlQLUH4As&t=0s)
+
+What's the What's the primary reason that you work out? >> I enjoy it. >> You You enjoy it. What What exactly do you like about it? >> How I feel when I train and after I train? >> How do you feel? >> Good. And after? >> Good. >> Not tired? >> No, man. If I'm tired, I work out. >> That's like That's like me. Well, I don't work out. >> Yeah, I feel like for if if I if I like haven't slept well, it's like the best reason to work out. >> Do you do cardio? >> No. >> Oh, so I probably do high int you do high intensity. Well, I just I just train. I mean, like I'm out of breath. I just don't do cardio. So, like if I go I'll do some hamstring move, some calf move that I'll super set to warm my legs up and then I'll do my big main like leg move. Um you guys will see the gym downstairs. It's sweet. It's like a It's like a boiler room. It's sick. Um >> damn. I wish I knew about that yesterday when the Encore gym closed at 7 p.m. >> You guys, whenever you guys are in Vegas, you're welcome. Like cuz the gym here is like >> that sweet and no one will bother you. >> $1,500 $1,600 a night on fight weekend. You're going to close the gym at 7:00 p.m. >> or I had energy. I for myself everything. I I went I go to push the button for spa gym level. Ding ding ding. The elevator's not moving. So I look at my phone. 7:00. >> What if I >> Oh. Oh, they don't even let you on the floor. >> No, you can't even go to the floor. I couldn't even cuz dude, at one point I was like, "Okay, even if I got a chance to go look in the [laughter] >> That would make me feel better." Like just to look just to look at the elliptical like, you know, hey, hey buddy, I'll see you in a few hours. Couldn't even go to the level. Like, dude, every other gym I looked up all the other gyms in the entire strip, they're all open 24 hours. Dude, this is
+
+## [01:30](https://www.youtube.com/watch?v=enLlQLUH4As&t=90s)
+
+supposed to be one of the best casino resort casinos. And you got no freaking gym, 24-hour gym. What do they expect everyone to work out during those specific hours? >> It's like, >> it is weird. You're making a good point. >> Get Dude, get your get your [ __ ] together. >> One upper body gym and one >> You have You have upper body gym and a lower body gym. Wait, so the lower body the lower body gym is uh uh like I see you you probably use that a lot, but like some of the guys like leg leg day is a lot scary for a lot of guys. >> Yeah, my sales team gets some I guess I give them some [ __ ] Some of the guys do train >> skip most guys just skip leg day. >> Yeah, they do. But I came from a powerlifting background. So like I like almost only trained legs and then like upper body was a distraction and then like I kind of had a similar transition of like you know what the most functional thing in the world is looking jacked. Um which I like stand by a lot of these. >> So think about this. Like you probably see this on the the Tik Tok like move your sacrum 3 degrees and like you know they do all this like kind of like nerdy nerdy fitness stuff and they're like that's not even functional. I'm like being jacked is functional period. Far more functional. They're like that you know one time what if a lion it's like a lion won't be running after me period. >> How do you know? >> How do I know? >> Well I think it's more [laughter] likely it's more likely that I'll be on camera than a lion chases me. And so for me it's like I'd rather have high ROI on the things I have the greatest exposure to. >> Let let me pick your brain on that for one second. Okay. Um, obviously, yes, working out, you you look great, you feel great, all the things. >> When I started training boxing, >> yeah, >> uh, I realized, oh, I'm I'm getting my
+
+## [03:00](https://www.youtube.com/watch?v=enLlQLUH4As&t=180s)
+
+fitness in, but I'm also learning a really practical skill in being able to defend myself or protect people I love. And I like the idea that I was now gaining a really utilitarian skill >> and I was getting my fitness in, >> which like that's that's part of the reason why I I didn't like uh always lift weights because I I felt like I was getting it in with with boxing. Like you wouldn't you wouldn't train um a skill set like that to to to actually like be able to like [ __ ] someone up? >> No. >> What are you trying to say, man? You don't think you could [ __ ] someone up? I guess what I'm saying is is I learn Well, I will Well, I learn. No, I think you I mean, I don't [ __ ] know. I mean, I don't know, bro. Honestly, like bodybuilders, bro. Like, they >> only one way to find out, baby. Let's go. >> Let's go, bro. All >> We're in Vegas. [laughter] Yeah, >> bro. The bodybuilder community is going to hate me, but like muscles muscles don't always win fights. Like, >> for sure they don't always win fights. I was a wrestler in high school. Like, >> oh, you could you could [ __ ] some >> If you're if you're if you're equal in skill, the guy who has more muscle will win. >> That is true. And if you're not equal in skill, it depends on how much the skill deficiency is. And sometimes a guy with more skill will win, but it doesn't take that much more skill to beat somebody who's a little stronger than >> Do you look at everything like like that? >> Yeah, probably. [laughter] >> Dude, everything that you like discuss, dude. Like you're just like, well, if you take the skill deficiency measure, [laughter] you know what I'm saying? like

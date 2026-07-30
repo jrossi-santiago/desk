@@ -1,0 +1,34 @@
+---
+episode_id: "LjtftUbrD_s"
+title: "Lessons from Losing Millions | Dave Ramsey"
+published: "2026-03-25"
+duration_seconds: 346
+episode_url: "https://www.youtube.com/watch?v=LjtftUbrD_s"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# Lessons from Losing Millions | Dave Ramsey
+
+Video: [https://www.youtube.com/watch?v=LjtftUbrD_s](https://www.youtube.com/watch?v=LjtftUbrD_s)
+Published: 2026-03-25
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=LjtftUbrD_s&t=0s)
+
+And I think you spoke to two things there. You spoke to both competence and intention, right? So, intention you know like are they good at their job and or do they do they mean mean well, which I think it kind of ladders up to on brand versus off brand. Is this a Ramsey thing to do? Is this the Ramsey way? Um So, if just because I think everybody loves a the good story, what's the most what's the biggest goof up you've had uh in 35 years on something that was off brand for Ramsey that you were like, "Man, I can't believe we did that." Like like and and and what what then what did you do about it afterwards? Cuz I'm sure every business owners had a big goof up and been like, "Shoot, that was bad." You know, I I I I don't know if it was off brand, but um >> [sighs and gasps] >> Huh. I think one of the most expensive things we ever did uh was that we got about uh several millions of dollars into uh the uh building of a debit card. Okay. >> a Ramsey debit card that we It wasn't off brand. It was right on brand. But um but but what this is It was one of those things we didn't know what we didn't know. Banking regulations and and so forth. So, we're looking for a click-and-mortar bank to park the thing in cuz it's we're not in the banking business. We're certainly not going to open a bank. Good lord, no. Um that would be there's no way. But but there there's tremendous um revenue potential in the transaction fees.
+
+## [01:30](https://www.youtube.com/watch?v=LjtftUbrD_s&t=90s)
+
+And so, we're looking at the Ramsey debit card and it's something that we could promote. We could brand it. Had a nice little gazelle on it. Had a nice little R on it. That kind of stuff. And um we screwed around that that thing was born in special projects committee. It was a baby. It was an orphan and we put it we brought it That's an deal. We brought in an outside guy that knew the banking world and he's still with us today. He works in another area. He was brilliant guy. Really smart. And um I don't I never want to lose the guy. But uh we got down into that thing and it uh you know, of course it's has to survive through the pandemic. Uh and it and that that slowed everything down. Shut everything down for a while. Had to back put it on the shelf. Get it off the shelf and dust it off. Okay, get it going again. Get the beta picked back up. Get the alpha picked up first and get the beta picked up. And I think we're at about 10,000 people in beta. Okay. >> And um the uh the the the uh outside fraud uh bots started hitting the thing. And we thought that the bank had the uh the software to catch all of that. Uh and then we're looking at okay, we're responsible for these overdrafts that are being created. We have to cover them um in our contract and real quickly the thing starts going sideways. And I'm like, "Man, I'm so many millions into this thing. I really don't want to kill
+
+## [03:00](https://www.youtube.com/watch?v=LjtftUbrD_s&t=180s)
+
+this thing." But uh we're looking at the risk and the upside and then we just we blew it up. We killed it. And I still got one of those little debit cards in my folder. I carry it to remind me of how stupid I was. We weren't stupid really. We we did everything correctly, but what we we were ignorant. We did not know what we didn't know about what our exposures were. And once those exposures became um >> [laughter] >> evident, uh we just had to go, "Hey, this is way scary. I can't breathe and we're not doing this." You [laughter] like, "Our losses could be infinite. Huh." Yeah, exactly. Exactly. I'm like, "Yeah, yeah, yeah, if I write you know, if we lose the several million we've got in it, that's that pales in comparison to how bad this could be if we don't stop. So, we're going to stop now. And uh I think the bank that we were working with uh later went sideways and was in the news and blew up. And so, I think I think uh God protected us by letting us exit the thing early cuz we would have gotten the opportunity to exit anyway or we would have to move the whole project to another bank when that bank blew up. But it was a click-and-mortar bank thing. I feel like a lot of people have had that same like this is such a good idea on paper. Why is this not working the way I want it to? >> Exactly. And it was working. The customer loved it. We would have been able to track for the customer track their expenses and give them report and feedback. The data we could have reverse furnished back to the customer was going to be oh man, it was going to be beautiful.
+
+## [04:30](https://www.youtube.com/watch?v=LjtftUbrD_s&t=270s)
+
+>> Oh, yeah. I mean, I see it. It's a I mean, it would it it's compelling. And and the you know, and we had written so many of the APIs and so much of the tie-ins, you know, to to get all that stuff. We're running it on every dollar in the beta. But uh Yeah, I got it got hairy. Real quick, if you are a business owner and you're not growing as fast as you like, I'd like to give you a free gift. So, my team and I put together the $100 million scaling road map, which is basically 200 hours of us looking over all the portfolio companies we've had and what stages of growth they went through and more importantly, where they got stuck and how they got past it. And so, we broke it in these 10 stages and we made this little kind of quiz thing where if you put in your business information, it'll tell you where you're at and the most important part for you, what to do for each of functions of the business across product, marketing, sales, customer success, recruiting, IT, human resources, and finance. And so, no matter what you're struggling with, someone else has already struggled with it and solved it. And so, I'd like to give you this thing absolutely free. You can go to acquisition.com/roadmap, plug in your business information. And if you want us to actually help you deconstruct the business and you're trying to scale, we'd love to help you out. On the thank you page, you can book a call with my team and we will look at the business, see if we can help, and if we can, we'll invite you out to Vegas and we'll do this in person live.

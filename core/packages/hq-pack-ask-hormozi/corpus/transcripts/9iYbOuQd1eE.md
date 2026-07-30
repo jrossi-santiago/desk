@@ -1,0 +1,34 @@
+---
+episode_id: "9iYbOuQd1eE"
+title: "Helping a $3M Dental Practice Scale"
+published: "2026-04-28"
+duration_seconds: 337
+episode_url: "https://www.youtube.com/watch?v=9iYbOuQd1eE"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# Helping a $3M Dental Practice Scale
+
+Video: [https://www.youtube.com/watch?v=9iYbOuQd1eE](https://www.youtube.com/watch?v=9iYbOuQd1eE)
+Published: 2026-04-28
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=9iYbOuQd1eE&t=0s)
+
+I know we talked to >> Dentist, yes. 3 million, 5% profit margins. You have five different ones, three are part-time. Perfect. Wow, great memory. Yeah, you're in Dallas. It's 30-year-old business that you inherited from your father. Yes. Yep. And my social security number is Just kidding. >> Yeah. I can pull it up anyway. Um so I know we talked yes last night, which you obviously remember, and um a couple other people from your team we talked about this issue um that my number one constraint probably isn't our cancellation rate, but it is something that I'm like really perplexed about and want to at least go back with a little bit of something to share with my team about. >> Sure. Um so our show rate or our cancellation rate is a little over 30% and um this past year we've lost like a million dollars because people made appointments, confirmed them, and they didn't show up. Um so if you have any insight on what we could do to start improving that, I would be really help uh grateful. Yes. I don't think it's the constraint of your business. One moment, please. I'm pulling up my uh my little my little doohickey here. Okay. So uh number one is you're going to want to make sure that the actually that that time is the right time for them. And we ask questions like, "Is there anything that will possibly get in the way of you showing up for your meeting?" And so we call this an integrity tie
+
+## [01:30](https://www.youtube.com/watch?v=9iYbOuQd1eE&t=90s)
+
+down. And so after you get a time slot, you want to ask that right afterwards because then it like gets like shakes them out of their like mind. For whatever reason, it works. So I could come up with some narrative for it, but it works. Um number two is uh I think I mentioned this yesterday, but I think it might be worth considering um pulling up appointments. Like to basically can we bring them up sooner so that we have increased show up rates? Um the next one is uh let's see here. You want to make sure that you have automated reminders, which you probably do. But then you want to have manual reminders on top of that. So if you have I would have an office iPhone um and you want to send manual texts at three times. So you want to send a manual text at 24 hours uh so basically think night before. Uh second text is going to be morning of. And then the third text is going to be 60 to 90 minutes prior. Basically when they have to like get your [ __ ] together, get in the car, and and and >> three within 24 hours. Mhm. And those are manual. So you want those to be blue iPhone messages if possible. Okay. Now uh ideally we like to have some sort of um selection that they pick that we have like some cost we have incurred. So this works exceptionally well for brick and mortar, which is why I'm sharing it with you. Um and so in the gym space, obviously like we'd say, "Hey uh Sharon, I've got uh this shirt uh tell me what size you're at and I'll put it pull it aside for you. And so when you come here, I'll give it
+
+## [03:00](https://www.youtube.com/watch?v=9iYbOuQd1eE&t=180s)
+
+to you." Or it's like, "Do you want red or do you want blue?" Like it just do some sort of AB uh ask for them. And so it could be as simple as like you're going to you're going to pull I mean cuz it's a dentist's office, right? And so you're like, "Okay, what can I give them?" Well, I always get free [ __ ] when I go to the dentist's office. And so it just like have them pick the free stuff that you put in their goody bag and they and just and then I would send them a picture with their name on it so that they're like, "Oh man, they incurred this cost just for me. I have to show up now." Right? Um So that's another one. Um The Okay, we got that. Um Because you're having the issue cuz someone books and like six months later is their cleaning or whatever, right? That's the the problem here. Um Yeah, well we call and confirm their appointment a week in advance, and then we call and remind them again three days in advance, and then we call them and text them again a day before, and they'll say, "Yeah, I'm going to be there." And then 2:00 comes and they don't show up. >> you're you're you're reminding too far out. Okay. >> Like if if if I schedule an appointment on Saturday, Monday morning is a different universe for me. Yeah. No, I'm just being like super real. And so I think I think a lot of people are that way. And so all of the manual reminders are like if you want to like I would use the automated ones for the far out. Like, "Hey, you're seven days away. Hey, you're three days away." Okay. But I would have the ones that you're putting the real effort in, 24, morning, and right before. Okay. And then have
+
+## [04:30](https://www.youtube.com/watch?v=9iYbOuQd1eE&t=270s)
+
+the incentive, have the personalization. Um and I will bet you dollars to donuts that that on its own would work. Okay. Awesome. Thank you so much. I really appreciate it. >> No you bet. If you're a business owner and you are not growing as fast as you'd like, I'd like to give you a free gift. So my team and I put together the $100 million scaling roadmap, which is basically 200 hours of us looking over all the portfolio companies we've had and what stages of growth they went through, and more importantly, where they got stuck and how they got past it. And so we broke it in these 10 stages and we made this little kind of quiz thing where if you put in your business information, it'll tell you where you're at and the most important part for you what to do for each of functions of the business across product, marketing, sales, customer success, recruiting, IT, human resources, and finance. And so no matter what you're struggling with, someone else has already struggled with it and solved it. And so I'd like to give you this thing absolutely free. You can go to acquisition.com/roadmap, plug in your business information, and if you want us to actually help you deconstraint the business and you're trying to scale, we'd love to help you out. On the thank you page, you can book a call with my team and we will look at the business, see if we can help, and if we can, we'll invite you out to Vegas and we'll do this in person live.

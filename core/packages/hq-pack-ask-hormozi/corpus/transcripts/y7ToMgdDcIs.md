@@ -1,0 +1,38 @@
+---
+episode_id: "y7ToMgdDcIs"
+title: "Helping a Construction Company Doing $11M/Year Get to $100M"
+published: "2026-03-19"
+duration_seconds: 398
+episode_url: "https://www.youtube.com/watch?v=y7ToMgdDcIs"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# Helping a Construction Company Doing $11M/Year Get to $100M
+
+Video: [https://www.youtube.com/watch?v=y7ToMgdDcIs](https://www.youtube.com/watch?v=y7ToMgdDcIs)
+Published: 2026-03-19
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=y7ToMgdDcIs&t=0s)
+
+Uh, I own a commercial construction company. Did 11 million uh this year. 10 last year. Um read the book uh Built to Sell. So, I started analyzing my company and I said, "All right, I figured out that uh construction companies are not an easy asset to sell." Um that their enterprise value is based off of assets or backlog of work. Uh-huh. As a commercial contractor I thought to myself, "Okay, well, how am I going to do that?" So, we started doing public works projects. Bought some heavy equipment. Now, we have contracts that are for several years. At the same time with the clientele base that I had uh in the multi-family space, I started thinking about, "Okay, well, if I don't want to sell this company, if it's going to be that difficult how do I get recurring revenue?" So, I started an elevator company. And uh over the last 12 months we did 3 million Yeah. >> to start and um It's a racket. Congrats. I have elevators. It's ridiculous. We can help you. So, uh if you were me, you know, with the two companies and the combined revenue um what would you do next in order to go from 10 to 100? >> What's profit on three versus 11? 30% on the three. Mhm. 18% on the 11. Okay. So, you're making roughly double on the construction side, but cash flow sucks and it's a pain to even take money out of the business probably. I'm guessing. Um Okay. So, it's a tough call cuz you already did it, right? You can't like not have the kid. It's already out there running around. That's what I had said. Yeah, you can't can't insert. It doesn't doesn't go back up, right? Um
+
+## [01:30](https://www.youtube.com/watch?v=y7ToMgdDcIs&t=90s)
+
+Okay. So, I think it dep- again, it depends on what you want to do. So, I think the elevator company totally could sell. Um if you wanted to sell that business. Um I do. You're Are you splitting your time right now? Yes. Yeah. So, it might take $800,000 in profit on the construction side to get the two or three leaders that you need to do it without you and then it would continue to exist. Um I do think the elevator is the better opportunity for the reasons that you already are aware of and it probably grew significantly faster than the other one did. Oh, yeah. Yeah. Um This isn't normally what I would say in this type of situation, but I'm just familiar with it. Um What timeline do you have? Like selling five, selling 10? Definitely 10. Um you know, if I could do it in five. Okay. You could sell in five. I mean, what's the growth rate on the um elevator? Well, I mean, year one, 3 million. >> Oh, year one, right right. So, it's a straight-up elevator. Okay, sorry. Exactly. >> Straight to the penthouse. Um Okay. Uh I like So, there's the reasonable advice, which is, "Hey, hire the people and then let them continue to run that thing." And then I would say like what the quote Alex advice would be which is super unreasonable. And I only give it because this is what
+
+## [03:00](https://www.youtube.com/watch?v=y7ToMgdDcIs&t=180s)
+
+I did. Um I burn things down. And so, if I can't exit it, so like you could exit the 11 now for way less than you think it's worth. Right? I'd I would just be willing to exit it. I had six gyms and I fire sold them in 90 days. I made I made in total on six what I should have made on one. And then within six months I was doing a million a month on the next thing. And so, once it was like clear that this was a way better opportunity, like the orders of magnitude better, which I think you were in that situation right now. It's super niched. It's you've obviously got ins in terms of understanding how to work. It's already recurring. It is a racket. Uh a legal racket, but It is. No, it is. Um If you're willing to take a step back to like you will if you had if you're like, "I want to do this in two years." You'll like the break-even point on this is two years. Which is like if you got rid of the construction firm in the next 90 days and you said, "I don't care what the price is. I just want all the headache back." You will grow so much faster on the elevator side. Like it'll Like you did three while splitting your attention. If you had had full attention, you might be at eight. And so, I tend to think only exclusively on opportunity cost. Um I don't normally give that advice cuz it's like it's just so hard for people to do, but I burn things down when I like am very clear that this is the next thing I'm going to do just cuz I know that my the opportunity cost of the time of just continuing to wind this down or get it ready for sale I could make more than
+
+## [04:30](https://www.youtube.com/watch?v=y7ToMgdDcIs&t=270s)
+
+I'm going to make on that sale in this opportunity. So, like let's say that a perfect a perfect exit for that business would be like $5 million or something, right? Based on the assets and the AR that you have coming. It's like for me to build another million dollars in recurring revenue in the elevator business, I can do that in a quarter which equals the enterprise value of the other thing. And so, as long as you can get out of your head around like cuz everyone if you do this everyone will tell you that you're crazy. Um everyone has told me that I was crazy every time I've done this. Um and that's why also none of them are wealthier than I am. You know, just like like no one who is wealthier than me told me that. So, as long as you're good with it and you can just stomach the fact that your wife's like, "You work so hard on this." And your dad's like "This is ridiculous. You all the blood, sweat, and tears and all this stuff." And you're like "I did this so I could learn all these skills and apply it here. It was not a waste cuz I was the asset." Thank you. Appreciate you. If you are a business owner and you are not growing as fast as you'd like, I'd like to give you a free gift. So, my team and I put together the $100 million scaling road map, which is basically 200 hours of us looking over all the portfolio companies we've had and what stages of growth they went through and more importantly, where they got stuck and how they got past it. And so, we broke it in these 10 stages and we made this little kind of quiz thing where if
+
+## [06:00](https://www.youtube.com/watch?v=y7ToMgdDcIs&t=360s)
+
+you put in your business information, it'll tell you where you're at and the most important part for you, what to do for each of functions of the business across product, marketing, sales, customer success recruiting, IT, human resources, and finance. And so, no matter what you're struggling with, someone else has already struggled with it and solved it. And so, I'd like to give you this thing absolutely free. You can go to acquisitions.com/roadmap, plug in your business information, and if you want us to actually help you deconstruct the business and you're trying to scale, we'd love to help you out. On the thank you page, you can just book a call with my team and we will look at the business, see if we can help, and if we can, we'll invite you out to Vegas and we'll do this in person live.

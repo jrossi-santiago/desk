@@ -1,0 +1,38 @@
+---
+episode_id: "hbRuTx98gM0"
+title: "How to Sell Your Education Business for 8 Figures"
+published: "2026-06-10"
+duration_seconds: 367
+episode_url: "https://www.youtube.com/watch?v=hbRuTx98gM0"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# How to Sell Your Education Business for 8 Figures
+
+Video: [https://www.youtube.com/watch?v=hbRuTx98gM0](https://www.youtube.com/watch?v=hbRuTx98gM0)
+Published: 2026-06-10
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=hbRuTx98gM0&t=0s)
+
+I sell accountant education programs in Brazil and I have a college only for accountant. >> Okay. So you have an accounting college in Brazil? >> Yeah. >> Is it a legit college like certified they get you know >> Yeah. Yeah. >> Okay. Cool. >> I bought the college and only for accountants. We have more than 1 million accountants in Brazil. And there is a niche. So I have more than 30,000 active students and more than 100,000 total in 6 year of company. Yeah. More than 1.2 million followers on social media. >> Cool. >> So my biggest issue now it's if I would would scale my business in education area or if I go to AI and software and things like that because in Brazil every accountant needs a software system to work. >> Uh-huh. >> But I see a huge opportunity that but I'm not that experienced. >> You know? >> Yeah. So the question you have is should I partner or build an accounting software to get all of my distribution base of accountants to use? >> Yeah. >> Yeah, I think that's a smart idea. It also depends on your goals. What do you what do you want to happen? >> Yeah, because it I already already master education. I know how to sell it. And there are a lot of opportunities in education but >> Sorry? >> What's revenue? >> 12 million. This this year. >> Okay. US or Brazil? >> Brazil.
+
+## [01:30](https://www.youtube.com/watch?v=hbRuTx98gM0&t=90s)
+
+>> Brazil dollars. US dollars. >> US dollar. Brazil is like Yeah. >> Is that right? >> Reals is 70 million. >> Okay. Got it. Okay. So 12 million US. Um what do you want to have happen? Do you want to sell the company? Like what do you want to have happen? >> I want to sell the company. >> Okay. Well then yeah, you'll have to do the real the um the software thing. >> Yeah. >> Unless unless you can trans like you could you could sell the company without starting the whole software thing. Um by making sure that you can create a continued education kind of certification that they renew on an annual basis and in professional services like accounting, super common to have like one to three thousand dollar a year continued ed. Um, kind of call it like forums, whatever, where they like kind of get up to date on new laws that are coming out. Uh, you hold like monthly webinars with people who are experts in specific types of accounting or whatever. Um, and then when they have questions, they can ask that kind of forum. It's I was literally talking to our general counsel about it and she's in one for um, for attorneys. It's three thousand dollars a year. And so it's like it's super common. Um, if you like that could be something that you could sell. Um, I would encourage you if you want to build the software out that you need a technical co-founder. Um, and I would just say like, "Hey, basically you're it's going to be a negotiation." Um, but you have distribution baked in. So it's really like you just need to make this not suck and we can make a bunch of money. Um, but this I take that back. That guy has to be good or gal.
+
+## [03:00](https://www.youtube.com/watch?v=hbRuTx98gM0&t=180s)
+
+Um, and so I will say this because who here has thought about starting a software for your business to make it more sellable? Can I get get hands raised? Okay, fantastic. All right, great. Um, here's why it's a terrible idea. Um, >> [snorts] >> so software does not inherently make a business valuable. Right? There are components that make software in general, there are economics that software often has when done right, that can be valuable, which is growth, typically virally, ideally. Uh, gross margins, so like additional customers cost very little and there's high profit there. Um, and revenue retention. Like if people get fully integrated in a CRM, uh, like what you're trying to do with the accountants, it's very likely that they will stick for stick with it for an extended period of time. And if you own a CRM like what I think you're trying to build, um, you might accomplish something called net negative churn, which is even if you keep 80 out of 100 people by the end of the year, the other 80 spent more on the software because they upgrade, their business grows, etc. So that you actually retain more than 100% of revenue. >> Okay. And so, those those features are still the things that make the business valuable. If you just add software in, you will not become a software company. You will not get a software multiple. You will not become something that is more sellable. It is only if you accomplish building a software that is exceptional that you will have an exceptional business that becomes sellable. Does that make sense? Okay. I know there's language barrier, so like I can repeat anything. Um and so that being said, I would bring someone who's a technical co-founder. I would give them, you know, a slug of equity that's meaningful, and then make sure that you save other equity for other key engineers that you need to bring in. Um and then that's basically it. That being
+
+## [04:30](https://www.youtube.com/watch?v=hbRuTx98gM0&t=270s)
+
+said, like it's going to be hard. Like I have not seen anyone do it well. So, likelihood is low. But the plan makes sense. So, I can give you a a second idea that might be better, which is you just find the best software that's for accounting in Brazil today, and then you make a deal with them that's really profitable for you, and then you just collect this very sticky revenue stream, and you can tie that into your continued education without having to build another company. That will probably work great. Okay. Thank you. Like that better? Yeah. Me too. Okay. >> [laughter] >> If you are a business owner and you are not growing as fast as you like, I'd like to give you a free gift. So, my team and I put together the $100 million scaling road map, which is basically 200 hours of us looking over all the portfolio companies we've had and what stages of growth they went through, and more importantly, where they got stuck and how they got past it. And so, we broke it into these 10 stages and we made this little kind of quiz thing where if you put in your business information, it'll tell you where you're at, and the most important part for you, what to do for each of functions of the business across product, marketing, sales, customer success, recruiting, IT, human resources, and finance. And so, no matter what you're struggling with, someone else has already struggled with it and solved it. And so, I'd like to give you this thing absolutely free. You can go to acquisition.com/roadmap, plug in your business information, and if you want us to actually help you deconstruct the business and you're trying to scale, we'd love to help you out. On the thank you page, you can just book a call with my team, and we will
+
+## [06:00](https://www.youtube.com/watch?v=hbRuTx98gM0&t=360s)
+
+look at the business, see if we can help, and if we can, we'll invite you out to Vegas, and we'll do this in person, live.

@@ -1,0 +1,30 @@
+---
+episode_id: "jr9ITWlL5P8"
+title: "How to Find A Players for Your Business"
+published: "2026-02-14"
+duration_seconds: 265
+episode_url: "https://www.youtube.com/watch?v=jr9ITWlL5P8"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# How to Find A Players for Your Business
+
+Video: [https://www.youtube.com/watch?v=jr9ITWlL5P8](https://www.youtube.com/watch?v=jr9ITWlL5P8)
+Published: 2026-02-14
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=jr9ITWlL5P8&t=0s)
+
+So you're like okay how do I find these types of a a a players right is we want to look for people who describe their role in metrics in as much detail as humanly possible right so I can measure someone's skill in any endeavor based on the quality and the quantity of metrics they track so if I said and I'll tell you I'll tell you the first time I like a great example of this so the first time I hired a really good HR professional and I've had plenty of them in my history but um the first time I hired a good one um she asked me questions on the interview she was like So, what's your cost of acquiring talent? And I was like, I don't know. That's a good question. I should know that. She was like, "What's your time to fill?" And I was like, "Wow, I didn't I didn't really think about it." She's like, "Okay, what's your two-way fit in terms of what percentage of 90 days later do both the employee and the manager say that it's a 10 out of 10 fit?" And I was like, "Don't know." And so, she starts giving me all these different metrics for for the talent side of the business um that I had no idea about. I was kind of in the uh the internet marketer world of oh uh if I have a low refund rate therefore my product is good. It's kind of like I had that on the talent side where I was like oh which by the way that is not how you know you have a good product just FYI. Um I was on the talent equivalent of that of like well you know I mean we haven't had any lawsuits lately. It's like duh you think u that's probably not a good way to know if you have a good culture or a good team or a good talent talent management um process. And so again, the quality and quantity of metrics. Now, this particular HR professional was uh a leader in
+
+## [01:30](https://www.youtube.com/watch?v=jr9ITWlL5P8&t=90s)
+
+turnarounds. And so she knew all these different metrics and then obviously I learned all those things from her and then discarded her. I'm kidding. Uh but I learned those skills so I could apply them. And fundamentally that's I I try to find people who can teach me things because that's like the best thing in the world. It's like you pay someone to say, "Hey, you know way more than me. Go do that in here." When you're starting out though, it's hard to afford those people because those people don't want to work for you or you can't afford them or both. right now, I'll give you a couple a couple rules of thumb that that also took me too long to figure out is that um number one, uh I would interview as interview more people than you think you should. And I know how costly this is as a business owner. So, you want to stack as many as you can. Also, I highly encourage group interviews um pretty high up once you get into director and executive. tough, but like anything that's like frontline to maybe even manager, um you can have group interviews because it'll save you time and you'll very quickly be able to to read people's vibes. And so the idea here is that um I'll tell you I'll tell you a story. Um for school, Sam interviewed 600 developers. 600 developers to find our co-founder Daniel, the CTO. 600. So think about one, two, three, four, five. Okay, so that's just me naming numbers. That felt like it took a long time. Now imagine each of those represented a 30 to 60 minute conversation. And then imagine that that's over a year of those conversations. It is brutal. But when you do that, what happens is you start to get a lot of nuance of who's good and
+
+## [03:00](https://www.youtube.com/watch?v=jr9ITWlL5P8&t=180s)
+
+who's not. When you talk to 10 people who say that they are u a manager, a sales manager, you're going to get a way better idea than when you talk to one of who's actually legit. When you talk to your 50th person, you already know who's got game. And so what happens is it starts to tune your picker. Because fundamentally, the reason I think we've been able to grow businesses faster and faster and faster with each each next company that we start is because pattern recognition um becomes one of your biggest assets. Like some people call this wisdom or whatever you want to call it, but fundamentally it's just that I've had a good sales manager. They looked like this. You look like that person. Therefore, you have a higher likelihood of working out in this role. But to figure out which sales manager was good, I had to hire five different sales managers and waste six months or a year on each one of these before I finally found somebody who's good. So that's the thing is that if you look at every role in the business, and again, this goes from the ground up. So, a frontline support rep, a frontline sales rep, a frontline media editor, whatever. And then all of a sudden, it's like, okay, those start to work. And then your business starts to grow. And then you're like, I've never hired my first level of management. So, you got to figure out what a good sales manager, a good media manager, a good all these roles. And then after that, you're like, okay, well, that starts to grow. Now, I've got my director level. And so, each of these levels, you keep putting these people in until eventually, you know what it looks like when it's right across an entire org. And so, what happens is when you start really building businesses, you're not actually building the business. It feels much more like assembling the people who then build the business.

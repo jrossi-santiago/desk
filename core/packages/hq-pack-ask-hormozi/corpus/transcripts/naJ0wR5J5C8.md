@@ -1,0 +1,22 @@
+---
+episode_id: "naJ0wR5J5C8"
+title: "Do you need to build a sellable business?"
+published: "2026-01-28"
+duration_seconds: 74
+episode_url: "https://www.youtube.com/watch?v=naJ0wR5J5C8"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# Do you need to build a sellable business?
+
+Video: [https://www.youtube.com/watch?v=naJ0wR5J5C8](https://www.youtube.com/watch?v=naJ0wR5J5C8)
+Published: 2026-01-28
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=naJ0wR5J5C8&t=0s)
+
+But that's okay. You can just make money. And I want to make making money cool again. Make active income cool. I mean a close friend of PC who was here for the um uh the the Jim Walsh book the book launch Jim Walsh Jesus the Money Walsh book launch. Um he took home 70,000 a year for 12 years. And then had a $250 million exit. And if you ask me when I'm 80 if I'd rather have my 20s and part of my 30s making multiple millions of dollars a year every year a deca million dollars every single year and not have an exit at the end there yeah I would [ __ ] take the 12 years of being rich as [ __ ] during my 80s. >> [laughter] >> Right? So it's like I understand the headline but there's also the reality of like I had 12 years like he was eating ramen noodles for for 12 years. And he deserves the exit. He [ __ ] crushed it. But like that's the trade. I don't think there's anything wrong with that. Would I take a 100 instead of 250 and have it for 15 years of my life? Probably. Cuz 15 years of your life. So to Gentry's point I think you can hit your goal in 7 years. And if you Yeah.

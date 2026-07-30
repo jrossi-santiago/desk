@@ -1,0 +1,30 @@
+---
+episode_id: "eoDsLi3KpQs"
+title: "The Conversation That Will Change Your Life"
+published: "2026-05-19"
+duration_seconds: 271
+episode_url: "https://www.youtube.com/watch?v=eoDsLi3KpQs"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# The Conversation That Will Change Your Life
+
+Video: [https://www.youtube.com/watch?v=eoDsLi3KpQs](https://www.youtube.com/watch?v=eoDsLi3KpQs)
+Published: 2026-05-19
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=eoDsLi3KpQs&t=0s)
+
+Yeah, the life you want is on the other side of a few hard conversations and you're living a life you hate because you're too afraid to have them. >> I think about that a lot. Because like whenever I feel anxious or insecure or angry or sad, I'm like, what conversation do I need to have that I'm not having? And so then and usually if I just think for not that long, I'm like, this is the conversation I've been putting off. And then, you know, I'm not the the the the poster child of mental health and so um I'll just call myself a pansy for not having the conversation and then and then I just have it. And so again, I think it's like I need to have this conversation and the time between when I have it versus or when I when I know I need to have it when I actually have it, just cuz it continues to compress. And if you've ever had like a a breakup or a employee firing, one of the or a quitting if you're an employee, like these things that you dread, I don't know if you notice it, but like the day you do it, the moment after you do it, I'm like, how many other conversations can I have? Like I want to be like >> I'm like, who else do I need to talk to? Yeah, totally. Cuz the >> Become a serial killer for awkward conversations. >> When I so like the next series of hard conversations that I had after I I left home was actually like years later. So I had I had multiple partners in one I said I had a I had a partner in one of my gyms, I had a partner in four other gyms. I had uh a partner in a Cairo and dental marketing agency and all of them relied on me to make money. And so all of their livelihoods were
+
+## [01:30](https://www.youtube.com/watch?v=eoDsLi3KpQs&t=90s)
+
+still dependent on me, but I was splitting everything and it was just it was it was horrible for me at the time. And so I remember when I I ended up getting in a DUI and, you know, I talked to a uh a performance coach or whatever. And he was like, your stress and these conversations could literally kill you. He's like, they almost did. So I I got in a head-on collision at 60 miles an hour and I walked away. No injuries. Um but it was like my wake-up call, but not to stop drinking. It was my wake-up call that I needed to have these conversations. And that's what I was avoiding when I was drinking. It wasn't the alcohol. It was what were the things that I'm avoiding that I'm using alcohol to get away from. And so, um the next day I had the first conversation with the first partner. And it was horrible. But the moment I was done, I was like, I got to call the other guy. And I called the other one. I was like, this is how it is. And the thing is is I had this backstop of my death. Of like you almost just died because you wouldn't have this conversation. And so then it just gave me this courage to just be like like in whatever the reaction was, I was like, I'd rather be alive. And that was it. And so it's it's weird though because death has been this really recurring theme in my life that like the same thing happened when I was like the only thing that gave me enough balls to stand up to my dad, to be fair, from a distance from the car when I was driving halfway across the country. Like let's not make my let's not make me into a too big of a hero here. Um was the idea that like I started thinking like every day I was like, I hope I don't wake up. You know what I mean? Um and that was the that was that was the thing where I was like, this is a big enough problem that like if you don't want to wake up, then >> What have you got to lose?
+
+## [03:00](https://www.youtube.com/watch?v=eoDsLi3KpQs&t=180s)
+
+>> Exactly. And that was it. And I was like I have nothing to lose. And that was when That was when I think on the last podcast we talked about this where it's like if everybody who's like at the bottom and feels like they have nothing going for them reframe that as I have nothing going for me, which also means that I have nothing to lose by taking action, it makes you a much more dangerous person. And I think that was the flip that I've had repeatedly shown to me in my life that allowed me to take the step that I was afraid to take. >> Real quick, if you are a business owner and you are not growing as fast as you'd like, I'd like to give you a free gift. So, my team and I put together the $100 million scaling road map, which is basically 200 hours of us looking over all the portfolio companies we've had and what stages of growth they went through and more importantly where they got stuck and how they got past it. And so we broke it in these 10 stages, and we made this little kind of quiz thing where if you put in your business information, it'll tell you where you're at, and the most important part for you, what to do for each of functions of the business across product, marketing, sales, customer success, recruiting, IT, human resources, and finance. And so, no matter what you're struggling with, someone else has already struggled with it and solved it. And so, I'd like to give you this thing absolutely free. You can go to acquisition.com/roadmap, plug in your business information, and if you want us to actually help you deconstruct the business and you're trying to scale, we'd love to help you out. On the thank you page, you can schedule a call with my team, and we will look at your business, see if we can help, and if we can, we'll invite you out to Vegas, and we'll do this in person live.

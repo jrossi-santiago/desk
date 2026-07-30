@@ -1,0 +1,34 @@
+---
+episode_id: "b0htMXlQz6Y"
+title: "How I come up with content ideas"
+published: "2026-03-19"
+duration_seconds: 295
+episode_url: "https://www.youtube.com/watch?v=b0htMXlQz6Y"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# How I come up with content ideas
+
+Video: [https://www.youtube.com/watch?v=b0htMXlQz6Y](https://www.youtube.com/watch?v=b0htMXlQz6Y)
+Published: 2026-03-19
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=b0htMXlQz6Y&t=0s)
+
+So, when you're thinking about the ideation piece, right? So, is that like are you separating that into another day? Is that like on the same day? And then how are you thinking about like the hooks, the stories, all that type of stuff? Um the team brings everything. Okay. >> So, the team brings everything from like cuz they'll watch this podcast. And then they'll be like, "Dude, that story was interesting. Can we do a thing on that?" And then cuz like they Basically, the team is inherently curious people who like my content. >> Mhm. And so, like to use some Gary terms, like they [ __ ] with my content. And so, the stuff that they want to know more about, we we go into more depth on. >> Yeah. >> And so, um I haven't been asked to come up with topics in a really long time. Um but I'll tell you how I would come up with topics cuz this is how I was doing it when it was just me starting out. Is that I just like to use time as my as my like anchor for this. So, I go far past, which is like what are the what are the life-changing experiences or conversations that I've had that have shaped the way my world view. And so, those are stories that I will tell because I think they're impactful and people get value from them. Um then I have recent past, which is like let me look at my calendar uh over the last week and just look at all the meetings I had and I just like I would have my phone up and be like, "Okay, so uh I was talking to one of our portfolio companies who's trying to make a change on pricing. And so, this is what we were considering." You know what I mean? I'm just I just literally go through what my life was. Um I have present, which is whenever something comes up in the moment, I always have a way to like brain dump it. And so, for me Twitter or X um is kind of my brain dump. Whenever >> That's Twitter. Yeah. Or that Well, my
+
+## [01:30](https://www.youtube.com/watch?v=b0htMXlQz6Y&t=90s)
+
+they they repost stuff. Um but Twitter is my is my home home base for that. And so, they'll also come with the tweets that they thought were like interesting to make more content about. Um and then you've got like manufactured, which is stuff that uh doesn't exist at all. Um >> What's an example? Uh like I lived on uh $100 in for 30 days. Like here's what happened. I'm just like as an example. I That wouldn't be one that I would make, but like cuz somebody else could make that. But stuff like that and then and then like case studies and vlogs. So, those are kind of like the buckets that that that we think through. But most of you'll notice is just like real stuff. So, we don't have to come up with like what would people find interesting? Like, well, this is what I did and if they find it interesting, awesome. And what's like the micro there? Is it like one day at a time they just dump a bunch of topics on you? Well, what we do recording cuz we record like twice a month. >> Okay. Um And this is what? How how much in a day? How many hours? >> It's a full day. Okay. >> So, it's it's two full days a month is when we do the recording. Once we get the headquarters, it'll probably be smaller chunks more frequently, but for right now it's just like one 8-hour day twice a month. Got it. >> Um but they'll have like full like six-page pre-productions for every video. Nice. >> Of like these are these are these are the themes, either store These are the the four or five stories that we think are that we've pulled from your other pieces that we think would tie well together around this topic. Um I talked to the team to get stats on some of
+
+## [03:00](https://www.youtube.com/watch?v=b0htMXlQz6Y&t=180s)
+
+these companies for this case study. So, like the media team now will talk to our subject matter experts at HoldCo to get like, "Hey, what what was new this week? Did you guys do any implementations or whatever?" And then they'll take that and then repackage it and then that'll become content. Dude, I I mean, this is a sidebar here, but like I know even with Caleb and my my just sense in general like you like to be friends with your staff, right? And which I think is good and that's how they really understand what you want and how you think as a person. Yeah. How do you indoctrinate them into your way of thinking? I'm like a chief of staff would just be sitting and watching you and shadowing you for a couple months, right? >> Yeah, I think it's osmosis. Okay. I think it's just proximity and exposure. Yeah. And that's why that's why I'm so excited for the headquarters. It's funny cuz as a as a previously remote before it was cool, you know, that's how we scaled Gym Launch. Everything we had was remote and this will be since my brick-and-mortar chain, this will be the first in person stuff I've done. But it's weird because I feel incredibly confident at how much of a game changer I think it's going to be. Real quick, if you are a business owner and you are not growing as fast as you'd like, I'd like to give you a free gift. So, my team and I put together the $100 scaling road map, which is basically 200 hours of us looking over all the portfolio companies we've had and what stages of growth they went through and more importantly where they got stuck and how they got past it. And so we broke it in these 10 stages and we made this little kind of quiz thing where if you put in your business information, it'll tell you where you're at and the most important part for you, what to do for each of functions of the business across product, marketing, sales, customer success, recruiting, IT, human resources, and finance. And so, no matter what you're struggling with,
+
+## [04:30](https://www.youtube.com/watch?v=b0htMXlQz6Y&t=270s)
+
+someone else has already struggled with it and solved it. And so I'd like to give you this thing absolutely free. You can go to acquisition.com/roadmap, plug in your business information, and if you want us to actually help you deconstruct the business and you're trying to scale, we'd love to help you out. On the thank you page, you can book a call with my team and we will look at the business, see if we can help, and if we can, we'll invite you out to Vegas and we'll do this in person live.

@@ -1,0 +1,38 @@
+---
+episode_id: "-iOTVPDunmE"
+title: "The First $100K Is the Hardest"
+published: "2026-03-06"
+duration_seconds: 394
+episode_url: "https://www.youtube.com/watch?v=-iOTVPDunmE"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# The First $100K Is the Hardest
+
+Video: [https://www.youtube.com/watch?v=-iOTVPDunmE](https://www.youtube.com/watch?v=-iOTVPDunmE)
+Published: 2026-03-06
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=-iOTVPDunmE&t=0s)
+
+a visual of life as this like bloody game of tug-of-war where like most people their hands just get too cut to keep holding on to the rope is like [snorts] it's in it's stuck in my head. It's that's [clears throat] really powerful. >> It was tough. So, I'm I'm The first hundred grand is the hardest. And I know that that sounds like an unfathomable amount of money. It took me five years. Like I get it. So, like you just have to save it one dollar at a time. Like that's like that's what it is. Now, obviously I talk about other things like there are smarter ways to make money, for sure. Like if you can sell expensive stuff, you can just move the decimals. Like I mean like the thing is is it is factually true. It is spiritually false. And I don't even believe in spirituality in general, but like it is it is tough to sell a ten million dollar building and make a million dollar commission or a five hundred thousand dollar commission when you are broke as [ __ ] It is very like it is like you would have to become a different person, which is why most people's first sale is not that. But is it technically possible? Yes. A lot of people watch YouTube and the internet for complex money making skills and they haven't even mastered showing up on time. And so, it's like they want to go straight to calculus, but they don't know how to do simple addition. But the thing is is that like simple addition is foundational to that.
+
+## [01:30](https://www.youtube.com/watch?v=-iOTVPDunmE&t=90s)
+
+And none of the other stuff will matter unless you can do the basics, but the basics doesn't make them less important. Usually, they're the foundation of a building, which make them arguably more important. They just are simpler to understand, but not simpler to do. And I think that's the big disconnect a lot of people have is that they think they because they understand something conceptually that they feel like they have already mastered the skill, which are two very different things. And so, one of the The common traits that people who are poor have is that it's always tomorrow. And so they never talk about anything in terms of today. And so it's about starting tomorrow, the diet tomorrow, the diet on Monday, next year, my New Year's resolution. It's always It's always pushing off. So rather than uh delaying gratification, they delay pain. And so rather than trying taking pain now for pleasure later, they take pleasure now and pain later. And so they flip the equation. And so they're surprised when today is later from yesterday that they're in pain. Because if if last week you were like, "I'm starting my diet this week." Then it is now this week. And you've delayed the pain to today. And that means that the body you have right now is the result of the delayed pain that you are now forcing yourself to endure. And so they're somehow surprised when the bill comes due that they pushed off from the past. And so the first lesson of getting out of poverty is two words. It's my fault.
+
+## [03:00](https://www.youtube.com/watch?v=-iOTVPDunmE&t=180s)
+
+It's I have to own that. And I think my fault you can kind of extrapolate to right now. Not Like you basically have to own everything that passed to this moment. So all the pain that I've gone through, all of the Mondays that I've missed, all of the diets that I've skipped, all of the savings I haven't made, all of those are not my dad's fault, my mom's fault, my circumstances' fault, the country I was born in's fault, the zip code, any of those things' fault. It's just mine. And the thing is is that people have this belief that because they have a strong argument for why it's something or someone else's fault that that somehow helps them. And it just doesn't. Because whatever you cast blame to is where you also cast power to. And so if I say "I can't succeed because my mom didn't love me." Guess who controls me? My mom. And so if you also like replace my mom with a race, a gender, a political party, whatever the thing like I can't succeed because of Trump's laws, I can't succeed because of the radical left, because of wokeism, because of whatever. You actually give that thing more power in your life than you give yourself. And so, it's completely it com- The thing is is that and this is what's so deceiving about it is it's very it's very um self-fulfilling is that you get more evidence and then you get more confirmation, you get more evidence, you get more confirmation. The more your life sucks, the more you're confirmed that you were right. But like do you want to be right about the fact
+
+## [04:30](https://www.youtube.com/watch?v=-iOTVPDunmE&t=270s)
+
+that your life sucks? Or would you rather like there's a there's I think it's an old Zig Ziglar saying, he said you can either be right or you can be rich. And I mean, it's simple, but this is what he was getting at is that you can say, "You know what? You are right. Your dad kicked the [ __ ] out of your whole life and you don't have any confidence cuz he told you you're a piece of [ __ ] every day. You're right. But in order to be rich, you need to let that go. Because every day you say that I'm not successful because of this, it means because this now owns you. And for me personally, that realization that the thing that I hated most in the world, the things that I blamed for why my life was in the way it was, I was their [ __ ] And just realizing that um made me angry, but through that anger, I was able to say, "Well, [ __ ] them." Like I will succeed despite the fact that my dad said this or my mom said this or Barack Obama said this or Trump said this or the woke left says what. Despite that, despite the fact that the chips are stacked against me, I will still win. Real quick, if you're a business owner and you are not growing as fast as you'd like, I'd like to give you a free gift. So, my team and I put together the $100 million scaling roadmap, which is basically 200 hours of us looking over all the portfolio companies we've had and what stages of growth they went through and more importantly where they got stuck and how they got past it. And so we broke it into these 10 stages and we made this little kind of quiz thing where if you put in your business information it'll tell you where you're at and the most
+
+## [06:00](https://www.youtube.com/watch?v=-iOTVPDunmE&t=360s)
+
+important part for you, what to do for each of functions of the business across product, marketing, sales, customer success, recruiting, IT, human resources and finance. And so no matter what you're struggling with, someone else has already struggled with it and solved it. And so I'd like to give you this thing absolutely free. You can go to acquisition.com/roadmap, plug in your business information and if you want us to actually help you deconstruct your business and you're trying to scale, we'd love to help you out. On the thank you page you can just book a call with my team and we will look at the business, see if we can help and if we can we'll invite you out to Vegas and we'll do this in person live.

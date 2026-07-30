@@ -1,0 +1,34 @@
+---
+episode_id: "t9INtrdXM08"
+title: "Helping a $3M/Year E-Commerce Brand Build a Team"
+published: "2026-03-16"
+duration_seconds: 300
+episode_url: "https://www.youtube.com/watch?v=t9INtrdXM08"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# Helping a $3M/Year E-Commerce Brand Build a Team
+
+Video: [https://www.youtube.com/watch?v=t9INtrdXM08](https://www.youtube.com/watch?v=t9INtrdXM08)
+Published: 2026-03-16
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=t9INtrdXM08&t=0s)
+
+Uh, we sell sports memorabilia, autographed sports memorabilia by athletes in the UK. Sweet. Uh, we currently do 3 million. Sweet. Um, I would like to be at 6.5 within a couple of years. Very precise. Okay. Yep. Well, I'm I'm [snorts] English. Yeah. Um, I've been stuck at 3 million for the last couple of years, the swamp, as you say. Uh, I think I need an A player. Yeah. >> Um, also, I'm not sure I think I've been focused on the wrong things, as well. Um, so, yeah, just want some advice on that and what what else it could be. Well, what's what's limiting your ability to grow? Like Leads, I'd say. Leads and then converting leads. Leads isn't getting people to buy the products or getting the products? Getting people onto the site and then our conversion rate's 1%, so I think that's quite low for e-commerce. Yeah. Yes, or the targeting's off from your traffic. Could be one of the other. Okay. Um, cuz I would say like if anything, some of you guys are probably like obsessing about your CRO, but the the issue is actually the list. It's the traffic that's getting sent to the site. Um, like the easiest way to prove your conversion is get better people. I mean, being super real. Like that's it's one of the most overlooked way because the whole time you're banging your head against the wall and it's like, yeah, well, no [ __ ] these people are in Africa, they're not buying this, right? Um, to your to your issue, though. Um, do you know how to buy media really well or what's your core skill set? I don't know. I need to I need to figure that out. I was managing the whole thing. Yeah, well, who Okay, well, the core elements of the business are being
+
+## [01:30](https://www.youtube.com/watch?v=t9INtrdXM08&t=90s)
+
+able to source the products. Okay. Are you good at that? Yeah. Okay, so the product >> it's it's it's it's like seeing a piece of memorabilia being like, right, I could buy that for 200, sell it for 2,000. So, I'd say buying. So, you So, you source So, that's how you source. You just buy sell. Okay, so you're a middleman, got it. So, you're fine at finding the stuff that you know is going to sell at a higher price point. You're good there. Okay, so we don't have to worry about that. In terms of I mean, it sounds like I mean, there's not much else into the business if you already have supply side down for e-commerce. It's just media buying for the most part and then building the brand, but for you you do get some kind of brand halo because of the nature of the memorability that you have, which is kind of unique to your business. Um but the fact that you didn't immediately say, "Yeah, I'm really good at e-commerce and really good at, you know, media buying." I'm going to guess that's what you're missing and that's probably the person that you need. Okay. So, then And the thing is is you could go from three to six in like 60 days if you have the right person. You go from three to 10, 12. It's e-commerce. Like it scales very easily. Yeah. That's why a lot of people like it. The issue that then comes up is cash flow, which we can deal with later, but like if as long as you have So, you're at three-ish million. What are What are margins? Uh 400,000 on 3 million. Okay, so like 12-ish percent, somewhere in there. Um >> [sighs and gasps] >> This is why it's the swamp. So, you either have to learn media buying yourself um or bring in somebody who's a star or a stud and you might have to give up a few points of equity to get somebody who's really good without giving the
+
+## [03:00](https://www.youtube.com/watch?v=t9INtrdXM08&t=180s)
+
+entire margin away. Okay. Cuz like you've got cash and you've got stock. You have different levers that you can use to try and compensate somebody. Um I would I would It's just just like the really good media buyers make multiple hundreds of thousands dollars a year and so most people who own e-commerce businesses are either very product brand focused or they're media hardcore media buyers. That's like I'd say those are kind of the two genres of e-commerce owners that I encounter on a regular basis. You kind of sit in the middle of like kind of neither and I don't say that as a slight. I'm just just so you know where your deficiencies are. The nice thing is that your eye for product is that you have a really you have a really good sense of the market where you can do the arbitrage on the 200 to 2,000, which is great. Um but I'm going to guess this is the skill set that you need right now, um which is getting that going. Once you have the media person, then your skill that you'll have to learn is how do I brand this thing so that I can long-term become kind of like a household name of sports memorabilia. But for now, let's get more sales, drive revenue up, and then brand would be the next thing. Thank you. Cheers. If you are a business owner and you are not growing as fast as you like, I'd like to give you a free gift. So, my team and I put together the $100 million scaling roadmap, which is basically 200 hours of us looking over all the portfolio companies we've had and what stages of growth they went through and more importantly where they got stuck and how they got past it. And so, we broke it into these 10 stages and we made this little kind of quiz thing where if you put in your business information, it'll tell you where you're at and the most important part for you, what to do for each of functions of the business across product, marketing,
+
+## [04:30](https://www.youtube.com/watch?v=t9INtrdXM08&t=270s)
+
+sales, customer success, recruiting, IT, human resources, and finance. And so, no matter what you're struggling with, someone else has already struggled with it and solved it. And so, I'd like to give you this thing absolutely free. You can go to acquisition.com/roadmap, plug in your business information, and if you want us to actually help you deconstruct the business and you're trying to scale, we'd love to help you out. On the thank you page, you can just book a call with my team and we will look at the business, see if we can help, and if we can, we'll invite you out to Vegas and we'll do this in person live.

@@ -1,0 +1,26 @@
+---
+episode_id: "GJ6TSJHwO4E"
+title: "It just takes work..."
+published: "2026-02-27"
+duration_seconds: 160
+episode_url: "https://www.youtube.com/watch?v=GJ6TSJHwO4E"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# It just takes work...
+
+Video: [https://www.youtube.com/watch?v=GJ6TSJHwO4E](https://www.youtube.com/watch?v=GJ6TSJHwO4E)
+Published: 2026-02-27
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=GJ6TSJHwO4E&t=0s)
+
+This is amazing. >> Do you ever not like work? >> Yeah, but I work a lot. Like, but like it's it's funny because um do you know Andy Fella? He's first one. >> So, he sent me this clip this morning of Joe Rogan who was like he's like there's just psychopaths who are just like they just will work and they will work and they will work and they'll keep going and they'll keep going and they'll keep going and he's like and if you don't want to do that that's fine. He's like they will beat you though. >> And at work. >> Yeah. At the at the game that they choose to be a psychopath at. >> Yeah. Right. Right. Right. Right. Um that's for sure. And so like I think there's a lot of people who are optimizers. Well, many people do nothing, but then like there's another, you know, cohort of people who are just optimizers. We only get the most for the least, which I think is a great goal. >> Get the most for the least. >> Yeah. Yeah. They want to have as much leverage as possible, and you're optimized. Great. Um, but then there's a handful of people who are just maximizers, which is that diminishing returns are still returns. And so the difference between the first place person in the Olympics and the second place is a tenth of a second. I was like, but the difference between first and second in reality is a lot. >> Yeah. >> And so for me, it's like I want to win. And what and for what what's like what's not like what's the goal like what's the end game? >> So Leila and I both we are actually like in a lot of ways we are products of like kind of the personal development space like I want to be the best version of me I possibly can be and I see entrepreneurship as one of the best vehicles for personal development because you get real-time feedback. if you suck, like you find out pretty quick. Like if you want to start making content and you're like, "Oh, wow. No one gives a shit." And like I probably suck at this, you know? Like if the book sucks, like no one buys it. That sucks, you know? Um if I'm not good at marketing, whatever. And so I think it's
+
+## [01:30](https://www.youtube.com/watch?v=GJ6TSJHwO4E&t=90s)
+
+just been really valuable. And um at each level of entrepreneurship, like there's been, you know, different lessons that I've had to learn and some some things that I have to give up that I wasn't sure I was willing to give up when I started. Um but I think both of us just want to like when we sold the company and we were like we're we're done financially, right? Um we were like looking at the beach like full, you know, good sleep, you know, full stomach and it was like I want to make real business education accessible for everyone. And so that's been the mission of what I've been trying to do. And part of, you know, being a business, you know, quote educator, if you will, is like I have to I have to have proof like how do you how do you separate yourself from the swamp? It's like, well, I'm worth a whole lot more than they are. Um, I'm better at the game they claim to be good at. And talk of [ __ ] I back it up. Um, and so, >> and you have better hair than that, bro. >> No, but we do a lot of volume. >> We're all going to turkey like me. >> We just have a flow. >> We do. We do a lot of volume, man. Like, it's just like I've been so rewarded for working more than people. And I think that as soon as I realized that, I was like, "Oh, I can just like do more than other people, and if I do more, I tend to win more."
