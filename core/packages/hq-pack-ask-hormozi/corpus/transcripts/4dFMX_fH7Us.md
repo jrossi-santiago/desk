@@ -1,0 +1,30 @@
+---
+episode_id: "4dFMX_fH7Us"
+title: "Helping a Fund Manager Attract Real Investors"
+published: "2026-07-18"
+duration_seconds: 263
+episode_url: "https://www.youtube.com/watch?v=4dFMX_fH7Us"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# Helping a Fund Manager Attract Real Investors
+
+Video: [https://www.youtube.com/watch?v=4dFMX_fH7Us](https://www.youtube.com/watch?v=4dFMX_fH7Us)
+Published: 2026-07-18
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=4dFMX_fH7Us&t=0s)
+
+Hi, my name's Alexis Morgan. I sell a passive investment opportunity to people with idle cash that want to invest it. >> Okay. >> Currently, we're at 3.1 million in revenue. I'd like to be at 10. What's stopping me is getting the right lead on the phone. In previous um months, my marketing has been education. And when a lead gets with me on the phone, they want more education. They want to buy an education product for me rather than invest with me and be a passive investor. >> So, do you have a fund or are you doing syndications? >> Both. >> Why don't you just keep building the fund? >> I'm So, I'm trying to keep building the fund by attracting investors. >> Then what's the issue? >> When I'm marketing, the the attraction from the investors comes from education about what I do is real estate lending. >> Mhm. >> I'm educating Here's how to underwrite. Yes. >> Okay. >> Here's how to underwrite. Here's how we look at properties. >> Mhm. >> But when someone gets on the line with me or my sales team, >> Yeah. >> they want to learn more about the business rather than putting their money in the fund. >> I think it's because of how you're talking about it. >> Okay. >> Like right when you hopped like as soon as you got up, I assumed you sold an investment opportunity education thing. >> Okay. >> Like you spoke in language that sounded less legit. So, you're attracting people who are less legit. And so, if you want to attract more legitimate investors, I think you just need It's actually kind of a branding and messaging thing. And so, I would be talking about fund one, fund two, what are you know expected returns are looking like, what
+
+## [01:30](https://www.youtube.com/watch?v=4dFMX_fH7Us&t=90s)
+
+the pro formas are. Like I think you just need to level up your language so that you'll attract a higher level person. But everything that you like you walking through a lot of it's honestly going to be like the look and feel. It's kind of some of the intangibles. I don't know. Are you going to YouTube or where are you making your content? >> YouTube, Facebook, Instagram. >> Okay. Yeah, so you'll have to be really careful with compliance. Investment opportunities fall under a ton of scrutiny uh scrutiny. Um are you I'm assuming you're selling to accredited investors only? >> Yes. >> Right. And so, uh um, yeah, I would I would definitely dissuade you from selling education if you already have this legitimate thing. And so, because it sounds like part of the problem is like, I feel like I have this opportunity in front of me. >> That's correct. >> Right. I I think that, um, I think the reason the opportunity is there is because the messaging is off. >> Okay. >> And you would get a higher percentage of people who would write you bigger checks if it sounded more legit. Does that make sense? >> Yep. So, just studying kind of what what existing >> Yeah, I would talk about it. And but I do think education though is fine, uh, in terms of what you put out for free. It's just, um, you have a legit thing. I would go more in that direction, uh, rather than less in that direction. >> Yep. >> And the thing is is that you're going to be sacrificing money today for more money tomorrow. So, this is definitely a delayed gratification move, um, but I think from what you're saying that's probably, I mean, do you want to go more legit or more cash today? >> More legit. >> I just it's a real question. Some people don't. Um, >> Build the fund, for sure. >> Yeah, if you're going to build the fund,
+
+## [03:00](https://www.youtube.com/watch?v=4dFMX_fH7Us&t=180s)
+
+then build the fund. And just do it right. And so, I'd probably look at the look and feel of the site. I'd look at your actual Instagram, I'd look at your Facebook, I'd look at your YouTube. And it's like, does it look legit? And all I would do is look at other fund managers and look at what the content they're putting out looks like. And look at what you're what you're putting out. Also, I'd strongly recommend getting on X and LinkedIn if you're trying to get accredited investors, like, goldmine there, uh, in terms of quality of people. Like, money Twitter is packed. >> Got it. >> If you are a business owner and you are not growing as fast as you'd like, I'd like to give you a free gift. So, my team and I put together the 100 million dollar scaling road map, which is basically 200 hours of us looking over all the portfolio companies we've had and what stages of growth they went through and more importantly, where they got stuck and how they got past it. And so, we broke it in these 10 stages and we made this little kind of quiz thing where if you put in your business information, it'll tell you where you're at and the most important part point what to do for each of the functions of the business across product, marketing, sales, customer success, recruiting, IT, human resources, and finance. And so, no matter what you're struggling with, someone else has already struggled with it and solved it. And so, I'd like to give you this thing absolutely free. You can go to acquisition.com/roadmap, plug in your business information, and if you want us to actually help you deconstruct the business and you're trying to scale, we'd love to help you out on the thing you may just book a call with my team and we will look at the business, see if we can help, and if we can, we'll invite you out to Vegas and we'll do this in person live.

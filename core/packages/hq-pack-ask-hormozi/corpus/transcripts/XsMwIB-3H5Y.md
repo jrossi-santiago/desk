@@ -1,0 +1,26 @@
+---
+episode_id: "XsMwIB-3H5Y"
+title: "How to Identify Your Ideal Customer"
+published: "2026-02-03"
+duration_seconds: 98
+episode_url: "https://www.youtube.com/watch?v=XsMwIB-3H5Y"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# How to Identify Your Ideal Customer
+
+Video: [https://www.youtube.com/watch?v=XsMwIB-3H5Y](https://www.youtube.com/watch?v=XsMwIB-3H5Y)
+Published: 2026-02-03
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=XsMwIB-3H5Y&t=0s)
+
+do do what I did. >> Niche matters less to me. It's more what are the psychoraphics of a customer who's highly successful and will get the most value from it. >> And so you want the fewest common denominators among the customers that are the most valuable. >> And so if you look at all of them, you might find out that it's, you know, people who do over a million dollars a year is thing one. Thing two is they might have at least three employees. Thing three is they might have at least 20 customers. >> And thing four is maybe they're all organic driven. And so you be like, "Okay, these are the true avatars." And the reason this is so important is that most people hear that and think, "Oh, shoot. That's half my half my customers are not that." But the other half of the customers that you're selling that are not that avatar are the ones that are turning out, causing reputational issues, burning out your team. And so then the followup question is, if you only had customers that were the perfect customer, how much more value do you provide to them comparatively? Typically, it's like two, three, five times more value to the right avatar. >> In that situation, then we say, "Cool. that now we need to match the price of our product to the value that we're uh we're providing, right? Whereas when you have the blend, you have to usually sell to the lowest common denominator. And so if you have 50% you know people who don't get great results and then 50% who do and then you're going to have to sell at a price point that's here because these people are going to be super dissatisfied and you just blend it. Whereas, if you only sell to these people, you can sell all the way up here because these guys are getting 10 times the value. And so, you can charge appropriately and make up for the fact that you have less volume of customers that are coming in.
+
+## [01:30](https://www.youtube.com/watch?v=XsMwIB-3H5Y&t=90s)
+
+>> Got it. >> Was that as good for you as it was for me? Did that make sense? Okay. >> I like that. [laughter]

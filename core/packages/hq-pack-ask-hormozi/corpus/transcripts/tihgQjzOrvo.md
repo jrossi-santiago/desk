@@ -1,0 +1,26 @@
+---
+episode_id: "tihgQjzOrvo"
+title: "\"I'm Maxed Out on Clients and Ads, what should I do?\""
+published: "2026-01-18"
+duration_seconds: 155
+episode_url: "https://www.youtube.com/watch?v=tihgQjzOrvo"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# "I'm Maxed Out on Clients and Ads, what should I do?"
+
+Video: [https://www.youtube.com/watch?v=tihgQjzOrvo](https://www.youtube.com/watch?v=tihgQjzOrvo)
+Published: 2026-01-18
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=tihgQjzOrvo&t=0s)
+
+So, this will about kind of apply to everybody because everyone reaches points where you're like, "Okay, I'm right at that teetering point of like you're at equilibrium right now." Like, if you don't turn the ads on, it's like you can handle the amount of deal flow you have, you can handle the amount of of of delivery, but if you do more on either, you're like, "Well, what do I do?" Right? And so, whenever you're at one of these points, um, one of two things takes a hit. Either your profit takes a hit or your reputation takes a hit. It's your choice. And so if you increase the demand side before you increase the like your supply or your ability to deliver, then you're going to increase the profit of the business because you're going to make more money in the short term, but then you'll have more pissed-off clients. Um, and you will take a little bit of reputational hit, right? Because it's not as good as it it should have been because they're getting more diluted service. On the other hand, if you say, I'm willing to take my margin from 50% to, you know, 35% for the next 3 months. Um, but in so doing then be able to reinccrease increase the top line and then move myself back to 55% net or 60% net because then I have greater capacity. Um, it's just it's two steps forward, one step back or one step forward, two steps back is kind of the the way I've thought it. I used to, and this is like kind of shows like some experience and stuff like I used to say just increase demand, you'll find out where your inefficiencies are in the business because um, at least now you'll have money to go solve it. And I can make an argument for that. Um, but I have found that some businesses like they really are just going to get screwed and they just cannot handle more. And so like if you think that
+
+## [01:30](https://www.youtube.com/watch?v=tihgQjzOrvo&t=90s)
+
+you're like, I say I'm in equilibrium, but the guys could take an extra, you know, 10 or 20% on, then it's like great, you crank that, but then you're actually still in the exact same position you come back to, which is like, okay, I found out that we did have some holes, but now we're really at the constraint. And then it's like, what do I do again? You're either going to sacrifice reputation or you're going to sacrifice profitability in the short term. And so, um, I will I will make this point that like the bigger our stuff has gotten, the longer the reinvestment periods before the the realization of profits is. So, when I was earlier on my business, you know, you you're going to sacrifice profitability for like a month or a couple weeks if you bring this, you know, these people on. Not a huge deal. If I make a big investment now, it's like I might throw six months of profits at something. That's a big investment. And if you look at some of these publicly traded companies, you'll see like, oh yeah, we they had, you know, it took it's going to take us probably like four to six quarters before we're going to really see the return on this. But they can think about that because they're thinking in longer time horizons. And in general, the bigger the biggest business, the longer the time horizon you can think of. So, it makes sense that we're, you know, compressing the timeline.

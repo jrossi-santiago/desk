@@ -1,0 +1,34 @@
+---
+episode_id: "_uLe-ZMXlDw"
+title: "How to Scale a $3M Tennis Business to $10M"
+published: "2026-06-20"
+duration_seconds: 305
+episode_url: "https://www.youtube.com/watch?v=_uLe-ZMXlDw"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# How to Scale a $3M Tennis Business to $10M
+
+Video: [https://www.youtube.com/watch?v=_uLe-ZMXlDw](https://www.youtube.com/watch?v=_uLe-ZMXlDw)
+Published: 2026-06-20
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=_uLe-ZMXlDw&t=0s)
+
+I sell tennis lessons, pickle ball lessons with a brick and mortar business in Chatham, New Jersey, yes. A lot of balls. Revenue is about $3 million. And we're trying three. We're trying to get to 10, but the biggest problem is supply. We can't seem to find enough space to satisfy the clients. >> Okay. So, it's a brick and mortar constraint, like a physical constraint. >> Yeah. >> Um I mean, pickleball Is it mostly pickleball that's like blowing it up? >> No, it's actually mostly tennis. Pickleball's just filling the dead spot. >> Interesting. >> Yeah. >> Cool. >> Pickleball's not a great margin business for us. >> Noted. >> Yeah. >> Okay. Um but you have a model. What are the margins on the three? >> About 22%. >> Okay. Um and is it mostly lessons or is it court time or like what How's that split? >> It's mostly all lessons. Court time is kind of dead, too. It's all all lessons, clinics. >> One-on-one or is it >> One-on-one and group clinics. >> Okay, both. Got it. >> Yeah. >> Um okay. So, I mean, you kind of you have a I mean, you have you have a you have a big strategic decision right now. >> Yeah. >> Um because either you can keep tweaking your model and try and, you know, expand margins by basically driving price, tweaking offer, improving sales process, but you're maybe that takes you from three to four and you go from 600k to a million or a million two in profit. If that's like the only life goal, then like let's do that. If you're like, I want to build America's next tennis facilities, is that what you want to do? >> Yeah, that's what I'm trying to do. >> Okay. So, and this is one location you have? >> One. >> Uh square footage? >> 45,000 square feet.
+
+## [01:30](https://www.youtube.com/watch?v=_uLe-ZMXlDw&t=90s)
+
+>> Damn. >> Yeah. >> Jeez. >> Yeah. >> God zoops. >> So, that's the constraint. I'm trying to find a lot of balls, Alex. >> Yeah, a lot of sorry balls. >> But I'm trying to find spaces like that, which are really hard to find. >> Yeah. >> Big buildings like that. >> [sighs] >> Hopefully this isn't doesn't sound bad. Revenue sounds low for 45,000 square feet. >> I don't know. We're I don't know. Maybe we should Like Ed was saying, I should just charge them more. >> Yeah, I mean, that's the that that the immediate thing of like how do we go from 600k to a you know million plus in profit? Yes, that would be like something like if you're supply constrained and you have more demand than you can handle, that would probably make sense. Um So I would I would look at that and I like this would probably take a we'd have to look under the hood and like really do a deeper dive. But basically I would look at square footage, sorry, revenue per square foot based on service category. >> Okay. >> And I would I'll tell you a story that illustrates the point. So um really good friend of mine Rick Mayo, he's at the launch. He's the guy who owns uh Alloy. Thank you. Uh he owns Alloy uh personal fit uh personal training. And so they he had one store that did three to four million a year, which was a super you know super duper store whatever. It was really big. For the that gym was like 8,000 square feet. And when he looked at his whole model he had a juice bar, he had PT or you know personal training, he had semis, he had group, he had a whole bunch of different stuff. And he ran really good margins and he was you know always on stages whatever. When he started to start the franchise, he looked at all of the different service categories and looked at the one that had the highest revenue per square foot, lowest CAC to LTV ratio, which was
+
+## [03:00](https://www.youtube.com/watch?v=_uLe-ZMXlDw&t=180s)
+
+semi-private. So that was the that was the model that the it three-person model could run on 1,200 square feet, could do 5-600k top line, 50% net margins on average. Like crushed, but very micro model. And so he pulled that out and then that was the piece that he started duplicating. So the model that you have you might have hidden within your model the real core economic engine. I would want to look at all of it and then I'd be like all right, well if we can we find 8,000 square foot, you know, or or you know 20,000 square foot that would maybe be a little bit easier that we can find those in more states. Um so we can start expanding cuz we basically just have to nail the model and then we scale it. Um but I would want to dive in more before I be like let's go break everything. Um so the immediate thing is pricing and offering sales process cuz that's like immediate double for profit, which is probably sitting right there. The second order is going to be like let's look at all the economics and pull out the core engine and then replicate that. Because that's funny because when we had three quarts, we expanded our margins were a lot higher in the micro kind of facility. It was like 45%. So, I should just try to build micro facilities. Chill. >> Rock on. >> If you are a business owner and you are not growing as fast as you like, I'd like to give you a free gift. So, my team and I put together the $100 million scaling road map, which is basically 200 hours of us looking over all the portfolio companies we've had and what stages of growth they went through and more importantly where they got stuck and how they got past it. And so we broke it in these 10 stages and we made this little kind of quiz thing where if you put in your business information, it'll tell you where you're at and the
+
+## [04:30](https://www.youtube.com/watch?v=_uLe-ZMXlDw&t=270s)
+
+most important part for you, what to do for each of functions of the business across product, marketing, sales, customer success, recruiting, IT, human resources, and finance. And so, no matter what you're struggling with, someone else has already struggled with it and solved it. And so I'd like to give you this thing absolutely free. You can go to acquisition.com/roadmap, plug in your business information, and if you want us to actually help you deconstruct the business and you're trying to scale, we'd love to help you out. On the thank you page you can book a call with my team and we will look at your business, see if we can help, and if we can, we'll invite you out to Vegas and we'll do this in person live.

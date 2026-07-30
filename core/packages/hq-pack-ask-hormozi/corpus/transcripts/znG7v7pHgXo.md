@@ -1,0 +1,30 @@
+---
+episode_id: "znG7v7pHgXo"
+title: "Advice for Employees Who Want to Start a Business"
+published: "2026-03-11"
+duration_seconds: 240
+episode_url: "https://www.youtube.com/watch?v=znG7v7pHgXo"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# Advice for Employees Who Want to Start a Business
+
+Video: [https://www.youtube.com/watch?v=znG7v7pHgXo](https://www.youtube.com/watch?v=znG7v7pHgXo)
+Published: 2026-03-11
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=znG7v7pHgXo&t=0s)
+
+So, for a bit of context, a couple of weeks ago, I happened to be on on vacation on some Greek island and I posted an Instagram reel of like, "Hey, this is the creator life. I'm working on my iPad and stuff." And there were a few comments from people being like, "I'd love to live this sort of lifestyle, but I just don't know where to start." And that sort of that idea of I'd love to be able to you know, if if we imagine 99.9% listening to both people listening to this, if you told them they could make six figures a year doing what they love, they'd be like, mind-blown, would absolutely love that. So, I wonder if we can kind of explore that zero to six-figure jump or sort of process. Let's say someone has got a full-time job. Let's say they're working in, I don't know, consulting or some something corporate and they love the idea of I want to make a living doing what I love. How how how would we break that down? And this is under the assumption that they hate doing what they're doing. Yes. I was like, cuz I I always like to be clear. I was like, I've got employees that make a million bucks a year plus. So, like, you can absolutely become filthy wealthy. And that's income, right? And so, a lot of businesses that are at $10 million a year, the owner might only take a million bucks in income depending on, you know, margins, etc. And so, like, a lot of a lot of employees will wish for They see top line as income, which is just a very employee mindset. Um they're like, "Oh, if I make six figures a year, I'll make six figures a year." It's like, "Well, if you really want to make six figures a year, you'll probably make 500 grand a year." Um you know what I mean, revenue-wise at least. If you don't want to have just bought yourself another job, right? Cuz so So, let let's let's talk through this transition. So, if you're an employee, when you make the switch, you're still an employee. You're just an employee of a different business that you happen to own and you are basically 100% of the
+
+## [01:30](https://www.youtube.com/watch?v=znG7v7pHgXo&t=90s)
+
+expenses. And so, the business itself actually makes no money. You as the sole employee of that thing and the boss um gets to call your own shots, but you are still the employee, right? So, you're wearing all the hats, etc. Um and so, it's relatively nuanced. You know what I mean? Like, if you had a six-figure consulting job and then you start consulting on the side, for example, through your own LLC, you have the same job. You just got rid of the person who is giving you direction and now you are responsible, right? The thing that most people have to do is they have to go get money, right? You have to go make money. And the way you do that is you sell stuff. Right? And the way that you can even begin the conversation to sell stuff is that you have to have people who show interest in the thing, which means you have to make your products known. And we do that through advertising. Right? And there's five ways to advertise which I which I just went over earlier. Um and so it's like pick one of those five ways, start doing it on a consistent basis, bring people in. What do you sell them? That's what the $100 million offers this book is for is like this is how you figure out what to sell. Um and then you sell them the thing. And then after that you'll have some delivery. Now, usually if you have a consistent method of advertising and selling with a with a what to sell from the offer, then you can start getting people to help you uh on the level of delivery you have, which comes down to breaking the delivery into chunks rather than holistically and saying how can I specialize the labor cuz you trying to say I just need somebody to do what I do is silly. Right? You need to figure out how could somebody do How can I get How can I get five people to do 20% of what I'm doing and do it consistently, right? And then you can increase your advertising. Sales is a very high leverage thing in the beginning. If you spent all day selling, just you, you would have enough for five people to do work. Right? And so then you would have
+
+## [03:00](https://www.youtube.com/watch?v=znG7v7pHgXo&t=180s)
+
+a business, you know. Real quick, if you are a business owner and you are not growing as fast as you'd like, I'd like to give you a free gift. So, my team and I put together the $100 million scaling road map, which is basically 200 hours of us looking over all the portfolio companies we've had and what stages of growth they went through and more importantly where they got stuck and how they got past it. And so we broke it in these 10 stages and we made this little kind of quiz thing where if you put in your business information, it'll tell you where you're at and the most important part for you, what to do for each of functions of the business across product, marketing, sales, customer success, recruiting, IT, human resources and finance. And so no matter what you're struggling with, someone else has already struggled with it and solved it. And so I'd like to give you this thing absolutely free. You can go to acquisition.com/roadmap, plug in your business information and if you want us to actually help you deconstruct the business and you're trying to scale, we'd love to help you out. On the thank you page you can book a call with my team and we will look into business, see if we can help, and if we can, we'll invite you out to Vegas and we'll do this in person live.

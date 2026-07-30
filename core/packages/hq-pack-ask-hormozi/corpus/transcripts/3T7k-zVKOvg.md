@@ -1,0 +1,30 @@
+---
+episode_id: "3T7k-zVKOvg"
+title: "How I Scaled My First Gyms"
+published: "2026-03-12"
+duration_seconds: 249
+episode_url: "https://www.youtube.com/watch?v=3T7k-zVKOvg"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# How I Scaled My First Gyms
+
+Video: [https://www.youtube.com/watch?v=3T7k-zVKOvg](https://www.youtube.com/watch?v=3T7k-zVKOvg)
+Published: 2026-03-12
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=3T7k-zVKOvg&t=0s)
+
+At at this point you are sort of in your early 20s, you've got your gym, you're paying 5K a month and you're getting people coming in through through the door to do your 6-week transformation program and you're upselling them on a the longer term thing I think after the fact. Yeah. What happens next in the story? The gym starts being successful. It grows by $5,000 a month for the first 7 months. Goes up to $35,000 a month. By week by month nine, I had the whole gym outsourced so I was just managing it. By month 15, I took the profit from that gym to open my second gym. Um launched that one um profitably. Now this one I learned a lot at that point so I pre-launched it at full capacity. Did you know did it the right way. Um then I opened location three, four, and five. And then uh using the same concept, then I went and I felt like I was stagnating. I felt like I didn't know what to do next. I joined an internet mastermind. Um and they were like if you're really this good at business, you shouldn't be owning gyms. You should be like teaching people how you fill your gyms up so fast. And so then and then I transitioned to the turnkey like I fly out and do the thing which I make a hundred grand a month on with no employees. I was like this is cool. So I did that for a year-ish. And then um there's a series of a million series of unfortunate events that happened during this period of time. Lose all the money like twice. Um I sell the gyms. I go all in on the new concept. We switch from doing the turnkey system to doing a licensing model. And then that was 2017 and that's when everything that's when everything just took off like a rocket. What does it like So let's say someone's listening to this and they're into fitness and they're thinking, you know what? I'd like to own a gym. What does Like is is it something you'd
+
+## [01:30](https://www.youtube.com/watch?v=3T7k-zVKOvg&t=90s)
+
+recommend? Like it can you make any money owning a gym these days? What's what's what's the deal with that? >> can. You can you can make money owning a gym if you love if you you have to love small business ownership and it has to be about um really being in love with the product and the experience. It's just like you know what we have this kind of thing with a lot of the gyms is once someone understands how to run a seven-figure or multi-seven-figure gym you now have the skill set to run a ten million dollar other business. It's just a limited opportunity vehicle. It's a great vehicle to learn how to do everything because you have to do everything in a gym. And I think some of the best entrepreneurs, some of the best sales people especially, learn how to sell in fitness because you get so many reps. You talk to 10, 20 people a day. Just rep after rep after rep. So, you get very good at that. Um and you have to deal with people cuz it's an all service business. So, you have a lot of head count for very low revenue. Like there's lots of things that are very good to learn. When I had the same head count with the turnkey sales model, I had a third of employees and I was making four times the revenue. You know what I mean? And then when we went from there to the licensing model, I went from I took I went from eight employees to like 30 employees that just like that first year and we did like 7 million and then the next year we did 26. So, you know, it was just like it was just huge growth. So, it's just more leverage. What does turnkey mean? They didn't have to do anything. I'd fly out, we'd do the marketing, we'd do that, we'd spend the money, we'd work the leads, we'd do the sales. Like they didn't have to do anything. I just hand them customers. You were confident enough in your ability to get and convert them to things that they would absolutely signing up for this but hell yes, you can transform my gym.
+
+## [03:00](https://www.youtube.com/watch?v=3T7k-zVKOvg&t=180s)
+
+Yeah, they didn't have to pay me anything. Or pay me a percentage or They didn't have to pay me anything. I just took 100% of the cash I collected. Okay. So, then what are they getting out of it? Oh, they get Are they getting the recurring revenue? Yeah. Real quick, if you're a business owner and you are not growing as fast as you like, I'd like to give you a free gift. So, my team and I put together the 100 million dollar scaling road map, which is basically 200 hours of us looking over all the portfolio companies we've had and what stages of growth they went through and more importantly, where they got stuck and how they got past it. And so, we broke it into these 10 stages and we made this little kind of quiz thing where if you put in your business information, it'll tell you where you're at and the most important part for you, what to do for each of functions of the business across product, marketing, sales, customer success, recruiting, IT, human resources and finance. And so, no matter what you're struggling with, someone else has already struggled with it and solved it. And so, I'd like to give you this thing absolutely free. You can go to acquisition.com/roadmap, plug in your business information, and if you want us to actually help you deconstruct the business and you're trying to scale, we'd love to help you out. On the thank you page, you can just book a call with my team, and we will look at the business, see if we can help, and if we can, we'll invite you out to Vegas, and we'll do this in person live.

@@ -1,0 +1,26 @@
+---
+episode_id: "S6L_ddZ10gU"
+title: "\"Should I Fire My Marketing Agency and Bring It All In House?\""
+published: "2026-03-31"
+duration_seconds: 121
+episode_url: "https://www.youtube.com/watch?v=S6L_ddZ10gU"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# "Should I Fire My Marketing Agency and Bring It All In House?"
+
+Video: [https://www.youtube.com/watch?v=S6L_ddZ10gU](https://www.youtube.com/watch?v=S6L_ddZ10gU)
+Published: 2026-03-31
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=S6L_ddZ10gU&t=0s)
+
+Pest control, 8 million, pays in 12 million this year, running really good margins. >> Yep. Yes, sir. Uh biggest constraint we have now where we have a marketing agency we're paying about 100 grand a year. Okay. We want to pull out all that marketing in-house, but we don't want to lose performance. What would you do if you're in my shoes? Why? Uh I just feel like there's a disconnect there somewhere. Were they performing? They seem to be doing all right, yeah. But I just feel like >> Why? Why is that the most important thing? Uh I just feel like we can get a better LTV. Like if in this like I just don't know if we're getting a lot a lot of quality leads. Why not just start marketing and not cancel them? Could do that, too. Yeah. Like we do a lot of uh online social media stuff now. We have big YouTube channel, big TikTok. Yeah, I'll I'll give this as a rule of thumb in general for me. I will typically never stop flows. Right. I'll just add flows. So it's like, okay, we got this marketing agency. It's like, cool, we can hire two more marketing agencies and they can all market for me. I'll probably not make less money. And then like, we also want to build it in-house. Cool, we'll also build it in-house. Like more promotion almost never makes you less money provided you have a product that has gross margin and makes sense. Right. So yeah, I I would not I basically will never sacrifice the thing that puts food on the table. Right. Even if it's not as efficient as I want, I'm not going to risk I'm not going to risk the whole business just cuz I want to gain efficiency. So I'll add. So I would I would suggest adding, not canceling. Cool. Now if the added thing then crushes it and it's like makes the other thing superfluous, I still I'm like, well, we're paying these guys 100 and we're making you
+
+## [01:30](https://www.youtube.com/watch?v=S6L_ddZ10gU&t=90s)
+
+know, a million or making 500. If somebody give me an investment that I put, you know, you know, 100 grand in and make 500 back, I'd still probably say yes. Yeah. So just more. Smart. Do I ask? Appreciate it. >> Great. Easy. So if you've hit a revenue ceiling or your entire business relies on you to grow, then I'd love to invite you out to our headquarters here in Vegas to learn how we scale. It's a my team spends two days with you to identify the thing that's holding your business back. And so if that sounds interesting, click book a call and if you're a fit, we'd love to potentially see you out here in Vegas.

@@ -1,0 +1,34 @@
+---
+episode_id: "XKCuTG83Ums"
+title: "He Pays Recruits $750 a Week and They Quit After Training"
+published: "2026-07-13"
+duration_seconds: 333
+episode_url: "https://www.youtube.com/watch?v=XKCuTG83Ums"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# He Pays Recruits $750 a Week and They Quit After Training
+
+Video: [https://www.youtube.com/watch?v=XKCuTG83Ums](https://www.youtube.com/watch?v=XKCuTG83Ums)
+Published: 2026-07-13
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=XKCuTG83Ums&t=0s)
+
+[laughter] >> My name is Derek. I'm from Chicago. I own a junk removal and restoration business. We do storm restoration. And so far we've been hitting the 7 million mark this year. We're probably about over 10 to 15 years of restoration. And I'm having an issue with bringing in sales reps on a piece structure. I'm just lost. >> Okay. >> You know. >> Mhm. So what what specifically are you saying you're having trouble with it? Are you getting Are you not getting applicants or you getting applicants and they're qualified or people are qualified or starting but they're not sticking? Like what specifically is the issue? >> So I'm getting unqualified people but they're like um we kind of changed something up where we started paying for training and I see people now are just coming in to get paid for training and so I keep running into that after one week I'm like you're out of here you're not qualified for this. Um so the one I'm not getting qualified people. >> I don't know you paid [clears throat] for training >> Yeah, so what we do is 4 weeks paid training and then your commission. >> Okay. >> Um I figured that that's the issue. >> What are you paying for the training? >> It's 750 a week. >> Okay. >> Um it's it's not a good building it's not working out at all. >> Yeah. Um and you're door-to-door? >> Uh correct. Yes, and then we have a call center that brings in a massive amount of leads. So we give about two to three leads a day to every rep.
+
+## [01:30](https://www.youtube.com/watch?v=XKCuTG83Ums&t=90s)
+
+>> revenue split between door-to-door and I'm missing inbound. You say qualified. Are they outbound calls or are they inbound? >> Uh outbound calls. >> Right. >> Yeah, so we get Yeah, um like 70% is outbound calls. We get a lot of them. We get 15 to 20 a day now. And then what's it called door-to-door is probably about 30 to 40%. So what we do is we get these leads and then they got to go and knock on all the houses around. There's um we just had a major storm in Chicago so all those houses are affected. >> Yeah. get them the lead and then we like all those areas there. >> Yeah, understood. Um, okay. So I don't think there's really any issue with paid training. I mean, if you have to hire more people, I'd say four seems like a bit long, but um, you can do it in two or one. Um, but I get it. That's not That's not the problem. Um, I'm guessing the problem is more around emphasizing it in the advertising. And what are the requirements for getting in? So how do you How do you like you you put these ads out, right? >> Mhm. >> From ad to you can train, what's the process there? >> Um, I get them on a call and I just see if they want to >> You personally talk to >> Yeah. >> Jesus. Yeah, that sucks. Okay, so let's talk to that. So, um, number one they come in, they'll apply, they'll send the resume. Today, doesn't matter for sales anyways, who cares. Um, what I would say is send them the script
+
+## [03:00](https://www.youtube.com/watch?v=XKCuTG83Ums&t=180s)
+
+that you guys have in response and then give them a group interview so you can have all of them on there. On the group interview, do a one-minute role play with every person live. Then give them real-time feedback on how they did. If anyone prepares, it's already a great sign. Right? And if they didn't prepare at all, it'll be immediately evident. And if they didn't prepare and they're [ __ ] amazing at sales, they'll also be relevant too. You're like, "Hey, what if you actually tried? Let me show you some stuff." Um, and so the thing is that in that one call you can interview 10 or 20 people. And then from the people who were good, you can then have your one-on-one job offer conversation with those people. Like right now you're Like I'll guarantee you that there's no issue with There's no lack of sales talent in Chicago. Right? It's just that your process you're you're talking onesies, twosies and you're going to kill yourself. And you're like, at this point you should lower your guard like, "Just bring them in. I don't care. I don't have these conversations." Just do it one to many. >> Okay, I'm a little bit confused. >> Honestly, that's the That's the problem. It's all good. I did this with a therapy clinic that had the same issue. They were hiring therapists who was on That was their delivery side. It was insurance-based, so it was capped. Business 6X in 3 weeks. So, just cuz it's simple doesn't mean it like we could I mean we're If you can double your business one move, like why do you five? >> Exactly. Yeah, no, this event gave me the most clarity that I have been through. Like I remember I've been to a lot of events, but nothing gave me that much clarity about business and how to operate and actually structure the business properly for it to grow by itself. >> I'll save you for that.
+
+## [04:30](https://www.youtube.com/watch?v=XKCuTG83Ums&t=270s)
+
+>> Well, no, I appreciate you, man. Thanks. >> [applause] >> If you're a business owner and you're not growing as fast as you like, I'd like to give you a free gift. So, my team and I put together the $100 million scaling roadmap, which is basically 200 hours of us looking over all the portfolio companies we've had and what stages of growth they went through and more importantly, where they got stuck and how they got past it. And so, we broke it into these 10 stages and we made this little kind of quiz thing where if you put in your business information, it'll tell you where you're at and the most important part for you, what to do for each of functions of the business across product, marketing, sales, customer success, recruiting, IT, human resources, and finance. And so, no matter what you're struggling with, someone else has already struggled with it and solved it. And so, I'd like to give you this thing absolutely free. You can go to acquisition.com/roadmap, plug in your business information, and if you want us to actually help you deconstruct the business and you're trying to scale, we'd love to help you out. On the thank you page, you can book a call with my team and we will look at your business, see if we can help, and if we can, we'll invite you out to Vegas and we'll do this in person live.

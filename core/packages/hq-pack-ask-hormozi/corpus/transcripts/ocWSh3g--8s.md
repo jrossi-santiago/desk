@@ -1,0 +1,26 @@
+---
+episode_id: "ocWSh3g--8s"
+title: "\"I Serve 2 Avatars, How Do I Niche Down?\""
+published: "2026-02-27"
+duration_seconds: 101
+episode_url: "https://www.youtube.com/watch?v=ocWSh3g--8s"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# "I Serve 2 Avatars, How Do I Niche Down?"
+
+Video: [https://www.youtube.com/watch?v=ocWSh3g--8s](https://www.youtube.com/watch?v=ocWSh3g--8s)
+Published: 2026-02-27
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=ocWSh3g--8s&t=0s)
+
+Abukar asks, I have a new school community to get people into tech roles and experienced folk into higher paying salaries. Interesting. The community is $50. I want to scale to over 1,000 people. I have a decent LinkedIn following but new to creating video content. How do I get maximum traffic and where should I direct that traffic? Lead magnets, email list or just straight to the school community about page? >> Yeah, I would say okay, so there's a handful of questions there. One is I would pick one of those two avatars cuz those are very different avatars. If I had my preference, I would actually probably go for the experienced guys which might not have been your guess. And the reason for that is they're already gainfully employed and they probably already have a lot of earning potential right now and probably a decent size delta that you can provide a big delta in terms of their income increase with very limited amount of work on your part. And so I like I think about how much value can I provide to somebody relative to how much it cost me to provide it. And when I receive huge differences in how much they get versus how much it cost me, those are very interesting businesses. And so it might even behoove you to make it like a a six-month thing with a clear promise of a raise you know in six months or it's free or whatever or they can continue until they get a raise as long as they follow your process. That would probably be something that I would consider and then in terms of how to run the traffic I would run it to the about page. I mean it's probably the simplest way to do it.
+
+## [01:30](https://www.youtube.com/watch?v=ocWSh3g--8s&t=90s)
+
+>> Would you ever go on Shark Tank? >> The about page will be will convert much higher if you're very clear on who you're trying to promise an outcome to.

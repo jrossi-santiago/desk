@@ -1,0 +1,30 @@
+---
+episode_id: "mL4NZTjGUGc"
+title: "How to Make Hard Decisions"
+published: "2026-03-03"
+duration_seconds: 258
+episode_url: "https://www.youtube.com/watch?v=mL4NZTjGUGc"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# How to Make Hard Decisions
+
+Video: [https://www.youtube.com/watch?v=mL4NZTjGUGc](https://www.youtube.com/watch?v=mL4NZTjGUGc)
+Published: 2026-03-03
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=mL4NZTjGUGc&t=0s)
+
+Two frames for reconsidering the hard decisions and conversations that you have to have. So, let's say someone does something that you don't want them to do. They say something bad, something happens, right? Something that I you have an innate reaction, which is that typically it's something called it's a it's a countermeasure, right? So, if someone punishes you in some way, you want to counterpunch them back. You want to counter control. You want to punish them so that you want to punish them even more so that they dare not punish you, right? But when we think about these two questions, which is what I want to have happen, what do I want to have happen, and number two, what increases the odds of that happening, oftentimes your initial reaction to what you want to do is almost antithetical to what you want to occur and what increases the chances of that happening. And so, for example, if someone says something bad to me online, I might have the immediate desire to go punish them publicly, right? What do I want to have happen? I would like this person to move on with their lives and forget that I exist. That would be what I would want to have happen, right? Realistically. What increases the odds of that happening? Does me interacting with them, reinforcing the fact that they said that, increase those odds? No. I increase the likelihood that that person hates me even more and does even more to try and damage me. So, that would make my problem worse, not better. And so, that is just a two-step decision frame that I continue to use more and more and more, especially with interpersonal relationships. Hey, this employee is doing a bad job. I want to yell at them.
+
+## [01:30](https://www.youtube.com/watch?v=mL4NZTjGUGc&t=90s)
+
+What do I want to have happen? I want them to do a good job. Do I think yelling at them will increase the likelihood of that happening? No, I think they'll have more anxiety and they'll probably decrease their performance. Okay, so that's not going to work. What do I want to have happen? Okay, can I reward or publicly give them status for the one thing they've done well so that they can see some positive loop and then maybe they will do more of that thing. That probably does increase those odds. So, I'll do that instead, even though I want to punish them for being a [ __ ] ass, right? And so, what's interesting is that when I ask myself these questions, the thing that increases the odds of me getting what I ultimately want rarely is what I want to do. Or at least is rarely my initial gut reaction. And when I look at how most people live their lives, they live their lives from gut reaction to gut reaction to gut reaction and then counter reaction and they're just responsive. All they're doing is just like they're like seaweed in the ocean. They're just moving and they have no direction. They're just constantly going back and forth, right? And they're never getting what they want. And they think that life is chaotic. But when you actually ask yourself those questions, you typically can guess, "No, I don't think that's actually going to increase the likelihood that happens. that person is going to hate me more if I do that." Right, then why will you do it, right? And so, oftentimes when you have those when you use those two razors, one of the most common things that comes up and it's now become an inside joke for for me and some of my friends is doing nothing at all is often the most productive thing to do in those situations. And so, it has now taken on this inside joke of the heavyweight champion of the world, which is that there's all these different potential actions and the heavyweight champion of the world is do nothing.
+
+## [03:00](https://www.youtube.com/watch?v=mL4NZTjGUGc&t=180s)
+
+And that one almost always wins because what should I probably do? Keep doing what I'm doing, keep on my business, focus on my marriage, focus on doing good work, and ignore the rest. And what's interesting is that it is physically efficient but emotionally painful. And so, that is one of the I'd say one of the one of the the artifacts that I've collected this year. Real quick, if you're a business owner and you're not growing as fast as you'd like, I'd like to give you a free gift. So, my team and I put together the $100 million scaling roadmap, which is basically 200 hours of us looking over all the portfolio companies we've had and what stages of growth they went through and more importantly, where they got stuck and how they got past it. And so, we broke it into these 10 stages and we made this little kind of quiz thing where if you put in your business information, it'll tell you where you're at and the most important part for you what to do for each of functions of the business across product, marketing, sales, customer success, recruiting, IT, human resources, and finance. And so, no matter what you're struggling with, someone else has already struggled with it and solved it. And so, I'd like to give you this thing absolutely free. You can go to acquisition.com/roadmap, plug in your business information, and if you want us to actually help you de constrain the business and you're trying to scale, we'd love to help you out. On the thank you page, you can just book a call with my team and we will look at the business, see if we can help, and if we can, we'll invite you out to Vegas and we'll do this in person live.

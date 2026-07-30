@@ -1,0 +1,30 @@
+---
+episode_id: "kefMtQqgQBc"
+title: "\"If you went broke today, how would you start over?\""
+published: "2025-10-10"
+duration_seconds: 245
+episode_url: "https://www.youtube.com/watch?v=kefMtQqgQBc"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# "If you went broke today, how would you start over?"
+
+Video: [https://www.youtube.com/watch?v=kefMtQqgQBc](https://www.youtube.com/watch?v=kefMtQqgQBc)
+Published: 2025-10-10
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=kefMtQqgQBc&t=0s)
+
+I made some mistakes before I started following your content and like an idiot I started three businesses. So I have three businesses. I'm exiting >> three wives. >> I know it's a problem. So the main business which is my primary source of revenue, me and my partner very much not on the same page. I'm transitioning and exit right now. I have a large eye out coming and I'm trying to decide do I redo that same business? I'm good at it. It's my primary source of revenue. Or do I pour into one of these other two businesses? >> What's the business you're selling? So, I have been in financial services. Um, >> okay. Great business. >> Yeah, I was the top producing rep, like number two out of like 3,000 reps. >> I'll just tell you right now, do that. >> If you're two out of 3,000, you're not even 1%. You're like 0.1 whatever percent. And so, these other things probably sound really sexy and interesting. You can tell me what they are and I'll tell you that they sound sexy and interesting. >> Well, so I guess my problem was is like I've got a non-compete non solist. I have to re relocate. >> So, it's like I have to move 60 miles away. My whole network has to >> So I'll have about a million bucks probably when it's all said and done. So I have, you know, >> you have to move to a new location. >> So I if I want to not take a like three-year hiatus, I have to move 60 miles and I'm very regional in my my business. Like all my local it's all local, multif family, habitational, like >> so if I move >> But you knew how to build it. >> Yeah. But it was a six-year process to start all over again, I guess, is where where my brain goes is like, >> but don't you think you can do it faster the second time? >> Oh, for sure. >> I can do it in third of the time. So, yeah. So, you're 24 months away from a
+
+## [01:30](https://www.youtube.com/watch?v=kefMtQqgQBc&t=90s)
+
+brand new business, the same thing you do right now, except you know all the lessons you learned. >> So, just go for it. And >> what are the other two? Just so I can >> So, yeah. No, I I've got Well, I've got a real estate portfolio and I I feel like I'm really good at real estate, too. But the problem is capital, right? Like I can buy bye-bye. But yeah, >> cuz insurance did that and create all the deals through a network, had all the contractors and it like they fed into each other really well, which is why I started it. >> But um the problem is like then you were like well hyperfocused and I'm always like well >> I don't think you'd need to stop real estate. I mean like I own a bunch of apartment buildings it but like it's just not my main game. Like I've got some money that I'm like this is my like if I go become a [ __ ] vegetable like there's cash flow for everybody. Um but like what's my main game, right? And so I want to make sure that you're not like trying to make your your side hustle your main hustle. >> Okay? Because the returns on real estate are not as good >> as the returns in business. Period. Private equity owners are by far much wealthier on average than than real estate. Real estate makes more millionaires. Private equity makes more billionaires. >> Yeah. >> So low risk, high likelihood business once you gain the skills is always where all the upside is. All right. What's the third one? >> So well the third one I did the same thing again where I was like I started a junk removal company to feed more leads into the real estate because I was like and it does. So then but then it's like how far >> can I move horizontally before I'm losing that vertical integration cuz it's like hey it does provide leads and flips that feed into the real estate and finds deals. So it's like >> and you find old ladies and they've got money so you do the financial services. It works great. We're just >> and part of my question I think is how lateral can I get inside that vertical before I'm losing focus where it's like >> you're already losing focus.
+
+## [03:00](https://www.youtube.com/watch?v=kefMtQqgQBc&t=180s)
+
+>> I know. >> So do I just sell it and dump it? I mean what do you do? So, I will give you the unpopular advice that I would give myself. Um, which is like, do you believe you can win? >> Yeah. >> Then [ __ ] it. Do the thing. >> Do the main thing. Forget the other stuff. Basically, on some level, doing these side hustles is almost like a hedge against your own risk. But you incur more risk because it decreases the likelihood the one sure thing actually is the sure thing. And so, when if I gun to your head, I was like, you have to make money. What would you do? >> I'd sell insurance. >> Of course. Then do the thing that you would do when you need to make money and you will make money way more. >> Okay? >> I'm only saying that because I have done this. >> Yeah. >> I had a dental agency. I had a chiropractor agency. I had a gym. If I went out of business tomorrow, like my I had a some $100,000 bill. What would I do? I'd launch a [ __ ] gym for sure in my sleep. I know that's what I would do because I can do it in my sleep. So then I had this brilliant idea. She's like, "Why don't we just do that thing that we're really good at over and over again and just not do the stuff that we suck at?" And I was like, "I don't know if that's going to work. I was like, "What if these other ones take off?" >> That's right.

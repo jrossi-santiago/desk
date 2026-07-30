@@ -1,0 +1,30 @@
+---
+episode_id: "sobMAG-5yFs"
+title: "How to Increase Show-Up Rates"
+published: "2026-03-11"
+duration_seconds: 249
+episode_url: "https://www.youtube.com/watch?v=sobMAG-5yFs"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# How to Increase Show-Up Rates
+
+Video: [https://www.youtube.com/watch?v=sobMAG-5yFs](https://www.youtube.com/watch?v=sobMAG-5yFs)
+Published: 2026-03-11
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=sobMAG-5yFs&t=0s)
+
+I can make more money in most companies by by fixing their show up rate >> Yeah. >> than by increasing their close rate. >> What do you do to increase schedule show up rate? Like if you look at an organization and their show up rate was 25%? >> Sure. >> Right? And they're like our closing sucks and you say wait wait wait, pause. >> Yeah. >> Where do you start with show up? Where Where do you start with that? Like what what do you do with a with when their book meetings aren't showing up? >> So we own a company called Allen, which is a scheduling software. So I got to see 4,000 appointments a day across all different industries. And so we got to test >> for absolute throughput. And we had We got to test every variable. I had two data scientists were looking at all these different things. So the number one uh lever on throughput in an organization is availability. As crazy as that sounds. We tested every single variable. It's number of actual time slots per day 7 days a week. Which I find this hilarious cuz like and obviously in the gym world I would have gym owners being like, "Man, I can't close any of these leads." And I was like, "All right, well, let me see your availability." They're like, "Oh, I I take sales appointments from 7:00 a.m. to 9:00 a.m. on Tuesdays and Thursdays." And I'm like, "And if they can't make that time?" They're like, "Well, then they're not serious." I'm like, "Okay, well, how's that working for you?" "It's not." >> Right right right right right. >> so the thing is is um I tell this story about Leila. She was trying to get like her eyebrow something, whatever whatever she was doing. Um and she was in LA and she called a spot and they were like, "We have a time in a week." She's like, "Doesn't work." She called the next spot. "I We can see you in 4 hours." Called the next spot and they're like, "I can see you right now." She went there. It's just about convenience. And so the number of total time slots per day and the increment of the time slot. And so I'm just giving you the like I'll give you all the the
+
+## [01:30](https://www.youtube.com/watch?v=sobMAG-5yFs&t=90s)
+
+different points, but this first one is number of total time slots 7 days a week. Then I'll The next one is increments of time slots. So 15-minute time increments for example versus 60-minute time increments. It'll be more precise. And for whatever reason, at least in the internet world, uh we get higher schedule rates from internet bookings from that perspective. The >> For shorter time slots. >> Yes. >> Got it. >> Now the actual sales appointment can be 45 or 60 minutes, but the ability to start at 3:15 >> Got it. >> or 3:05, whatever, the more intricate it can be. Like, if I have an appointment at 3:05, the likely the person is on time is way higher than 3:00. Like, you know this from sales, right? Like, "Oh, 3:05? Like, oh, I got to be there on time." It just It signals detail, right? >> So, uh the availability overall the the the the the new the number of time slots per hour um the third one is This is just a tip. We learned this one is that you dragging appointments up boosts show-up rates like nobody's business. And so, let's say you have an appointment that you you get a lead, you call them up, you qualify the lead, and you say, "Hey, um it's it it see I see here that you've got a you've got an appointment on Thursday, and today is Monday. Say, "Hey, um I just had my 4:00 cancel. Um and so, if you want, I can pull you up at 4:00." And now, sometimes if you have a two like a Let me introduce you to Shawn. He's going to be like if you have a setter closer set up. Mhm. But, you could even self-set to yourself like, "I've got a 4:00, and now that I talked to you, we're going to it's going to be awesome." And they're like, "Oh." And same day, you know, same day show-up rates are way higher than two, three, four days out. And so, number of total time slots, increment of
+
+## [03:00](https://www.youtube.com/watch?v=sobMAG-5yFs&t=180s)
+
+time slot, the proximity from when you talk to them to when you book the appointment, and then if at all possible, dragging that forward into the present. We try and do same day, next day for all appointments if at all possible. Real quick, if you're a business owner, and you're not growing as fast as you'd like, I'd like to give you a free gift. So, my team and I put together the $100 million scaling road map, which is basically 200 hours of us looking over all the portfolio companies we've had, and what stages of growth they went through, and more importantly, where they got stuck and how they got past it. And so, we broke it into these 10 stages, and we made this little kind of quiz thing, where if you put in your business information, it'll tell you where you're at, and the most important part for you, what to do for each of functions of the business across product, marketing, sales, customer success, recruiting, IT, human resources, and finance. And so, no matter what you're struggling with, someone else has already struggled with it and solved it. And so, I'd like to give you this thing absolutely free. You can go to acquisition.com/roadmap, plug in your business information, and if you want us to actually help you deconstruct the business and you're trying to scale, we'd love to help you out. On the thank you page, you can book a call with my team, and we will look at the business, see if we can help, and if we can, we'll invite you out to Vegas, and we'll do this in person, live.

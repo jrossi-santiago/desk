@@ -1,0 +1,26 @@
+---
+episode_id: "huoRgSvoLss"
+title: "Normalize 72-Hour Work Weeks for Young Men"
+published: "2026-04-06"
+duration_seconds: 133
+episode_url: "https://www.youtube.com/watch?v=huoRgSvoLss"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# Normalize 72-Hour Work Weeks for Young Men
+
+Video: [https://www.youtube.com/watch?v=huoRgSvoLss](https://www.youtube.com/watch?v=huoRgSvoLss)
+Published: 2026-04-06
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=huoRgSvoLss&t=0s)
+
+I'd like to normalize a 6-day week, 12-hour per day work week for men between 16 and 28. And despite all the self-worth voodoo that social media and society will tell you, you are valued based on your utility. And when you're young, you have none. But, you have a lot of energy. And so, trade that energy for experience points and become useful. The first rule of entrepreneurship, according to Alex, is use what you've got. And the reason I like that is because many people always don't start things because they don't have the capital, they don't have the connections, they don't have the whatever insert insecurity or projection of blame and power they want to put on. But, the first rule is you use what you have. And so, it's about resourcefulness, not resources. And so, if you have energy, you use the resource you have, use what you've got to trade to develop experience, develop proof that you can get good at a skill. And you only get good at the skill by not being good at the skill and repeating it, and then failing at each time, and then making incremental improvements which take many, many repetitions until you actually get good. And this may be a little controversial, but I'm not here to be nice to you. I'm trying to be kind, which might mean that it hurts a little bit. Real quick, if you are business owner and you are not growing as fast as you'd like, I'd like to give you a free gift. So, my team and I put together the $100 million scaling road map, which is basically 200 hours of us looking over all the portfolio companies we've had and what stages of growth they went through. And more importantly,
+
+## [01:30](https://www.youtube.com/watch?v=huoRgSvoLss&t=90s)
+
+where they got stuck and how they got past it. And so, we broke it into these 10 stages and we made this little kind of quiz thing where if you put in your business information, it'll tell you where you're at. And the most important part for you, what to do for each of functions of the business across product, marketing, sales, customer success, recruiting, IT, human resources, and finance. And so, no matter what you're struggling with, someone else has already struggled with it and solved it. And so, I'd like to give you this thing absolutely free. You can go to acquisition.com/roadmap, plug in your business information, and if you want us to actually help you deconstruct the business and you're trying to scale, we'd love to help you out. On the thank you page, you just book a call with my team and we will look at the business, see if we can help and if we can, we'll invite you out to Vegas and we'll do this in person live.

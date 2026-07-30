@@ -1,0 +1,26 @@
+---
+episode_id: "Nkt_ot5mvMg"
+title: "If It's Competitive, It Means People Are Buying"
+published: "2026-04-28"
+duration_seconds: 111
+episode_url: "https://www.youtube.com/watch?v=Nkt_ot5mvMg"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# If It's Competitive, It Means People Are Buying
+
+Video: [https://www.youtube.com/watch?v=Nkt_ot5mvMg](https://www.youtube.com/watch?v=Nkt_ot5mvMg)
+Published: 2026-04-28
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=Nkt_ot5mvMg&t=0s)
+
+I want to create a community on food and community and teach people how to enjoy cooking. But, there's currently over 10 communities on school for cooking, which is discouraging for me. Should I shift gears or take it as a good sign? Does not matter literally at [ __ ] all. Um there's also like a hundred communities about fitness, probably more than that. So, that's like that's like saying there's another accounting firm in the United States, like should I not make accounting? Like, do you, boo boo? Like, do you? Like, if this is what lights you up, then compete. You know what I mean? And so, you know what? It's so interesting cuz like it's this weird new thing where it's like new business owners are like, I don't want to go somewhere where it's competitive. It's like, dude, if it's competitive, it means people are buying. Like, I just see that as great. I just have to beat these people. And so, I would just flip it like like a lesson that I have learned in business is that no one knows what they're doing. Like, no one knows what they're doing. I promise you, like everyone's a [ __ ] Like, no one knows what they're doing. So, you just have to be like if you just make promises and keep your promises and do that on a consistent basis, you're already in the top 10%. Like, you show up on time, you prepare before you talk to somebody, you actually try and do a good job, and you keep your word. Like, that puts you above everybody. And then you're only competing against the top 10%, in which case, welcome to the game. But, no. Like, the fact that there's a lot of people in no way concerns me. It used to when I was younger, cuz I used to think the same way. But, as I think now, I'm like, great, there's just more buyers.
+
+## [01:30](https://www.youtube.com/watch?v=Nkt_ot5mvMg&t=90s)
+
+You never want to So, think about this way. You never want to You cannot create demand. You channel demand. So, you you're not like you We don't have the money to create a billion dollar like trying to create demand around something like that doesn't exist. You look at stuff that already has demand, and then you try and chip away a portion of that stream towards you. And the better you are, the more that stream you get.

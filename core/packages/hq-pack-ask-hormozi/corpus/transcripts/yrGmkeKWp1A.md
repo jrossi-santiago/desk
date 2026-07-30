@@ -1,0 +1,34 @@
+---
+episode_id: "yrGmkeKWp1A"
+title: "What Separates People Who Scale From Those Who Don't"
+published: "2026-07-26"
+duration_seconds: 290
+episode_url: "https://www.youtube.com/watch?v=yrGmkeKWp1A"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# What Separates People Who Scale From Those Who Don't
+
+Video: [https://www.youtube.com/watch?v=yrGmkeKWp1A](https://www.youtube.com/watch?v=yrGmkeKWp1A)
+Published: 2026-07-26
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=yrGmkeKWp1A&t=0s)
+
+I have a question for you here, Alex, comes to it that you have seen hundreds of people >> Yes. >> over the years and you know, it makes it makes us believe, let me put it this way in a very simple way that we can all do 100 million, 200 million. Of course we will we should. What do you think are the key metrics that you know, we go home back and forget everything about it as long as we are with Alex, everything is pumped up and So, what have you seen people making it happen and not making it happen so that we are aware of those downfalls? >> It's a great question. I would say that rather than saying what metrics cuz it's rarely the metrics. It's usually the other things. It's usually this stuff. It's usually you not being able to have hard conversations with your team, you being not able to be consistent, you not communicating well, you changing things too frequently. And so like most businesses, like I I can't think of a business yet. I have yet to be stumped on this of a version of a business that can't get to $100 million a year. So, someone's like, "Well, you can't do that for a dry cleaning store." I'm like, "Yeah, you can. Just open more locations." Like, what are you talking about? So, yes, you absolutely can have I think every business can get to $100 million a year. But not every entrepreneur can with their current skill set. And so, a lot of it comes down to being disciplined enough to not get it not overextend, which is being patient enough with the current model to keep fixing it until it's right. And then once it's right, getting people in there and creating a culture where people who are intelligent want to work for you. And so like I have many conversations and a lot of people like, "There's no good talent out there." I'm like, "Well,
+
+## [01:30](https://www.youtube.com/watch?v=yrGmkeKWp1A&t=90s)
+
+there's no good talent for you." Be real. And so that's why they can't scale. It's not because of the model, it's not because of the metrics, it's because no one who's intelligent wants to work for them. And so at a certain point, you need smart people. You have to. And so that means you have to create a condition or an environment where smart people want to work. And so part of that means the brand that you build, like the people that we can bring in for acquisition.com it pales in comparison to who I could bring in at Gym Launch. Just a lot of people aren't that interested in the gym industry. They're like gym consulting is just not that big of an opportunity. Acquisition.com is a much bigger opportunity. There's a lot of bigger thinkers, smarter people are just more willing to work here. And so I think what you do is really noble. I think it's very cool what you do. Um he helps people get green cards. Um but I think where you'll get in trouble is you have to be willing to bring in intelligent people. And you have to be the type of person who you're going to attract them. That will probably be the hardest thing for you to scale. >> Wonderful. I appreciate you remembering my offer actually. Thank you very much for this. >> Sure. By the way, you guys before I talked to you yesterday, like you don't need to I remember your business. Like I I That's wonderful. I remember you. Frankly, I didn't expect that, but really I'm [laughter] I'm glad I met you actually. >> No, you are. >> You did a sort of a >> Einstein green card. I Einstein visa, I remember. >> You're wonderful. You did a so-called a masterclass on pricing, but I remember your book you speak about how to create a incredible offer and price it properly. Could you just elaborate on that further? This last question, please. >> I I will, maybe. Um let me think about it for a second. Okay. I'm not going to repeat $100
+
+## [03:00](https://www.youtube.com/watch?v=yrGmkeKWp1A&t=180s)
+
+million offers because a lot of you guys have already read the book. Um but fundamentally the laws of pricing like everything that I just went over here the offer just allows you to convert a higher percentage of people and if the value is there, have fewer of them churn. And so the offer obviously is inextricably linked with the price, but still these metrics are going to basically tell you how well you nailed it. And so you make the offer and then this tells you whether you nailed it or not. And so if you make a better offer and then you have a higher price and more people convert and more people stay, you got it. If you make a new offer, we're talking about the apps thing earlier, if you make a new offer and no one wants to buy it, so conversion rate goes down and the people who do buy it leave quickly it's the wrong offer or there's components of the offer are wrong. And so that's fundamentally these are the metrics that'll be downstream from you making an offer that's compelling. If you're a business owner and you're not growing as fast as you'd like, I'd like to give you a free gift. So, my team and I put together the $100 million scaling roadmap, which is basically 200 hours of us looking over all the portfolio companies we've had and what stages of growth they went through and more importantly where they got stuck and how they got past it. And so, we broke it into these 10 stages and we made this little kind of quiz thing where if you put in your business information, it'll tell you where you're at and the most important part for you, what to do for each of functions of the business across product, marketing, sales, customer success, recruiting, IT, human resources, and finance. And so, no matter what you're struggling with, someone else has already struggled with it and solved it. And so, I'd like to
+
+## [04:30](https://www.youtube.com/watch?v=yrGmkeKWp1A&t=270s)
+
+give you this thing absolutely free. You can go to acquisition.com/roadmap, plug in your business information, and if you want us to actually help you deconstruct your business and you're trying to scale, we'd love to help you out. On the thank you page, you can just book a call with my team and we will look at the business, see if we can help, and if we can, we'll invite you out to Vegas and we'll do this in person live.

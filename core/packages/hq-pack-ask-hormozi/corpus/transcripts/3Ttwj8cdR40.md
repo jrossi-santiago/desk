@@ -1,0 +1,34 @@
+---
+episode_id: "3Ttwj8cdR40"
+title: "The #1 Thing That Separates You From 99% of Your Competition"
+published: "2026-05-06"
+duration_seconds: 354
+episode_url: "https://www.youtube.com/watch?v=3Ttwj8cdR40"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# The #1 Thing That Separates You From 99% of Your Competition
+
+Video: [https://www.youtube.com/watch?v=3Ttwj8cdR40](https://www.youtube.com/watch?v=3Ttwj8cdR40)
+Published: 2026-05-06
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=3Ttwj8cdR40&t=0s)
+
+The bar for excellence has never been so low. Most of your competition quits after the first sign of difficulty because they've never known what hard feels like. If it's hard for you, it's hard for everyone. And most people avoid hard things, which is why you can beat most people by just trying. I think the vast majority of people don't actually know what it looks like to put tremendous effort into something. And I think one of the most valuable things that the office which now you're going to have um has given me is the people who now work in my proximity. One of the number one things that I get back as feedback is like I really didn't understand how much he works and like he doesn't stop and it's it's easy to say these things and it's hard to act because one of the difficulty especially the vast majority of successful people have one thing in common which is they're consistent and consistency you cannot see in a snapshot. You can't see consistency in a sound bite. You can't see consistency in a real. And so consistency is one of those things. I think you talked about un unlearnable lessons. I think they are difficult to learn without large amounts of exposure. And so those and I think those are the types of lessons that become unlearnable is that you need large amounts of exposure in order to encapsulate the lesson itself. You and so trying is one of those >> [laughter] >> like >> the act of trying. >> Yes. And so I so uh Ila had a mentor of hers say this uh to her and I've been and it's it's lived rent free in my mind
+
+## [01:30](https://www.youtube.com/watch?v=3Ttwj8cdR40&t=90s)
+
+since then. >> Um so we had this thing that we we had this house that we were pursuing and the and and we we ended up not getting the house or whatever. The mentor first said, "Are you settling or did you move mountains?" And it's just a great it's it was just a great visual for me in terms of like did you did you try or did you move the [ __ ] world to make it happen? And when you think about like the extreme versions of this, which is maybe the person that you care about most in the world dies if you don't, the amount of options of action that open up is dramatic. And I think people are so constrained in their thinking of what level of effort is because they haven't considered what trading way more for that thing is. But they would be they would be willing to trade far more for that thing if the trade were clear. But because they've never tried hard at anything, they just think, "Oh, this is what trying looks like." Which might be like the occasional Google search and a couple hours a week of like watching some videos on YouTube on something. It's like that is not trying. Like that is not trying. Like if you cannot count the amount of repetitions that you're having in the hundreds, >> that is not trying. and like and and the the longer I've been doing stuff um that's that's you know yielded
+
+## [03:00](https://www.youtube.com/watch?v=3Ttwj8cdR40&t=180s)
+
+material reward the the greater my history of delay on me getting what I want with volume and so it's like I know that this thing like everything in my life volume negates luck you know violence is the answer like these are sayings that are plastered around the wall of this office because they've been so true for me that you can brute force what you want into reality And yes, today, you know, we talked about trades that we're not willing to make. But if you want something like, did you [ __ ] move mountains? >> Well, the trades that you're not willing to make is you saying, I don't want to move that mountain. >> And I think and that's and that's >> perfectly acceptable. >> Yes, you might say, uh, I could do like I so I thought so because she posed that question, I thought about all these other things that I could do. I was like, "Well, I could offer an extra $20 million for the house. That would probably get me the house." Okay. Am I willing to do that? No. Okay. What else? I was like, "I could [laughter] like I had I was like completely deconstrained thinking. I was like, could I pay somebody >> to Yeah. Well, that that was a thought, but I was going to say that one. um could I um pay someone to, you know, we could figure out I could have a private investigator figure out when basically tail them uh the other buyer who's thinking about buying the home and uh when they're visiting it have crime occur next to them or near them or in that vicinity to be like oh this is not
+
+## [04:30](https://www.youtube.com/watch?v=3Ttwj8cdR40&t=270s)
+
+a safe area right like what and I was like oh man I completely opened up my now am I willing to do that no but it it completely deconstrained my thinking when I raise the bar of, okay, let's say I would pay anything. And let's start at this guarantees me success. Okay, I'm not willing to I'm not willing to to pay that. Okay, well this also pretty close to guaranteeing me success. Am I willing to pay that? No. Well, this one still guarantees me. Oh, I'm willing to pay that. And so it starts at goal achievement and then works backwards on price rather than starting with price. You negotiate you negotiate the cost with yourself >> backwards from the assumed success >> which is why do so much volume it would be unreasonable that you are successful. >> Real quick I'm going to show you the exact 10stage road map from zero to 100 million plus that less than 1% of companies finish I've now done multiple times and so I can say with a lot of confidence that these are the stages as headcount increases that you need to get through. And I broke each of these down by eight different functions of the business. what the constraint feels like, like what are the symptoms of it when you're going through it, and then what steps we actually took to graduate. And we've done this across software, physical products, uh, service businesses, brickandmortar, all of this, and it works. And it's my gift to you. It's absolutely free. And so the link's in the description, but you just go acquisition.comroadmap, just enter your info and it'll spit it right back to you. Offer.

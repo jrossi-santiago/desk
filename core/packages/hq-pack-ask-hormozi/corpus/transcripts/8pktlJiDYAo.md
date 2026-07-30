@@ -1,0 +1,38 @@
+---
+episode_id: "8pktlJiDYAo"
+title: "How to Scale an In-Person Service Business"
+published: "2026-06-18"
+duration_seconds: 393
+episode_url: "https://www.youtube.com/watch?v=8pktlJiDYAo"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# How to Scale an In-Person Service Business
+
+Video: [https://www.youtube.com/watch?v=8pktlJiDYAo](https://www.youtube.com/watch?v=8pktlJiDYAo)
+Published: 2026-06-18
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=8pktlJiDYAo&t=0s)
+
+I own a dance school, and then I built a gym and launched a coaching program and sold that two and a half years ago to a consolidator that I currently work for as an equity partner. >> Okay. >> I'm curious about going back into my dance school and really seeing how I can optimize it and pouring over those lessons into my role [clears throat] now as an equity partner. >> Like a test kitchen? Okay. >> Absolutely. And what I'd like to do is to move that business from $2 million to $4 million in revenue, something that has not done been done in a single unit brick-and-mortar service space in what I do. >> Okay. >> We're currently at 800 students. >> Okay. Do you have the Can your four walls take it? >> We can. >> Okay. So, and how big is the physical like the How many people are in your actual market? >> Uh county 100,000. >> Okay. All right. What's revenue retention for or like what percentage people stay? >> 72%. >> Annually? >> Annually. >> Okay. >> School year basis program. >> Yeah. So, you have four years roughly out of every person. Okay. So, for you to So, what's sales velocity right now? >> In the in terms of putting on new students? >> Yeah. >> On a month-to-month it follows the school year, so we'll pick up about 50% of the kids from last year right away at the renewal time. We'll pick up the other 20 22% by the time we hit school year, and then we'll fill the rest before Christmas. >> Tell me what months those are. >> Um So, our annual cycle is a school year and it ends in May. >> It ends in May. Okay.
+
+## [01:30](https://www.youtube.com/watch?v=8pktlJiDYAo&t=90s)
+
+>> Yeah. Big show, everybody's done. Immediately 50% sign back up. We'll pick up the other 22% before school starts. >> So, September? >> In September, and then we'll fill up by Christmas. >> Got it. Okay. And then everybody does the show at the end. >> That's right. >> Very good. Okay. >> Jazz hands. >> Yeah, I saw the movie. Um okay. So, I mean the nice thing is is that you do have pretty good revenue retention if you're at 72%. Um if you have the physical ability to do it, then it's purely an advertising thing. So, how many How many schools are you kind of in the I'm guessing you like kind of go [clears throat] to schools and like embed and infiltrate or What's your process? Are you running Facebook ads or what do you do? >> Yeah, so we have evergreen Google Ads right now. We're just [clears throat] saying, you know, of course if you're looking for dance lessons, you're coming here. And then we're doing incentive-based promotional meta ads that tend to be a little bit more seasonal. >> Got it. >> Sign up now. Soccer's over. Get your free ballet shoes. >> Yeah. Uh how much you spend uh per month on those? >> Mm, 1,500. >> Okay, you probably go up there a bit. Um what about Google Ads? >> Inclusive Google and meta. >> Oh. >> Total spend for all. >> Okay. So, what percentage are coming from ads versus word of mouth? >> We just started our Google and meta ads up again for the season. Um I can't answer that question yet. >> Shrug from the head. Just guess. >> Half. >> Oh, really? Geez. Okay, so how many How many customers you said 800? >> Mhm. >> And they all renew every year? They >> Yes. >> So, they all have to kind of sign up
+
+## [03:00](https://www.youtube.com/watch?v=8pktlJiDYAo&t=180s)
+
+every year. Okay. >> Annual contract. >> So, you're selling 800 people a year. Um and 200-ish of them are like net new. >> Mhm. >> Okay, so you're acquiring 200 customers a year and you're spending 20,000 a year to acquire those 200 customers, roughly. >> Correct. >> Okay. So, it costs you $100 per customer to get them in the door. >> That's right. >> Okay, that's super cheap. Amazing. So, what is LTV of a What's What's What's the annual price? >> Average 1,600 a year. >> 1,600? >> Mhm. >> Okay. Bro. So, okay, so fundamentally, you have a It's not even 16 to one. You're 16 to one year one. >> That's right. And then >> you have three more years. Right. So, you're like smoking it. You're at 64 to 1. Let's do I mean, for real. You know, I mean, cuz right now in a market of your size, 100,000, you could probably be running I would say like at peak where you start losing efficiency somewhere in the 7,500 to 10,000 on meta alone. Um and you could probably get with Google ad The nice thing with AdWords is that you'll know when you've maxed out the keywords. All right, like you you win all the keywords that are, you know, existing there. But, if you're spending $750 a month, assuming it's a 50/50 split, you're not even close. For sure.
+
+## [04:30](https://www.youtube.com/watch?v=8pktlJiDYAo&t=270s)
+
+Especially in a 100,000 person market. So, I would Okay, my guesstimate would be that it gets to closer to like 10 to 10 or 7,500 to 7,500 somewhere in there, which would be a true 10x in advertising. Even if you lose your efficiency and you go from 16 to 1 to 2 to 1 or 3 to 1, who cares? Cuz you're also collecting everything up front anyways. >> Right. >> Amazing. So, what stops us from doing that? >> I think it goes all down to the manpower and the dedicated skills. >> So, we could spend more and that means that you don't have enough people who can work leads? >> That's right. >> Okay. Um what's profit What's top line here? 2 million top line, what's bottom line? >> Uh 500. >> Okay. Um for 60,000 a year you can pay one person to do this full time. So, go from 500 to 440 and then go from 440 >> Excellent. >> Yeah. Rock and roll. >> [applause] >> Do you make content, too? Do you make content for like dance stuff, too? Yeah. I mean, I would just keep doing that. >> [laughter] >> If you are a business owner and you are not growing as fast as you'd like, I'd like to give you a free gift. So, my team and I put together the $100 million scaling road map, which is basically 200 hours of us looking over all the portfolio companies we've had and what stages of growth they went through and more importantly where they got stuck and how they got past it. And so we broke it in these 10 stages and we made this little kind of quiz thing where if you put in your business information it'll tell you where you're at and the most important part for you what to do
+
+## [06:00](https://www.youtube.com/watch?v=8pktlJiDYAo&t=360s)
+
+for each of functions of the business across product, marketing, sales, customer success, recruiting, IT, human resources and finance. And so no matter what you're struggling with someone else has already struggled with it and solved it. And so I'd like to give you this thing absolutely free. You can go to acquisition.com /roadmap plug in your business information and if you want us to actually help you deconstruct your business and you're trying to scale we'd love to help you out on the thank you page you can just book a call with my team and we will look at the business, see if we can help and if we can we'll invite you out to Vegas and we'll do this in person live.

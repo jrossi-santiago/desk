@@ -1,0 +1,34 @@
+---
+episode_id: "zCqcPGNsOFc"
+title: "Ads Have Changed Forever"
+published: "2026-02-23"
+duration_seconds: 308
+episode_url: "https://www.youtube.com/watch?v=zCqcPGNsOFc"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# Ads Have Changed Forever
+
+Video: [https://www.youtube.com/watch?v=zCqcPGNsOFc](https://www.youtube.com/watch?v=zCqcPGNsOFc)
+Published: 2026-02-23
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=zCqcPGNsOFc&t=0s)
+
+Who here runs ads? Oh wow. What's going on here? >> well then y'all will love what I'm about to share with you. Okay. Wait, on what platform first? Hold on a Yeah, no this is good. I'm highly bothered. Meta and YouTube, yeah. This is the unique group. >> Yeah, that was really interesting. >> Yeah. Okay, you guys will absolutely love this. Okay. I'm excited. I'm interested in this. So, I believe that the future of media between paid and content has completely merged. Like we have reached the singularity of that now. It's done. Like that's not like going to happen, it's already happened, it's here. And so, my paid team and my media team have now they're now they're one. And so, what we have found to be like what's working now, right? The stuff that's working hot right now. Here's the crazy part. We now mostly, cuz you when you ask the question I was like, huh, that is kind of what we do, but I was thinking about it because it's not as often as it used to be. And the reason is because because we pump out 450 pieces or whatever it is of content per week. And you know what's really cool? The algorithm will just tell you which of these are the are the best and most interesting. And so, then what we do is we take those things and then just run them as ads. And I used to think, cuz we did this earlier, probably a year ago, we were adding CTAs on the end, so it'd be like I'd take a piece of content and then I'd be like, hey, by the way, get the blah blah blah blah. We don't even do that anymore. Just take the ad or take the content and then just just literally put an overlay. Just put a banner that says like, click to to grab a thing like it people get
+
+## [01:30](https://www.youtube.com/watch?v=zCqcPGNsOFc&t=90s)
+
+it. They're they're they're like if the thing was good, they're like, that was good. I'll I'll take the action the ad platform you know allows me to take right now. Whatever the whatever the thing is. Whatever the widget is. All right, if I if I'm leading to a workshop thing or if it's like, hey, the scaling roadmap or here are the books, whatever. Like you I could use the same piece of content as long as it's relevant to whatever, you know, whatever your thing is. And most of you guys are still talking about the same topic, so it should be fine. For me, because I do have a wide breath, like it would make less sense for me to have a philosophical conversation about work output and then lead to book, maybe. Mhm. But like if I'm talking about like more in-depth work stuff, like that middle of funnel, bottom of funnel stuff, the stuff that has lots of saves, crush. Crush. And the reason I think that save thing is important for you guys is look at the content that you have that gives you the most follows, not the most views. Look at the content that has the most saves. Try running those as your ads. That's the nice thing with Andromeda, too. You lose so little running a bad ad. So like at the very least, if some of you guys aren't putting out 400, 450 pieces of content a week anyways, right? And so like if you're putting out 20, just put all 20 up. And just run them. And you'll you'll be amazed at how much better they're performing. And I think, I mean this sounds obvious now, but like it's 100% aligned with the platform objectives. Like a perfect platform would have no ads. Right? And so if you can make all of your ads look like content, the platform loves you.
+
+## [03:00](https://www.youtube.com/watch?v=zCqcPGNsOFc&t=180s)
+
+Right? That's they that's Nirvana for them. Is if the world can just have no ads on on Meta or Instagram or TikTok or whatever, because like as long as the there's purchase intent, which we know that content creates purchase intent, that's why everyone's here. So we know that and we just didn't combine the two. So this has been this is 100% the direction that that we've already gone in and you guys, if you just start doing it immediately, you'll be ahead by a year. So and if you're in Latin America, you'll be ahead by five years. So you just take your best reels, for example, and you just write a banner with a CTA >> Yes. for them to download the lead magnet. >> Yes. Click the thing to get the thing. >> what's interesting? We tried the reverse of that. Yeah. We took our best ads and posted them as content and it didn't work. Oh, it does. >> [laughter] >> Well, well like oh, like all right, move on. We Static image. >> [laughter] >> We haven't made a piece of content since then. Um Well, I think part of that might be uh bottom slash middle of funnel stuff. Like the one thing that ads give you, right, that organic one, is that it'll give you reach. Right? You pay for the reach. Like, that's the trade. Like, they wouldn't normally boost this because it's not good enough content to get displayed because it's more right hooky. Right? And so, you have to pay the platform to do it. Though, if it's if it's good enough, it's valuable enough on its own, they'll distribute it for free. Now, if you put money behind it, they'll super distribute it for free. >> But, what we did find is our best ads were made by short-form creators. So, like, there is a move it works taking what works organically and running it as an ad, not so much the other way, but Yeah. But, I think Great for brands, too. Real quick, I'm going to show you
+
+## [04:30](https://www.youtube.com/watch?v=zCqcPGNsOFc&t=270s)
+
+the exact 10-stage road map from zero to 100 million plus that less than 1% of companies finish I've now done multiple times. And so, I can say with a lot of confidence that these are the stages, as head count increases, that you need to get through. And I broke each of these down by eight different functions of the business, what the constraint feels like, like, what are the symptoms of it when you're going through it, and then what steps we actually took to graduate. We've done this across software, physical products, uh service businesses, brick and mortar, all of this, and it works. And it's my gift to you. It's absolutely free. And so, the link's in the description, but you just go acquisition.com/roadmap, just enter your info, and it'll spit it right back to you, all free.

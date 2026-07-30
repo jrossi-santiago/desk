@@ -1,0 +1,22 @@
+---
+episode_id: "SdyO4ZMe5yU"
+title: "Should You Do More or Better?"
+published: "2026-02-21"
+duration_seconds: 85
+episode_url: "https://www.youtube.com/watch?v=SdyO4ZMe5yU"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# Should You Do More or Better?
+
+Video: [https://www.youtube.com/watch?v=SdyO4ZMe5yU](https://www.youtube.com/watch?v=SdyO4ZMe5yU)
+Published: 2026-02-21
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=SdyO4ZMe5yU&t=0s)
+
+What I have noticed over my career because I'm somebody who will take a huge amount of action for extended periods of time is that there tends to be this kind of accordion this kind of accordion back and forth that happens between more and better. And so I'll give you an example. So let's say that you're making you know one YouTube video a week and it's generating you x amount of business or growth. Okay. If you make more YouTube videos and you go to five YouTube videos a week, you'll likely get more views than you did with one. But then when you look at your five YouTube videos, you'll probably then notice that one of the five or one of your 10 will dramatically outperform the other nine. And then you'll think, man, if I just had more time, I'll bet you I could make more of those other nine like that one. And so then you say, well, what if we went from 10 videos down, you know, every two weeks to three, and then you make three videos, and then those videos are on average significantly better. And then you end up getting more views overall. But then once you get really good at making those three, you're like, you know what? Let's see if we can do 10 like that every two weeks and then you go back out and then all of a sudden one of those 10 is going to be way better than the other nine. Right? So, this is an accordion process that is normal and to be expected. And I think that it just depends on where you're at kind of in the pendulum swing. But this is just something that I have noticed is that we do more, we do better, and we do better, and we do more, and we go back and forth with this. But you still have to be making sure that you're doing one or the other. And if you're not sure, start with more because more will always make you better.

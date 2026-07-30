@@ -1,0 +1,40 @@
+source: "https://github.com/poseljacob/ask-hormozi"
+name: hq-pack-ask-hormozi
+version: 0.2.2
+publisher: '@poseljacob'
+access: public
+description: 'Search 2,039 bundled MoreMozi transcripts locally with QMD and answer questions with timestamped YouTube citations. The pack ships the corpus, an HQ runtime wrapper, and the ask-hormozi skill; installation never downloads videos, audio, captions, or transcripts.'
+requires:
+  hqCore: '>=12.0.0'
+type: skill
+author:
+  uid: e4584448-a0d1-70f0-488f-e590e5d97378
+  handle: jacob
+  displayName: Jacob Posel
+capabilities:
+  - fs
+  - scripts
+contributes:
+  skills:
+    - ask-hormozi
+  workers: []
+  scripts:
+    - hq-ask-hormozi
+  knowledge: []
+  commands: []
+  hooks: []
+  policies: []
+initialization:
+  entrypoint: ask-hormozi
+  prompt: 'Run /ask-hormozi to index the bundled corpus and ask a question.'
+license: MIT
+repository: https://github.com/poseljacob/ask-hormozi
+keywords:
+  - hq
+  - hq-pack
+  - alex-hormozi
+  - moremozi
+  - qmd
+  - transcripts
+  - codex
+  - claude-code

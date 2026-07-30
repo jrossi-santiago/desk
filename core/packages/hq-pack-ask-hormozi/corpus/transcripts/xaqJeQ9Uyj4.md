@@ -1,0 +1,34 @@
+---
+episode_id: "xaqJeQ9Uyj4"
+title: "Why I Started Making Content"
+published: "2026-03-06"
+duration_seconds: 315
+episode_url: "https://www.youtube.com/watch?v=xaqJeQ9Uyj4"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# Why I Started Making Content
+
+Video: [https://www.youtube.com/watch?v=xaqJeQ9Uyj4](https://www.youtube.com/watch?v=xaqJeQ9Uyj4)
+Published: 2026-03-06
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=xaqJeQ9Uyj4&t=0s)
+
+When I met you three years ago, you were just starting on your creator journey. Since then, millions of followers, over 250 million arriving for portfolio companies. Is this where you wanted to be? I don't consider myself a traditional creator. Like I I had businesses and had businesses outside of this that aren't my face and anything. But I saw where it just the the monster amount of impressions that social media was getting and giving away for free. And I was like, this is the most insane thing I've ever seen. And to this day, I still think it's crazy. That like we can get a hundred million, a billion impressions, a quarter for free. I think about creators in two buckets. I think there are the words guys and then there are the video guys and then the crossover is audio. Then I'm a little bit of both. I started making YouTube videos and I wrote a book basically about the same time. Yeah. And then the book kind of took on its own, you know, growth path. >> Yeah. And then the videos also did, too. The nature of how I've done things is that I'm all about business process and system. Yeah. The reason people followed me was because the systems were good. And so because the systems were good, they didn't need me for the systems to work. Whereas many businesses don't have that and a lot of people follow the creator for other reasons that are not that, that are less duplicable. It's fascinating, too, because what you've built is a private equity firm in a way. But most private equity firms add value by cutting and slashing operations. In a way, you're adding value because one, here's the business processes to run. The influence you've now built about how to have facial systems, now you've been
+
+## [01:30](https://www.youtube.com/watch?v=xaqJeQ9Uyj4&t=90s)
+
+able to bring in your face to increase it. >> So yeah, and I think what you said at the very beginning, which is that like entrepreneurs are realizing just the amount of attention that's here and this is just a way to advertise your business. I mean, that was the that was the entire thesis behind acquisition not calm was. I'm a big fan of something old and something new. Mhm. So like something old, private equity, with something new, social media. And like how do we how do we bridge that? How do we how do we merge that? Now, cuz there's been old school, I mean, Warren Buffett's an influencer, for sure. He's just legacy media. Um, Ray Dalio is an influencer. Now, he's starting, you know, he's making his TikToks and things like that. Um, Naval is an influencer. Of course, these guys get deal flow because they're out there. You know, they're they're talking about business. And so, they get it. I just took what they were doing and just like did a lot more of what type of companies we look for, the process overall. Um, those things have changed a lot from when we probably spoke 3 years ago. Um, cuz 3 years ago, I was looking at basically running the Gym Launch playbook that we did, taking a company that has basically digital media driven, that is vertically integrated education around a specific sector. Yeah. And then, wrap in business services and then be able to package that because you have revenue retention and then sell it, right? Um, and transition from a face-driven business to a kind of consulting business that's that's in one niche, right? It's a difficult operational challenge for for for face-driven businesses to remove the face. And I think that makes sense. Like, Taylor Swift isn't looking for
+
+## [03:00](https://www.youtube.com/watch?v=xaqJeQ9Uyj4&t=180s)
+
+somebody to like step in and sing for her. Here's a tension in what you said. You became the face for faceless systems. Your premise was I have these processes that work. 100 million offers, 100 million leads. You don't need Alex Hormozi to literally be doing this for you. Exactly. It's to empower you to do it. As you said, the business model for creators very different. Consuming talk about how there's an inverted pyramid where the creator is almost the chokehold, the gate point for everything because you need Taylor Swift to be there. Now, you are an influencer. And so, it's funny because you're like, "Well, I'm going to help you do a system where you don't need me." But now, people follow you for that. I think once upon a time, there's a conception of a creator as like the Casey Neistat alter. Like, "Oh, hey, I make money to make content. Where I've started is on YouTube and the advertising, the brand deals is what supports me. I think now you're seeing creators becoming entrepreneurs. And kind of just becoming how they market themselves. >> In some ways like the reputation of the creator Yeah. >> was branded, if you will, like in a figurative sense, like branded by the early creators, which is not reflective of how you advertise a business today. Real quick, if you are a business owner and you are not growing as fast as you like, I'd like to give you a free gift. So, my team and I put together the $100 scaling road map, which is basically 200 hours of us looking over all the portfolio companies we've had and what stages of growth they
+
+## [04:30](https://www.youtube.com/watch?v=xaqJeQ9Uyj4&t=270s)
+
+went through, and more importantly, where they got stuck and how they got past it. And so we broke it in these 10 stages and we made this little kind of quiz thing where if you put in your business information, it'll tell you where you're at, and the most important part for you, what to do for each of functions of the business across product, marketing, sales, customer success, recruiting, IT, human resources, and finance. And so, no matter what you're struggling with, someone else has already struggled with it and solved it. And so I'd like to give you this thing absolutely free. You can go to acquisition.com/roadmap, plug in your business information, and if you want us to actually help you deconstruct the business and you're trying to scale, we'd love to help you out. On the thank you page, you can just book a call with my team and we will look at your business, see if we can help, and if we can, we'll invite you out to Vegas and we'll do this in person live.

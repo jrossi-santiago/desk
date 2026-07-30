@@ -1,0 +1,38 @@
+---
+episode_id: "tM1JN4stPGQ"
+title: "The Reason Most Agencies Never Break $10M"
+published: "2026-04-01"
+duration_seconds: 389
+episode_url: "https://www.youtube.com/watch?v=tM1JN4stPGQ"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# The Reason Most Agencies Never Break $10M
+
+Video: [https://www.youtube.com/watch?v=tM1JN4stPGQ](https://www.youtube.com/watch?v=tM1JN4stPGQ)
+Published: 2026-04-01
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=tM1JN4stPGQ&t=0s)
+
+So you got neuropathy, you're doing 5 million a year. What's the model? Uh done for you scheduling. Okay. Lead gen. Okay. Is that local neuropathy stuff? >> Yeah. So it's diabetic dinners and all that jazz. Dinners and info. Yeah, familiar with the model. Okay. Um So then what's the what's the what's the big play? Uh our we're we're niched pretty well. Like I think we're possibly the biggest in our niche. Um it's a smaller group meeting like there's maybe 2,000 doctors that do neuropathies specifically. Um so and we have 160 of them. So it's not we're still there's still huge potential for us to I think we get 300 or 500 or 1,000 maybe. I don't know. What's the end goal for you? Um I'm I'm just cash. Okay. Yeah, yeah. No, I I ask because it's like is it to build it to sell it? Is it to have Yeah, I mean I think selling would be cool. I it has to it has to go to different verticals. I mean I'm like I'm way too risky. On the checklist. >> Oh, not necessarily. I mean cuz the thing is is like the the ultimate version of the model that you have is like you've got 160 out of like 2,000 neuropathy clinics, right? So you've got like pretty decent, you know, you got whatever that is 8% of that like pseudo of like niche of a niche of a niche market. But those guys make How much do these guys make a year? Like Um uh between a million and 5 million.
+
+## [01:30](https://www.youtube.com/watch?v=tM1JN4stPGQ&t=90s)
+
+Right. And so this is where this gets like way more interesting in my opinion. So it's like you've got 320 million a year. I'm just using an average, right? Per year that you're driving in revenue. And it's like, man I'm making five. I'm like this sucks, right? Of that. >> [laughter] >> You're like how can I get more of that? Um and so the thing is is like I think the the ultimate version for like the the quote info and agency space that I know these are different things, but fundamentally they serve niche niche avatars that are B2B. Um the ultimate version of those businesses is rollups of the the customers you serve. Because if you think about what a rollup does, I don't know how familiar you are with it, but like you get everyone on the same marketing. You get everyone on the same price points. Get everyone on the same packages. You guys basically you consolidate with everyone's operations are. And that's what the majority of super niche agencies and kind of info consulting whatever you want to call it do with businesses. So they do all the heavy work of integration for what a rollup would do and then they just say like, okay, I'll stop there. I just won't like actually push it over the edge and then monetize the whole thing. Um and so like most of the physicians that I know hate being physicians. They do it purely to make money and want to be out of it as soon as possible. And so like selling them on the idea that like, okay, your practice does you know, whatever 2 and 1/2 million a year of top line and
+
+## [03:00](https://www.youtube.com/watch?v=tM1JN4stPGQ&t=180s)
+
+whatever 1 million in profit. Uh that's awesome. And then you have your you know, taxes that you're taking home 600k a year after that. Like that's great. But what if and on your own this thing could maybe sell for I don't know, 3 million bucks maybe. Like maybe if you're really really you know, we're being really generous. But if you were part of a group of physicians that were a neuropathy you know, thing nationwide uh we can probably sell for like your thing could probably sell for 10 million. And so all I'm asking for is a you know, 20 to 30% slice of that but times 160. And so obviously of the 160 you wouldn't do with all of them. I mean if you did that'd be a monster deal. But like if you could get like 10 or 20 of them to roll together because they all probably do have enough like enough profit together to be meaningful. So it's like if you can get the rollup to be like 10 to 20 million dollars in terms of profit that would be a meaningful exit. That would be probably like a 100 to 200 million dollar exit and you have 20 to 30% of that. But then after that point you're now the guy who did that. And so then your whole reputation changes. Your dynamic changes around pricing, your long-term stick, all of that kind of stuff changes because it's like, oh, I'm the guy that can get you to here. And that's also the like get rich enough you don't have to do this again. Which is a much more compelling offer. Can I ask you a side question? You guys uh when you switch to licensing cuz I remember I know OG flying around and then more or less OG they were
+
+## [04:30](https://www.youtube.com/watch?v=tM1JN4stPGQ&t=270s)
+
+flying around for you. And then more recent them doing it for for themselves. >> Right. And I gave them the ads that we tested. Right. So the the transition for you from doing it for them to doing it to have then doing it themselves and you being a coach does that >> never use that word, but yeah. Yeah. >> [clears throat] >> Does that work? Do you think that looking back would you would you have done it that exact same way? Would you have switched to the licensing model and like And is that what you're calling licensing? Yeah. I mean because like we had ads that we would test every month and then we would just let everybody else use them. And tons of people tried to use them that weren't our because they would copy the gyms that we had's ads. And they'd like I'd have ads gyms using my face to run ads for their gym. It happened all the time. So um would I do the model we had again? Yes. The reason that we didn't do done for you was two things. One is or like the reason do-it-yourself for your avatar doesn't work is that they make too much money. Yeah. A gym owner the value of learning the skill exceeds their current skill. It makes more sense for somebody who makes $35,000 a year to learn how to market and sell than somebody who makes a million dollars a year to learn how to market and sell. They've already leveled out of that. In terms of like cuz they can pay somebody less than they make to do this for them. Whereas a gym owner can't. It makes sense for them to learn that skill. And then from the reason I didn't do a rollup is because group based service there's zero there's zero market for it. No one wants to buy them.
+
+## [06:00](https://www.youtube.com/watch?v=tM1JN4stPGQ&t=360s)
+
+If I had been in a market where people were buying for like for sure I would be I would that would have been the model I would do. Beautiful. Yeah. I respect I'm not rocking with that. Does that make sense? Sweet. So if you've hit a revenue ceiling or your entire business relies on you to grow then I'd love to invite you out to our headquarters here in Vegas to learn how we scale. It's a my team spends two days with you to identify the thing that's holding your business back. And so if that sounds interesting click, book a call and if you're a fit we'd love to potentially see you out here in Vegas.

@@ -1,0 +1,34 @@
+---
+episode_id: "pQsT3zLK4Z0"
+title: "How to Choose the Right Business to Start"
+published: "2026-02-12"
+duration_seconds: 304
+episode_url: "https://www.youtube.com/watch?v=pQsT3zLK4Z0"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# How to Choose the Right Business to Start
+
+Video: [https://www.youtube.com/watch?v=pQsT3zLK4Z0](https://www.youtube.com/watch?v=pQsT3zLK4Z0)
+Published: 2026-02-12
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=pQsT3zLK4Z0&t=0s)
+
+when you're thinking about what to pursue. So, say you've left the job, you've quit the thing. When you're thinking about what to pursue, >> how much of that is a decision derived from self-awareness? >> Because, you know, they'll someone will look at you now and be like, "Oh, no, Alex did this, so I'm going to start a acquisition.com, >> you know, or they'll say, um, I want to I saw Steve Jobs did that thing with the computers. I'm going to start Apple." >> Yeah. >> Or Elon, I'm going to do the spaceships. M >> how much do you have to know thyself to know what to pursue? >> Man, this is a really good question. So, um there's a tweet that I love by Andrew Wilkinson, which is um every entrepreneur ever colon here's the winning number for my lottery ticket. And so, it's like every entrepreneur will say here's the winning lottery ticket, but it's like that game already that drawing already happened. >> Ah, okay. Yeah. >> Right. And so, like you can't cash that ticket in. It's already done. And so people say the word first principles, no one really knows what it means. Uh I mean some people do, but the I think far more people say it than know what it means. And so basically there are foundational truths of business that that exist and the conditions of the environment will change. And so you have to apply those truths to whatever the current condition is. And so that's what I try and tease out with the books and the stuff that I that I put out in content. But at the end of the day, you have an input of time like zooming all the way out. If the goal assuming that your goal is to make money, okay, like and this is just a purely economic business goal, then you have time which
+
+## [01:30](https://www.youtube.com/watch?v=pQsT3zLK4Z0&t=90s)
+
+is the primary currency that you trade it and you make dollars over a period of time. And so I tend to reject the idea of like never, you know, never trade time for dollars or anything like that because everyone trades time for dollars. It's just some of us are more efficient at it than others. But even exchanges that occur that just are not denominated in time still occur over time. And so uh you have this foundational unit of time which you're going to give in. What we're seeking is the highest return on that time. And so there you know within a business context there's kind of three levels of uh things that have to occur in a business. You have to you know attract attention, you have to convert attention and then you have to deliver something uh for that attention. And in each of those things you want as much leverage as possible. So you want as little time as possible required to get the most output. And so I have built acquisition.com on basically two primary thesis uh which are in the logo which is this is a fulcrum for leverage >> for people that can't see it's like a triangle. >> Yeah. So it's like a triangle or the Illuminati because that always gets brought up. Um yeah, right. So we've got the fullcrumb for leverage and then inside of it you have supply and demand. And I see those as the two foundational principles of business. And so which is you need supply and demand to have a business and then leverage to get as much out of it as you possibly can. And so um when you're looking at the assets that you have, assets can also be skills, resources, what you have available to you. Now, if you have nothing, then all you have is your brain, your hands, and the time that you have that you can put towards learning something. Which is why I'm a big fan of
+
+## [03:00](https://www.youtube.com/watch?v=pQsT3zLK4Z0&t=180s)
+
+skill acquisition as one of the the primary things that you can do is educating yourself and not formally educating, but informally or alternatively educating yourself on super tactical things. Uh once you get over the fear, then you start asking, okay, how do I let people know about my stuff? And what do I let them know? >> Right? And so, you have to have something to sell, which is the offer. And ideally, you want the offer to have as much leverage as possible. Like, so if you sold software or you sold media, those are things that you can uh cut once, sell a thousand times. Um, if you have a conversion mechanism, it's like you can't have it be automated like a checkout page or some sort of video sales letter or something like that where people just buy without a phone salesperson. If you add a phone salesperson, there's less leverage. Not to say this wrong, but you want to you want to have the highest leverage opportunity. And then from a um from the deliverability expect uh uh perspective um I kind of talked about deliverability first but uh from the advertising perspective uh if you reach out to people one-on-one that's lower leverage than being able to make one piece of content that a million people see right and so over time you go from low leverage to high leverage uh where you have the same inputs but you just get significantly more for your output and that fundamentally is like if we're reasoning out from first principles how do I get the said differently the question someone I think is really asking is how do get the most for what I put in. And you have to reason within your current context of your skills and your resources and your assets in order to derive that solution for you. Real quick, I'm going to show you the exact 10stage road map from zero to 100
+
+## [04:30](https://www.youtube.com/watch?v=pQsT3zLK4Z0&t=270s)
+
+million plus that less than 1% of companies finish. I've now done multiple times. And so I can say with a lot of confidence that these are the stages as headcount increases that you need to get through. And I broke each of these down by eight different functions of the business. what the constraint feels like, like what are the symptoms of it when you're going through it, and then what steps we actually took to graduate. And we've done this across software, physical products, uh, service businesses, brickandmortar, all of this, and it works. And it's my gift to you. It's absolutely free. And so the link's in the description, but you just go acquisition.comroadmap, just enter your info and it'll spit it right back to you. Offer.

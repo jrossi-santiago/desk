@@ -1,0 +1,34 @@
+---
+episode_id: "cXnRN1Hw4ik"
+title: "The Best Offer for a Construction Company"
+published: "2026-03-13"
+duration_seconds: 308
+episode_url: "https://www.youtube.com/watch?v=cXnRN1Hw4ik"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# The Best Offer for a Construction Company
+
+Video: [https://www.youtube.com/watch?v=cXnRN1Hw4ik](https://www.youtube.com/watch?v=cXnRN1Hw4ik)
+Published: 2026-03-13
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=cXnRN1Hw4ik&t=0s)
+
+I think of every deal as having risk, speed, ease. Right, these are the vectors of value. Like this is what people pay for. They want an outcome and they want as low risk, they want it fast, they want it immediately, and they want it to be easy, right? And so, when people work with you, I want to introduce something called the on-time on-budget guarantee. So, I will build your home on time, on budget, or I'll give you my profit on the deal. Now, that will be translated to 20%. So, just say like, I'll give you 20% of the deal. That's I run thin margins, whatever, right? Now, with this, we're going to pair that with a 20% price increase. >> Okay. >> So, statistically, it's going to be really unlikely because you're going to think like, what are the what are the what are my rate limiters in this thing? Okay, maybe tiles going to take a long time or there's tariffs in China or something to get held up on the border or whatever, right? There's some things that are out of your control. But, assuming, and this is the big this is you'll love this, assuming the homeowner doesn't change their mind about anything, from what Right. >> Okay. >> Yeah. So, this Exactly. So, this closes the deal, but you're almost never on the hook cuz they're going to change their mind. >> Okay. >> But, it'll close the deal. And so, you say, "Hey, listen. >> Well, then the constraint there is that they can't change their minds. >> Correct. >> Got it. >> I will guarantee that it's on time and on budget as long as you don't change As long as we're good with this, on time and on budget. >> Okay. >> Right. And if we're over by [ __ ] 80%
+
+## [01:30](https://www.youtube.com/watch?v=cXnRN1Hw4ik&t=90s)
+
+Of course. >> That sounds like that ain't going to happen. >> Yes. No, no. >> It's going to cost them a lot of money if it doesn't happen. >> We agree. I want you to close the deal. Okay. So, and this is how I would pitch this. So, I say, "Listen, I'm sure you're looking at other home builders, and even if you're not, whatever, let me just walk you through what I'd be what I'd be thinking about." Is that most of these custom home jobs go over budget by 10 or 20%. And so, you want to build a a $2 million home, that's fine, it's amazing, I'd love to do it for you. But, if you're over by 15%, $300,000. So, when I say I'm going to be on time and on budget, I'm already going to be saving you the $300,000 that any other contractor is going to be over. So, my measly $250,000 fee is nothing. I'm You're literally You're already in the black. Now, on top of that, with speed perspective, they're also typically 3 to 9 months late on what their deadline is. So, you're going to pay $300,000 more, and it's going to be delayed by another 6 months. Now, the reason this is important, let's just assume it's six, take the midpoint. You're going to get You're going to lose half a year of appreciation on your home that you're also not going to get because it's going to be delayed. And beyond that, when you build correctly, you can get a better appraisal once the house is done versus your cost. Right? Which is what I'm a specialist at. I'll make sure that we're building the right things that are going to really translate to value, and
+
+## [03:00](https://www.youtube.com/watch?v=cXnRN1Hw4ik&t=180s)
+
+I'll you know, I'll advise you against doing some things that are not going to really add value to the home and only add cost. Right? And so, when this thing is done right, this is why my on time on budget guarantee. So, yeah, I'm going to be more than the other guys. No question. But, I'm only going to be more today. You're going to pay way more to those guys. You'll just pay it in different ways. They'll go over. It'll take them longer, and they're actually going to do it inefficiently. This is all I do. And so, this is the framing. Do you like this? >> I do. >> Okay, love it. Now, to be clear, if you change your mind, I I'm happy to accommodate. I just can't I can't keep the on time on budget cuz if all of a sudden you say, "I want gold toilets," and I would use that joke. Like, if you want gold toilets, then obviously I can't do on time on budget cuz I got I got to source these, and gold toilets aren't cheap. And they're like, "Haha." And they're like, "Does that make sense?" Okay, fair. So, then when they sign, it's like, boom. You can close the deal. You can close it at a premium because it's such so We can use this to close the deal and the premium, but then we're never going to be held to it. Even if you And to be fair, if you are held to it, you'll be fine because they won't have changed their mind and you'll be on time and on budget. And in the tiny percentage of the tiny percentage chance that it does actually They never change their mind and you go over what you made on the other 95% of your deals with the excess more than covers it. Real quick, if you are a business owner and you are not growing as fast as you'd like, I'd like to give you a free gift. So, my team and I put together the $100 million scaling road map, which is basically 200 hours of us looking over all the portfolio companies we've had and what stages of growth they went through and more importantly where they got stuck and how they got past it. And so we broke it into these 10 stages and
+
+## [04:30](https://www.youtube.com/watch?v=cXnRN1Hw4ik&t=270s)
+
+we made this little kind of quiz thing where if you put in your business information, it'll tell you where you're at and the most important part for you, what to do for each of functions of the business across product, marketing, sales, customer success, recruiting, IT, human resources, and finance. And so, no matter what you're struggling with, someone else has already struggled with it and solved it. And so I'd like to give you this thing absolutely free. You can go to acquisition.com/roadmap, plug in your business information, and if you want us to actually help you deconstruct in the business and you're trying to scale, we'd love to help you out. On the thank you page you can just book a call with my team and we will look at the business, see if we can help, and if we can, we'll invite you out to Vegas and we'll do this in person live.

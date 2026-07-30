@@ -1,0 +1,30 @@
+---
+episode_id: "lIL8wDuLWac"
+title: "The Shiny Object Trap Killing $100M Companies"
+published: "2026-04-12"
+duration_seconds: 269
+episode_url: "https://www.youtube.com/watch?v=lIL8wDuLWac"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# The Shiny Object Trap Killing $100M Companies
+
+Video: [https://www.youtube.com/watch?v=lIL8wDuLWac](https://www.youtube.com/watch?v=lIL8wDuLWac)
+Published: 2026-04-12
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=lIL8wDuLWac&t=0s)
+
+So, we scaled the sales team we're in solar from 20 to 4 100 reps. Yep. We're in the same the same group also. Oh, really? From 20 to 400 reps in the past 2 years. 20 to 400? >> Yes. >> That's awesome. Congrats. While doing that, we also doubled down on software and tech. So, we built our own software and tech from scratch. It solves the majority of the industry problems and our feedback loop is our sales reps and leaders and ops. All right. So, we're able to keep iterating and making it better. >> Cool. Now, we're at a point where one of our strongest recruiting tools is our software. All right. However, also there are people that won't come into the company directly. They want to stay with their own company or continue to build their own. Uh-huh. So, we're at a point now where I'm just trying to decide is it something worth going down the path of white labeling a license or keeping the competitive advantage within? Keep doing what you're doing. So, um yeah, just keep doing what you're doing. Like, it's uh it's a big shiny object. So, the idea of having a I mean, potentially a much better LTV to CAC ratio with the software. >> So, when we're saying so you own a solar company, correct? Okay. And so, you have 400 solar sales reps and they sell solar roofs or whatever every all the every day. Okay. And so, you have software that allows them to just do their jobs better. Yes. Okay. So, what Yeah, I I don't I don't see the I don't see why you'd want to why you don't want to white label. Like, what's the benefit of white labeling it? I was just torn between the idea of competitive
+
+## [01:30](https://www.youtube.com/watch?v=lIL8wDuLWac&t=90s)
+
+advantage within, recruit people here >> Sure. versus the idea of well, there's always going to be a huge amount of people in the industry that won't come within my company Uh-huh. that would definitely pay for this cuz people ask for it all the time for the software. So, I'm torn between that idea if that makes any sense. >> Yeah, it's just a missed opportunity, not a problem. Okay. Like, this is super important to not make the mistake. Okay. But, it takes you zero effort to not do it. And so, like think about this way. It's like in order cuz I'm guessing on some level you're like, "Okay, well this could increase the enterprise value of my company." I'm guessing that's the thought. And it goes into the follow-up question, which is I I've obviously heard tech is a multiplier, but how does that apply if the tech itself is not generating revenue necessarily? >> Right. Yeah, so the only So, basically you will get all the benefits of the tech you have in the multiple already. Okay. Because it'd be tech-enabled. If you wanted to sell as a quote SaaS software, you you're not. You you're like it you'd have to it makes no revenue right now. You'd have to figure out a revenue a revenue model and then all the while you're figuring all this stuff out, you have your solar business, which is obviously crushing it. Yeah. Like, it's just don't bother. Okay. It's just not worth it. Keep the edge, keep the advantage. It's a competitive moat for you. It's very standard for a business after a certain size to start developing internal tools. It's just normal. It just streamlines processes. It makes sense. And it's actually a fairly common question. It's like, "Hey, we built this thing for ourselves. Slack built a tool for themselves and then they Yeah, but Slack wasn't doing probably 200 I don't know what you're doing, but I'm guessing 100 plus a year
+
+## [03:00](https://www.youtube.com/watch?v=lIL8wDuLWac&t=180s)
+
+um with 400 sales guys. Like, they were making no money. Yeah. Right? And so, the amount of money that you'd have to generate from the SaaS for the SaaS to Like, you're not going to get SaaS multiples on your existing revenue. You would just have a small SaaS company that would get a SaaS multiple and then they would add on what your Like, the guy who's writing you a check for 500 million is not an idiot. Yeah. He knows it's not SaaS. You know what I'm saying? Like, you'd have to transform into a different business, which why on earth would you do that? Super helpful. Thanks. If you're a business owner and you are not growing as fast as you'd like, I'd like to give you a free gift. So, my team and I put together the $100 million scaling roadmap, which is basically 200 hours of us looking over all the portfolio companies we've had and what stages of growth they went through and more importantly, where they got stuck and how they got past it. And so, we broke it in these 10 stages and we made this little kind of quiz thing where if you put in your business information, it'll tell you where you're at and the most important part for you, what to do for each of functions of the business across product, marketing, sales, customer success, recruiting, IT, human resources, and finance. And so, no matter what you're struggling with, someone else has already struggled with it and solved it. And so, I'd like to give you this thing absolutely free. You can go to acquisition.com/roadmap, plug in your business information, and if you want us to actually help you deconstruct the business and you're trying to scale, we'd love to help you out. On the thank you page, you can just book a call with my team and we will look at the business, see if we can help, and if we can, we'll invite you out to Vegas and we'll do this in person live.

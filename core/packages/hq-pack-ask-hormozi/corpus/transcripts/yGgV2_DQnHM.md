@@ -1,0 +1,34 @@
+---
+episode_id: "yGgV2_DQnHM"
+title: "Helping a Baseball Training Business Scale to $5M"
+published: "2026-07-15"
+duration_seconds: 349
+episode_url: "https://www.youtube.com/watch?v=yGgV2_DQnHM"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# Helping a Baseball Training Business Scale to $5M
+
+Video: [https://www.youtube.com/watch?v=yGgV2_DQnHM](https://www.youtube.com/watch?v=yGgV2_DQnHM)
+Published: 2026-07-15
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=yGgV2_DQnHM&t=0s)
+
+My name is Brian Yoshida. I run Armr Heat. We sell arm health programs to baseball players. >> Arm health? >> Arm health, yeah. We did 830,000 in last year's revenue. We'll be at around 5 million in the in the coming years. Um what might be stopping us is we're selling the same product to two different customers. So, we're selling our same Armr Heat program to one individual athletes on the one-off side of things, and then also to teams, college and high school teams. Essentially the exact same program, but packaged in 20 to 25 accounts at a time. >> Okay. >> Um and so, in talking with all of your your team this week, I've realized the lack of clarity that comes with that in messaging and and offers. Um but at the same time, since both are growing, and I'm hesitant to pull the plug on it when there's really zero cost or time involved. >> So, I want to understand a little bit more about the actual like deliverable. Is the deliverable like login and access and information, or is it like your team doing something to teach them stuff like hands-on? >> Login access. >> Okay. So, the actual deliverable is login and access. All right. So, um when I think about focus, it really comes down to what is the change about what I do to run this business?
+
+## [01:30](https://www.youtube.com/watch?v=yGgV2_DQnHM&t=90s)
+
+So, you basically just have two acquisition channels, I'm guessing. Or like, how are you getting the two like is your sales process and and and customer acquisition process different for the large guys versus small guys? By the way, applause for a break. Who here has two clearly different customers they serve? Raise your hands for a break. Okay. Yeah, so you're not alone. Thank you, both. >> Um no, I'd say primarily mostly coming from from organic social and paid social. Just started running the paid social to the team side of things that are very much targeted there. I'm going to broadly added about on both previously and started using social. >> Got it. What's the LTV CAC on individuals versus teams? >> So, individuals LTV is 360 and the CAC right around 120. >> Is this a subscription? >> Yes. >> What's the price point? >> It's 45 a month or 450 a year. So. >> Got it. You said 1,200 is the LTV on the customer? >> No, LTV is as uh 360 $360. >> So, a little less than 450 in this case for the year. Okay, I got it. Okay, so that's the consumer side. And then what was the What was the other one? >> So, the team side lifetime value is still we're 3 years in, so still early, but I confidently say 6 to 8,000 on the team side of things. And just started running the ads, so I don't know what our CAC is for that at this point. >> That's fine. Okay. So, we got team here. Okay. And then how many um uh
+
+## [03:00](https://www.youtube.com/watch?v=yGgV2_DQnHM&t=180s)
+
+how many customers are you selling Do you have like what's the split here in terms of revenue right now? >> 40 60 team, 40% um individuals. >> Oh, really? >> Yeah, that's that's just last this previous year. >> Yeah, that's interesting. So, the more viable version of the business is the team side, for sure. No question. Um because the thing is is like, you know, they keep getting older, you keep staying the same age. Uh because the teams will graduate players but the teams stay the same. And so, that's what I'm getting at. The team can really stick you. The end consumer won't pay. Now, that being said, it doesn't mean like the brand has to be like I think it's To answer your question, I'd be fully focused on the team side as the as the main revenue driver. From a branding perspective, I think you doing things with like people in pictures and all that around whatever players you have, um is good for the brand overall cuz long term you want baseball players coming in the team saying, "Hey, we should get this thing." >> Um but if you're already flipped, because typically small businesses start here and then all of a sudden they do a couple enterprise accounts and they're like, "Holy this is one of these is worth 50 of these. This is awesome. And how do I get more of that?" If you've already made this transition, you're already on the right path. And so I would do more I would do more better on that side as my main focus. >> Got it. Understood. >> So no need to pull the plug on either but just direct all of it >> Yeah, you put all of your focus there. Get your CAC metrics. I mean, I still would want to know but seeing the difference that I'm looking at here, I'm going to bet it's probably not that complex for sales to
+
+## [04:30](https://www.youtube.com/watch?v=yGgV2_DQnHM&t=270s)
+
+hit that that number. And so it's like maybe CAC is three times higher but I don't think it's 20 times higher. That's a better game. >> And the the retention has been much more stable on the two sides. >> That's what builds a compounding business. Yeah. That's I mean, it's a much better game to play. >> Yeah, perfect. Thank you. >> Yeah, you bet. >> [applause] >> If you're a business owner and you are not growing as fast as you'd like, I'd like to give you a free gift. So my team and I put together the $100 million scaling roadmap, which is basically 200 hours of us looking over all the portfolio companies we've had and what stages of growth they went through and more importantly where they got stuck and how they got past it. And so we broke it into these 10 stages and we made this little kind of quiz thing where if you put in your business information, it'll tell you where you're at and the most important part for you, what to do for each of functions of the business across product, marketing, sales, customer success, recruiting, IT, human resources and finance. And so no matter what you're struggling with, someone else has already struggled with it and solved it. And so I'd like to give you this thing absolutely free. You can go to acquisition.com/roadmap, plug in your business information and if you want us to actually help you deconstruct the business and you're trying to scale, we'd love to help you out. On the thank you page, you can just book a call with my team and we will look at the business, see if we can help and if we can, we'll invite you out to Vegas and we'll do this in person live.

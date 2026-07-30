@@ -1,0 +1,30 @@
+---
+episode_id: "LPsP_KZqJBI"
+title: "Helping a $2M Glamping Resort Plan Its Next Move"
+published: "2026-07-18"
+duration_seconds: 249
+episode_url: "https://www.youtube.com/watch?v=LPsP_KZqJBI"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# Helping a $2M Glamping Resort Plan Its Next Move
+
+Video: [https://www.youtube.com/watch?v=LPsP_KZqJBI](https://www.youtube.com/watch?v=LPsP_KZqJBI)
+Published: 2026-07-18
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=LPsP_KZqJBI&t=0s)
+
+Uh, my name's David Haas. Um, I have a glamping resort, 40 units. We talked yesterday. We're doing We're doing just under 2 million. Uh, I want to be at 20 million. Uh, the re- restraint is obviously the amount of units and glamping was always the model to get us to selling retreats at higher tickets. Um, and so we're there. Like we're profiting. We had just under 500k in profit last year. And so I guess the question is, do I do more of what I'm currently doing and create a bigger profit cushion cuz we're doing a lot of reinvesting, or do I shift to the retreat model at this time and start trying to drive that higher ticket? >> I think it depends on what you want. I mean, you know what my actual answer would be. For sure do more. That would be my my answer, but when we talked last night you had a a big desire to shift into kind of the men's retreat thing. That's what you're building your whole personal brand on. And so in that instance, if you have lead gen that's already available to you, then selling into an existing distribution base really the only thing you're adding is cuz you're already doing a lot of these other things. And so this is also a really good frame for thinking through organizational change, which is what does it change about what I do? Right? Just very simply. Like what actually changes to my like to my day-to-day? And so for your day-to-day, what would change is you're going to be leading these retreats that you're currently not doing. You're going to have to hire and train a sales team. Uh, you're going to have to build out funnels, and you're going to have to start running ads. Now you do have some organic, but you'll probably need to run ads to hit the volume that you're trying to go for. So for you to hit 20 million, if that's the goal, it's a timeline thing. You would probably be able to hit the 20 million with the existing 40 uh,
+
+## [01:30](https://www.youtube.com/watch?v=LPsP_KZqJBI&t=90s)
+
+you know, glamping sites that you have if you started running ads and just selling the retreats at kind of like the $5,000 price point for 2 days for the guys that we're talking about last night. I think you could do that. It is a material change from the business, but that reverse engineers to $36 million a year, um, based on the math that we walked through yesterday. If I wanted the the the the high likelihood bet, then I'd be like, how do we go from 4 40 to 400? Um, and that one is sellable. This one is not. And so that's kind of not not it's just harder to sell. There's other There's more hair on the deal. So, I guess question one is, do you want to sell it eventually? So, that's a real question. >> Uh, no. >> Okay. So, if you don't want to sell it then that matters less. Um, and do you feel equipped to handle kind of the acq- the the acquisition side? Cuz for sure you'll make more money faster if you sell the the high ticket thing. >> Yeah, like my passion is in hosting the retreats. That's why we created the retreat center, so. >> Then then in this rare instance I would say you basically built up this asset to facilitate you doing a cooler experience Like basically it's like what got you to here isn't going to get you to what you want to do next. But, there's nothing wrong with what you did to get here because that's what allowed you to get these 40 campsites so that you could deliver a service in a way that other people can't. And I think that is a unique differentiator. And so, at the beginning I think we talked about like just do one a quarter. Start there, and then it's like, okay, I think I can out sell that. It's like, great, do one a month, and then do one a week, and then we basically can spell our way up to doing, you know, two a week, and at that point you're at 36 million. >> Yeah, sounds good. And again, you you would think you would just do that all with like Facebook ads or ads essentially and just really ramp the ads
+
+## [03:00](https://www.youtube.com/watch?v=LPsP_KZqJBI&t=180s)
+
+up. >> Yep. And on the back end what I would do is just uh immediately uh get them to book the next time that they're that they're going to come back. And so that you create some more reoccurring revenue. >> Yeah. >> If you are a business owner and you are not growing as fast as you like, I'd like to give you a free gift. So, my team and I put together the $100 million scaling road map, which is basically 200 hours of us looking over all the portfolio companies we've had and what stages of growth they went through, and more importantly, where they got stuck and how they got past it. And so we broke it into these 10 stages and we made this little kind of quiz thing where if you put in your business information, it'll tell you where you're at. And the most important part for you, what to do for each of functions of the business across product, marketing, sales, customer success, recruiting, IT, human resources, and finance. And so, no matter what you're struggling with, someone else has already struggled with it and solved it. And so I'd like to give you this thing absolutely free. You can go to acquisition.com/roadmap, plug in your business information, and if you want us to actually help you deconstruct the business and you're trying to scale, we'd love to help you out. On the thank you page, you can book a call with my team and we will look at the business, see if we can help, and if we can, we'll invite you out to Vegas and we'll do this in person live.

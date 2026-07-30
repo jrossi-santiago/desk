@@ -1,0 +1,30 @@
+---
+episode_id: "oYdvuoUfP8g"
+title: "If You Can’t Buy It Twice, Don’t Buy It Once"
+published: "2026-03-11"
+duration_seconds: 251
+episode_url: "https://www.youtube.com/watch?v=oYdvuoUfP8g"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# If You Can’t Buy It Twice, Don’t Buy It Once
+
+Video: [https://www.youtube.com/watch?v=oYdvuoUfP8g](https://www.youtube.com/watch?v=oYdvuoUfP8g)
+Published: 2026-03-11
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=oYdvuoUfP8g&t=0s)
+
+If you can't buy it twice, don't buy it once. Or even buy it three times or four times or five times over, don't buy it once. And the way that really shifted how I started spending money or rather started saving money and not spending money, was when I started looking at how much time it took me to make the amount of money post tax to buy whatever I wanted. And I remember this clear as day. I was working at Smoothie King as a blender tender and I was making $6.75 an hour. And uh I just gotten a raise from $6.25 an hour. Uh I'm dating myself. Anyways. And while I was there, the co-workers that I had and I would always go to lunch next door at Cosi, which was like a sandwich shop. And it was like 13 bucks for a sandwich, right? And a drink and chips and whatever, right? And so I remember looking at my check and my $6.75 an hour after taxes and fees was like six bucks an hour and I was like, man, I gave up two hours of my six-hour shift every shift to go buy lunch. And I was like, I'm literally giving a third of my earning away for lunch every single day. If I knew that I had to work the first two hours just to get the sandwich, I don't think I'd ever make that trade. And yet I was making it every day. And then I started thinking, I'd go to the mall and they're like, oh, do you want a new shirt? And it was at The Gap and it was 30 bucks. And I was like, okay, well, shoot, that's a whole shift. And I was like, would I work a whole shift if someone just held up a shirt that I didn't need to do it? And I was like, I don't think I would. And so all of a sudden it started shifting how my buying
+
+## [01:30](https://www.youtube.com/watch?v=oYdvuoUfP8g&t=90s)
+
+happened because I I started feeling the pain associated with what it would take if I had to do that before getting the thing I was going to buy. And it it completely changed my buying behavior. And to be very clear, saving money won't make you money, but saving money allows you to have money. And having money allows you to look further out. And when you look further out, you can take on bigger risks, which absolutely will make you more money. And when you're looking at the price of whatever the thing you're trying to buy is, obviously when I was a teenager looking at a shirt, I was looking at, "Okay, I'm making six bucks an hour, a shirt's 30 bucks." But when you're an adult and you're making $100 an hour and you're looking at a 500 or $1,000 purchase, would you work two days in order to do that? I don't know. Would I? Probably not. And sometimes you think, "Hey, is uh would I work all day for two days to go out with the boys for three hours on Saturday?" I I'd probably be like, "Guys, I'm I'm not I'm not going to work for two days just to go have three hours of fun, right? That feel like I'd rather just not work the two days." And that was the thing is whenever I had the "Why I'd rather just not work than do that thing," then I was like, "I shouldn't buy that thing." For example, when I was poor, I only spent cash. And so my easiest way of actually creating a budget was that I had a personal training client who paid me $2,000 a month in cash. And so 100% of my money that came in through the business and credit cards and everything else is just what went into my bank account. And the only thing I knew I could live on was was was was inside of my wallet. And so as that got replenished, and the thing is is that
+
+## [03:00](https://www.youtube.com/watch?v=oYdvuoUfP8g&t=180s)
+
+I'm so scared with money or I was so frugal with money that I would always make sure that I had more than that to make it for the next payment cuz sometimes the guy would take a day or two you pay on Wednesday rather than a Monday or whatever. And I need to make sure that I food for Chipotle. Real quick, if you are business owner and you are not growing as fast as you like, I'd like to give you a free gift. So, my team and I put together the $100 scaling roadmap, which is basically 200 hours of us looking over all the portfolio companies we had and what stages of growth they went through and more importantly where they got stuck and how they got past it. And so we broke it in these 10 stages and we made this little kind of quiz thing where if you put in your business information, it'll tell you where you're at and the most important part for you, what to do for each of functions of the business across product, marketing, sales, customer success, recruiting, IT, human resources, and finance. And so no matter what you're struggling with, someone else has already struggled with it and solved it. And so I'd like to give you this thing absolutely free. You can go to acquisition.com/roadmap, plug in your business information, and if you want us to actually help you deconstruct the business and you're trying to scale, we'd love to help you out. On the thank you page, you can just book a call with my team, and we will look at the business, see if we can help, and if we can, we'll invite you out to Vegas, and we'll do this in person, live.

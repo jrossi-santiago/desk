@@ -1,0 +1,30 @@
+---
+episode_id: "hpOoEsd4lYM"
+title: "Teaching a YouTuber how to build a real business"
+published: "2025-12-11"
+duration_seconds: 262
+episode_url: "https://www.youtube.com/watch?v=hpOoEsd4lYM"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# Teaching a YouTuber how to build a real business
+
+Video: [https://www.youtube.com/watch?v=hpOoEsd4lYM](https://www.youtube.com/watch?v=hpOoEsd4lYM)
+Published: 2025-12-11
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=hpOoEsd4lYM&t=0s)
+
+I'll say this. So, there's a big difference between education businesses and entertainment businesses. Totally different monsters. The benefit of education is that there's a gazillion ways to monetize it. The downside is it's much harder to grow education because it's more niched. It's hard to go broad. Entertainment is the exact opposite. It's like so easy to get views. Everything's viral, tons of subscribers, ton of awareness, but it's really thin, right? And so if you look at the best people who monetize the large entertainment audiences like taking to his national extreme, it's the Mr. Beast Logan Paul plays. So then it's looking at like if you look at I'm sure you know um you know Dosos with uh Bert and um Tom Sigura. There's a reason that, you know, then there's a bodega cat with moral and Mark Normand like they usually go the boost thing because it marries naturally with um it marries naturally with comedy. And so it's typically some sort of commoditized consumable that the highest percentage of your audience consumes. And if they're like, uh, well, if I'm going to buy one, I might as well buy Zack cuz I like Zach. I would definitely lean towards some sort of consumable. Like there's a reason, you know, Beast just went into Lunchly, right? You just do like, "Okay, well, they're doing they're printing two billion a year with a billion in profits on this product and here's all the SKs. I if distribution in Walmart, I'm just going to [ __ ] put mine right next to it and immediately go to a billion a year." And so you have not Mr. Beast recognition, but you have decent recognition. So the thing is is like short term you'll have to sell
+
+## [01:30](https://www.youtube.com/watch?v=hpOoEsd4lYM&t=90s)
+
+direct to consumer and via affiliates and the other people. So that's where like the tag team is useful. I would structure a CC corp and then give uh shares. I'd say like put a 10% pool or something in and then give shares to other creators so they get commissions and some stock because they'll usually like no one wants to just be your affiliate. They want to be a co-owner, but they usually don't need to be huge. They don't need to be partners. So, it's like just issue some shares, give them their commission on top of that. So, you're getting paid and you're getting a slug at the outside. That'll usually get lots of people to lock in and uh make the agreements uh that no one who is a part of the CC Corp can compete with customers who would otherwise uh be customers of the CC Corp. And then that'll also lock them because of the shares you gave them to not marketing any other stuff. So it's really like you have two paths at least that I'm hearing. It's like how do I monetize my audience and then how do I monetize my experience monetizing my audience? This one I love a lot. This one I would want to go after some consumable just in terms of talking strategy. And if you had to pick one, which one do you feel like you're better at? >> If you feel like you've really well monetized every aspect of your brand minus the because they're not even necessarily mutually exclusive because if you have a partner who can do the the physical products, physical products aren't too tough to to figure out. Once you have a good partner, then that can just be another product that you have in the suite that you can get all of the people on the media side to then then promote on the back end because then it's like not only you getting shares and I'm going to get you brand deals, I also have a couple of SKs that you'll
+
+## [03:00](https://www.youtube.com/watch?v=hpOoEsd4lYM&t=180s)
+
+get way better commissions on than anything else. The tough part is is like, do I want to be Zach the businessman who owns the media thing, which longterm that means you just like depress all the stuff you're doing. Like look at Jay-Z. It's like he doesn't put that much stuff out now cuz he's got a label and he's got all these other he's got all the horses in the stalls for and so it's just I think it's much more not a right path but which one's the right one for you which is like do you love being a creator? You want to do this forever? In which case be an artist dude just go do your art. If you feel like your art is business like for me my art is business. I do this content because it's part of the game I'm playing in but business is my game. So that's where I'd be like, well, I want to just get into being the media mogul and I I know that to replace my income of my creatorship, I can go 8020, keep 80% of my revenue with 20% of the work, use the other 80% to then build this empire and just have enough that I have proof that I know what I'm doing and that might be enough. If that's if that's the life, if you look at what my daily activities are, if I like that better, then that's how I pursue it. But if you like making, then make the biggest regret I have in my life is that I have one life. Yeah, >> there's so many businesses that I want to build that I'm like, "Oh my god, that would be amazing." But it's like once you realize how much work it takes to make anything really work and really go big, you realize you only have like four shots in your life. It's like I got four seven to 10 year cycles. That's it. And so it's like you just like you have the punch card and you're like I got to make sure I'm using it on the best

@@ -1,0 +1,38 @@
+---
+episode_id: "SsGrKx5rrDc"
+title: "Sleeping on the Floor While Starting My First Gym"
+published: "2026-03-07"
+duration_seconds: 410
+episode_url: "https://www.youtube.com/watch?v=SsGrKx5rrDc"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# Sleeping on the Floor While Starting My First Gym
+
+Video: [https://www.youtube.com/watch?v=SsGrKx5rrDc](https://www.youtube.com/watch?v=SsGrKx5rrDc)
+Published: 2026-03-07
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=SsGrKx5rrDc&t=0s)
+
+You're sleeping on the the gym floor where you're fully in that state, I assume. >> Yeah. So, take me through that scenario and also like wanting to be seen as the person who was sleeping on the gym floor. >> So, I that was not external. So, that was more Okay. So, I I'll unpack this. So, for everyone who's listening, so I um I quit my job, drove across the country, uh mentored with a guy for three months, then opened uh uh my own gym, and I didn't have enough money for two rents. My rent was $5,000 a month, which I was 20. Like, it was all I couldn't even I mean, it was insane. Like, it was 5,000. I was like, that that was more than that was like my salary, you know what I mean? I was like, what am I going to live on for everything else, right? And so, I I moved out of the place that I was at, which was just a spare bedroom. Um, and I slept at the gym. And I remember like, you know, I would read the Instagram motivation manifesto when it was just like stock images of girls that were like, "Chase your dreams," you know, like whatever. And I'd be like, like, you know, uh, and the thing is is that like I had a very different idea of what that suffering would feel like, right? like it was very praised and louded l a u d um by Instagram and the world and motivation manifesto but like when I was alone in a city I didn't know in a dark warehouse that was underneath of a parking garage and people would drive over the metal cracks in the in the in the concrete on the ceiling six seven
+
+## [01:30](https://www.youtube.com/watch?v=SsGrKx5rrDc&t=90s)
+
+times a night and it was like and it was like this it was like this gunshot and there'd be kids my age partying on the roof booth illegally and I'm trying to like wake up at 4:00 in the morning to to do the first sessions. Like it wasn't fun. Like there was there was no like like the Rocky cut scene lasts 30 seconds in the movie and last five years in your life. It's powerful. That's powerful. >> And so you have to find ways to win in the meantime. And that's where the patience comes in. It's like I didn't I didn't I I've said this before, but I didn't know if I was going to win, but I did know I wasn't going to stop. >> And that was the only thing that I felt okay committing to because when we talk about fuel, it was like, well, when it got back down to it, the the wall that my back was against was going home, a failure. And to me, I would have rather died. And so that was it. So like I I love this quote which is it's amazing what you can accomplish when you have no choice. >> And so I like and this is a really visceral example but I'm going to use it for the sake of being visceral. Slavery has happened for thousands of years. We think about it in America with our American slavery but slavery has existed everywhere right? Thousands of
+
+## [03:00](https://www.youtube.com/watch?v=SsGrKx5rrDc&t=180s)
+
+years. Slaves work all day every day and some and the idea of being a slave right now for many people who are free is in incomprehensible, right? And so I remember as twisted as this is, maybe I started thinking this when I was younger, is that I would be in this gym alone, not having slept for a long time, doing all the jobs and being like, "This is horrible." And then I would think, well, being a slave and being whipped every single day and not being compensated and having sunburned everything with everything chapped and peeling constantly and the only resppite that I would have would be a meal at the end of the day and then eventually maybe a day off once a month and then eventually have the good grace of dying. And yet those slaves continued to work. And I was like, how are they able to do that? They would do it because they had no choice. The choice was death or work. And so they worked. And so when I thought about it like that within the context of the gym, I was like, for me, I wasn't in an extreme scenario like that. But it felt that way because to me, the idea of going home a failure might as well have been death. >> It had to do with your dad, too, right? >> Of course. Yeah. and all the people that you know and all the people real and fake in my mind that were speaking against me >> and
+
+## [04:30](https://www.youtube.com/watch?v=SsGrKx5rrDc&t=270s)
+
+and I still probably have this issue is that like I will fabricate other people talking about me who aren't even thinking about right and so in that time though I had gone from what would be considered a high status setup you know I've been doing everything right know like my dad could brag about me at the cocktail parties and I see guys at the reunion and be like, "Oh, yeah. I've got a good consulting job. Like, I've got a 401k, whatever." Right? And going from that to this set, I was already I'd already swallowed the pill of looking foolish. Like, why would I leave my white collar job to be a personal trainer? And I don't say that as an insult to personal training. I just say that in the general rung of status, white collar management consultant is perceived as higher than personal trainer. And so, I had swallowed that pill once and I was like, I'm not swallowing it again. like I will not go down a rung and then fail. And so it was just like there wasn't an option. Like I if I if the if the gym had gone if I somehow wouldn't have figured it out, I wouldn't have told anyone. I would have just kept working and found a way. And I've already told my plan B before, but like my plan B in my head, which allowed me to do this, was that I was going to drive Uber and I would strip. That's what I would have done because I knew that if I lived on, you know, $1,000 a month and I made another 150 the next year, if I did driving Uber and I stripped at night, then I could start over again and I would have done that cycle as many times as it took until I won. And so like the thing that I could commit to is that I my actions were under my control and
+
+## [06:00](https://www.youtube.com/watch?v=SsGrKx5rrDc&t=360s)
+
+that was the only like I didn't know if I was going to win. And honestly, there was many times where it didn't look like I was. But the only thing I could I could commit to was like, "Okay, well, slaves continue to work, and so can I." >> Real quick, I'm going to show you the exact 10-stage road map from zero to 100 million plus that less than 1% of companies finish. I've now done multiple times. And so, I can say with a lot of confidence that these are the stages as headcount increases that you need to get through. And I broke each of these down by eight different functions of the business. what the constraint feels like, like what are the symptoms of it when you're going through it, and then what steps we actually took to graduate. And we've done this across software, physical products, uh, service businesses, brick-andmortar, all of this, and it works. And it's my gift to you. It's absolutely free. And so the link's in the description, but you just go acquisition.com/roadmap. Just enter your info and it'll spit it right back to you. Offering.

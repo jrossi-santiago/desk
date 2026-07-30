@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ask Hormozi"
+  short_description: "Search MoreMozi with timestamped sources"
+  default_prompt: "Use $ask-hormozi to answer my question from MoreMozi videos with cited video timestamps."

@@ -1,0 +1,30 @@
+---
+episode_id: "JRQNPi0Yz3A"
+title: "The Failures I'm Most Grateful For"
+published: "2026-04-18"
+duration_seconds: 201
+episode_url: "https://www.youtube.com/watch?v=JRQNPi0Yz3A"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# The Failures I'm Most Grateful For
+
+Video: [https://www.youtube.com/watch?v=JRQNPi0Yz3A](https://www.youtube.com/watch?v=JRQNPi0Yz3A)
+Published: 2026-04-18
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=JRQNPi0Yz3A&t=0s)
+
+What are the failures you cherish the most? I'm going to give two. I am very grateful that I hated the job that I had. Because I think that I am the type of person, because of how hard it was for me to quit, that if I had liked a job enough, I don't think I would have left. And I think I would have gone to the business school and done the next thing. Like if I had had a job, worked for people, whatever it was that I enjoyed enough, just enough, I might not be where I am now. And I think that I cherish the fact that it was so miserable that it got me to change. Like that that that job changed my life. From a like soul perspective, um going through what I did with Leila, I cherish those times because a lot of people live worst-case scenario years into their marriage, years into the relationship, and then they kind of like see what the other person is made of. I got to do that before I married the person. And so, there haven't been any surprises since then, and it's something that's like shared misery, to a certain degree, but like spiritual strength or spiritual, whatever you want to call it, um I know she's got my back. And there's an element to that story that I didn't tell, but when we really needed money at one point, I flew Leila out to do this launch. I couldn't go with her.
+
+## [01:30](https://www.youtube.com/watch?v=JRQNPi0Yz3A&t=90s)
+
+And I actually I don't want to say broke up with her, but I was like, I can't do this right now. And so, for 28 days, we were not together. And most girls, people, would probably been like, screw this guy. >> [laughter] >> Um but instead, Leila set the all-time record for a launch that still hasn't been broken. And when she came back, I was like she stood tall when everything in my life was crumbling around me and she like made it happen. And I knew that wherever I wanted to go, I needed somebody like that with me. And so, I cherish the failures that of that entire season cuz there were many um because I wouldn't know what I have today if I hadn't been through those tests with her then. Real quick, if you are a business owner and you were not growing as fast as you'd like, I'd like to give you a free gift. So, my team and I put together the $100 million scaling road map, which is basically 200 hours of us looking over all of the portfolio companies we've had and what stages of growth they went through and more importantly, where they got stuck and how they got past it. And so, we broke it into these 10 stages and we made this little kind of quiz thing where if you put in your business information, it'll tell you where you're at and the most important part for you, what to do for each of functions of the business across product, marketing, sales, customer success, recruiting, IT, human resources and finance. And so, no matter what you're struggling with, someone else has already struggled with it and solved it. And so, I'd like to
+
+## [03:00](https://www.youtube.com/watch?v=JRQNPi0Yz3A&t=180s)
+
+give you this thing absolutely free. You can go to acquisition.com/roadmap, plug in your business information and if you want us to actually help you de-constrain the business and you're trying to scale, we'd love to help you out. On the thank you page, you can just book a call with my team and we will look at the business, see if we can help and if we can, we'll invite you out to Vegas and we'll do this in person live.

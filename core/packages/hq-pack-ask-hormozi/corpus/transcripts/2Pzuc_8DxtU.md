@@ -1,0 +1,34 @@
+---
+episode_id: "2Pzuc_8DxtU"
+title: "Change Who You Compare Yourself to"
+published: "2026-04-17"
+duration_seconds: 303
+episode_url: "https://www.youtube.com/watch?v=2Pzuc_8DxtU"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# Change Who You Compare Yourself to
+
+Video: [https://www.youtube.com/watch?v=2Pzuc_8DxtU](https://www.youtube.com/watch?v=2Pzuc_8DxtU)
+Published: 2026-04-17
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=2Pzuc_8DxtU&t=0s)
+
+But in terms of like a strategy to get around people who are making more, I will say that I think for me personally as I've made more and more and whatnot, I have fewer mentors and more heroes. And so it's more um who your reference group is more than the average of the five people you spend the most time with because if that were true then Elon Musk would only get poorer because everyone's poorer than him. And so it's really about who you compare yourself to. And when you make hard decisions whose opinions you think about when you're making them. And that's the like everyone says this is my reference group, but the people who influence the decisions you make are the real reference group. And so I had this little pithy quote, but I like it. Um when you make hard decisions, don't think about the people closest to you. Think about the people closest to your goal. What would they do? And what would they say? And I think that is a much better orientation for um the benefit of those people that you get in proximity with. Like proximity doesn't do anything. All it does is it changes your behavior. And so if it changes your behavior then all we really want from proximity is what are the lessons I need to learn to change about what I do. And so ex- uh abstracting it that way, that's what you're solving for is what do I need to do to change my behavior to make it more likely that I hit my goals, right? And so you want to have models that you can say oh this worked for them, I will also do it. And that's an easy way to learn. It's one of the most effective ways that a lot of people learn, which is why proximity is beneficial for a lot of people because there're a lot of smaller behaviors that you will learn
+
+## [01:30](https://www.youtube.com/watch?v=2Pzuc_8DxtU&t=90s)
+
+unconsciously or at least not consciously from the person teaching you but just through observation. Like we learn so many different habits from our parents just from the hours and hours and hours of observation. Now if you like if I were to ask my father what are the like if I had him on stage he'd be like what did you teach Alexander cuz that's what he calls me. Um he would be like I always wanted to teach him these things. Most of things that he thought he was teaching me he didn't teach me at all, but I learned a lot of things from my father. It's just not always the things that he thought he was teaching me. And so I think we learn a lot more from those people than even what they let on. And so there's probably for example a larger meta lesson here hopefully hopefully that like you probably met a lot of my teams today. And you're probably like [ __ ] they're really good. And I remember I'll tell you this story cuz I think it might it might reinforce the point. I remember when I had uh when we were looking we were we were doing these deals with private with private equity kind of shopping the business around. And there was this moment when it was me at at the head of of a long table, the managing partner of of one of the private equity firms at the end of the other, and all of my directors at GymLaunch on this side, and all of his VPs and principals on this side. And I just remember thinking it is clear as day why he is going to make a billion dollars and I am not. And so that kind of switch. And so us, we can do all the stuff that we have up here, but one of the things that we do internally is that we are business professionals demonstrating excellence as much as talking about it. And so if we got up here and said all this stuff about culture, but my whole team were [ __ ]
+
+## [03:00](https://www.youtube.com/watch?v=2Pzuc_8DxtU&t=180s)
+
+it doesn't matter what we say because you're going to learn way more from all the other ancillary small exchanges that you have than from any presentation. And so TLDR to your original question, how do I get around these people? I think the benefit is only boiling things down to what do I need to change my behavior and trying to get into rooms whenever possible that have people who are above it. And I on my way up, I begged, borrowed, and stole whatever I could to get into every room. So I mean like I donated $2 million to um Arnold's charity just because I wanted to get around the other guys who donated over a million dollars. And so talk about like the best mastermind ever. Guys who can write million dollar checks mandatory every year to be on the board. Those guys don't give a [ __ ] And I was like woah how do these guys talk? How do they think? Like what do they move? What are they prioritizing? And so it was very valuable for me. And so I did whatever I could and obviously the price tag has gone up on the rooms that I need to get into, um but I have done whatever I could to reinvest in my ability to learn. And it's been probably the single best investment I've ever made in my whole life. All right, thank you so much. Hopefully that helped. If you're a business owner and you are not growing as fast as you'd like, I'd like to give you a free gift. So my team and I put together the $100 million scaling road map, which is basically 200 hours of us looking over all the portfolio companies we've had and what stages of growth they went through and more importantly where they got stuck and how they got past it. And so we broke it in these 10 stages and we made this little kind of quiz thing where if you put in your business information it'll tell you where you're at and the most important part for you what to do
+
+## [04:30](https://www.youtube.com/watch?v=2Pzuc_8DxtU&t=270s)
+
+for each of the functions of the business across product, marketing, sales, customer success, recruiting, IT, human resources, and finance. And so no matter what you're struggling with, someone else has already struggled with it and solved it. And so I'd like to give you this thing absolutely free. You can go to acquisition.com/roadmap, plug in your business information, and if you want us to actually help you deconstruct the business and you're trying to scale, we'd love to help you out. On the thank you page you can book a call with my team and we will look at the business, see if we can help, and if we can we'll invite you out to Vegas and we'll do this in person live.

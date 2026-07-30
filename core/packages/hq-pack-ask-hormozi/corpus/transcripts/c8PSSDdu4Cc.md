@@ -1,0 +1,38 @@
+---
+episode_id: "c8PSSDdu4Cc"
+title: "Helping an Online Service Business Fix Their Broken Offer"
+published: "2026-06-20"
+duration_seconds: 385
+episode_url: "https://www.youtube.com/watch?v=c8PSSDdu4Cc"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# Helping an Online Service Business Fix Their Broken Offer
+
+Video: [https://www.youtube.com/watch?v=c8PSSDdu4Cc](https://www.youtube.com/watch?v=c8PSSDdu4Cc)
+Published: 2026-06-20
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=c8PSSDdu4Cc&t=0s)
+
+We help live poker players win more money who are already winning. >> Cool. >> Uh we do about $2 million. We'll do 2 million this year and we'd like to be at 10 million. >> Okay. >> Um the problem is we have two front-end offers and both are converting like crazy to the back-end. Uh but we have one that's 7.5k for 28 days and one that is 2.8k for 7 days. We are demand constrained on the the high one, the 7.5k. >> upsell from the first to the second? >> They are not we we're not really converting because they overlap too much. >> Okay, so is it just a downsell? >> It is a it's basically a a it's a downsell for players who aren't playing full-time or guys who are more weekend warriors as opposed to I want to make >> is each? >> Uh we do 12 a month of the 7.5k and we do 16 to 32 a month of the 2.8k. >> It's a big range on the other one. Okay, so what's the revenue split there? So 12 * 8, so close to 100 on the the high ticket side and then the other one is >> 50 to 70 on the >> Okay, so less on the other. Okay, keep going. >> So the question is how do we differentiate these or do we just switch to a single offer that's more of an ascension and make the one that's maybe 3 days or 5 days and less expensive and then we can upsell to the 28 day or do we just say screw it, let's just do the 28 day and drop the thing on the front end? >> You said you're supply constrained on the 7-day thing?
+
+## [01:30](https://www.youtube.com/watch?v=c8PSSDdu4Cc&t=90s)
+
+>> Yes, because it requires if we do if we start doing a bunch of those, we need to hire more coaches. >> Okay, and how are you not supply constrained on the other one? Is it less coaches for the more expensive thing? >> Gethin, my business partner in the front row, he does uh >> Is it less fewer coaches for the on the lower thing? >> On the no, on the higher ticket side, yes. >> So won't you very quickly be constrained on the top thing? >> We've done three of them a month before. >> Okay. Okay, three times a day, got it. But okay, so So, the problem though is that you need another person to sell more people into the front end thing. >> Well, we do them simultaneously, right? So, if I'm coaching a boot camp >> Yeah. I think we have an ops issue. Like I think we should I think the like So, right now if I said, could you sell more people if you had unlimited capacity? Like could you could you sell more if you had unlimited capacity? >> We could sell more of the 7-day thing cuz they go four times a month, so it requires less on our part. >> Mhm. I I feel like I feel like we're reskinning the ops on that. Um but when I have two products that are really similar I tend to Do you want to stop doing the low ticket thing? Okay, I'm just curious. Cuz it's like it's the same thing.
+
+## [03:00](https://www.youtube.com/watch?v=c8PSSDdu4Cc&t=180s)
+
+Yeah, well, which one did you rather serve, the higher guys or the lower guys? >> Probably the higher guys. >> And you sell them direct into that, right? >> Yeah, direct from warm inbound. >> Whatever you're doing. Oh, from warm inbound. >> Yeah. >> Oh, got it, heard. Okay. Well, if you cut off the low thing, you have no you have no real scalable demand gen right now. It's just you make content and then that just you get what you get and then you sell those people, right? >> And we're kind of capped on on the warm is growing, but it's slow and we wanted to start dipping my toes into paid. >> Yeah. I mean, that's going to be the thing that's going to unlock. Like Like as much as I want to say, "Hey, cut this one or that one." If you cut either of them right now, you'll just lose money cuz you don't have an ability to get customers kind of on demand. So, um if I were to fix this, I would think let's fix ops first, number one. Like how can we reconfigure the delivery of the offer so that you can get three 5x the um operational capacity for you. And then all of a sudden that'll unlock it so that then, when we then go run paid ads, we can then actually bring enough people in. And then at that point we can say, "You know what? Now we have enough of the 7,500s, which you might as well charge Well, I'll just say that. You have enough of the 7,500s um that then you can make the call and say, "You know what? We have this much capacity overall. If I just cut this, I can then triple this one." And then you just do that. >> Do you like the pricing on those two or you you were hinting at raising it? >> Honestly, this is where I would be like, "We need to like we need to do our research behind the scenes so we could
+
+## [04:30](https://www.youtube.com/watch?v=c8PSSDdu4Cc&t=270s)
+
+cuz we do price analysis all the time." Um and sometimes we get lucky. Like we had a business that we um acquired that we did a ton of pricing research and we basically said, "You are actually so underpriced that we will double the price." And it took me nine calls to the founder to get him to like sack up. Ladies, I apologize. Um Grab your gonads. Those are unisex. Anyways, uh grab those and then make the move. And not only did we double the price, conversion rate went up because it was so cheap people didn't believe it. And so the thing is this that sometimes we sell out of our own pocket, but you actually sell to gamblers. >> Correct, yes. >> So you might you might actually find yourself in a situation where the more it is, the more they believe it. Which is called a Veblen good. But um we would do a pricing uh kind of like deep dive on that before I would make a pricing wreck for that specific avatar. But yeah, that's the TLDR. I'd fix ops first, then I'd turn paid on, and then at that point we'll make the split call. >> Cool. Thank you. Appreciate it. >> Yeah. If you're a business owner and you are not growing as fast as you'd like, I'd like to give you a free gift. So my team and I put together the $100 million scaling roadmap, which is basically 200 hours of us looking over all the portfolio companies we've had and what stages of growth they went through and more importantly, where they got stuck and how they got past it. And so we broke it into these 10 stages and we made this little kind of quiz thing where if you put in your business information, it'll tell you where you're at and the most important part for you, what to do for each of functions of the business across product, marketing, sales, customer success, recruiting, IT, human resources, and finance. And so, no
+
+## [06:00](https://www.youtube.com/watch?v=c8PSSDdu4Cc&t=360s)
+
+matter what you're struggling with, someone else has already struggled with it and solved it. And so I'd like to give you this thing absolutely free. You can go to acquisition.com/roadmap, plug in your business information, and if you want us to actually help you deconstruct your business and you're trying to scale, we'd love to help you out. On the thank you page, you can just book a call with my team and we will look at your business, see if we can help, and if we can, we'll invite you out to Vegas and we'll do this in person live.

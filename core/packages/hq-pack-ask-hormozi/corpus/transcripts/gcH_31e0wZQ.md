@@ -1,0 +1,34 @@
+---
+episode_id: "gcH_31e0wZQ"
+title: "\"Clients Find Out My Real Age and It Hurts My Business\""
+published: "2026-03-31"
+duration_seconds: 345
+episode_url: "https://www.youtube.com/watch?v=gcH_31e0wZQ"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# "Clients Find Out My Real Age and It Hurts My Business"
+
+Video: [https://www.youtube.com/watch?v=gcH_31e0wZQ](https://www.youtube.com/watch?v=gcH_31e0wZQ)
+Published: 2026-03-31
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=gcH_31e0wZQ&t=0s)
+
+So, you had 100 and something thousand, you want to get to a million. You feel like your issue is hiring. 150. 150, excuse me. You want to get to a million. Yep. And your biggest issue is hiring. Yep. What do you sell? I sell content. So, Content. Yeah. So, we we do videos, like marketing materials for real estate agents looking to market their personal brands and properties. Okay. So, personal branding for them? Correct. Okay, got it. So, uh what stops you from doing a lot more of that? So, I'm a young entrepreneur and I basically based my own brand off of being a young entrepreneur. My And now you're just going to be a middle young white guy. >> [laughter] >> So, my business partner is >> what you're dealing with because like when I came up, I I started making a lot of money at like 26, 27. And they're like, "Alex is so young." And now I'm just like 36 and no one really gives a [ __ ] >> [laughter] >> Yeah, sorry, keep going. The only problem is like clients find out my real age and I use my I technically use my age as a leverage to what I sell. So, social media, I grew up with social media. So, you know, I I know social media better than 60-year-old agents do. Okay. So, my constraint What's up? What's the issue? Just the pitch is wrong? No. People don't trust necessarily older people in my business. We based our brand off of being young. All right. So, You're still young. Yes. But when I hire someone like a new shooter Yeah. or a director of
+
+## [01:30](https://www.youtube.com/watch?v=gcH_31e0wZQ&t=90s)
+
+operations who's 25 and above, Yeah, old folks, yeah. Yeah, they don't necessarily I want to say too old. Just boomers, yeah. Yeah, totally. >> Yeah, boom boomers. >> [laughter] >> So, but what do you what are you saying though? Like It's it's more of a trust issue with clientele. I think it's like totally in your head, man. Really? Yeah, 100%. You care. No one else cares. You even think they're old. Hey, I don't think that I don't think they're old. >> No, but like you a little bit cuz you're bringing it up. Right? Mhm. So, like no one cares. Did you guys care that Jacob Hopkins is 22 and at the same time we got people who are in their late 30s and 40s? People just care about how good you are. Mhm. So, like people will care about your age for the 2 seconds before you open your mouth. Mhm. And then as soon as you open your mouth, all of it's like that's like the the the the absolute thinnest surface level judgment that someone will make. In general, younger people know less than older people in general. But there are also Mark Zuckerberg who was a billionaire at 21. So, there's obviously people who know more at a younger age. So, you just have to demonstrate expertise. Okay. Can I follow up with another question? So, on a scaling aspect, we have a lot of realtors, you know, asking us in different areas like Texas, California to come produce the work out there cuz our content is kind of one of one. It's different and it's providing a lot of value. I'm looking at it I'm looking at it as more of like a 1099, you know,
+
+## [03:00](https://www.youtube.com/watch?v=gcH_31e0wZQ&t=180s)
+
+contracting videographers and teaching them, you know, in that state or region to shoot that kind of property. Okay. [snorts] But I'm also looking at it as kind of like a franchise. What would you do in that situation? Um Okay. I don't I don't I don't I wouldn't I wouldn't think of it as a franchise. Um I would like So, for for a franchise to be something that you'd really want, it's typically you're going to have some sort of like franchising is just a model for raising money. And you dilute selling the most expensive version of it, which is that you're going to give all of the upside away except for a small royalty and you're going to do a huge amount of the work. And so, in your business, you don't require really any capital to expand. Mhm. Right. So, we wouldn't franchise. So, that doesn't make sense. Um if you wanted to have revenue retention for these people who are in, you know, different markets, I could see two different ways that you could do it. Well, really three. So, one is they fly to you and then you just book you do like one day of recording and you get 90 days or 6 months worth of content for them and I think that would be a very strong value prop. You could probably charge 25 grand for that. Um that's number one. The other way is that you could fly out you could fly somebody out to do that. It's the second version. Also, still charging a lot of money. The third way is you can I guess find people basically run ads locally to find videographers to go capture the footage
+
+## [04:30](https://www.youtube.com/watch?v=gcH_31e0wZQ&t=270s)
+
+and then do what? Edit centrally? We would we have a team in-house to edit. It's more so like the shots, like learning the correct shots and for us to edit. So, you edit centrally, they they capture locally. Right? So, I think I would just consider hiring those people on behalf of the client and then just charging an upcharge on the rate that you're like if you, you know, pay them $4,000 a month, you charge five. And but they're paying you five, you pay the person four. Mhm. And then that way you'll have built-in revenue retention because it's much harder to have fire an employee than it is to fire a vendor. Mhm. But you would just basically fractionally own a lot of these um relationships. So, look at it more as like a vendor. Yeah. And as soon as someone says they're going to cancel, it's like, "Oh, that's great. I have such a lot a waiting list in your area. I'm just going to have that guy uh shoot your competitor. This is so helpful. That works out great." I got you. Cool. Appreciate it. Yeah, no worries. So, if you've hit a revenue ceiling or your entire business relies on you to grow, then I'd love to invite you out to our headquarters here in Vegas to learn how we scale. It's when my team spends 2 days with you to identify the thing that's holding your business back. And so, if that sounds interesting, click book a call and if you're a fit, we'd love to potentially see you out here in Vegas.

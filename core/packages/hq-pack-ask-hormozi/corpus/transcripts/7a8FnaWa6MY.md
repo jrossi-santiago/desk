@@ -1,0 +1,42 @@
+---
+episode_id: "7a8FnaWa6MY"
+title: "\"When Should I Quit My Day Job?\""
+published: "2026-07-21"
+duration_seconds: 457
+episode_url: "https://www.youtube.com/watch?v=7a8FnaWa6MY"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# "When Should I Quit My Day Job?"
+
+Video: [https://www.youtube.com/watch?v=7a8FnaWa6MY](https://www.youtube.com/watch?v=7a8FnaWa6MY)
+Published: 2026-07-21
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=7a8FnaWa6MY&t=0s)
+
+Hi, my name is Nedu Lawson. Um >> Say that again. >> Nedu >> Nedu? >> Lawson, yes. >> Easy. All right. >> So, um we provide overnight care for babies. >> Oh. >> Um >> [laughter] >> Um our revenue last year was a 1.2. >> Cool. >> And the goal is to uh grow to about 5 million. >> Okay. >> Um The biggest challenge challenge right now it's um um one one human risk. >> Okay. Are you doing a lot of the overnight babying? >> No, actually it's a franchise, though. I'm the franchise owner. >> You're the franchisor or franchisee? >> Franchisee. >> Okay, got it. >> Um so, I do everything, recruiting the caregivers, uh sending them to work, you know, I do the consultation with the families. Um On the top of that, I have a full-time day daytime job. >> Good for you. >> [laughter] >> So, >> your daytime job pay? >> I'm an auditor. >> Okay, does that pay better than the franchise? >> No, at all. >> Why are you doing that? >> I don't know. >> Okay. [laughter] Glad we had this conversation. Um what is the net on your franchise? >> Let Mommy sleep. >> No, no. Uh what's the net of the the margin, the profit? >> Oh, um about 250 300k. >> Okay, got it. What are the top franchisees doing? >> Um So, the biggest one they have multiple territories. They're doing
+
+## [01:30](https://www.youtube.com/watch?v=7a8FnaWa6MY&t=90s)
+
+>> store, since you're single store. >> Single No, I have a four territories. >> How many stores are open? >> Four. >> So, okay, so it's territories. You don't have like I was Okay, so there's no Do you have like a Is there even a an address? >> No. >> Okay. So, yeah, you basically just have a website, you take calls, and you send bodies. >> Exactly. >> Got it. Okay. Um cool. All right. Uh so, you have four markets, per se that you are letting mama sleep in. And in total, so each one does about $300,000 in revenue each territory? >> Yes, average. >> Or somewhere in there. Okay, got it. Um, and then so you're running 20-ish percent margins um on the 300. Correct? >> Correct. >> Okay, got it. I'm guessing there are more costs to payroll marketing. >> Yeah, I do have a marketing company that just like um manage the Google ad. >> Okay. In each of those territories, can you generate more than 300 like do you think you can grow that? >> a lot of potential to grow. >> Okay, then what's the number one territory doing? >> Uh, number one uh last year did about uh half of million. >> Yours or franchise wide? >> mine. I don't know how much they are. >> Oh, really? >> Yeah, I don't really >> Interesting. >> Yeah. >> Um, okay. So you want to get to 5 million. Do you want to open more territories or make the ones you got more profitable? >> Mhm. I don't know. >> What's average ticket? How much do the average customer pay? >> Uh, well it's client it's just yeah well I would say about 25K. >> 25K. Okay, great. And that's for what
+
+## [03:00](https://www.youtube.com/watch?v=7a8FnaWa6MY&t=180s)
+
+duration of time? >> About 4 months. >> Okay, so it's 4 months like newborns. Is that the period? >> start sleeping through the night. >> Got it. Um Okay, great. So that's what? 6 half months somewhere in there. Um, that's good. And I mean shoot, that means that you have what? 4 * 3 12 customers a year per territory? >> Yes. >> That's not very much. >> Yeah. >> So you could probably do a lot more than that. >> There's definitely more new mamas. I'm guessing the ter- unless the territory is tiny, right? But >> Mhm. >> Um, okay. So then what stops you from getting more leads to sell? >> Fear. >> Okay. Why? >> Well I think because I've been working for someone for so long and we're just comfortable and >> can't just leave. >> [laughter] >> I think everyone has a point where they go pro. And you've been able to I think that you you must have a lot of work ethic and skill because you pulled out four territories while keeping a full-time job and you've made it work. So like take that in for a moment. And when I hear that I think to myself this person has a lot of confidence and potential. What if they actually spent their whole time doing it? Imagine how much better
+
+## [04:30](https://www.youtube.com/watch?v=7a8FnaWa6MY&t=270s)
+
+they'd do. And I just want you to have as much confidence in you as I do. >> Okay. Okay. >> So what stops you from doing more besides the fear? Could you just turn on ads higher and then sell more people? >> So the other thing is um I wanted to hire people but I wouldn't I don't know what you know, what type of um work they can do for me. So basically um I mean there is a you got to know the client and then know the caregiver in order to match. >> Yeah. >> So >> So do you have like a roster of nannies on the sideline that you match to? >> Yes, I hired them as a independent contractors. >> Got it. Understood. Okay, so if you spent more time on the phone talking to clients that I'm guessing your marketing company generates leads for, would you be able to fill more slots with more nannies cuz you'll be talking basically your day is going to be talking on the phone to new moms and nannies and doing this. >> Right. >> That's the job, right? If you were able to do that 8 more hours a day, would you be able to replace your income? >> Oh yeah. >> Well then let's then let's do that. >> [laughter] >> Then let's do that. If you want to hit 5 million. >> Yeah. >> Because I'll tell you because the alternative is you're not you're not making enough profit. You're at 300,000, which is a lot of profit. I want to be clear. But that $300,000 of profit, if you were to try and find somebody to do what you're currently doing or who would need to do that 8-hour plus per day job, you probably eat up the majority of that
+
+## [06:00](https://www.youtube.com/watch?v=7a8FnaWa6MY&t=360s)
+
+profit in order to find that good person. >> Okay. >> And so for me, that actually feels riskier than you leaving the job and doing it yourself and spending 8 more hours knowing you already know how to do it with the off hours of your day. >> Mhm. Okay. >> So there's going to be risk. The question is which risk would you rather have? Would you rather risk bringing someone on eating the majority of your profit and still having it over your head? Or would you rather risk not having the income from your job, which pays you less than this business does, and now having 8 more hours a day to go work in the business and make the money back? Which risk sounds bigger to you? >> Oh, me doing everything. Yeah. >> Right? Cool. You're doing it? >> Yep. Thank you. >> Yeah. If you're a business owner and you're not growing as fast as you'd like, I'd like to give you a free gift. So my team and I put together the $100 million scaling roadmap, which is basically 200 hours of us looking over all the portfolio companies we've had and what stages of growth they went through and more importantly, where they got stuck and how they got past it. And so we broke it in these 10 stages and we made this little kind of quiz thing where if you put in your business information, it'll tell you where you're at and the most important part for you, what to do for each of functions of the business across product, marketing, sales, customer success, recruiting, IT, human resources, and finance. And so no matter what you're struggling with, someone else has already struggled with it and solved it. And so I'd like to give you this thing absolutely free. You can go to acquisition.com/roadmap, plug in your business information, and if you want us to actually help you deconstruct the business and you're trying to scale, we'd love to help you out. On the thank you page, you can just book a call with my team and we will
+
+## [07:30](https://www.youtube.com/watch?v=7a8FnaWa6MY&t=450s)
+
+look at the business, see if we can help, and if we can, we'll invite you out to Vegas and we'll do this in person live.

@@ -1,0 +1,34 @@
+---
+episode_id: "2S6Qcpad2Fo"
+title: "Helping a $400K SaaS Business Fix Churn"
+published: "2026-04-21"
+duration_seconds: 326
+episode_url: "https://www.youtube.com/watch?v=2S6Qcpad2Fo"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# Helping a $400K SaaS Business Fix Churn
+
+Video: [https://www.youtube.com/watch?v=2S6Qcpad2Fo](https://www.youtube.com/watch?v=2S6Qcpad2Fo)
+Published: 2026-04-21
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=2S6Qcpad2Fo&t=0s)
+
+I sell listing software to Amazon sellers to help them create shipments faster. We do 400,000 revenue a year. My goal is 10 million in revenue. And what's stopping me is lead generation. Okay. So, right now I it's me and my partner and my partner has about 200,000 subs on YouTube. I have about 16,000. We teach people how to like list books on Amazon and other products. So, we're really niche on like the book side, but there's this whole market of Amazon sellers that sell everything and that's like our goal is to get to them eventually. But I guess my question is like we're not running paid ads right now. We have in the past for courses, but we're selling the software. We want to grow the software company. Currently, I'm giving away all my information for free and selling the implementation, which is a software. I'm doing free weekly coaching calls, free webinars, all that. Um and I I do want to do paid traffic eventually, but I'm just wondering like what do you think my constraint is like from that information? Might be expectations. Um thinking that it should be happening faster than it does. Like a lot of software takes a very long time to get right. And so typically for software, you want it to grow organically on its own in a compounding manner, meaning it grows by X percent per month just off word of mouth. You want a resting growth rate essentially. Once you have a resting growth rate, then you can add gas to it. And so like
+
+## [01:30](https://www.youtube.com/watch?v=2S6Qcpad2Fo&t=90s)
+
+the reason I when became a co-owner of School was I saw the I saw the the metrics. Like it just kept growing. And so I was like, "Man, if I just tell people like that this exists, I'm going to be able to pull that future into the present." That makes sense? >> Mhm. And so in terms of I think what you're doing of giving away the information, selling implementation, I think the model's right. Typically, the the pricing structure for software requires more volume, especially if it's I'm guessing this is more of a widget that you're that you're building. Right? Is there some Is it like a super expensive thing that they're buying? It's $50 a month. >> Right. So, it's a Yeah. So, it's it's it's I mean it's cheap, right? So, you need tons and tons and tons of traffic and if your churn basically, if you cannot keep the customers that are coming in right now or at least have some sort of viral component that replaces it. And so, what I mean by that is you basically have two ways that you can grow software. So, you can just know that certain percentage of customers will churn, but a greater percentage of people will come in via referral. If you have that, you can still have high churn, but still have compounding growth because more people refer than churn. Does that make sense? >> Mhm. The alternative scenario is you just don't lose people. And maybe you have some expansion revenue that's built in so that if you lose some, the people you keep spend more money with you. So, Salesforce for example, this is typically more B2B SaaS, it's higher ticket. That is how it will be structured. They will lose some customers, but the customers who stay, the expansion revenue makes up for the revenue that
+
+## [03:00](https://www.youtube.com/watch?v=2S6Qcpad2Fo&t=180s)
+
+they lost. So, they'll lose logo churn, but they'll have net MRR or ARR uh growth. Does that make sense between the two the two models? You're probably here in this camp. And so to fix this thing, spending more money on marketing is completely irrelevant if they're all going to fall out the end the other side anyways. And so basically, you have to fix the bucket or it's never going to matter anyways. That kind of goes for everybody here. Like if until you fix the bucket, why bother? Like you can I mean if you want to just make more revenue, of course you can just go market more. Like you can do that. Yeah, we we took our churn from 20% to 7% and um Monthly? Mon- uh on Stripe when I zoom out two years, it's 7% on there. Yeah, but you're still losing 60% of your customers every year. Okay. So, you have to you can have churn, you just have to have more referrals than churn. >> Mhm. So, you have net growth that compounds without advertising. That's what has to happen. And when I say that like right now you're still advertising via organic. But you have to keep you basically have to keep doing what you're doing until you can fix every single detail that gets people to leave. Okay. Or create some component of it that gets them to share it so that it will grow without your your kind of Basically, the thing that's giving you leverage right now is that you're getting free impressions on YouTube. That's what's get- what's that's what's doing it. And so we have to get it so that it can grow without the free impressions on YouTube on its own. Then you dump the traffic. Okay. Makes sense? Yep. If you're a business owner and you're
+
+## [04:30](https://www.youtube.com/watch?v=2S6Qcpad2Fo&t=270s)
+
+not growing as fast as you'd like, I'd like to give you a free gift. So, my team and I put together the 100 million dollar scaling road map, which is basically 200 hours of us looking over all the portfolio companies we've had and what stages of growth they went through and more importantly, where they got stuck and how they got past it. And so we broke it into these 10 stages and we made this little kind of quiz thing where if you put in your business information, it'll tell you where you're at and the most important part for you, what to do for each of functions the business across product, marketing, sales, customer success, recruiting, IT, human resources, and finance. And so no matter what you're struggling with, someone else has already struggled with it and solved it. And so I'd like to give you this thing absolutely free. You can go to acquisition.com/road map, plug in your business information, and if you want us to actually help you de-constrain the business and you're trying to scale, we'd love to help you out. On the thank you page, you can just book a call with my team and we will look at the business, see if we can help, and if we can, we'll invite you out to Vegas and we'll do this in person live.

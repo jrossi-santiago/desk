@@ -1,0 +1,38 @@
+---
+episode_id: "7v8vRBbpyBU"
+title: "Why Life Feels Difficult"
+published: "2026-03-08"
+duration_seconds: 364
+episode_url: "https://www.youtube.com/watch?v=7v8vRBbpyBU"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# Why Life Feels Difficult
+
+Video: [https://www.youtube.com/watch?v=7v8vRBbpyBU](https://www.youtube.com/watch?v=7v8vRBbpyBU)
+Published: 2026-03-08
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=7v8vRBbpyBU&t=0s)
+
+The thing that's made the season hard is not actually like work ethic or even time constraints because like I work pretty much every day all day. But like that that's that's been baseline and that doesn't really bother me like I don't bother very much. I like doing that. The thing is that the nature of what fills that time and so like if I have all the things that are not work that are related to work that I must do as a result so that I can get back to doing the work I like doing. Like me writing a book is the is the most fulfill like is my favorite thing in the entire world. us doing these podcasts is some of the best moments that I get to have in my life. Um, uh, like twice a month I'll have, uh, business owners who come out that are bigger that were that are like kind of like not portfolio ready, but like they're they're doing usually like, you know, five to, you know, $25 million a year, like right in that range. And I get to I spent a whole day with those 10 businesses. And it's like, and I tell them, I'm like, "This is the [ __ ] best. Like, I love this. This is my favorite thing in my entire life." Um, but it's it's everything that's not that. Uh, and Basos talks about the overhead, right? And I think it's when the overhead starts to become a disproportionate amount of your of your time. And I think that at every level of at least entrepreneurship, I get these periods where the overhead just become bigger and bigger and bigger until I fix it. Right? Right. And so like for us, I had I think I I told you I'll tell everybody publicly like I had I think eight or nine lawsuits within um like 30 days at the beginning of this year. And so I was like, "Okay, that sucked." And then I'll tell you the story that happened on top of this just
+
+## [01:30](https://www.youtube.com/watch?v=7v8vRBbpyBU&t=90s)
+
+to give everyone some context. Um Leila had a health thing. She went to the doctor to get it checked out and uh Rea was with her and uh I was like, "Hey, you know, how's it going? what's going on? Um, and she had said earlier like she can't get in. I was like, "What? What does that even mean?" And then and then the next text I got from the EA was she has cancer. And so I remember reading that text and being like, "Okay, uh, all right. This is reality now. Uh, like this is now the new frame." And I sat with it just long enough to enrich and absorb [laughter] that concept. Sick. >> Yeah. And so then I was like, "All right." All right. So, I'm thinking, okay, like chemo, like what do we need to do diet? Why? Like I'm already thinking through this stuff and I was like, okay, what kind of cancer is it? What state? Like that's what I'm I'm going with this. So, I asked for more details and she was like, oh my god, no. The reason that it was delayed was because the front desk girl has cancer and she just messed something up and that was what she was using as her excuse. Laya doesn't have cancer. And I was like, "Oh, there she does have this other stuff, right? But she doesn't have cancer." And the the thing is is that Ila after that occurred when I hung out with her later that night um was you know obviously annoyed at whatever issue she was dealing with. But for me I was like I saw her and I just gave her this big hug and I was like hey I was like you don't have cancer. [laughter] And so it's crazy. There's the exact example of gratitude. This terrible thing and just kidding it's not a thing anymore and now I'm really grateful that you have the terrible thing that you have now. At least it's not cancer. And
+
+## [03:00](https://www.youtube.com/watch?v=7v8vRBbpyBU&t=180s)
+
+so, um, to bring this back, that all still happened in the same period of time. Um, and Chris mentioned this earlier, uh, I don't know if this before the spot, but like I, uh, I, there was a, there was a mishap with printing, um, my next book that's coming out. And um the equivalent of 1 and a2 acres of trees um basically became unusable because there were sufficient errors in the book that I I couldn't in good evidence kind of like the can. It's like how bad of a mess up does the does it have to be on the can for me not to sell it, right? And like I had to have this internal I was like maybe I could make it a thing like hey our our books had some mess ups and we're and I was like no one's going to care. No one's going to care. they're just going to remember that they got a [ __ ] up book. And so I had to destroy those, right? And so I I could I I have like seven more massive ones, but I'm not going to get into it. Um, but the beauty of of this entire thing was I got to have this experience um of being forced to say, "Okay, is there a world where I'm going to have to endure more of this?" And the answer to that, if I continue to do what I'm doing, is yes. And so I need to build a legal team which is what I've now built. And I like and so there's these things and all of a sudden now am I better at gratitude or did I solve the problem? I don't know. I be like really like I I want to be real. I don't know. But as of May 1st things are a little better. And my actual health for anybody who's a health nut my
+
+## [04:30](https://www.youtube.com/watch?v=7v8vRBbpyBU&t=270s)
+
+HRV average was about 32. Um and I'd have many many low 20s days for a 36-year-old active male. Pretty bad. Um, and since May, like May 1st, uh, I'm I'm up like 15 points on my HRV and I have changed nothing. Like I like I eat the same, I work out the same, I'm pretty routine oriented. And the only thing that has changed was the decision that 2025 I'm not I'm not I'm not tossing out 2025 like and I started in the beginning of the year and I was talking to a good friend of mine and he was like, "Dude, [ __ ] bad year." He was like, "Fuck." He's like, "Stop [ __ ] saying that." And I was like, "You're right. I should stop saying that. Uh, it will be a handful of moments over five months that were spread out and then the back seven I was like, I can [ __ ] murder it and >> turn this around. >> Yeah, exact. We're turning the ship around, right? And so that's I've actually been like it's almost been like an exciting thing for me right now. So I'm I'm I have a little bit of a smile because I'm I'm pumped for it. >> Real quick, I'm going to show you the exact 10stage road map from zero to 100 million plus that less than 1% of companies finish. I've now done multiple times. And so I can say with a lot of confidence that these are the stages as headcount increases that you need to get through. And I broke each of these down by eight different functions of the business. What the constraint feels like what are the symptoms of it when you're going through it and then what steps we actually took to graduate. And we've done this across software, physical products, uh service businesses, brickandmortar, all of this. And it works. And it's my gift to you. It's absolutely free. And so the link's in the description, but you just go
+
+## [06:00](https://www.youtube.com/watch?v=7v8vRBbpyBU&t=360s)
+
+acquisition.comroadmap. Just enter your info and it'll spit it right back to you. Offering.

@@ -1,0 +1,22 @@
+---
+episode_id: "UeU9vAt-a3E"
+title: "\"Should I Charge Monthly or Annually?\""
+published: "2026-02-04"
+duration_seconds: 92
+episode_url: "https://www.youtube.com/watch?v=UeU9vAt-a3E"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# "Should I Charge Monthly or Annually?"
+
+Video: [https://www.youtube.com/watch?v=UeU9vAt-a3E](https://www.youtube.com/watch?v=UeU9vAt-a3E)
+Published: 2026-02-04
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=UeU9vAt-a3E&t=0s)
+
+In the self-help world, where ROI is more intangible, is it better to offer $497 a month or a one-time upfront purchase of $6,000 per year to convert? H, math problem. Like, I can I can I can make up an answer, but you just talk to 20 people. You look at the close rate, and you look at churn. So, here's how you do the math. I'm going to use 100 as a simple example. So, you have a hundred people you get on the phone with, right? and say you offer 6K and let's say you close 20%. So you make $12,000. Okay, great. Let's say you get on the phone with another 100 people and you offer the $500 a month thing and you close 50%. Okay, so you get 50 sales at 500 bucks, right? Or did I do the math wrong there? 20 time 6K, it's 120K. There you go. Sorry. It's 120,000 and the other one you make 25,000. But as long as the people at the $500 a month stay longer than five months, then you make more money doing the $500 a month thing just at a delay. And so then you have to go way out the value of having cash up front because reminder that the cost to acquire a customer at the $500 a month would be two and a half times less. And so again, this is just a simple math problem. You look at LTV for both. It's conversion rate time LTV and then you just have your cash conversion cycle which is the only third consideration which means how quickly you get the money back that you spent to get the customer so you can get another

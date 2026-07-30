@@ -1,0 +1,30 @@
+---
+episode_id: "-1Z1F_JlMyE"
+title: "Advice that has helped me the most"
+published: "2026-03-19"
+duration_seconds: 265
+episode_url: "https://www.youtube.com/watch?v=-1Z1F_JlMyE"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# Advice that has helped me the most
+
+Video: [https://www.youtube.com/watch?v=-1Z1F_JlMyE](https://www.youtube.com/watch?v=-1Z1F_JlMyE)
+Published: 2026-03-19
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=-1Z1F_JlMyE&t=0s)
+
+Your coach is 80-year-old Alex if I'm not mistaken. Um, what are some things that 80-year-old Alex has told you recently? [sighs] >> Sometimes you have to give time time. I mean, most of the themes of my 85-year-old self, like if there was like a handful of themes that our conversations lead toward. Um, one is like this doesn't matter. Like it's going to work out either way. And since it's me, it's like basically just zoom out. So that's probably one. Um, a second theme is just around patience, which is like I think you just need to stay busy. I don't think you need to do anything about this. >> So, that's a second one. I think um [snorts] redefining problems is not problems. Like my my undefeated heavyweight champion of the world solution is decide something isn't a problem. >> Okay, [laughter] I like that. >> Like like how do I solve this? It's like what if I just decided it wasn't a problem to begin with and kept living my life? And that a lot of times when you're 85, I feel like you have more of that perspective. It's like that's just not I'm just not I'm going to decide that's not a problem. Yeah, no [ __ ] given, >> right? Um, and so I would say th those are three. Um, >> but dude, patience is by far the biggest one. Um, and and and I'll give the fourth. Um, embracing uncertainty because I and many of us want a guarantee from a world that doesn't give them. M >> it's like I want to know that this is going to work, which is such a facious thought at the onset because if I actually knew beyond a shadow of a doubt that something would happen, I would lose all interest because then it would
+
+## [01:30](https://www.youtube.com/watch?v=-1Z1F_JlMyE&t=90s)
+
+be boring. It's like having the cheat codes and playing a video game. It's good for like 5 seconds and then you realize it's not a challenge at all. And so like I have this desire that if it actually were met would be the ultimate undoing of my desire. So it's just a complete smoke screen that I've made up in my head. And so my 85-year-old self just I would say like most of the time it just points. He doesn't have to say anything. He's just like, you're like, "Yeah." >> But it's crazy though how powerful it is because I don't have like if I had a a therapist or a coach or something, I'd have to spend 90% of my time trying to give context to the problem that I know the answer to and I'm just not doing it. Like we give significantly better advice to other people than we adhere to ourselves. >> That's the paradox you're talking about. >> Solomon's paradox. Yeah. And so if we can harness our own ability to give better advice with the absolute context that we have on our situation and the aligned incentives that we have that no one else can have as aligned incentives for us as we are then I think it unlocks another level of quote coaching that's been tremendously helpful for me. And I would say that I haven't like my sessions with Solomon even though it's me but I just call it Solomon um in my head. Um sometimes they're really long and sometimes they're short because sometimes like things are working and I'm good. And so I kind of see it as like the uh the therapist or the performance coach that is on demand. Like if I need him, he's there. And I have a blocked, you know, hour in my calendar every Monday. It's the first thing I do every Monday. Um is have my time with Solomon. But it's rare that I take the full hour. Um it's usually between 5 minutes. Yeah. >> And 30 minutes is usually what
+
+## [03:00](https://www.youtube.com/watch?v=-1Z1F_JlMyE&t=180s)
+
+>> Are you sitting around? You walk in? >> Uh no, I I'm at my computer. So, I actually do a chat back and forth and I go from him to me, him to me, him to me, and I type out all the response because I think even typing out what my question is, you even like >> like many problems, if you can properly ask ask the right question, that's 90% of the solution is asking the right question or precisely stating the problem you're trying to solve. >> Um, and so >> that process helps me solve most of the issues that come up that aren't really issues to begin with. >> Real quick, if you're a business owner and you are not growing as fast as you'd like, I'd like to give you a free gift. So my team and I put together the $100 million scaling roadmap, which is basically 200 hours of us looking over all the portfolio companies we've had and what stages of growth they went through and more importantly where they got stuck and how they got past it. And so we broke it into these 10 stages and we made this little kind of quiz thing where if you put in your business information, it'll tell you where you're at and the most important part for you, what to do for each of the functions of the business across product, marketing, sales, customer success, recruiting, IT, human resources, and finance. And so no matter what you're struggling with, someone else has already struggled with it and solved it. And so I'd like to give you this thing absolutely free. You can go to acquisition.comroadmap, plug in your business information. And if you want us to actually help you deconstrain the business and you're trying to scale, we'd love to help you out on the thank you page. You can just book a call with my team and we will look at the business, see if we can help. And if we can, we'll invite you out to Vegas and we'll do this in person live.

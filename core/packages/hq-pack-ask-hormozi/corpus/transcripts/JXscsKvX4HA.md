@@ -1,0 +1,38 @@
+---
+episode_id: "JXscsKvX4HA"
+title: "Should I Quit Med School to Go All-In on My Business?"
+published: "2026-06-30"
+duration_seconds: 382
+episode_url: "https://www.youtube.com/watch?v=JXscsKvX4HA"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# Should I Quit Med School to Go All-In on My Business?
+
+Video: [https://www.youtube.com/watch?v=JXscsKvX4HA](https://www.youtube.com/watch?v=JXscsKvX4HA)
+Published: 2026-06-30
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=JXscsKvX4HA&t=0s)
+
+So, you sell fitness coaching, you do $250,000 a year, and you're not sure what you want to do with your life. Okay, go for it. >> You know, so, yeah, I mean, I'm preparing for medical school next year, entering, and I yeah, I'm running this fitness company as well, which I'm passionate about. >> And ideally, we would like to be at, you know, seven figures, you know, just running it. And the medical school process is slowing that down, but my end game is is really looking at the branding, the long-term play. Like, when I see what you've done, >> Sure. >> ads to branding, uh around making the greatest impact with preventive health and and medicine possible. So, that's kind of where I'm at, trying to figure out how to think about it all, the timing, the sequencing. >> What's the question? >> Um how do I go about this process of balancing both? Is that even possible? And and achieving both. >> You already are achieving both. >> That's true. Yeah, the business has been declining, though. >> Declining? >> Yeah, so, it's it's it went from like 320 to 270-ish last year. It's still yeah, small, so. >> I'm just saying both are like that it might be the same size and, you know, you missed a week or two. Um but it sounds like the I'm going to say back to you what I think the question is, which is like, should I quit medical school to pursue this fitness thing all in, or does it make more sense for me to forego some income today to have MD next to my name so that I could potentially make more in the future? >> It's not about making more. I think it's
+
+## [01:30](https://www.youtube.com/watch?v=JXscsKvX4HA&t=90s)
+
+it's also about, you know, my vision would be to write books, speak around the world, and be an expert in preventive health, medicine. >> all that without an MD. >> How? How? >> I mean, can you name me some of the big uh health experts that aren't MDs? >> Um not at the level that I've thought of, like Dr. Hyman or Peter Attia. >> Okay. >> Um >> How many years left do you have? >> How many years left? >> Mhm. >> Well, I'm just starting next year, so that would be the plan. Yeah. >> Do your parents want you to be an MD? >> They don't care. >> Mhm. >> After all the success I've had in my business >> Well, before I before I started the business, I was pressured immensely, but >> Yeah. >> uh after all the success where I'm in a place where with the assets I've accumulated Hopefully, I don't have to do it, but it just it's calling me. I've been volunteering in the nonprofit space and with uh >> What are you so split about, dude? Like, I mean, you're going to you you give what, 7 years or 6 more years and then you're an MD. >> I mean, if you if you if Dr. Attia and the Amen Clinic and you know, Huberman and all that stuff. Well, Huberman's a PhD, right? He's not an MD. >> Mhm. >> Um and Attia, is he an MD or PhD? >> He's an MD, yeah. >> He's an MD? >> Yeah. >> If it's like, I want to be a doctor, then go be a doctor, you know? Um Like, the trade is that you're going to give 6 years and you're going to under
+
+## [03:00](https://www.youtube.com/watch?v=JXscsKvX4HA&t=180s)
+
+earn for the next 6. >> Uh-huh. >> And then you'll earn more later. >> How would you build a brand around it in the greatest in the best way possible? Doctor Mike >> or being not a doctor? >> Going down that path, how would you document the whole journey? What would you do for like brand leverage in the long like the best long-term way possible? >> I mean, what's going to matter more is that once you become a doctor, then that's like you're using the establishment as your brand credibility. >> Mhm. >> You can also just like So, it's not a fair comparison if we're being real, right? It's not a fair comparison to say, uh would me with an MD be more successful than me without an MD? It's more would me me with an MD starting with a 6-year uh not head start, whatever the reverse of that is, >> Mhm. >> uh be more advanced than me with 6-year head start without an MD. So, which of those do you think? But you don't want to make money. I can't remember. What was the whole thing? >> The The goal isn't like making >> This is why just so you guys know, my biggest pet peeve in the world is that. Um because and I'll tell you why. I'll tell you why. This decision is so hard for you because you have nothing to optimize against. Like, solve my life decision. What do you want? Don't know. Hard to solve. Right? If you said I want to make more money, cool. Easy leverage to pull. Make big number go up. Happy face, right? If you're like, I want to have impact, then it's like, cool. Make the number of people that were, you know, interacting with go up. Happy face. If it's, I'm just not sure what I want to do with my life, that's a you thing.
+
+## [04:30](https://www.youtube.com/watch?v=JXscsKvX4HA&t=270s)
+
+Once you figure that out, like, figuring out what to do is the hard part. >> Mhm. >> Getting it's the easy part. I think way more people get stuck in the just years of like, I'm not sure what to do, and it's because they're afraid of making a decision. >> Mhm. >> They're afraid of the path not taken. And so, if you think about what deciding is, decidere, it's Latin, right? Which means to cut off. And so, the question is, which which future do you want to cut off? When you're 85 and you look back, which one do you regret more? >> Not doing them, D. Brad. >> Done. >> Yeah. >> Great. So, you just have to eat for 6 years and realize you're just not going to make as much, and that's the trade. >> Cool. Thank you. >> [laughter] >> I'll be like, what is life as another one up here? Technically though, that's actually to me, that's actually a focus one. >> If you are a business owner and you are not growing as fast as you like, I'd like to give you a free gift. So, my team and I put together the $100 million scaling road map, which is basically 200 hours of us looking over all the portfolio companies we've had and what stages of growth they went through and more importantly, where they got stuck and how they got past it. And so, we broke it into these 10 stages and we made this little kind of quiz thing where if you put in your business information, it'll tell you where you're at and the most important part for you, what to do for each of the functions of the business across product, marketing, sales, customer success, recruiting, IT, human resources, and finance. And so, no matter what you're struggling with, someone else has already struggled with
+
+## [06:00](https://www.youtube.com/watch?v=JXscsKvX4HA&t=360s)
+
+it and solved it. And so, I'd like to give you this thing absolutely free. You can go to acquisition.com/roadmap, plug in your business information, and if you want us to actually help you deconstruct the business and you're trying to scale, we'd love to help you out. On the thank you page, you can just book a call with my team and we will look at your business, see if we can help, and if we can, we'll invite you out to Vegas and we'll do this in person live.

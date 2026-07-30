@@ -1,0 +1,34 @@
+---
+episode_id: "iRaGw1ZU_d4"
+title: "Teach the Skill, Then Sell the Supplies Forever"
+published: "2026-07-21"
+duration_seconds: 322
+episode_url: "https://www.youtube.com/watch?v=iRaGw1ZU_d4"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# Teach the Skill, Then Sell the Supplies Forever
+
+Video: [https://www.youtube.com/watch?v=iRaGw1ZU_d4](https://www.youtube.com/watch?v=iRaGw1ZU_d4)
+Published: 2026-07-21
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=iRaGw1ZU_d4&t=0s)
+
+So, I have a hair extension business. We educate stylists how to make more money and salon owners with hair extensions with the product. >> Mhm. >> How can I I want to know how Gym Launch was structured because I know that that's how we need to structure our offer. >> Mhm. >> Um so, you can tell me a little bit about that. >> Yeah, I mean uh I've I've I think I've talked to like three different businesses that do what you do recently. So, it's very top of mind. >> Yeah. >> Um so, uh big picture, the the the model that seems to to to work the best is and it is similar to Gym Launch or Prestige Labs, which is the uh we will show you how to do the thing, right? And then you can also sell our thing once I've taught you how to do the thing. And so, the recurring revenue comes from reoccurring revenue in that they continue to buy uh the hair extensions. And then on the front end, it really comes down to like what makes that business very valuable is proving out what percentage of customers who buy the education become permanent hair sellers. >> Yeah, 80. >> 80. So, the And when I say that, so the year over year they continue to sell. Right. And so, the the smart cookie move is to What are you pricing the front end at? >> The education. >> Mhm. >> Um we're kind of making a new offer, but for under six-figure stylists, it'll be $500 a month. Six-figure to salon owner will be 2,000 a month. Salon owner 4K a month. >> All right. Um uh the reason I ask is that if you have a back end where, you know, you probably run what, 50% margins
+
+## [01:30](https://www.youtube.com/watch?v=iRaGw1ZU_d4&t=90s)
+
+like that? Is that about right? >> 65. >> Great, great. So, um I I like I don't even care like I wouldn't even care about the education. Because all the enterprise value Not all, but like well, the majority of the enterprise value will come from the Is the hair side bigger than the info side? >> Yeah, it's 90% of our business. >> Oh, is it? Okay, yeah. Well, then I in some ways would almost like lower the barrier because if that's the monetization, then it's then the question to solve for is how do I get the absolute most amount of people to sell hair? And so you could think about it as offset CAC for the hair business more than its own business and its own, right? And don't get me wrong, like I'm all for it. If I had to make money or not make money, I'd rather make money, right? Um but when we're talking about like penetration of market share because you're trying to like flip people into your, you know, selling your stuff, then if if I could prove that for $300 I could get somebody activated and they actually would sell hair and I would sell 20 times more people and I make all my money on the hair anyways, then I would it basically it's it's almost like creating artificial friction. >> Yeah. >> I'm saying I'm not saying go to 300 because they might say yes at 300,000, 2,000, 3, like go to the highest that sells the most without getting into that next like tier of losing buyers that you otherwise would have had. >> Should they pay for education or just their product spend?
+
+## [03:00](https://www.youtube.com/watch?v=iRaGw1ZU_d4&t=180s)
+
+So this is an exchange of value. >> It's a good way of doing it. Like we did that with Prestige Labs. Um we would have them buy it's a little bit different cuz it's consumable, but uh we would have a salon for example or a gym uh buy supplements a stack for each of their trainers. I'm a little high if they can turn this down a little bit. Um and so the all the trainers at the gym would all go, you know, do a 30-day challenge or whatever. They'd use the products and then they would be uh they would have conviction that it actually worked. And so then it made the sales on the back end so much easier. Like, "Hey, I just did it. Look at my before and after pictures." Like, this stuff's really good. Um and so in order to activate them, we had them buy something like $5,000. Ed would probably know. Um I think around $5,000 worth of the product. And then he gave them basically the education for free. So you still had that like you still have that that uh buy-in. Yeah, you still have that buy-in. And you know what's crazy is that you'll probably you'll be amazed. You'll be able to sell way more product. Well, you probably already know this. It's way easier to sell product than it is to sell info. >> Yeah. >> Way easier. >> Mhm. >> Because you don't have to like they get it. Like everybody here who's who sells info, like when you start if you ever sell like physical stuff, you're like, "Oh my god." >> [laughter] >> Cuz we're we're so used to selling like an empty box of air being like, "This is very valuable." But when you actually have something in your hands, it's like, "Oh my god, this is so much easier." Like you can see it. And look, put it in your hair. It's uh you know. So. Anyways, does that help? >> Yeah, it does. Thank you. >> If you are a business owner and you are not growing as fast as you'd like, I'd like to give you a free gift. So, my team and I put together the $100 million
+
+## [04:30](https://www.youtube.com/watch?v=iRaGw1ZU_d4&t=270s)
+
+scaling roadmap, which is basically 200 hours of us looking over all the portfolio companies we've had and what stages of growth they went through and more importantly where they got stuck and how they got past it. And so we broke it into these 10 stages and we made this little kind of quiz thing where if you put in your business information, it'll tell you where you're at. And the most important part for you, what to do for each of functions of the business across product, marketing, sales, customer success, recruiting, IT, human resources, and finance. And so no matter what you're struggling with, someone else has already struggled with it and solved it. And so I'd like to give you this thing absolutely free. You can go to acquisition.com/roadmap, plug in your business information, and if you want us to actually help you deconstruct the business and you're trying to scale, we'd love to help you out. On the thank you page, you can book a call with my team and we will look at the business, see if we can help. And if we can, we'll invite you out to Vegas and we'll do this in person live.

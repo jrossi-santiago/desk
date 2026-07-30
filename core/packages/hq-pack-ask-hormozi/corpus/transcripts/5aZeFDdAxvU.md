@@ -1,0 +1,26 @@
+---
+episode_id: "5aZeFDdAxvU"
+title: "The Reality of a Patent..."
+published: "2026-02-21"
+duration_seconds: 107
+episode_url: "https://www.youtube.com/watch?v=5aZeFDdAxvU"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# The Reality of a Patent...
+
+Video: [https://www.youtube.com/watch?v=5aZeFDdAxvU](https://www.youtube.com/watch?v=5aZeFDdAxvU)
+Published: 2026-02-21
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=5aZeFDdAxvU&t=0s)
+
+I have a patent that will be pending in eight weeks. What would you recommend to do in preparation for that? I've already been working on finding the cheapest manufacturer to get the price parts down. All right, so I've got good news and I've got bad news. So patents, believe it or not, don't mean unless guess what? You have a legal budget to defend them. So I have a fiveperson team full-time in-house that all they do is takeowns. Every week we take down 50, 100, 200 plus accounts. All those scam things where people try and sell my stuff or you know the impersonator account like all that stuff that happens. Like we have a full legal team that gets them delisted, gets their ad account shut down, gets them removed from social media, gets their Shopify pages down, gets their processes removed. Like that's a whole process, but that only works if you defend it. And so basically in the eyes of the law if you do not um defend your patents or your IP um they well they're not that defensible also like the idea like business is much more ruthless and cutthroat than you think it is. Um because like people will just steal your and then say what are you going to do right and then it's going to be a multi- it's a it's a long legal process to prove how close is it? Is this fair competition? There's a lot of other stuff. So having a patent in of itself does not in any way guarantee success. You're still going to have to market it. The patent has to be around something that truly is core that no one else can reproduce around the product. Um and so basically you still got to start a business. You still got to make the
+
+## [01:30](https://www.youtube.com/watch?v=5aZeFDdAxvU&t=90s)
+
+business make money. Um and then when you have some of that money and you start to get successful, that is when the dupes will start flowing in the duplicates. And then at that point you need to start allocating a certain amount of capital to continue to defend the IP. I like as far as we're concerned until the business is successful the patent means

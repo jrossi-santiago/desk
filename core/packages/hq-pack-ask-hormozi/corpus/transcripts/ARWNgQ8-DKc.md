@@ -1,0 +1,22 @@
+---
+episode_id: "ARWNgQ8-DKc"
+title: "You Don't Need the US Market to Build a $20M Business"
+published: "2026-05-01"
+duration_seconds: 84
+episode_url: "https://www.youtube.com/watch?v=ARWNgQ8-DKc"
+channel: "MoreMozi"
+channel_id: "UCrvchO1h6lWZAuGaa1LqX9Q"
+transcript_source: "automatic_captions"
+---
+
+# You Don't Need the US Market to Build a $20M Business
+
+Video: [https://www.youtube.com/watch?v=ARWNgQ8-DKc](https://www.youtube.com/watch?v=ARWNgQ8-DKc)
+Published: 2026-05-01
+Transcript source: automatic captions
+
+> Captions may contain transcription errors. Verify important details against the linked video.
+
+## [00:00](https://www.youtube.com/watch?v=ARWNgQ8-DKc&t=0s)
+
+Hi Alex from France, hello. Uh so proud to be still awake. I'm proud of you as well. Wanted to ask whether having free and paid in French plus one free in English is too scattered to start out. I help con- conciergeries, homeowners, okay, to recruit and train their staff, widen their digital presence online, marketing based on my result in short-term rentals. Okay. This is full-time family responsibility being an HR professional for 3 decades. I could trust being help teaching, so okay, got it. So, you're in the short-term rental space and you're good at helping people hire staff help for short-term rentals. That's what it sounds like that you're good at. Um I would focus on one market. I would either just do English or just do French. There's plenty of people in France. Um like you can build a million-dollar business in France. So, everyone always has this obsession with like I have to go to the US cuz it's bigger. It's like like I don't know you know what the population of France is? It's 50 million, something like that. France population. Let's see here. 70 million, right? So, 70 million, the US is is 300. So, okay, you know, it's like 1/5 of the population. It's like, okay, so instead of building a hundred-million-dollar business, you can build a 20 million. But, if you're if you're happy with 20, you're still fine and at that point you can expand. Um so, TLDR, stick to France. That's the thing that you understand. That's what everybody knows. That's the market you have your proof in. I would keep it there.
