@@ -19,8 +19,10 @@ Dialing uses `tel:` links, so it hands off to the native phone dialer. That work
 
 1. Tap the green circle on a lead → the phone starts dialing **and** the call sheet opens.
 2. The call sheet shows the script with `{{tokens}}` already filled in from that lead, a live timer, and a notes box.
-3. Tap an outcome (Interested / Meeting set / Callback / Voicemail / No answer / Not interested / Bad number / Do not call). Callback asks for a follow-up date.
+3. Tap an outcome (Interested / Meeting set / Callback / Voicemail / No answer / Not interested / Bad number / Do not call). Callback asks for a follow-up date; Interested and Meeting set ask for a quote/deal size.
 4. **Next →** saves the call and opens the next lead in the queue.
+
+The **Pipeline** figure in the header is the sum of deal sizes across leads sitting at Interested, Meeting set, or Callback.
 
 Queue order: follow-ups due today → never called → interested → everything else. Closed statuses (not interested / bad number / do not call / meeting set) drop out of the queue.
 
@@ -28,7 +30,7 @@ Queue order: follow-ups due today → never called → interested → everything
 
 **Import CSV** takes a dropped file, a chosen file, or rows pasted straight out of a spreadsheet (tab- or comma-separated). The first row is treated as headers; you map each column to a field on the next screen. Common headers (`Company Name`, `First Name`, `Phone Number`, `Market`, …) are matched automatically. Leads whose phone number already exists are skipped.
 
-Fields: business, owner (or first + last name), phone, email, metro area, city/location, website, note.
+Fields: business, owner (or first + last name), phone, email, metro area, city/location, website, quote/deal size, note.
 
 ## Scripts
 

@@ -74,6 +74,7 @@ button{cursor:pointer;background:none;border:0}
 .stat b{display:block;font-family:var(--mono);font-size:19px;font-weight:600;letter-spacing:-.02em;line-height:1.15}
 .stat span{display:block;font-size:10px;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);font-weight:660;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .stat.due b{color:var(--clay)}
+.stat.pipe b{color:var(--pine)}
 
 .searchwrap{position:relative;margin-bottom:9px}
 .searchwrap svg{position:absolute;left:11px;top:50%;transform:translateY(-50%);width:16px;height:16px;stroke:var(--muted);fill:none;stroke-width:1.8;pointer-events:none}
@@ -115,6 +116,7 @@ button{cursor:pointer;background:none;border:0}
 .lmeta .sep{color:var(--line);margin:0 5px}
 .lsub{display:flex;align-items:center;gap:8px;font-size:12.5px;color:var(--muted);white-space:nowrap;overflow:hidden}
 .lsub .last{overflow:hidden;text-overflow:ellipsis}
+.lsub .val{color:var(--pine);font-weight:640}
 .tag{display:inline-flex;align-items:center;gap:4px;font-size:11px;font-weight:640;letter-spacing:.03em;
   text-transform:uppercase;color:var(--st,var(--muted))}
 .tag .dot{width:5px;height:5px;border-radius:50%;background:currentColor}
@@ -244,7 +246,7 @@ textarea.paste{width:100%;min-height:130px;border:1px solid var(--line);border-r
       <div class="stat"><b class="mono" id="sCalls">0</b><span>Dialed today</span></div>
       <div class="stat"><b class="mono" id="sConn">0</b><span>Connects</span></div>
       <div class="stat due"><b class="mono" id="sDue">0</b><span>Due now</span></div>
-      <div class="stat"><b class="mono" id="sTotal">0</b><span>In list</span></div>
+      <div class="stat pipe"><b class="mono" id="sPipe">$0</b><span>Pipeline</span></div>
     </div>
 
     <div class="searchwrap">
@@ -308,9 +310,15 @@ textarea.paste{width:100%;min-height:130px;border:1px solid var(--line);border-r
   <div class="outcomes">
     <div class="olabel">Outcome</div>
     <div class="ogrid" id="ogrid"></div>
-    <div class="f hide" id="followWrap" style="margin-top:10px">
-      <label for="followAt">Follow up on</label>
-      <input type="date" id="followAt" />
+    <div class="two hide" id="extraWrap" style="margin-top:10px">
+      <div class="f hide" id="followWrap">
+        <label for="followAt">Follow up on</label>
+        <input type="date" id="followAt" />
+      </div>
+      <div class="f hide" id="valueWrap">
+        <label for="dealValue">Quote / deal size</label>
+        <input type="text" inputmode="decimal" id="dealValue" placeholder="$0" />
+      </div>
     </div>
   </div>
   <div class="sheetfoot">
@@ -373,11 +381,11 @@ CLOSE: Appreciate the time, {{owner}}. Talk soon.`;
 const SAMPLE = [
   {business:"Ridgeline Heating & Air", owner:"Dave Kowalski", metro:"Phoenix, AZ",   location:"Mesa",        phone:"+16025550142", email:"dave@ridgelinehvac.com",   status:"new"},
   {business:"Copper State Roofing",    owner:"Maria Delgado", metro:"Phoenix, AZ",   location:"Chandler",    phone:"+16025550178", email:"office@copperstateroof.com",status:"callback", followAt:"", note:"Wants a call back after 4pm — busy on a job site."},
-  {business:"Northside Dental Studio", owner:"Dr. Amy Chen",  metro:"Denver, CO",    location:"Thornton",    phone:"+13035550119", email:"frontdesk@northsidedental.com", status:"interested", note:"Asked for pricing. Wants to see case studies for dental."},
+  {business:"Northside Dental Studio", owner:"Dr. Amy Chen",  metro:"Denver, CO",    location:"Thornton",    phone:"+13035550119", email:"frontdesk@northsidedental.com", value:6000, status:"interested", note:"Asked for pricing. Wants to see case studies for dental."},
   {business:"Bluegrass Lawn Pros",     owner:"Travis Boone",  metro:"Louisville, KY",location:"Jeffersontown",phone:"+15025550166",email:"travis@bluegrasslawn.com", status:"voicemail"},
   {business:"Harbor Point Plumbing",   owner:"Sean Whitfield",metro:"Tampa, FL",     location:"Clearwater",  phone:"+18135550133", email:"sean@harborpointplumbing.com", status:"new"},
   {business:"Vega Auto Glass",         owner:"Luis Vega",     metro:"San Antonio, TX",location:"Alamo Heights",phone:"+12105550107",email:"luis@vegaautoglass.com",  status:"noanswer"},
-  {business:"Summit Ridge Fitness",    owner:"Kaitlyn Pierce",metro:"Salt Lake City, UT",location:"Sandy",   phone:"+18015550190", email:"kaitlyn@summitridgefit.com", status:"meeting", note:"Thursday 2pm, wants the owner of the gym on the call too."},
+  {business:"Summit Ridge Fitness",    owner:"Kaitlyn Pierce",metro:"Salt Lake City, UT",location:"Sandy",   phone:"+18015550190", email:"kaitlyn@summitridgefit.com", value:9500, status:"meeting", note:"Thursday 2pm, wants the owner of the gym on the call too."},
   {business:"Old Mill Coffee Roasters",owner:"Priya Raman",   metro:"Portland, OR",  location:"Beaverton",   phone:"+15035550124", email:"priya@oldmillroasters.com", status:"new"}
 ];
 
@@ -423,13 +431,14 @@ function save(){
 function mkLead(o){
   const l = Object.assign({
     id:uid(), business:"", owner:"", metro:"", location:"", phone:"", email:"", website:"",
-    status:"new", followAt:"", calls:[], created:Date.now(), sample:false
+    value:0, status:"new", followAt:"", calls:[], created:Date.now(), sample:false
   }, o);
   if(o && o.note && !(l.calls||[]).length){
     l.calls = [{at:Date.now()-86400000, outcome:l.status, note:o.note}];
   }
   delete l.note;
   l.calls = l.calls || [];
+  l.value = +l.value || 0;
   return l;
 }
 
@@ -464,6 +473,14 @@ function when(ts){
 }
 function lastCallAt(l){ return l.calls.length ? l.calls[l.calls.length-1].at : 0; }
 function firstName(s){ return String(s||"").trim().split(/\s+/)[0] || ""; }
+function parseMoney(s){ const n = parseFloat(String(s==null?"":s).replace(/[^0-9.]/g,"")); return isFinite(n) && n>0 ? n : 0; }
+function money(n){
+  n = +n || 0;
+  if(n >= 1e6) return "$"+(n/1e6).toFixed(n>=1e7?0:1).replace(/\.0$/,"")+"M";
+  if(n >= 1e4) return "$"+(n/1e3).toFixed(n>=1e5?0:1).replace(/\.0$/,"")+"k";
+  return "$"+Math.round(n).toLocaleString();
+}
+const OPEN_VALUE = ["interested","meeting","callback"];
 
 let toastT;
 function toast(msg){
@@ -527,7 +544,7 @@ function renderStats(){
   $("#sCalls").textContent = calls;
   $("#sConn").textContent  = conn;
   $("#sDue").textContent   = db.leads.filter(l=>l.followAt && l.followAt<=today()).length;
-  $("#sTotal").textContent = db.leads.length;
+  $("#sPipe").textContent  = money(db.leads.filter(l=>OPEN_VALUE.includes(l.status)).reduce((t,l)=>t+(+l.value||0),0));
 }
 function renderList(){
   const rows = visible();
@@ -549,6 +566,7 @@ function renderList(){
         <div class="lsub">
           <span class="tag"><span class="dot"></span>${esc(st.label)}</span>
           <span class="mono">${esc(fmtPhone(l.phone))}</span>
+          ${l.value ? `<span class="val mono">${esc(money(l.value))}</span>` : ""}
           <span class="last">${esc(last)}</span>
         </div>
       </button>
@@ -621,7 +639,9 @@ function fillSheet(){
     return `<button class="o" data-o="${o}" aria-pressed="${on}" style="--oc:${st.color}">${esc(st.label)}</button>`;
   }).join("");
   $("#followAt").value = l.followAt || "";
-  $("#followWrap").classList.toggle("hide", !(call ? call.outcome==="callback" : l.status==="callback"));
+  $("#dealValue").value = l.value ? money(l.value) : "";
+  const cur = call ? call.outcome : l.status;
+  syncExtras(cur);
   renderInfo(); renderLog(); showTab(state.tab);
 }
 function tokens(l){
@@ -651,7 +671,7 @@ function renderInfo(){
     f("business","Business") + f("owner","Owner / contact") +
     `<div class="two">${f("phone","Phone","tel")}${f("email","Email","email")}</div>` +
     `<div class="two">${f("metro","Metro area")}${f("location","City / location")}</div>` +
-    f("website","Website") +
+    `<div class="two">${f("website","Website")}<div class="f"><label for="i_value">Quote / deal size</label><input id="i_value" data-k="value" type="text" inputmode="decimal" value="${l.value?esc(money(l.value)):""}" placeholder="$0" /></div></div>` +
     `<div class="two">
       <div class="f"><label for="i_status">Status</label><select id="i_status" data-k="status">${Object.keys(STATUS).map(k=>`<option value="${k}" ${l.status===k?"selected":""}>${STATUS[k].label}</option>`).join("")}</select></div>
       <div class="f"><label for="i_followAt">Follow up on</label><input id="i_followAt" data-k="followAt" type="date" value="${esc(l.followAt||"")}" /></div>
@@ -665,6 +685,14 @@ function renderLog(){
     return `<div class="logitem"><div class="when">${esc(when(c.at))}</div>
       <div class="what" style="--st:${st.color}"><b>${esc(st.label)}</b>${c.note?`<p>${esc(c.note)}</p>`:""}</div></div>`;
   }).join("") : `<p class="help">No calls logged yet.</p>`;
+}
+function syncExtras(outcome){
+  const cb = outcome === "callback";
+  const val = outcome === "interested" || outcome === "meeting";
+  $("#followWrap").classList.toggle("hide", !cb);
+  $("#valueWrap").classList.toggle("hide", !val);
+  $("#extraWrap").classList.toggle("hide", !cb && !val);
+  return cb;
 }
 function showTab(name){
   state.tab = name;
@@ -684,6 +712,7 @@ function commit(){
   }
   if(outcome) l.status = outcome;
   l.followAt = $("#followAt").value || (outcome==="callback" ? l.followAt : "");
+  if(!$("#valueWrap").classList.contains("hide")) l.value = parseMoney($("#dealValue").value);
   save();
 }
 
@@ -700,8 +729,8 @@ document.addEventListener("click", e => {
     const on = o.getAttribute("aria-pressed")==="true";
     $$("#ogrid .o").forEach(b=>b.setAttribute("aria-pressed","false"));
     o.setAttribute("aria-pressed", String(!on));
-    const cb = !on && o.dataset.o==="callback";
-    $("#followWrap").classList.toggle("hide", !cb);
+    const pick = on ? "" : o.dataset.o;
+    const cb = syncExtras(pick);
     if(cb && !$("#followAt").value){
       const d = new Date(Date.now()+864e5);
       $("#followAt").value = new Date(d.getTime()-d.getTimezoneOffset()*6e4).toISOString().slice(0,10);
@@ -734,7 +763,7 @@ $("#szDown").addEventListener("click", ()=>{ db.settings.scriptSize = Math.max(1
 $("#infoFields").addEventListener("change", e => {
   const k = e.target.dataset.k; if(!k) return;
   const l = activeLead(); if(!l) return;
-  l[k] = k==="phone" ? normPhone(e.target.value) : e.target.value;
+  l[k] = k==="phone" ? normPhone(e.target.value) : k==="value" ? parseMoney(e.target.value) : e.target.value;
   save(); fillSheet(); toast("Updated");
 });
 $("#btnCopyNum").addEventListener("click", async () => {
@@ -806,7 +835,7 @@ function parseCSV(text){
 const FIELDS = [
   ["business","Business name"], ["owner","Owner / contact"], ["owner_first","Owner first name"],
   ["owner_last","Owner last name"], ["phone","Phone"], ["email","Email"],
-  ["metro","Metro area"], ["location","City / location"], ["website","Website"], ["note","Note"], ["","— skip —"]
+  ["metro","Metro area"], ["location","City / location"], ["website","Website"], ["value","Quote / deal size"], ["note","Note"], ["","— skip —"]
 ];
 const GUESS = [
   [/^(business|company|account|dba|org|organi[sz]ation)( ?name)?$|^name$/i, "business"],
@@ -818,6 +847,7 @@ const GUESS = [
   [/metro|market|msa|region|dma/i, "metro"],
   [/city|town|address|street|location|state|zip/i, "location"],
   [/web|site|url|domain/i, "website"],
+  [/value|quote|deal|amount|budget|revenue|price|ticket/i, "value"],
   [/note|comment|remark|detail/i, "note"]
 ];
 function guessField(header, used){
@@ -900,7 +930,8 @@ function rowToLead(r, m){
   const g = k => m[k]!==undefined ? (r[m[k]]||"").trim() : "";
   const owner = [g("owner"), [g("owner_first"), g("owner_last")].filter(Boolean).join(" ")].filter(Boolean)[0] || "";
   return {business:g("business"), owner:owner, phone:normPhone(g("phone")), email:g("email"),
-          metro:g("metro"), location:g("location"), website:g("website"), note:g("note"), status:"new"};
+          metro:g("metro"), location:g("location"), website:g("website"), value:parseMoney(g("value")),
+          note:g("note"), status:"new"};
 }
 
 /* ============================== add lead ============================== */
@@ -910,7 +941,7 @@ function addModal(){
     ${f("business","Business name")}${f("owner","Owner / contact")}
     <div class="two">${f("phone","Phone","tel")}${f("email","Email","email")}</div>
     <div class="two">${f("metro","Metro area")}${f("location","City / location")}</div>
-    ${f("website","Website")}
+    <div class="two">${f("website","Website")}${f("value","Quote / deal size")}</div>
     <div class="f"><label for="a_note">Opening note</label><textarea id="a_note" rows="3"></textarea></div>
   </div>`, `<button class="btn" id="aCancel">Cancel</button><button class="btn primary" id="aSave">Add lead</button>`, () => {
     $("#aCancel").addEventListener("click", closeModal);
@@ -919,7 +950,8 @@ function addModal(){
       const v = k => ($("#a_"+k).value||"").trim();
       if(!v("business") && !v("phone")){ toast("Give it a name or a number"); return; }
       db.leads.unshift(mkLead({business:v("business"), owner:v("owner"), phone:normPhone(v("phone")), email:v("email"),
-        metro:v("metro"), location:v("location"), website:v("website"), note:v("note"), status:"new"}));
+        metro:v("metro"), location:v("location"), website:v("website"), value:parseMoney(v("value")),
+        note:v("note"), status:"new"}));
       save(); render(); closeModal(); toast("Added");
     });
   });
@@ -976,19 +1008,19 @@ function editScript(id){
 /* ============================== export / settings ============================== */
 function csvCell(v){ v = String(v==null?"":v); return /[",\n]/.test(v) ? '"'+v.replace(/"/g,'""')+'"' : v; }
 function leadsCSV(){
-  const head = ["business","owner","phone","email","metro","location","website","status","follow_up","calls","last_call","last_note"];
+  const head = ["business","owner","phone","email","metro","location","website","deal_value","status","follow_up","calls","last_call","last_note"];
   const rows = db.leads.map(l => {
     const last = l.calls[l.calls.length-1];
-    return [l.business,l.owner,l.phone,l.email,l.metro,l.location,l.website,(STATUS[l.status]||{}).label||l.status,
+    return [l.business,l.owner,l.phone,l.email,l.metro,l.location,l.website,l.value||"",(STATUS[l.status]||{}).label||l.status,
       l.followAt, l.calls.length, last?new Date(last.at).toISOString():"", last?last.note:""];
   });
   return [head, ...rows].map(r => r.map(csvCell).join(",")).join("\n");
 }
 function logCSV(){
-  const head = ["when","business","owner","phone","metro","outcome","note"];
+  const head = ["when","business","owner","phone","metro","outcome","deal_value","note"];
   const rows = [];
   db.leads.forEach(l => l.calls.forEach(c => rows.push([new Date(c.at).toISOString(), l.business, l.owner, l.phone, l.metro,
-    (STATUS[c.outcome]||{}).label||"Dialed", c.note])));
+    (STATUS[c.outcome]||{}).label||"Dialed", l.value||"", c.note])));
   rows.sort((a,b)=> a[0]<b[0]?1:-1);
   return [head, ...rows].map(r => r.map(csvCell).join(",")).join("\n");
 }
