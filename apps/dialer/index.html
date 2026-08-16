@@ -1010,8 +1010,22 @@ function exportModal(kind){
       try{ await navigator.clipboard.writeText(text); toast("Copied to clipboard"); }
       catch(e){ document.execCommand("copy"); toast("Copied"); }
     });
-    $("#xDown").addEventListener("click", () => {
+    $("#xDown").addEventListener("click", async () => {
       const name = kind==="json" ? "dial-sheet-backup.json" : kind==="log" ? "call-log.csv" : "leads.csv";
+      // Hosted viewers hand the file over through their own save prompt.
+      if(window.claude && typeof window.claude.use === "function"){
+        const dl = await window.claude.use("downloads").catch(()=>null);
+        if(!dl){ toast("Saving isn't available here — use Copy"); return; }
+        try{ await dl.save({filename:name, data:text}); toast("Saved"); }
+        catch(err){
+          if(err && err.code === "extension_not_enabled"){
+            try{ await dl.save({filename:name.replace(/\.csv$/,".txt"), data:text}); toast("Saved as .txt"); return; }
+            catch(e2){ err = e2; }
+          }
+          if(!err || err.code !== "declined") toast("Couldn't save — use Copy instead");
+        }
+        return;
+      }
       const blob = new Blob([text], {type: kind==="json"?"application/json":"text/csv"});
       const a = document.createElement("a");
       a.href = URL.createObjectURL(blob); a.download = name; document.body.appendChild(a); a.click();
