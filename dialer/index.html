@@ -49,6 +49,7 @@ body{
   -webkit-tap-highlight-color:transparent; overflow-wrap:break-word;
 }
 button,input,select,textarea{font:inherit;color:inherit}
+input[type="checkbox"]{accent-color:var(--dial)}
 button{cursor:pointer;background:none;border:0}
 :focus-visible{outline:2px solid var(--dial); outline-offset:2px; border-radius:6px}
 .mono{font-family:var(--mono); font-variant-numeric:tabular-nums}
@@ -67,6 +68,16 @@ button{cursor:pointer;background:none;border:0}
 .brandrow .spacer{flex:1}
 .iconbtn{width:36px;height:36px;border-radius:10px;display:grid;place-items:center;color:var(--ink-2);border:1px solid transparent}
 .iconbtn:hover{background:var(--surface-2);border-color:var(--line-soft)}
+.iconbtn.sync{position:relative}
+.iconbtn.sync .dot{position:absolute;right:5px;bottom:5px;width:7px;height:7px;border-radius:50%;background:var(--muted);border:1.5px solid var(--ground);display:none}
+.iconbtn.sync[data-s] .dot{display:block}
+.iconbtn.sync[data-s="ok"] .dot{background:var(--pine)}
+.iconbtn.sync[data-s="pending"] .dot{background:var(--clay)}
+.iconbtn.sync[data-s="error"] .dot{background:var(--brick)}
+.iconbtn.sync[data-s="busy"] svg{animation:spin 1s linear infinite}
+.iconbtn.sync[data-s="busy"] .dot{background:var(--dial)}
+@keyframes spin{to{transform:rotate(360deg)}}
+@media (prefers-reduced-motion:reduce){.iconbtn.sync[data-s="busy"] svg{animation:none}}
 .iconbtn svg{width:19px;height:19px;stroke:currentColor;fill:none;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round}
 
 .stats{display:flex;gap:8px;margin-bottom:10px}
@@ -238,6 +249,7 @@ textarea.paste{width:100%;min-height:130px;border:1px solid var(--line);border-r
       <span class="mark" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M6.6 10.8c1.4 2.8 3.8 5.2 6.6 6.6l2.2-2.2c.3-.3.7-.4 1-.2 1.2.4 2.4.6 3.6.6.6 0 1 .4 1 1V20c0 .6-.4 1-1 1C11.6 21 3 12.4 3 1.9c0-.6.4-1 1-1h3.5c.6 0 1 .4 1 1 0 1.3.2 2.5.6 3.6.1.4 0 .7-.2 1L6.6 10.8z"/></svg></span>
       <h1 class="brand">Dial Sheet</h1>
       <span class="spacer"></span>
+      <button class="iconbtn sync" id="btnSync" title="Sync with Google Sheet" aria-label="Sync with Google Sheet"><svg viewBox="0 0 24 24"><path d="M21 12a9 9 0 0 1-9 9 9 9 0 0 1-7.5-4"/><path d="M3 12a9 9 0 0 1 9-9 9 9 0 0 1 7.5 4"/><path d="M19.5 3v4h-4"/><path d="M4.5 21v-4h4"/></svg><span class="dot"></span></button>
       <button class="iconbtn" id="btnScripts" title="Scripts" aria-label="Scripts"><svg viewBox="0 0 24 24"><path d="M5 3h9l5 5v13H5z"/><path d="M14 3v5h5"/><path d="M8.5 13h7M8.5 16.5h5"/></svg></button>
       <button class="iconbtn" id="btnSettings" title="Settings" aria-label="Settings"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.6 1.6 0 0 0 .3 1.8l.1.1a2 2 0 1 1-2.8 2.8l-.1-.1a1.6 1.6 0 0 0-1.8-.3 1.6 1.6 0 0 0-1 1.5V21a2 2 0 1 1-4 0v-.1A1.6 1.6 0 0 0 9 19.4a1.6 1.6 0 0 0-1.8.3l-.1.1a2 2 0 1 1-2.8-2.8l.1-.1a1.6 1.6 0 0 0 .3-1.8 1.6 1.6 0 0 0-1.5-1H3a2 2 0 1 1 0-4h.1A1.6 1.6 0 0 0 4.6 9a1.6 1.6 0 0 0-.3-1.8l-.1-.1a2 2 0 1 1 2.8-2.8l.1.1a1.6 1.6 0 0 0 1.8.3H9a1.6 1.6 0 0 0 1-1.5V3a2 2 0 1 1 4 0v.1a1.6 1.6 0 0 0 1 1.5 1.6 1.6 0 0 0 1.8-.3l.1-.1a2 2 0 1 1 2.8 2.8l-.1.1a1.6 1.6 0 0 0-.3 1.8V9a1.6 1.6 0 0 0 1.5 1H21a2 2 0 1 1 0 4h-.1a1.6 1.6 0 0 0-1.5 1z"/></svg></button>
     </div>
@@ -410,7 +422,10 @@ function blank(){
     v:1,
     leads: SAMPLE.map(s => mkLead(Object.assign({sample:true}, s))),
     scripts: [{id:uid(), name:"Cold call — local business", body:DEFAULT_SCRIPT}],
-    settings: {me:"", company:"", offer:"we help local businesses get more inbound calls without spending more on ads", theme:"auto", scriptId:null, scriptSize:18}
+    deleted: [],
+    settings: {me:"", company:"", offer:"we help local businesses get more inbound calls without spending more on ads",
+      theme:"auto", scriptId:null, scriptSize:18,
+      sheet:{url:"", token:"", auto:true, at:0, ids:[]}}
   };
 }
 function load(){
@@ -421,6 +436,8 @@ function load(){
     d.leads = (d.leads||[]).map(mkLead);
     if(!d.scripts || !d.scripts.length) d.scripts = blank().scripts;
     d.settings = Object.assign(blank().settings, d.settings||{});
+    d.settings.sheet = Object.assign(blank().settings.sheet, d.settings.sheet||{});
+    d.deleted = d.deleted || [];
     return d;
   }catch(e){ return blank(); }
 }
@@ -431,7 +448,7 @@ function save(){
 function mkLead(o){
   const l = Object.assign({
     id:uid(), business:"", owner:"", metro:"", location:"", phone:"", email:"", website:"",
-    value:0, status:"new", followAt:"", calls:[], created:Date.now(), sample:false
+    value:0, status:"new", followAt:"", calls:[], created:Date.now(), updated:0, sample:false
   }, o);
   if(o && o.note && !(l.calls||[]).length){
     l.calls = [{at:Date.now()-86400000, outcome:l.status, note:o.note}];
@@ -439,6 +456,7 @@ function mkLead(o){
   delete l.note;
   l.calls = l.calls || [];
   l.value = +l.value || 0;
+  l.updated = +l.updated || Date.now();
   return l;
 }
 
@@ -471,6 +489,7 @@ function when(ts){
     : d.toLocaleDateString(undefined,{month:"short",day:"numeric"});
   return day+" "+d.toLocaleTimeString(undefined,{hour:"numeric",minute:"2-digit"});
 }
+function touch(l){ l.updated = Date.now(); return l; }
 function lastCallAt(l){ return l.calls.length ? l.calls[l.calls.length-1].at : 0; }
 function firstName(s){ return String(s||"").trim().split(/\s+/)[0] || ""; }
 function parseMoney(s){ const n = parseFloat(String(s==null?"":s).replace(/[^0-9.]/g,"")); return isFinite(n) && n>0 ? n : 0; }
@@ -498,7 +517,7 @@ const FILTERS = [
   {id:"all",        label:"All",         fn:() => true},
   {id:"closed",     label:"Closed",      fn:l => ["no","bad","dnc"].includes(l.status)}
 ];
-let state = {filter:"tocall", q:"", leadId:null, callIdx:-1, tab:"script", timerT:null};
+let state = {filter:"tocall", q:"", leadId:null, callIdx:-1, tab:"script", timerT:null, sync:{busy:false, error:""}};
 
 function visible(){
   const f = FILTERS.find(x=>x.id===state.filter) || FILTERS[0];
@@ -576,7 +595,7 @@ function renderList(){
     </article>`;
   }).join("");
 }
-function render(){ renderFilters(); renderStats(); renderList(); }
+function render(){ renderFilters(); renderStats(); renderList(); paintSync(); }
 
 /* ============================== call sheet ============================== */
 const sheet = $("#sheet"), scrim = $("#scrim"), modal = $("#modal");
@@ -713,7 +732,7 @@ function commit(){
   if(outcome) l.status = outcome;
   l.followAt = $("#followAt").value || (outcome==="callback" ? l.followAt : "");
   if(!$("#valueWrap").classList.contains("hide")) l.value = parseMoney($("#dealValue").value);
-  save();
+  touch(l); save(); autoSync();
 }
 
 /* ============================== events: list + sheet ============================== */
@@ -764,7 +783,7 @@ $("#infoFields").addEventListener("change", e => {
   const k = e.target.dataset.k; if(!k) return;
   const l = activeLead(); if(!l) return;
   l[k] = k==="phone" ? normPhone(e.target.value) : k==="value" ? parseMoney(e.target.value) : e.target.value;
-  save(); fillSheet(); toast("Updated");
+  touch(l); save(); fillSheet(); toast("Updated");
 });
 $("#btnCopyNum").addEventListener("click", async () => {
   const l = activeLead(); if(!l) return;
@@ -774,7 +793,9 @@ $("#btnCopyNum").addEventListener("click", async () => {
 $("#btnDelete").addEventListener("click", () => {
   const l = activeLead(); if(!l) return;
   if(!confirm("Delete "+(l.business||"this lead")+" and its call history?")) return;
-  db.leads = db.leads.filter(x=>x.id!==l.id); save(); closeSheet(); toast("Deleted");
+  db.leads = db.leads.filter(x=>x.id!==l.id);
+  db.deleted.push(l.id);
+  save(); closeSheet(); autoSync(); toast("Deleted");
 });
 $("#btnNext").addEventListener("click", () => {
   const q = queue();
@@ -793,6 +814,144 @@ document.addEventListener("keydown", e => {
   if(e.key!=="Escape") return;
   if(sheet.classList.contains("on")){ commit(); closeSheet(); }
   else if(modal.classList.contains("on")) closeModal();
+});
+
+/* ============================== google sheet sync ============================== */
+const STATUS_BY_LABEL = {};
+Object.keys(STATUS).forEach(k => STATUS_BY_LABEL[STATUS[k].label.toLowerCase()] = k);
+function statusKey(v){
+  const t = String(v||"").trim().toLowerCase();
+  return STATUS[t] ? t : (STATUS_BY_LABEL[t] || "new");
+}
+function iso(ms){ return ms ? new Date(ms).toISOString() : ""; }
+
+function leadRow(l){
+  const last = l.calls[l.calls.length-1];
+  return {
+    id:l.id, business:l.business, owner:l.owner, phone:l.phone, email:l.email,
+    metro:l.metro, location:l.location, website:l.website, deal_value:l.value||0,
+    status:(STATUS[l.status]||STATUS.new).label, follow_up:l.followAt||"",
+    last_call:last?iso(last.at):"", calls:l.calls.length, notes:last?last.note:"",
+    updated:iso(l.updated||Date.now())
+  };
+}
+function logRow(l, c){
+  return {when:iso(c.at), id:l.id, business:l.business, owner:l.owner, phone:l.phone,
+          metro:l.metro, outcome:(STATUS[c.outcome]||{}).label||"Dialed",
+          deal_value:l.value||0, note:c.note||""};
+}
+function applyRow(l, r){
+  l.business = r.business||""; l.owner = r.owner||"";
+  l.phone = normPhone(r.phone); l.email = r.email||"";
+  l.metro = r.metro||""; l.location = r.location||""; l.website = r.website||"";
+  l.value = parseMoney(r.deal_value); l.status = statusKey(r.status);
+  l.followAt = String(r.follow_up||"").slice(0,10);
+  return l;
+}
+function mergeRemote(rows){
+  const cfg = db.settings.sheet;
+  const byId = {}; db.leads.forEach(l => byId[l.id] = l);
+  const seen = {};
+  rows.forEach(r => {
+    const id = String(r.id||""); if(!id) return;
+    seen[id] = true;
+    const at = Date.parse(r.updated||"") || 0;
+    const cur = byId[id];
+    if(!cur){
+      const l = mkLead({id:id, updated:at || Date.now()});
+      db.leads.push(applyRow(l, r));
+    }else if(at > (cur.updated||0)){
+      applyRow(cur, r); cur.updated = at;
+    }
+  });
+  // Rows you delete in the spreadsheet disappear here too.
+  const prev = cfg.ids || [];
+  if(prev.length){
+    const gone = prev.filter(id => !seen[id]);
+    if(gone.length) db.leads = db.leads.filter(l => gone.indexOf(l.id) === -1);
+  }
+  cfg.ids = rows.map(r => String(r.id));
+}
+
+async function sheetCall(payload){
+  const cfg = db.settings.sheet;
+  const ctl = new AbortController();
+  const bail = setTimeout(()=>ctl.abort(), 25000);
+  try{
+    const res = await fetch(cfg.url, {
+      method:"POST",
+      // text/plain keeps this a "simple" request, so the browser skips the
+      // CORS preflight that Apps Script web apps can't answer.
+      headers:{"Content-Type":"text/plain;charset=utf-8"},
+      body:JSON.stringify(Object.assign({token:cfg.token}, payload)),
+      redirect:"follow"
+    });
+    if(!res.ok) throw new Error("the sheet replied "+res.status);
+    const data = await res.json();
+    if(!data.ok) throw new Error(data.error==="bad_token" ? "wrong token" : (data.error||"the script refused"));
+    return data;
+  }catch(err){
+    if(err.name==="AbortError") throw new Error("timed out");
+    if(err instanceof TypeError) throw new Error("couldn't reach the sheet");
+    throw err;
+  }finally{ clearTimeout(bail); }
+}
+
+function pendingCount(){
+  const since = db.settings.sheet.at || 0;
+  let n = db.leads.filter(l => (l.updated||0) > since).length + (db.deleted||[]).length;
+  db.leads.forEach(l => l.calls.forEach(c => { if(!c.synced) n++; }));
+  return n;
+}
+function paintSync(){
+  const btn = $("#btnSync"), cfg = db.settings.sheet;
+  if(!cfg.url){ btn.removeAttribute("data-s"); btn.title = "Connect a Google Sheet"; return; }
+  const n = pendingCount();
+  const s = state.sync.busy ? "busy" : state.sync.error ? "error" : n ? "pending" : "ok";
+  btn.dataset.s = s;
+  btn.title = s==="busy" ? "Syncing…"
+    : s==="error" ? "Sync failed: "+state.sync.error
+    : s==="pending" ? n+" change"+(n===1?"":"s")+" waiting — tap to sync"
+    : "Synced "+(cfg.at?when(cfg.at):"");
+}
+async function syncNow(manual){
+  const cfg = db.settings.sheet;
+  if(!cfg.url){ if(manual) toast("Add your sheet's web app URL in Settings first"); return false; }
+  if(state.sync.busy) return false;
+  state.sync.busy = true; state.sync.error = ""; paintSync();
+  const startedAt = Date.now();
+  try{
+    const push = db.leads.filter(l => (l.updated||0) > (cfg.at||0)).map(leadRow);
+    const log = [];
+    db.leads.forEach(l => l.calls.forEach(c => { if(!c.synced) log.push(logRow(l, c)); }));
+    const data = await sheetCall({leads:push, log:log, remove:db.deleted||[]});
+    mergeRemote(data.leads||[]);
+    db.leads.forEach(l => l.calls.forEach(c => { c.synced = true; }));
+    db.deleted = [];
+    cfg.at = startedAt;
+    save(); render();
+    if(manual) toast("Synced — "+(data.leads||[]).length+" leads in the sheet");
+    return true;
+  }catch(err){
+    state.sync.error = String(err.message||err);
+    if(manual) toast("Sync failed — "+state.sync.error);
+    return false;
+  }finally{
+    state.sync.busy = false; paintSync();
+  }
+}
+let autoT;
+function autoSync(){
+  const cfg = db.settings.sheet;
+  paintSync();
+  if(!cfg.url || !cfg.auto) return;
+  clearTimeout(autoT);
+  autoT = setTimeout(()=>syncNow(false), 4000);
+}
+document.addEventListener("visibilitychange", () => {
+  const cfg = db.settings.sheet;
+  if(document.visibilityState!=="visible" || !cfg.url || !cfg.auto) return;
+  if(Date.now() - (cfg.at||0) > 120000) syncNow(false);
 });
 
 /* ============================== modal plumbing ============================== */
@@ -921,7 +1080,7 @@ function mapModal(rows){
         if(o.phone) have.add(o.phone);
         db.leads.push(mkLead(o)); added++;
       });
-      save(); render(); closeModal();
+      save(); render(); closeModal(); autoSync();
       toast(`Imported ${added}${skipped?` · skipped ${skipped} duplicate${skipped===1?"":"s"}`:""}`);
     });
   });
@@ -952,7 +1111,7 @@ function addModal(){
       db.leads.unshift(mkLead({business:v("business"), owner:v("owner"), phone:normPhone(v("phone")), email:v("email"),
         metro:v("metro"), location:v("location"), website:v("website"), value:parseMoney(v("value")),
         note:v("note"), status:"new"}));
-      save(); render(); closeModal(); toast("Added");
+      save(); render(); closeModal(); autoSync(); toast("Added");
     });
   });
 }
@@ -1087,17 +1246,50 @@ function settingsModal(){
         <option value="light" ${s.theme==="light"?"selected":""}>Light</option>
         <option value="dark" ${s.theme==="dark"?"selected":""}>Dark</option></select></div>
     </div>
-    <p class="help" style="margin-top:16px">Your leads, notes and scripts are stored in this browser only — nothing is uploaded anywhere. Export a backup before clearing your browser data or switching phones.</p>
+    <h3 style="font-size:13px;text-transform:uppercase;letter-spacing:.07em;color:var(--muted);margin:22px 0 8px">Google Sheet</h3>
+    <p class="help">Keep your list in a spreadsheet and use this as the dialer. Add rows there, call them here, and every outcome, note and follow-up date writes back. Setup steps are in <code>sheet-sync.gs</code>.</p>
+    <div class="fields">
+      <div class="f"><label for="p_url">Web app URL</label><input id="p_url" value="${esc(s.sheet.url)}" placeholder="https://script.google.com/macros/s/…/exec" /></div>
+      <div class="f"><label for="p_token">Token</label><input id="p_token" value="${esc(s.sheet.token)}" placeholder="the TOKEN you set in the script" /></div>
+      <label style="display:flex;align-items:center;gap:9px;font-size:14px;color:var(--ink-2);padding:2px 0">
+        <input type="checkbox" id="p_auto" ${s.sheet.auto?"checked":""} style="width:18px;height:18px" />
+        Sync automatically after each call
+      </label>
+    </div>
+    <div class="toolbar" style="padding:10px 0 0"><button class="tool go" id="pSync">Connect &amp; sync now</button></div>
+    <p class="help" id="syncState" style="margin-top:8px"></p>
+    <h3 style="font-size:13px;text-transform:uppercase;letter-spacing:.07em;color:var(--muted);margin:22px 0 8px">Your data</h3>
+    <p class="help">Without a sheet connected, leads, notes and scripts live in this browser only — nothing is uploaded anywhere. Export a backup before clearing your browser data or switching phones.</p>
     <div class="toolbar" style="padding:0">
       <button class="tool" id="pRestore">Restore backup</button>
       <button class="tool" id="pSamples">Remove sample leads</button>
       <button class="tool" id="pWipe" style="color:var(--brick)">Erase everything</button>
     </div>
   `, `<button class="btn primary" id="pSave" style="flex:1">Done</button>`, () => {
-    $("#pSave").addEventListener("click", () => {
+    const saveSettings = () => {
       s.me = $("#p_me").value.trim(); s.company = $("#p_company").value.trim();
       s.offer = $("#p_offer").value.trim(); s.theme = $("#p_theme").value;
-      save(); applyTheme(); closeModal(); toast("Saved");
+      s.sheet.url = $("#p_url").value.trim(); s.sheet.token = $("#p_token").value.trim();
+      s.sheet.auto = $("#p_auto").checked;
+      save(); applyTheme();
+    };
+    const paintState = () => {
+      const el = $("#syncState"); if(!el) return;
+      el.innerHTML = !s.sheet.url ? "Not connected."
+        : state.sync.busy ? "Syncing…"
+        : state.sync.error ? `<span style="color:var(--brick)">Last try failed — ${esc(state.sync.error)}</span>`
+        : s.sheet.at ? `Last synced ${esc(when(s.sheet.at))} · ${(n=>n?n+" change"+(n===1?"":"s")+" waiting":"everything up to date")(pendingCount())}`
+        : "Connected but not synced yet.";
+    };
+    paintState();
+    $("#pSave").addEventListener("click", () => { saveSettings(); closeModal(); toast("Saved"); });
+    $("#pSync").addEventListener("click", async () => {
+      saveSettings();
+      if(!s.sheet.url){ toast("Paste the web app URL first"); return; }
+      paintState();
+      const ok = await syncNow(true);
+      paintState();
+      if(ok) render();
     });
     $("#p_theme").addEventListener("change", e => { s.theme = e.target.value; applyTheme(); });
     $("#pRestore").addEventListener("click", ()=>{ $("#filePick").dataset.mode="json"; $("#filePick").click(); });
@@ -1124,10 +1316,12 @@ $("#btnAdd").addEventListener("click", addModal);
 $("#btnScripts").addEventListener("click", scriptsModal);
 $("#btnExport").addEventListener("click", ()=>exportModal("leads"));
 $("#btnSettings").addEventListener("click", settingsModal);
+$("#btnSync").addEventListener("click", ()=>syncNow(true));
 window.addEventListener("beforeunload", save);
 
 applyTheme();
 render();
+if(db.settings.sheet.url && db.settings.sheet.auto) setTimeout(()=>syncNow(false), 800);
 })();
 </script>
 </body>

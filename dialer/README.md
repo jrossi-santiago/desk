@@ -3,7 +3,8 @@
 A one-file CRM + click-to-call sheet for solo outbound calling from a phone.
 
 - **`index.html`** is the whole app — no build step, no server, no accounts, no dependencies.
-- All data (leads, notes, call history, scripts) is stored in **localStorage on the device that opened it**. Nothing is uploaded anywhere.
+- **`sheet-sync.gs`** is optional: paste it into a Google Sheet to use that spreadsheet as the lead list (see below).
+- Without a sheet, all data (leads, notes, call history, scripts) is stored in **localStorage on the device that opened it**, and nothing is uploaded anywhere.
 
 ## Running it
 
@@ -39,6 +40,23 @@ Scripts live in the document icon in the header. Any number of them; pick one pe
 `{{business}}` `{{owner}}` `{{first}}` `{{metro}}` `{{location}}` `{{phone}}` `{{email}}` `{{me}}` `{{company}}` `{{offer}}`
 
 The last three come from Settings. Scripts can be pasted in or imported from a `.txt`/`.md` file.
+
+## Google Sheets sync (optional)
+
+Manage the list in a spreadsheet, use the dialer as the calling interface. Outcomes, notes, deal sizes and follow-up dates write back; rows you add in the sheet appear on the phone.
+
+Setup is in the comment block at the top of `sheet-sync.gs` — roughly: paste the script into your spreadsheet's Apps Script editor, set your own `TOKEN`, run `setup()` once, deploy as a Web App ("Execute as: Me", "Who has access: Anyone"), then paste the `/exec` URL and token into **Settings → Google Sheet**.
+
+**Two tabs get created:**
+
+- **Leads** — one row per lead. You own `business`, `owner`, `phone`, `email`, `metro`, `location`, `website`; the dialer writes `status`, `follow_up`, `deal_value`, `last_call`, `calls`, `notes`. Leave `id` blank on rows you add — it gets filled in on the next sync.
+- **Call Log** — append-only, one row per call: when, who, outcome, deal size, note.
+
+**How conflicts resolve:** whichever side changed a row most recently wins. The script's `onEdit` trigger stamps the `updated` column when you edit by hand, so a spreadsheet edit beats older data from the phone and vice versa. Call history is never overwritten by the sheet. Deleting a row in the sheet removes that lead from the phone on the next sync; deleting in the dialer removes the row.
+
+**When it syncs:** on open, four seconds after each logged call, when you return to the app, and whenever you tap the sync icon in the header. The dot on that icon is green when everything is up to date, amber when changes are waiting, red when the last attempt failed. Changes queue offline and go up on the next successful sync — you can call all day with no signal and sync when you're back.
+
+**Security, plainly:** the web app URL is reachable without a Google login — that is what lets the phone call it. The token you set is the only guard. Treat URL + token like a password, use something long and random, and rotate by changing `TOKEN` in the script and in Settings. Anyone holding both can read and write that spreadsheet.
 
 ## Backups
 
