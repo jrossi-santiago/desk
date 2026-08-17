@@ -248,7 +248,12 @@ textarea.paste{width:100%;min-height:130px;border:1px solid var(--line);border-r
 .gatefoot{display:flex;justify-content:space-between;gap:12px;margin-top:18px}
 .gatefoot button{font-size:13.5px;color:var(--ink-2);font-weight:560;text-decoration:underline;text-underline-offset:3px}
 .gatefoot button:hover{color:var(--ink)}
-.booting{position:fixed;inset:0;z-index:95;background:var(--ground);display:grid;place-items:center;color:var(--muted);font-size:14px}
+.booting{position:fixed;inset:0;z-index:95;background:var(--ground);display:grid;place-items:center;color:var(--muted);font-size:14px;padding:24px;text-align:center}
+.bootfail{max-width:400px;text-align:left}
+.bootfail h2{font-size:19px;font-weight:660;color:var(--ink);margin:0 0 8px;letter-spacing:-.01em}
+.bootfail p{margin:0 0 10px;font-size:14px;line-height:1.55;color:var(--ink-2)}
+.bootfail code{font-family:var(--mono);font-size:12.5px;background:var(--sunk);padding:1px 5px;border-radius:4px;color:var(--ink)}
+.bootfail .why{font-size:12.5px;color:var(--muted);border-top:1px solid var(--line-soft);padding-top:10px;margin-top:12px;word-break:break-word}
 .modal.wide{max-width:1180px;height:94dvh}
 .tbar{display:flex;gap:8px;align-items:center;padding:0 0 10px;flex-wrap:wrap}
 .tbar input[type="search"]{flex:1;min-width:150px;padding:8px 11px;border:1px solid var(--line);border-radius:9px;background:var(--surface-2);font-size:15px}
@@ -428,6 +433,33 @@ table.grid .dialmini svg{width:13px;height:13px;fill:var(--on-dial)}
 <div class="toast" id="toast" role="status" aria-live="polite"></div>
 <input type="file" id="filePick" accept=".csv,.txt,text/csv,text/plain" class="hide" />
 
+<script>
+(function(){
+  // If anything below fails to load, say what happened instead of leaving
+  // the reader staring at "Loading…" forever.
+  function fail(title, detail, why){
+    var el = document.getElementById("booting");
+    if(!el) return;
+    el.hidden = false;
+    el.innerHTML = '<div class="bootfail"><h2>' + title + '</h2><p>' + detail + '</p>' +
+      (why ? '<div class="why">' + why + '</div>' : '') + '</div>';
+  }
+  window.__bootFail = fail;
+  window.addEventListener("error", function(e){
+    if(e && e.target && e.target.src){
+      fail("Part of the app didn't load",
+        "The browser couldn't fetch <code>" + String(e.target.src).split("/").slice(-2).join("/") + "</code>. If you just deployed, that file probably didn't ship with the site.",
+        "Open it directly in this browser to confirm — a 404 page means it is missing.");
+      return;
+    }
+    fail("The app didn't start", "Something failed while loading.", (e && e.message) || "");
+  }, true);
+  window.addEventListener("unhandledrejection", function(e){
+    fail("The app didn't start", "Something failed while loading.",
+      String((e && e.reason && e.reason.message) || (e && e.reason) || ""));
+  });
+})();
+</script>
 <script src="vendor/supabase.js"></script>
 <script src="config.js"></script>
 <script>
@@ -435,6 +467,18 @@ table.grid .dialmini svg{width:13px;height:13px;fill:var(--on-dial)}
 "use strict";
 
 /* ============================== storage ============================== */
+if(!window.supabase || !window.supabase.createClient){
+  window.__bootFail("Part of the app didn't load",
+    "<code>vendor/supabase.js</code> is missing or didn't finish loading.",
+    "Check that the <code>vendor</code> folder shipped with your deployment.");
+  return;
+}
+if(!window.DIALER_CONFIG || !window.DIALER_CONFIG.url || !window.DIALER_CONFIG.anonKey){
+  window.__bootFail("Missing settings",
+    "<code>config.js</code> didn't load, or has no project URL and key in it.",
+    "It sits next to index.html and holds your Supabase URL and anon key.");
+  return;
+}
 const sb = window.supabase.createClient(window.DIALER_CONFIG.url, window.DIALER_CONFIG.anonKey, {
   auth:{persistSession:true, autoRefreshToken:true, detectSessionInUrl:true}
 });
@@ -1742,9 +1786,18 @@ sb.auth.onAuthStateChange(async (event, session) => {
 
 (async function start(){
   applyTheme();
-  const { data } = await sb.auth.getSession();
-  if(data && data.session) signedIn(data.session.user);
-  else signedOut();
+  try{
+    const res = await Promise.race([
+      sb.auth.getSession(),
+      new Promise((_, rej) => setTimeout(() => rej(new Error("the server didn't answer")), 12000))
+    ]);
+    if(res && res.data && res.data.session) signedIn(res.data.session.user);
+    else signedOut();
+  }catch(err){
+    // Better to offer the sign-in screen than to sit on a spinner.
+    signedOut();
+    $("#gateErr").textContent = "Couldn't reach the server (" + friendlyError(err) + "). Check your connection and try signing in.";
+  }
 })();
 })();
 </script>
