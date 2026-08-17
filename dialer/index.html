@@ -62,12 +62,13 @@ button{cursor:pointer;background:none;border:0}
   position:sticky; top:0; z-index:30; background:var(--ground);
   padding:max(10px,env(safe-area-inset-top)) 14px 8px; border-bottom:1px solid var(--line-soft);
 }
-.brandrow{display:flex;align-items:center;gap:10px;margin-bottom:10px}
+.brandrow{display:flex;align-items:center;gap:8px;margin-bottom:10px}
+@media (max-width:400px){ .brand{position:absolute;width:1px;height:1px;overflow:hidden;clip-path:inset(50%)} }
 .mark{width:26px;height:26px;border-radius:8px;background:var(--dial);display:grid;place-items:center;flex:none}
 .mark svg{width:15px;height:15px;fill:var(--on-dial)}
-.brand{font-size:17px;font-weight:680;letter-spacing:-.01em;margin:0}
+.brand{font-size:16.5px;font-weight:680;letter-spacing:-.015em;margin:0;white-space:nowrap}
 .brandrow .spacer{flex:1}
-.iconbtn{width:36px;height:36px;border-radius:10px;display:grid;place-items:center;color:var(--ink-2);border:1px solid transparent}
+.iconbtn{width:33px;height:33px;border-radius:9px;display:grid;place-items:center;color:var(--ink-2);border:1px solid transparent;flex:none}
 .iconbtn:hover{background:var(--surface-2);border-color:var(--line-soft)}
 .iconbtn.sync{position:relative}
 .iconbtn.sync .dot{position:absolute;right:5px;bottom:5px;width:7px;height:7px;border-radius:50%;background:var(--muted);border:1.5px solid var(--ground);display:none}
@@ -79,11 +80,13 @@ button{cursor:pointer;background:none;border:0}
 .iconbtn.sync[data-s="busy"] .dot{background:var(--dial)}
 @keyframes spin{to{transform:rotate(360deg)}}
 @media (prefers-reduced-motion:reduce){.iconbtn.sync[data-s="busy"] svg{animation:none}}
-.iconbtn svg{width:19px;height:19px;stroke:currentColor;fill:none;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round}
+.iconbtn svg{width:18px;height:18px;stroke:currentColor;fill:none;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round}
 
 .stats{display:flex;gap:8px;margin-bottom:10px}
-.stat{flex:1;background:var(--surface);border:1px solid var(--line-soft);border-radius:var(--r-sm);padding:7px 10px}
-.stat b{display:block;font-family:var(--mono);font-size:19px;font-weight:600;letter-spacing:-.02em;line-height:1.15}
+.stat{flex:1;background:var(--surface);border:1px solid var(--line-soft);border-radius:var(--r-sm);padding:7px 8px;text-align:left;font:inherit;color:inherit;min-width:0}
+.stat:hover{border-color:var(--muted)}
+.stat:active{transform:scale(.97)}
+.stat b{display:block;font-family:var(--mono);font-size:18px;font-weight:600;letter-spacing:-.03em;line-height:1.15;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .stat span{display:block;font-size:10px;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);font-weight:660;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .stat.due b{color:var(--clay)}
 .stat.pipe b{color:var(--pine)}
@@ -128,7 +131,8 @@ button{cursor:pointer;background:none;border:0}
 .lmeta .sep{color:var(--line);margin:0 5px}
 .lsub{display:flex;align-items:center;gap:8px;font-size:12.5px;color:var(--muted);white-space:nowrap;overflow:hidden}
 .lsub .last{overflow:hidden;text-overflow:ellipsis}
-.lsub .val{color:var(--pine);font-weight:640}
+.lsub .val{color:var(--pine);font-weight:640;flex:none}
+.lsub .tag{flex:none}
 .tag{display:inline-flex;align-items:center;gap:4px;font-size:11px;font-weight:640;letter-spacing:.03em;
   text-transform:uppercase;color:var(--st,var(--muted))}
 .tag .dot{width:5px;height:5px;border-radius:50%;background:currentColor}
@@ -290,6 +294,60 @@ table.grid .dialmini svg{width:13px;height:13px;fill:var(--on-dial)}
 .selbar select option{color:var(--ink);background:var(--surface)}
 .selbar button.danger{border-color:var(--brick);color:#fff;background:var(--brick)}
 .tfoot{display:flex;justify-content:space-between;align-items:center;padding-top:9px;font-size:12.5px;color:var(--muted)}
+/* activity list */
+.acts{display:flex;flex-direction:column}
+.act{display:flex;gap:11px;align-items:flex-start;padding:11px 2px;border-bottom:1px solid var(--line-soft);width:100%;text-align:left}
+.act:last-child{border-bottom:0}
+.act .t{font-family:var(--mono);font-size:12px;color:var(--muted);width:66px;flex:none;padding-top:3px;font-variant-numeric:tabular-nums}
+.act .who{flex:1;min-width:0}
+.act .who h4{margin:0;font-size:14.5px;font-weight:620;letter-spacing:-.01em;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.act .who .o{font-size:11px;font-weight:660;text-transform:uppercase;letter-spacing:.04em;color:var(--oc,var(--muted));margin-top:2px}
+.act .who p{margin:3px 0 0;font-size:13px;color:var(--ink-2);line-height:1.45}
+.act .go{flex:none;color:var(--muted);align-self:center}
+.act .go svg{width:15px;height:15px;stroke:currentColor;fill:none;stroke-width:2}
+.dayswitch{display:flex;gap:6px;margin-bottom:12px}
+.dayswitch button{flex:1;padding:7px;border:1px solid var(--line);border-radius:9px;font-size:13px;font-weight:600;color:var(--ink-2);background:var(--surface-2)}
+.dayswitch button[aria-pressed="true"]{background:var(--ink);color:var(--ground);border-color:var(--ink)}
+
+/* calendar */
+.calhead{display:flex;align-items:center;gap:10px;margin-bottom:12px}
+.calhead h3{flex:1;margin:0;font-size:16px;font-weight:660;letter-spacing:-.01em}
+.calhead button{width:34px;height:34px;border:1px solid var(--line);border-radius:9px;color:var(--ink-2);display:grid;place-items:center}
+.calhead button.today{width:auto;padding:0 11px;font-size:12.5px;font-weight:620}
+.calhead svg{width:15px;height:15px;stroke:currentColor;fill:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
+.dow{display:grid;grid-template-columns:repeat(7,1fr);gap:4px;margin-bottom:4px}
+.dow span{text-align:center;font-size:10px;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);font-weight:660}
+.cal{display:grid;grid-template-columns:repeat(7,1fr);gap:4px}
+.cal button{
+  aspect-ratio:1;border:1px solid transparent;border-radius:9px;display:flex;flex-direction:column;
+  align-items:center;justify-content:center;gap:3px;font-size:13.5px;color:var(--ink-2);background:var(--surface-2);
+}
+.cal button.out{background:transparent;color:var(--line)}
+.cal button.today{border-color:var(--ink);font-weight:700;color:var(--ink)}
+.cal button.has{background:color-mix(in srgb,var(--pine) 15%,var(--surface-2));color:var(--ink);font-weight:640}
+.cal button.late{background:color-mix(in srgb,var(--clay) 20%,var(--surface-2))}
+.cal button[aria-pressed="true"]{outline:2px solid var(--dial);outline-offset:1px}
+.cal .n{font-family:var(--mono);font-size:10px;padding:0 4px;border-radius:999px;background:var(--pine);color:#fff;line-height:1.5;font-variant-numeric:tabular-nums}
+.cal button.late .n{background:var(--clay)}
+.dayhead{font-size:11px;text-transform:uppercase;letter-spacing:.07em;color:var(--muted);font-weight:660;margin:18px 0 2px}
+
+/* stats */
+.heroes{display:flex;gap:9px;margin-bottom:20px}
+.hero{flex:1;background:var(--surface-2);border:1px solid var(--line-soft);border-radius:12px;padding:12px}
+.hero b{display:block;font-family:var(--mono);font-size:25px;font-weight:600;letter-spacing:-.025em;line-height:1.1}
+.hero span{display:block;font-size:10.5px;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);font-weight:660;margin-top:3px}
+.chartwrap{position:relative;padding-top:6px}
+.chart{display:flex;align-items:flex-end;gap:2px;height:150px;position:relative;border-bottom:1px solid var(--line)}
+.chart .bar{flex:1;min-width:0;background:var(--dial);border-radius:4px 4px 0 0;position:relative;transition:opacity .12s}
+.chart .bar.zero{background:var(--line);border-radius:2px 2px 0 0}
+.chart .bar:hover,.chart .bar.on{opacity:.72}
+.gridline{position:absolute;left:0;right:0;border-top:1px dashed var(--line-soft);font-family:var(--mono);font-size:9.5px;color:var(--muted);pointer-events:none}
+.gridline span{position:absolute;right:0;top:-13px;background:var(--surface);padding:0 3px}
+.xlab{display:flex;justify-content:space-between;font-family:var(--mono);font-size:11px;color:var(--muted);margin-top:7px}
+.tip{position:absolute;z-index:5;background:var(--ink);color:var(--ground);padding:6px 9px;border-radius:8px;font-size:12px;
+  white-space:nowrap;pointer-events:none;opacity:0;transform:translate(-50%,-6px);transition:opacity .12s}
+.tip.on{opacity:1}
+.tip b{font-family:var(--mono)}
 .toast{
   position:fixed;left:50%;bottom:calc(20px + env(safe-area-inset-bottom));transform:translate(-50%,20px);
   background:var(--ink);color:var(--ground);padding:10px 16px;border-radius:999px;font-size:13.5px;font-weight:560;
@@ -307,15 +365,17 @@ table.grid .dialmini svg{width:13px;height:13px;fill:var(--on-dial)}
       <h1 class="brand">Dial Sheet</h1>
       <span class="spacer"></span>
       <button class="iconbtn sync" id="btnSync" title="Sync with Google Sheet" aria-label="Sync with Google Sheet"><svg viewBox="0 0 24 24"><path d="M21 12a9 9 0 0 1-9 9 9 9 0 0 1-7.5-4"/><path d="M3 12a9 9 0 0 1 9-9 9 9 0 0 1 7.5 4"/><path d="M19.5 3v4h-4"/><path d="M4.5 21v-4h4"/></svg><span class="dot"></span></button>
+      <button class="iconbtn" id="btnCal" title="Follow-up calendar" aria-label="Follow-up calendar"><svg viewBox="0 0 24 24"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M3 10h18M8 3v4M16 3v4"/></svg></button>
+      <button class="iconbtn" id="btnStats" title="Your numbers" aria-label="Your numbers"><svg viewBox="0 0 24 24"><path d="M4 20V10M10 20V4M16 20v-7M22 20H2"/></svg></button>
       <button class="iconbtn" id="btnScripts" title="Scripts" aria-label="Scripts"><svg viewBox="0 0 24 24"><path d="M5 3h9l5 5v13H5z"/><path d="M14 3v5h5"/><path d="M8.5 13h7M8.5 16.5h5"/></svg></button>
       <button class="iconbtn" id="btnSettings" title="Settings" aria-label="Settings"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.6 1.6 0 0 0 .3 1.8l.1.1a2 2 0 1 1-2.8 2.8l-.1-.1a1.6 1.6 0 0 0-1.8-.3 1.6 1.6 0 0 0-1 1.5V21a2 2 0 1 1-4 0v-.1A1.6 1.6 0 0 0 9 19.4a1.6 1.6 0 0 0-1.8.3l-.1.1a2 2 0 1 1-2.8-2.8l.1-.1a1.6 1.6 0 0 0 .3-1.8 1.6 1.6 0 0 0-1.5-1H3a2 2 0 1 1 0-4h.1A1.6 1.6 0 0 0 4.6 9a1.6 1.6 0 0 0-.3-1.8l-.1-.1a2 2 0 1 1 2.8-2.8l.1.1a1.6 1.6 0 0 0 1.8.3H9a1.6 1.6 0 0 0 1-1.5V3a2 2 0 1 1 4 0v.1a1.6 1.6 0 0 0 1 1.5 1.6 1.6 0 0 0 1.8-.3l.1-.1a2 2 0 1 1 2.8 2.8l-.1.1a1.6 1.6 0 0 0-.3 1.8V9a1.6 1.6 0 0 0 1.5 1H21a2 2 0 1 1 0 4h-.1a1.6 1.6 0 0 0-1.5 1z"/></svg></button>
     </div>
 
     <div class="stats">
-      <div class="stat"><b class="mono" id="sCalls">0</b><span>Dialed today</span></div>
-      <div class="stat"><b class="mono" id="sConn">0</b><span>Connects</span></div>
-      <div class="stat due"><b class="mono" id="sDue">0</b><span>Due now</span></div>
-      <div class="stat pipe"><b class="mono" id="sPipe">$0</b><span>Pipeline</span></div>
+      <button class="stat" id="tCalls"><b class="mono" id="sCalls">0</b><span>Dialed</span></button>
+      <button class="stat" id="tConn"><b class="mono" id="sConn">0</b><span>Picked up</span></button>
+      <button class="stat due" id="tDue"><b class="mono" id="sDue">0</b><span>Due</span></button>
+      <button class="stat pipe" id="tPipe"><b class="mono" id="sPipe">$0</b><span>Pipeline</span></button>
     </div>
 
     <div class="searchwrap">
@@ -401,7 +461,7 @@ table.grid .dialmini svg{width:13px;height:13px;fill:var(--on-dial)}
     <div class="olabel">Outcome</div>
     <div class="ogrid" id="ogrid"></div>
     <div class="two hide" id="extraWrap" style="margin-top:10px">
-      <div class="f hide" id="followWrap">
+      <div class="f" id="followWrap">
         <label for="followAt">Follow up on</label>
         <input type="date" id="followAt" />
       </div>
@@ -848,11 +908,11 @@ function renderLog(){
   }).join("") : `<p class="help">No calls logged yet.</p>`;
 }
 function syncExtras(outcome){
+  // A follow-up date is always offered — any call can earn one, not just a callback.
   const cb = outcome === "callback";
   const val = outcome === "interested" || outcome === "meeting";
-  $("#followWrap").classList.toggle("hide", !cb);
   $("#valueWrap").classList.toggle("hide", !val);
-  $("#extraWrap").classList.toggle("hide", !cb && !val);
+  $("#extraWrap").classList.remove("hide");
   return cb;
 }
 function showTab(name){
@@ -868,11 +928,15 @@ function commit(){
   if(state.callIdx>=0){
     l.calls[state.callIdx].note = note;
     l.calls[state.callIdx].outcome = outcome;
-  }else if(note || outcome){
+  }else if(note){
+    // Opened without dialing. The outcome chips start pre-set to this lead's
+    // current status, so an outcome alone means nothing happened - only a note
+    // the reader actually typed is worth logging. Otherwise just looking at a
+    // lead would count as a call and inflate the day's numbers.
     l.calls.push({id:uid(), at:Date.now(), outcome:outcome, note:note});
   }
   if(outcome) l.status = outcome;
-  l.followAt = $("#followAt").value || (outcome==="callback" ? l.followAt : "");
+  l.followAt = $("#followAt").value || "";
   if(!$("#valueWrap").classList.contains("hide")) l.value = parseMoney($("#dealValue").value);
   touch(l); save(); autoSync();
 }
@@ -1550,6 +1614,207 @@ function tableModal(){
   });
 }
 
+/* ============================== who I dialed ==============================
+   The stat tiles are buttons: they open the calls behind the number.        */
+
+function callsOn(dayStr, connectsOnly){
+  const out = [];
+  db.leads.forEach(l => l.calls.forEach(c => {
+    const d = new Date(c.at);
+    const key = new Date(d.getTime() - d.getTimezoneOffset()*6e4).toISOString().slice(0,10);
+    if(key !== dayStr) return;
+    if(connectsOnly && !CONNECTED.includes(c.outcome)) return;
+    out.push({lead:l, call:c});
+  }));
+  return out.sort((a,b) => b.call.at - a.call.at);
+}
+const CONNECTED = ["interested","meeting","callback","no"];
+
+function activityModal(dayStr, connectsOnly){
+  const day = dayStr || today();
+  const yest = (() => { const d = new Date(); d.setDate(d.getDate()-1);
+    return new Date(d.getTime()-d.getTimezoneOffset()*6e4).toISOString().slice(0,10); })();
+  const rows = callsOn(day, connectsOnly);
+  const label = day === today() ? "Today" : day === yest ? "Yesterday" : day;
+  openModal(connectsOnly ? "Who picked up" : "Who I dialed", `
+    <div class="dayswitch">
+      <button data-day="${today()}" aria-pressed="${day===today()}">Today</button>
+      <button data-day="${yest}" aria-pressed="${day===yest}">Yesterday</button>
+      <button id="aConn" aria-pressed="${!!connectsOnly}">Connects only</button>
+    </div>
+    <div class="acts" id="actList">${rows.length ? rows.map(r => {
+      const st = STATUS[r.call.outcome] || {label:"Dialed, no outcome logged", color:"var(--muted)"};
+      return `<button class="act" data-lead="${r.lead.id}">
+        <span class="t">${new Date(r.call.at).toLocaleTimeString(undefined,{hour:"numeric",minute:"2-digit"})}</span>
+        <span class="who">
+          <h4>${esc(r.lead.business||"(no name)")}</h4>
+          <span class="o" style="--oc:${st.color}">${esc(st.label)}</span>
+          ${r.call.note ? `<p>${esc(r.call.note)}</p>` : ""}
+        </span>
+        <span class="go"><svg viewBox="0 0 24 24"><path d="M9 6l6 6-6 6" fill="none"/></svg></span>
+      </button>`;
+    }).join("") : `<p class="help" style="padding:26px 0;text-align:center">${
+      connectsOnly ? "Nobody picked up "+label.toLowerCase()+" yet." : "No calls "+label.toLowerCase()+" yet. Tap a green circle to start."}</p>`}</div>
+    <p class="help" style="margin-top:14px">${rows.length} call${rows.length===1?"":"s"} · ${label.toLowerCase()}. Tap one to open that lead.</p>
+  `, `<button class="btn primary" id="aDone" style="flex:1">Done</button>`, () => {
+    $("#aDone").addEventListener("click", closeModal);
+    $$(".dayswitch [data-day]").forEach(b => b.addEventListener("click", () => activityModal(b.dataset.day, connectsOnly)));
+    $("#aConn").addEventListener("click", () => activityModal(day, !connectsOnly));
+    $("#actList").addEventListener("click", e => {
+      const b = e.target.closest("[data-lead]"); if(!b) return;
+      closeModal(); setTimeout(() => openSheet(b.dataset.lead, false), 260);
+    });
+  });
+}
+
+/* ============================== calendar ==============================
+   Follow-ups on a month grid. Overdue reads clay, upcoming reads pine.     */
+
+let calMonth = null;
+const dayKey = d => new Date(d.getTime() - d.getTimezoneOffset()*6e4).toISOString().slice(0,10);
+
+function dueByDay(){
+  const map = {};
+  db.leads.forEach(l => { if(l.followAt) (map[l.followAt] = map[l.followAt] || []).push(l); });
+  return map;
+}
+function calendarModal(pickDay){
+  const now = new Date();
+  if(!calMonth) calMonth = new Date(now.getFullYear(), now.getMonth(), 1);
+  const map = dueByDay(), t = today();
+  const first = new Date(calMonth.getFullYear(), calMonth.getMonth(), 1);
+  const start = new Date(first); start.setDate(1 - first.getDay());       // back to Sunday
+  const cells = [];
+  for(let i = 0; i < 42; i++){
+    const d = new Date(start); d.setDate(start.getDate() + i);
+    const key = dayKey(d), n = (map[key] || []).length;
+    cells.push({key, n, day:d.getDate(),
+      out: d.getMonth() !== calMonth.getMonth(),
+      today: key === t, late: n && key < t});
+  }
+  const overdue = Object.keys(map).filter(k => k < t).sort();
+  const nOver = overdue.reduce((n,k) => n + map[k].length, 0);
+  const sel = pickDay || (map[t] ? t : null);
+
+  const leadRowsFor = key => (map[key] || []).map(l => {
+    const st = STATUS[l.status] || STATUS.new;
+    return `<button class="act" data-lead="${l.id}">
+      <span class="who"><h4>${esc(l.business||"(no name)")}</h4>
+        <span class="o" style="--oc:${st.color}">${esc(st.label)}</span>
+        <p>${esc([l.owner, fmtPhone(l.phone)].filter(Boolean).join(" · "))}</p></span>
+      <span class="go"><svg viewBox="0 0 24 24"><path d="M9 6l6 6-6 6" fill="none"/></svg></span>
+    </button>`;
+  }).join("");
+
+  openModal("Follow-ups", `
+    <div class="calhead">
+      <button id="cPrev" aria-label="Previous month"><svg viewBox="0 0 24 24"><path d="M15 6l-6 6 6 6"/></svg></button>
+      <h3>${calMonth.toLocaleDateString(undefined,{month:"long", year:"numeric"})}</h3>
+      <button class="today" id="cToday">Today</button>
+      <button id="cNext" aria-label="Next month"><svg viewBox="0 0 24 24"><path d="M9 6l6 6-6 6"/></svg></button>
+    </div>
+    <div class="dow">${["S","M","T","W","T","F","S"].map(d=>`<span>${d}</span>`).join("")}</div>
+    <div class="cal" id="calGrid">${cells.map(c => `<button data-day="${c.key}" aria-pressed="${sel===c.key}"
+      class="${c.out?"out":""} ${c.today?"today":""} ${c.n&&!c.late?"has":""} ${c.late?"late":""}">
+      <span>${c.day}</span>${c.n?`<span class="n">${c.n}</span>`:""}</button>`).join("")}</div>
+    ${nOver ? `<div class="dayhead" style="color:var(--clay)">${nOver} overdue</div>
+      <div class="acts">${overdue.map(k=>leadRowsFor(k)).join("")}</div>` : ""}
+    <div id="daySlot">${sel ? `<div class="dayhead">${new Date(sel+"T12:00").toLocaleDateString(undefined,{weekday:"long", month:"long", day:"numeric"})}</div>
+      <div class="acts">${leadRowsFor(sel) || `<p class="help" style="padding:14px 0">Nothing due this day.</p>`}</div>` : ""}</div>
+    <p class="help" style="margin-top:16px">Set a follow-up date on any call, or in a lead's Info tab.</p>
+  `, `<button class="btn primary" id="cDone" style="flex:1">Done</button>`, () => {
+    $("#cDone").addEventListener("click", () => { calMonth = null; closeModal(); });
+    $("#cPrev").addEventListener("click", () => { calMonth = new Date(calMonth.getFullYear(), calMonth.getMonth()-1, 1); calendarModal(); });
+    $("#cNext").addEventListener("click", () => { calMonth = new Date(calMonth.getFullYear(), calMonth.getMonth()+1, 1); calendarModal(); });
+    $("#cToday").addEventListener("click", () => { calMonth = new Date(now.getFullYear(), now.getMonth(), 1); calendarModal(t); });
+    $("#calGrid").addEventListener("click", e => {
+      const b = e.target.closest("[data-day]"); if(!b) return;
+      calendarModal(b.dataset.day);
+    });
+    $("#mBody").addEventListener("click", e => {
+      const b = e.target.closest("[data-lead]"); if(!b) return;
+      calMonth = null; closeModal(); setTimeout(() => openSheet(b.dataset.lead, false), 260);
+    });
+  });
+}
+
+/* ============================== the numbers ==============================
+   One series - dials per day - so a bar chart in the app's own green, no
+   legend needed, and the title says what it is.                            */
+
+function dialSeries(days){
+  const out = [];
+  const counts = {};
+  db.leads.forEach(l => l.calls.forEach(c => {
+    const k = dayKey(new Date(c.at));
+    counts[k] = (counts[k] || 0) + 1;
+  }));
+  const d = new Date();
+  for(let i = days - 1; i >= 0; i--){
+    const x = new Date(d); x.setDate(d.getDate() - i);
+    const k = dayKey(x);
+    out.push({key:k, date:x, n:counts[k] || 0});
+  }
+  return out;
+}
+async function statsModal(){
+  const series = dialSeries(30);
+  const localTotal = db.leads.reduce((n,l) => n + l.calls.length, 0);
+  const firstAt = db.leads.reduce((m,l) => l.calls.reduce((n,c) => Math.min(n, c.at), m), Date.now());
+  const daysRunning = Math.max(1, Math.round((Date.now() - firstAt) / 864e5) + 1);
+  const activeDays = new Set();
+  db.leads.forEach(l => l.calls.forEach(c => activeDays.add(dayKey(new Date(c.at)))));
+  const peak = Math.max(1, ...series.map(p => p.n));
+  const last30 = series.reduce((n,p) => n + p.n, 0);
+
+  openModal("Your numbers", `
+    <div class="heroes">
+      <div class="hero"><b id="hTotal">${localTotal}</b><span>Total dials</span></div>
+      <div class="hero"><b>${(localTotal/daysRunning).toFixed(1)}</b><span>Avg per day</span></div>
+      <div class="hero"><b>${activeDays.size ? (localTotal/activeDays.size).toFixed(1) : "0"}</b><span>Avg per calling day</span></div>
+    </div>
+    <div class="dayhead" style="margin-top:0">Dials per day · last 30 days</div>
+    <div class="chartwrap">
+      <div class="chart" id="chart">
+        <div class="gridline" style="bottom:100%"><span>${peak}</span></div>
+        <div class="gridline" style="bottom:50%"><span>${Math.round(peak/2)}</span></div>
+        ${series.map((p,i) => `<div class="bar ${p.n?"":"zero"}" data-i="${i}"
+          style="height:${p.n ? Math.max(4, (p.n/peak)*100) : 2}%"></div>`).join("")}
+      </div>
+      <div class="tip" id="tip"></div>
+      <div class="xlab">
+        <span>${series[0].date.toLocaleDateString(undefined,{month:"short", day:"numeric"})}</span>
+        <span>${series[series.length-1].date.toLocaleDateString(undefined,{month:"short", day:"numeric"})}</span>
+      </div>
+    </div>
+    <p class="help" style="margin-top:16px">${last30} dial${last30===1?"":"s"} in the last 30 days${
+      activeDays.size ? `, across ${activeDays.size} day${activeDays.size===1?"":"s"} of calling` : ""}. Tap a bar for that day.</p>
+  `, `<button class="btn primary" id="nDone" style="flex:1">Done</button>`, () => {
+    $("#nDone").addEventListener("click", closeModal);
+    const tip = $("#tip"), chart = $("#chart");
+    const show = el => {
+      const p = series[+el.dataset.i];
+      $$("#chart .bar").forEach(b => b.classList.remove("on"));
+      el.classList.add("on");
+      tip.innerHTML = `${p.date.toLocaleDateString(undefined,{weekday:"short", month:"short", day:"numeric"})} · <b>${p.n}</b>`;
+      tip.classList.add("on");
+      const cr = chart.getBoundingClientRect(), br = el.getBoundingClientRect();
+      tip.style.left = (br.left - cr.left + br.width/2) + "px";
+      tip.style.top  = (br.top - cr.top - 30) + "px";
+    };
+    chart.addEventListener("mousemove", e => { const b = e.target.closest(".bar"); if(b) show(b); });
+    chart.addEventListener("click",     e => { const b = e.target.closest(".bar"); if(b) show(b); });
+    chart.addEventListener("mouseleave", () => { tip.classList.remove("on"); $$("#chart .bar").forEach(b=>b.classList.remove("on")); });
+
+    // The device only caches recent calls, so ask the server for the true total.
+    if(me) sb.from("calls").select("*", {count:"exact", head:true}).then(r => {
+      if(!r.error && typeof r.count === "number" && r.count !== localTotal){
+        const el = $("#hTotal"); if(el) el.textContent = r.count;
+      }
+    });
+  });
+}
+
 /* ============================== export / settings ============================== */
 function csvCell(v){ v = String(v==null?"":v); return /[",\n]/.test(v) ? '"'+v.replace(/"/g,'""')+'"' : v; }
 function leadsCSV(){
@@ -1704,6 +1969,12 @@ $("#btnImport").addEventListener("click", importModal);
 $("#btnAdd").addEventListener("click", addModal);
 $("#btnScripts").addEventListener("click", scriptsModal);
 $("#btnTable").addEventListener("click", tableModal);
+$("#btnCal").addEventListener("click", ()=>calendarModal());
+$("#btnStats").addEventListener("click", statsModal);
+$("#tCalls").addEventListener("click", ()=>activityModal(today(), false));
+$("#tConn").addEventListener("click", ()=>activityModal(today(), true));
+$("#tDue").addEventListener("click", ()=>calendarModal());
+$("#tPipe").addEventListener("click", ()=>{ state.filter = "interested"; render(); });
 $("#btnExport").addEventListener("click", ()=>exportModal("leads"));
 $("#btnSettings").addEventListener("click", settingsModal);
 $("#btnSync").addEventListener("click", ()=>syncNow(true));
