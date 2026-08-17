@@ -1,0 +1,281 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="mobile-web-app-capable" content="yes" />
+<meta name="theme-color" content="#12A150" />
+<meta name="robots" content="noindex, nofollow" />
+<title>Vision Board</title>
+<style>
+:root{
+  --ground:#EAEDE8; --surface:#FFFFFF; --surface-2:#F2F5F1; --sunk:#E1E6DF;
+  --line:#D5DCD4; --line-soft:#E4E9E3;
+  --ink:#141915; --ink-2:#46514A; --muted:#76847B;
+  --dial:#12A150; --dial-press:#0C8341; --on-dial:#FFFFFF;
+  --brick:#A33A3A;
+  --shadow:0 1px 2px rgba(20,25,21,.06), 0 8px 24px rgba(20,25,21,.07);
+  --r:14px; --r-sm:9px;
+  --ui:-apple-system,BlinkMacSystemFont,"Segoe UI",system-ui,Roboto,"Helvetica Neue",sans-serif;
+  --mono:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,monospace;
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --ground:#0F120F; --surface:#171B18; --surface-2:#1D221E; --sunk:#0A0D0A;
+    --line:#2A312C; --line-soft:#232A25;
+    --ink:#E7ECE6; --ink-2:#AFBCB2; --muted:#7E8D83;
+    --dial:#25C06A; --dial-press:#1DA85B; --on-dial:#06210F;
+    --brick:#D97676;
+    --shadow:0 1px 2px rgba(0,0,0,.4), 0 10px 28px rgba(0,0,0,.35);
+  }
+}
+:root[data-theme="dark"]{
+  --ground:#0F120F; --surface:#171B18; --surface-2:#1D221E; --sunk:#0A0D0A;
+  --line:#2A312C; --line-soft:#232A25;
+  --ink:#E7ECE6; --ink-2:#AFBCB2; --muted:#7E8D83;
+  --dial:#25C06A; --dial-press:#1DA85B; --on-dial:#06210F;
+  --brick:#D97676;
+  --shadow:0 1px 2px rgba(0,0,0,.4), 0 10px 28px rgba(0,0,0,.35);
+}
+*{box-sizing:border-box}
+html,body{margin:0;padding:0}
+body{
+  background:var(--ground); color:var(--ink); font-family:var(--ui);
+  font-size:16px; line-height:1.45; -webkit-text-size-adjust:100%;
+  -webkit-tap-highlight-color:transparent;
+}
+button,input{font:inherit;color:inherit}
+button{cursor:pointer;background:none;border:0}
+:focus-visible{outline:2px solid var(--dial); outline-offset:2px; border-radius:6px}
+[hidden]{display:none !important}
+
+/* ---------- gate ---------- */
+.gate{
+  position:fixed; inset:0; z-index:50; display:grid; place-items:center;
+  background:var(--ground); padding:24px;
+}
+.gate-card{
+  width:100%; max-width:340px; background:var(--surface); border:1px solid var(--line);
+  border-radius:var(--r); box-shadow:var(--shadow); padding:26px 22px 22px; text-align:center;
+}
+.lockmark{
+  width:44px; height:44px; margin:0 auto 14px; border-radius:13px; background:var(--dial);
+  display:grid; place-items:center;
+}
+.lockmark svg{width:22px;height:22px;fill:var(--on-dial)}
+.gate-card h1{font-size:18px;font-weight:660;letter-spacing:-.015em;margin:0 0 4px}
+.gate-card p{margin:0 0 18px;color:var(--muted);font-size:13.5px}
+.pinrow{display:flex;gap:8px}
+#pin{
+  flex:1; min-width:0; text-align:center; letter-spacing:.42em; text-indent:.42em;
+  font-family:var(--mono); font-size:19px; padding:12px 10px;
+  background:var(--sunk); border:1px solid var(--line); border-radius:var(--r-sm); color:var(--ink);
+}
+#pin::placeholder{letter-spacing:.3em;color:var(--muted);opacity:.7}
+.btn{
+  background:var(--dial); color:var(--on-dial); font-weight:640; font-size:15px;
+  padding:12px 18px; border-radius:var(--r-sm); flex:none;
+}
+.btn:active{background:var(--dial-press)}
+.err{margin:14px 0 0;color:var(--brick);font-size:13.5px;min-height:1.2em}
+.gate.shake .gate-card{animation:shake .34s}
+@keyframes shake{
+  0%,100%{transform:translateX(0)} 20%{transform:translateX(-7px)}
+  40%{transform:translateX(6px)} 60%{transform:translateX(-4px)} 80%{transform:translateX(3px)}
+}
+
+/* ---------- board ---------- */
+.page{min-height:100dvh;display:flex;flex-direction:column}
+.topbar{
+  display:flex;align-items:center;gap:10px;
+  padding:max(14px,env(safe-area-inset-top)) 20px 12px;
+}
+.brand{font-size:16.5px;font-weight:680;letter-spacing:-.015em;margin:0}
+.topbar .spacer{flex:1}
+.iconbtn{
+  width:34px;height:34px;border-radius:9px;display:grid;place-items:center;
+  color:var(--ink-2);border:1px solid transparent;flex:none;
+}
+.iconbtn:hover{background:var(--surface-2);border-color:var(--line-soft)}
+.iconbtn svg{width:17px;height:17px;fill:currentColor}
+
+.boardwrap{flex:1;display:grid;place-items:center;padding:0 20px 28px}
+/* Desktop: 3x3 board spanning 60% of the viewport width. Height matches that
+   (square cells) but shrinks to fit shorter screens rather than overflowing. */
+.board{
+  display:grid; gap:14px;
+  grid-template-columns:repeat(3,1fr);
+  grid-template-rows:repeat(3,1fr);
+  width:60vw; max-width:100%;
+  height:min(60vw, calc(100dvh - 112px));
+}
+.tile{
+  position:relative; min-height:0; overflow:hidden;
+  background:var(--surface-2); border:1px solid var(--line);
+  border-radius:var(--r); box-shadow:var(--shadow);
+}
+.tile img{width:100%;height:100%;object-fit:cover;display:block}
+.tile .ph{
+  position:absolute; inset:0; display:none; place-content:center; gap:6px; justify-items:center;
+  color:var(--muted); text-align:center; padding:10px;
+}
+.tile .ph .n{font-family:var(--mono);font-size:22px;font-weight:600;opacity:.75}
+.tile .ph .t{font-size:11.5px;letter-spacing:.09em;text-transform:uppercase}
+.tile img[hidden] + .ph{display:grid}
+
+/* Mobile: full-width scrollable stack, natural image heights. */
+@media (max-width:760px){
+  .boardwrap{display:block;padding:0 16px calc(28px + env(safe-area-inset-bottom))}
+  .board{width:100%;height:auto;gap:16px;grid-template-columns:1fr;grid-template-rows:none}
+  .tile{aspect-ratio:4/5}
+}
+</style>
+</head>
+<body>
+
+<!-- ============ password gate ============ -->
+<div class="gate" id="gate">
+  <form class="gate-card" id="gateForm" autocomplete="off">
+    <div class="lockmark" aria-hidden="true">
+      <svg viewBox="0 0 24 24"><path d="M12 2a5 5 0 0 0-5 5v3H6a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8a2 2 0 0 0-2-2h-1V7a5 5 0 0 0-5-5zm-3 5a3 3 0 1 1 6 0v3H9V7zm3 7a1.7 1.7 0 0 1 .9 3.14V19a.9.9 0 0 1-1.8 0v-1.86A1.7 1.7 0 0 1 12 14z"/></svg>
+    </div>
+    <h1>Enter passcode</h1>
+    <p>This page is private.</p>
+    <div class="pinrow">
+      <input id="pin" type="password" inputmode="numeric" pattern="[0-9]*" maxlength="12"
+             placeholder="••••" aria-label="Passcode" autocomplete="off" />
+      <button class="btn" type="submit">Enter</button>
+    </div>
+    <p class="err" id="err" role="alert"></p>
+  </form>
+</div>
+
+<!-- ============ vision board ============ -->
+<div class="page" id="page" hidden>
+  <header class="topbar">
+    <h1 class="brand">Vision Board</h1>
+    <div class="spacer"></div>
+    <button class="iconbtn" id="lockBtn" type="button" title="Lock" aria-label="Lock">
+      <svg viewBox="0 0 24 24"><path d="M12 2a5 5 0 0 0-5 5v3H6a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8a2 2 0 0 0-2-2h-1V7a5 5 0 0 0-5-5zm-3 5a3 3 0 1 1 6 0v3H9V7z"/></svg>
+    </button>
+  </header>
+
+  <main class="boardwrap">
+    <div class="board" id="board"></div>
+  </main>
+</div>
+
+<script>
+(function(){
+  "use strict";
+
+  /* ---------- gate ----------
+     Client-side only: anyone who views source or opens devtools can get past
+     this. It keeps casual visitors out, it is not real security. Never put
+     anything genuinely sensitive on this page. */
+  var KEY = "vb.unlocked";
+  var CODE_HASH = 3149295319;      // fnv1a("2314")
+
+  function fnv1a(s){
+    var h = 0x811c9dc5;
+    for (var i = 0; i < s.length; i++){
+      h ^= s.charCodeAt(i);
+      h = (h + ((h<<1) + (h<<4) + (h<<7) + (h<<8) + (h<<24))) >>> 0;
+    }
+    return h >>> 0;
+  }
+
+  var gate = document.getElementById("gate");
+  var form = document.getElementById("gateForm");
+  var pin  = document.getElementById("pin");
+  var err  = document.getElementById("err");
+  var page = document.getElementById("page");
+
+  function unlock(){
+    gate.hidden = true;
+    page.hidden = false;
+    render();
+  }
+  function lock(){
+    try { sessionStorage.removeItem(KEY); } catch(e){}
+    page.hidden = true;
+    gate.hidden = false;
+    pin.value = "";
+    err.textContent = "";
+    pin.focus();
+  }
+
+  form.addEventListener("submit", function(e){
+    e.preventDefault();
+    if (fnv1a(pin.value.trim()) === CODE_HASH){
+      try { sessionStorage.setItem(KEY, "1"); } catch(e){}
+      unlock();
+    } else {
+      err.textContent = "Wrong passcode.";
+      pin.value = "";
+      pin.focus();
+      gate.classList.remove("shake");
+      void gate.offsetWidth;
+      gate.classList.add("shake");
+    }
+  });
+
+  pin.addEventListener("input", function(){ err.textContent = ""; });
+  document.getElementById("lockBtn").addEventListener("click", lock);
+
+  /* ---------- board ----------
+     Drop nine images into /vision named 01 … 09 (jpg, png, webp or jpeg) and
+     they appear here. Any that are missing fall back to a placeholder tile. */
+  var COUNT = 9;
+  var DIR = "vision/";
+  var EXTS = [".jpg", ".jpeg", ".png", ".webp"];
+  var rendered = false;
+
+  function render(){
+    if (rendered) return;
+    rendered = true;
+    var board = document.getElementById("board");
+    var frag = document.createDocumentFragment();
+
+    for (var i = 1; i <= COUNT; i++){
+      var n = String(i).padStart(2, "0");
+
+      var tile = document.createElement("div");
+      tile.className = "tile";
+
+      var img = document.createElement("img");
+      img.alt = "Vision board image " + i;
+      img.loading = i > 3 ? "lazy" : "eager";
+      img.decoding = "async";
+      img.dataset.n = n;
+      img.dataset.ext = "0";
+      img.addEventListener("error", function(){
+        var next = +this.dataset.ext + 1;
+        if (next < EXTS.length){
+          this.dataset.ext = next;
+          this.src = DIR + this.dataset.n + EXTS[next];
+        } else {
+          this.hidden = true;          // no file found — show the placeholder
+        }
+      });
+      img.src = DIR + n + EXTS[0];
+
+      var ph = document.createElement("div");
+      ph.className = "ph";
+      ph.innerHTML = '<span class="n">' + n + '</span><span class="t">Placeholder</span>';
+
+      tile.appendChild(img);
+      tile.appendChild(ph);
+      frag.appendChild(tile);
+    }
+    board.appendChild(frag);
+  }
+
+  var already = false;
+  try { already = sessionStorage.getItem(KEY) === "1"; } catch(e){}
+  if (already) unlock(); else pin.focus();
+})();
+</script>
+</body>
+</html>
