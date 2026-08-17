@@ -6,15 +6,17 @@ A click-to-call CRM for outbound calling from a phone. Sign in, import a CSV, ta
 
 | Path | What it is |
 |---|---|
-| `index.html` | the whole app — no build step, no framework |
-| `config.js` | your Supabase project URL and anon key (both public by design) |
-| `vendor/supabase.js` | the Supabase client, vendored so nothing loads from a CDN |
+| `index.html` | the whole app — one file, no build step, no framework, nothing loaded from a CDN |
 | `supabase/schema.sql` | the database: tables, row-level security, new-account trigger |
 | `legacy/` | the retired Google Sheets backend |
 
+Your Supabase project URL and anon key sit in a marked block near the top of `index.html`. Both are public by design — the anon key is meant to ship in web pages, and row-level security is what protects the data. Never put the `service_role` key there.
+
+Everything is inlined deliberately. A page served without a trailing slash (Vercel's default: `/dialer`, not `/dialer/`) resolves relative paths like `vendor/supabase.js` against the site root instead, and they 404. One file cannot have that problem, on any host, at any path.
+
 ## Deploying
 
-It's a static site. On Vercel: import the repo, framework preset **Other**, no build command, output directory `.` — the app lands at `yourdomain.com/dialer`. Any static host works the same way.
+It's a static site with no assets to lose. On Vercel: import the repo, framework preset **Other**, no build command, output directory `.` — the app lands at `yourdomain.com/dialer`. Any static host works the same way.
 
 Then on the phone: open the URL, **Share → Add to Home Screen**. It runs full-screen and keeps you signed in. Dialing uses `tel:` links, so it hands off to the native dialer.
 
