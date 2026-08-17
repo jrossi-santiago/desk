@@ -991,6 +991,18 @@ $("#infoFields").addEventListener("change", e => {
   l[k] = k==="phone" ? normPhone(e.target.value) : k==="value" ? parseMoney(e.target.value) : e.target.value;
   touch(l); save(); fillSheet(); toast("Updated");
 });
+$("#btnRedial").addEventListener("click", () => {
+  // Dialing from inside the sheet is a dial like any other. Without this the
+  // Call button rang the phone and logged nothing, so the day's count came in
+  // low. One entry per sheet session: tapping Call twice is one conversation.
+  const l = activeLead(); if(!l) return;
+  if(state.callIdx >= 0) return;
+  l.calls.push({id:uid(), at:Date.now(), outcome:null, note:""});
+  state.callIdx = l.calls.length - 1;
+  touch(l); save(); autoSync();
+  startTimer(Date.now());
+  $("#logN").textContent = "(" + l.calls.length + ")";
+});
 $("#btnCopyNum").addEventListener("click", async () => {
   const l = activeLead(); if(!l) return;
   try{ await navigator.clipboard.writeText(l.phone); toast("Number copied"); }
