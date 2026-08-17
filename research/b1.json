@@ -1,0 +1,127 @@
+[
+ {
+  "url": "https://bellesoulaesthetics.com",
+  "pages_ok": [],
+  "pages_fail": {
+   "/": "http_202",
+   "/about": "http_202",
+   "/about-us": "http_202",
+   "/aboutus": "http_202",
+   "/our-story": "http_202",
+   "/team": "http_202",
+   "/our-team": "http_202",
+   "/meet-the-team": "http_202",
+   "/meet-our-team": "http_202",
+   "/staff": "http_202",
+   "/providers": "http_202",
+   "/our-providers": "http_202",
+   "/contact": "http_202",
+   "/contact-us": "http_202",
+   "/locations": "http_202",
+   "/practitioners": "http_202"
+  },
+  "emails": [],
+  "phones": [],
+  "instagram": [],
+  "facebook": [],
+  "years": [],
+  "owner_hits": [],
+  "cred_hits": [],
+  "found_phrases": [],
+  "rollup_hits": [],
+  "titles": [],
+  "discovered": []
+ },
+ {
+  "url": "https://www.mainelaserskincare.com",
+  "pages_ok": [
+   "/",
+   "/copy-of-contact",
+   "/contact"
+  ],
+  "pages_fail": {},
+  "emails": [
+   "frontdesk@mainelaserskincare.com"
+  ],
+  "phones": [
+   "(207) 303-0125"
+  ],
+  "instagram": [
+   "mainelaserskincare"
+  ],
+  "facebook": [
+   "MaineLaserSkinCare"
+  ],
+  "years": [],
+  "owner_hits": [],
+  "cred_hits": [],
+  "found_phrases": [],
+  "rollup_hits": [],
+  "titles": [
+   "Home | Maine Laser Skincare",
+   "Client Reviews | Maine Laser Skincare",
+   "Contact | Maine Laser Skincare"
+  ],
+  "discovered": [
+   "/copy-of-contact",
+   "/contact"
+  ]
+ },
+ {
+  "url": "https://maineaestheticmedicine.com",
+  "pages_ok": [
+   "/",
+   "/meet-our-team",
+   "/services/spa-services/chemical-peels/biorepeel"
+  ],
+  "pages_fail": {},
+  "emails": [
+   "info@hand-philipines.org",
+   "info@maineaestheticmedicine.com",
+   "avery@maineaestheticmedicine.com"
+  ],
+  "phones": [
+   "(207) 495-8148"
+  ],
+  "instagram": [
+   "handphilippinesorg",
+   "maineaestheticmedicine"
+  ],
+  "facebook": [
+   "MaineAestheticMedicine"
+  ],
+  "years": [
+   "2015",
+   "2016"
+  ],
+  "owner_hits": [
+   "RN Owner",
+   "He is also co-founder"
+  ],
+  "cred_hits": [
+   "Lanoy MD",
+   "Brooke Harris BSN RN",
+   "Reynerio Lanoy MD",
+   "Lance Lanoy MD",
+   "Avery Brennan APRN"
+  ],
+  "found_phrases": [
+   "TO OUR MEDICAL SPA IN PORTLAND, MAINE AN INCLUSIVE, INTIMATE SKINCARE AND WELLNESS CENTER IN THE HEART OF DOWNTOWN Portland, Maine Maine Aesthetic Medicine was founded by Brooke Harris, a local Maine Aesthetic Nurse prac",
+   "OW We use & carry these products Available for purchase HELPING HANDS 1% of all proceeds is donated to HAND-Philippines Org, a non-profit medical mission group founded by our Medical Director, Reynerio \u201cLance\u201d Lanoy MD.",
+   "Owner, Brooke Harris BSN,RN serves as chair of this non-profit who provide access to free healthcare to calamity-stricken areas of rural Philippines.",
+   "re industries by balancing her time as an Aesthetic Nurse in Portland, and as Chair and Nurse Volunteer of HAND-Philippines Organization; a local non-profit co-founded by Medical Director, Dr.",
+   "Brooke Harris BSN, RN Owner & Aesthetic Nurse Dr.",
+   "He is also the co-founder of the non-profit, HAND-Philippines Organization, which provides health assistance and network development in calamity-stricken areas of the Philippines."
+  ],
+  "rollup_hits": [],
+  "titles": [
+   "Maine Aesthetic Medicine | Skincare & Wellness | Portland, Maine",
+   "Meet Our Team | Maine Aesthetic Medicine | Skincare Treatments",
+   "Maine Aesthetic Medicine | BioRePeel | Chemical Peel | Portland"
+  ],
+  "discovered": [
+   "/meet-our-team",
+   "/services/spa-services/chemical-peels/biorepeel"
+  ]
+ }
+]

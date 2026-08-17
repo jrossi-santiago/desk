@@ -1,0 +1,13 @@
+{"prospects":[
+{"business_name":"207 Laser","owner_name":"Olivia Poselli","owner_role":"co-owner","phone":"207-200-6530","email":"hello@207laser.com","email_type":"general","city":"Portland","metro":"Portland ME","state":"ME","website":"https://207laser.com","instagram":"https://instagram.com/207laser.med","est_year":"2013","age_source":"website","locations":"2","notes":"site_blocked; family owned; Portland + Kennebunk; tattoo removal, laser, Botox"},
+{"business_name":"Maine Laser and Aesthetics","owner_name":"Geraldine Ollila","owner_role":"owner","phone":"207-805-8920","email":"contact@mainela.com","email_type":"general","city":"Falmouth","metro":"Portland ME","state":"ME","website":"https://www.laserandaesthetics.me","instagram":"https://instagram.com/maineaesthetics","est_year":"2017","age_source":"whois","locations":"1","notes":"DO-owned LLC/PA; BHRT, laser, injectables; FNP and RN injectors on staff"},
+{"business_name":"The Skin Method","owner_name":"Alexandra Noveletsky","owner_role":"founder","phone":"207-994-3958","email":"hi@theskinmethod.com","email_type":"general","city":"Kittery","metro":"Seacoast ME/NH","state":"ME","website":"https://theskinmethod.com","instagram":"https://instagram.com/somaineskinco","est_year":"2016","age_source":"whois","locations":"1","notes":"Formerly Southern Maine Skin Co; aesthetician founder; Botox, filler, tightening"},
+{"business_name":"Maine Plastic Surgery","owner_name":"Rajaie Hazboun","owner_role":"owner","phone":"207-213-1867","email":"","email_type":"","city":"Portland","metro":"Portland ME","state":"ME","website":"https://www.maineplasticsurgery.com","instagram":"https://instagram.com/maineplasticsurgery","est_year":"2004","age_source":"whois","locations":"1","notes":"Plastic surgery practice with medspa arm; injectables, ReSmooth laser hair"}
+],
+"rejected":[
+{"business_name":"Confident Med Spa","city":"South Portland ME","reason":"6 clinics across NH and ME - exceeds 4 locations and spans multiple states"},
+{"business_name":"Skin Health Medi Spa (Dover Skin Health)","city":"Kittery ME","reason":"part of Dermatology & Skin Health derm network; NH+ME multi-state locations"},
+{"business_name":"Optima Dermatology","city":"Scarborough ME","reason":"multi-state PE-backed dermatology network"},
+{"business_name":"Sky's Med Spa","city":"Windham ME","reason":"domain no longer resolves; could not verify 2+ years"},
+{"business_name":"Bangor Plastic & Hand Surgery","city":"Bangor ME","reason":"same entity as Surface Aesthetics already listed - deduped, not a separate prospect"}
+]}
