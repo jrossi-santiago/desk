@@ -249,6 +249,42 @@ textarea.paste{width:100%;min-height:130px;border:1px solid var(--line);border-r
 .gatefoot button{font-size:13.5px;color:var(--ink-2);font-weight:560;text-decoration:underline;text-underline-offset:3px}
 .gatefoot button:hover{color:var(--ink)}
 .booting{position:fixed;inset:0;z-index:95;background:var(--ground);display:grid;place-items:center;color:var(--muted);font-size:14px}
+.modal.wide{max-width:1180px;height:94dvh}
+.tbar{display:flex;gap:8px;align-items:center;padding:0 0 10px;flex-wrap:wrap}
+.tbar input[type="search"]{flex:1;min-width:150px;padding:8px 11px;border:1px solid var(--line);border-radius:9px;background:var(--surface-2);font-size:15px}
+.tscroll{overflow:auto;border:1px solid var(--line-soft);border-radius:11px;background:var(--surface)}
+table.grid{border-collapse:separate;border-spacing:0;width:100%;font-size:13.5px}
+table.grid th,table.grid td{padding:0;border-bottom:1px solid var(--line-soft);white-space:nowrap}
+table.grid thead th{
+  position:sticky;top:0;z-index:2;background:var(--surface-2);text-align:left;
+  font-size:10.5px;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);font-weight:660;
+  padding:9px 10px;border-bottom:1px solid var(--line);cursor:pointer;user-select:none;
+}
+table.grid thead th.plain{cursor:default}
+table.grid thead th .ar{color:var(--dial);margin-left:3px}
+table.grid td{color:var(--ink)}
+table.grid td .cell{padding:9px 10px;min-height:36px;display:block;overflow:hidden;text-overflow:ellipsis;max-width:230px;cursor:text}
+table.grid td .cell:hover{background:var(--surface-2)}
+table.grid td.num .cell{text-align:right;font-family:var(--mono);font-variant-numeric:tabular-nums}
+table.grid td.mono .cell{font-family:var(--mono)}
+table.grid tbody tr:hover{background:color-mix(in srgb,var(--dial) 4%,transparent)}
+table.grid tbody tr.on{background:color-mix(in srgb,var(--dial) 9%,transparent)}
+table.grid .pill{display:inline-block;padding:2px 8px;border-radius:999px;font-size:11px;font-weight:660;
+  color:#fff;background:var(--sc,var(--slate));white-space:nowrap}
+table.grid .chk{width:38px;text-align:center}
+table.grid .chk input{width:16px;height:16px;vertical-align:middle}
+table.grid td.act{width:44px;text-align:center}
+table.grid .dialmini{display:inline-grid;place-items:center;width:28px;height:28px;border-radius:50%;background:var(--dial);text-decoration:none}
+table.grid .dialmini svg{width:13px;height:13px;fill:var(--on-dial)}
+.editing{padding:0 !important}
+.editing input,.editing select{width:100%;min-width:110px;padding:8px 9px;border:2px solid var(--dial);border-radius:6px;background:var(--surface);font-size:14px;outline:none}
+.selbar{display:flex;align-items:center;gap:8px;padding:9px 11px;background:var(--ink);color:var(--ground);border-radius:10px;margin-bottom:10px;font-size:13.5px;flex-wrap:wrap}
+.selbar b{font-family:var(--mono)}
+.selbar .spacer{flex:1}
+.selbar button,.selbar select{padding:5px 10px;border-radius:7px;border:1px solid rgba(255,255,255,.28);color:var(--ground);background:transparent;font-size:12.5px;font-weight:600}
+.selbar select option{color:var(--ink);background:var(--surface)}
+.selbar button.danger{border-color:var(--brick);color:#fff;background:var(--brick)}
+.tfoot{display:flex;justify-content:space-between;align-items:center;padding-top:9px;font-size:12.5px;color:var(--muted)}
 .toast{
   position:fixed;left:50%;bottom:calc(20px + env(safe-area-inset-bottom));transform:translate(-50%,20px);
   background:var(--ink);color:var(--ground);padding:10px 16px;border-radius:999px;font-size:13.5px;font-weight:560;
@@ -289,6 +325,7 @@ textarea.paste{width:100%;min-height:130px;border:1px solid var(--line);border-r
     <button class="tool go" id="btnNext"><svg viewBox="0 0 24 24"><path d="M5 4l10 8-10 8z" fill="currentColor" stroke="none"/><path d="M19 4v16"/></svg> Start calling</button>
     <button class="tool" id="btnImport"><svg viewBox="0 0 24 24"><path d="M12 3v12"/><path d="M8 11l4 4 4-4"/><path d="M4 20h16"/></svg> Import CSV</button>
     <button class="tool" id="btnAdd"><svg viewBox="0 0 24 24"><path d="M12 5v14M5 12h14"/></svg> Add lead</button>
+    <button class="tool" id="btnTable"><svg viewBox="0 0 24 24"><rect x="3" y="4" width="18" height="16" rx="2"/><path d="M3 9h18M3 14.5h18M9 9v11"/></svg> Table</button>
     <button class="tool" id="btnExport"><svg viewBox="0 0 24 24"><path d="M12 20V8"/><path d="M8 12l4-4 4 4"/><path d="M4 4h16"/></svg> Export</button>
   </div>
 
@@ -894,9 +931,15 @@ function mergeLeads(rows, startedAt){
   rows.forEach(r => {
     seen[r.id] = true;
     const cur = byId[r.id];
-    if(!cur){ db.leads.push(applyRow(mkLead({id:r.id}), r)); return; }
-    // Anything edited while the request was in flight keeps its local value.
-    if((cur.updated||0) <= startedAt) applyRow(cur, r);
+    if(!cur){
+      const fresh = applyRow(mkLead({id:r.id}), r);
+      fresh.updated = startedAt;                 // arrived from the server: clean
+      db.leads.push(fresh);
+      return;
+    }
+    // Anything edited while the request was in flight keeps its local value,
+    // and stays queued. Everything else is now level with the server.
+    if((cur.updated||0) <= startedAt){ applyRow(cur, r); cur.updated = startedAt; }
   });
   const prev = cfg.ids || [];
   if(prev.length){
@@ -1045,7 +1088,7 @@ function openModal(title, bodyHtml, footHtml, mount){
   if(mount) mount();
 }
 function closeModal(){
-  modal.classList.remove("on");
+  modal.classList.remove("on"); modal.classList.remove("wide");
   if(!sheet.classList.contains("on")){ scrim.classList.remove("on"); document.body.style.overflow=""; }
   setTimeout(()=>{ if(!modal.classList.contains("on")) modal.hidden = true; }, 300);
 }
@@ -1248,6 +1291,199 @@ function editScript(id){
   });
 }
 
+/* ============================== table view ==============================
+   The spreadsheet replacement: sort, filter, edit in place, bulk-change.  */
+
+const COLS = [
+  {k:"business", t:"Business",  w:200},
+  {k:"owner",    t:"Owner",     w:150},
+  {k:"phone",    t:"Phone",     w:140, cls:"mono"},
+  {k:"metro",    t:"Metro",     w:130},
+  {k:"location", t:"City",      w:120},
+  {k:"email",    t:"Email",     w:190},
+  {k:"status",   t:"Status",    w:120},
+  {k:"value",    t:"Deal",      w:90,  cls:"num"},
+  {k:"followAt", t:"Follow up", w:110},
+  {k:"nCalls",   t:"Calls",     w:60,  cls:"num", ro:true}
+];
+let grid = {sort:"business", dir:1, q:"", sel:new Set(), edit:null};
+
+function gridRows(){
+  const q = grid.q.trim().toLowerCase();
+  let rows = db.leads.slice();
+  if(q){
+    const qd = q.replace(/\D/g,"");
+    rows = rows.filter(l =>
+      (l.business+" "+l.owner+" "+l.metro+" "+l.location+" "+l.email).toLowerCase().includes(q) ||
+      (qd && l.phone.replace(/\D/g,"").includes(qd)));
+  }
+  const k = grid.sort;
+  rows.sort((a,b) => {
+    let x, y;
+    if(k === "nCalls"){ x = a.calls.length; y = b.calls.length; }
+    else if(k === "value"){ x = +a.value||0; y = +b.value||0; }
+    else if(k === "status"){ x = (STATUS[a.status]||{}).label||""; y = (STATUS[b.status]||{}).label||""; }
+    else { x = a[k]; y = b[k]; }
+    if(typeof x === "number" && typeof y === "number") return (x-y) * grid.dir;
+    x = String(x==null?"":x).toLowerCase(); y = String(y==null?"":y).toLowerCase();
+    if(!x && y) return 1;                       // blanks sink, either direction
+    if(x && !y) return -1;
+    return x < y ? -grid.dir : x > y ? grid.dir : 0;
+  });
+  return rows;
+}
+function gridCell(l, c){
+  if(c.k === "nCalls") return String(l.calls.length);
+  if(c.k === "value")  return l.value ? money(l.value) : "";
+  if(c.k === "phone")  return fmtPhone(l.phone);
+  if(c.k === "status"){
+    const st = STATUS[l.status] || STATUS.new;
+    return `<span class="pill" style="--sc:${st.color}">${esc(st.label)}</span>`;
+  }
+  return esc(l[c.k] || "");
+}
+function paintGrid(){
+  const rows = gridRows();
+  const head = `<tr><th class="plain chk"><input type="checkbox" id="gAll" aria-label="Select all" /></th>` +
+    COLS.map(c => `<th data-sort="${c.k}" style="min-width:${c.w}px">${esc(c.t)}${grid.sort===c.k?`<span class="ar">${grid.dir>0?"↑":"↓"}</span>`:""}</th>`).join("") +
+    `<th class="plain act"></th></tr>`;
+  const body = rows.map(l => `<tr data-id="${l.id}" class="${grid.sel.has(l.id)?"on":""}">
+      <td class="chk"><input type="checkbox" data-sel="${l.id}" ${grid.sel.has(l.id)?"checked":""} aria-label="Select ${esc(l.business)}" /></td>` +
+    COLS.map(c => `<td class="${c.cls||""}"><span class="cell" ${c.ro?"":`data-edit="${l.id}" data-k="${c.k}"`}>${gridCell(l,c)}</span></td>`).join("") +
+    `<td class="act"><a class="dialmini" href="tel:${esc(l.phone)}" target="_blank" rel="noopener" data-dial="${l.id}" aria-label="Call ${esc(l.business)}"><svg viewBox="0 0 24 24"><path d="M6.6 10.8c1.4 2.8 3.8 5.2 6.6 6.6l2.2-2.2c.3-.3.7-.4 1-.2 1.2.4 2.4.6 3.6.6.6 0 1 .4 1 1V20c0 .6-.4 1-1 1C11.6 21 3 12.4 3 1.9c0-.6.4-1 1-1h3.5c.6 0 1 .4 1 1 0 1.3.2 2.5.6 3.6.1.4 0 .7-.2 1L6.6 10.8z"/></svg></a></td>
+    </tr>`).join("");
+
+  $("#gridWrap").innerHTML = rows.length
+    ? `<table class="grid"><thead>${head}</thead><tbody>${body}</tbody></table>`
+    : `<p class="help" style="padding:26px;text-align:center;margin:0">No leads match. Clear the search, or import a CSV.</p>`;
+
+  const n = grid.sel.size;
+  $("#selBar").innerHTML = n ? `<b>${n}</b> selected
+      <span class="spacer"></span>
+      <select id="gStatus"><option value="">Set status…</option>${Object.keys(STATUS).map(k=>`<option value="${k}">${STATUS[k].label}</option>`).join("")}</select>
+      <button id="gClear">Clear</button>
+      <button class="danger" id="gDel">Delete ${n}</button>` : "";
+  $("#selBar").classList.toggle("hide", !n);
+  paintFoot(rows.length);
+}
+function paintFoot(shown){
+  const el = $("#gridFoot"); if(!el) return;
+  const n = shown === undefined ? gridRows().length : shown;
+  el.innerHTML = `<span>${n} of ${db.leads.length} lead${db.leads.length===1?"":"s"}</span>
+    <span>${esc(money(db.leads.filter(l=>OPEN_VALUE.includes(l.status)).reduce((t,l)=>t+(+l.value||0),0)))} open pipeline</span>`;
+}
+function startEdit(span){
+  if(grid.edit) return;
+  const l = db.leads.find(x => x.id === span.dataset.edit); if(!l) return;
+  const k = span.dataset.k;
+  const td = span.parentNode;
+  grid.edit = {id:l.id, k:k};
+  let input;
+  if(k === "status"){
+    input = document.createElement("select");
+    input.innerHTML = Object.keys(STATUS).map(s=>`<option value="${s}" ${l.status===s?"selected":""}>${STATUS[s].label}</option>`).join("");
+  }else{
+    input = document.createElement("input");
+    input.type  = k === "followAt" ? "date" : "text";
+    input.value = k === "value" ? (l.value || "") : (l[k] || "");
+    if(k === "value") input.inputMode = "decimal";
+    if(k === "phone") input.type = "tel";
+  }
+  td.classList.add("editing"); td.innerHTML = ""; td.appendChild(input);
+  input.focus(); if(input.select) input.select();
+
+  const commit = (moveOn) => {
+    if(!grid.edit) return;
+    grid.edit = null;
+    const v = input.value;
+    const before = l[k];
+    if(k === "value")        l.value    = parseMoney(v);
+    else if(k === "phone")   l.phone    = normPhone(v);
+    else if(k === "status")  l.status   = v;
+    else if(k === "followAt")l.followAt = v || "";
+    else                     l[k]       = v.trim();
+    const changed = k === "value" ? before !== l.value : String(before||"") !== String(l[k]||"");
+    // Repaint just this cell. Repainting the table here would destroy the
+    // element the next click is travelling towards, swallowing that click,
+    // and would re-sort rows out from under the cursor mid-edit.
+    td.classList.remove("editing");
+    td.innerHTML = `<span class="cell" data-edit="${l.id}" data-k="${k}">${gridCell(l, COLS.find(c=>c.k===k))}</span>`;
+    if(changed){ touch(l); save(); autoSync(); paintFoot(); }
+    if(moveOn){
+      const next = $(`#gridWrap tr[data-id="${l.id}"] + tr [data-k="${k}"]`);
+      if(next) startEdit(next);
+    }
+  };
+  input.addEventListener("blur", () => commit(false));
+  input.addEventListener("keydown", e => {
+    if(e.key === "Enter"){ e.preventDefault(); commit(true); }
+    if(e.key === "Escape"){ e.preventDefault(); grid.edit = null; td.classList.remove("editing"); paintGrid(); }
+  });
+  if(k === "status") input.addEventListener("change", () => commit(false));
+}
+function tableModal(){
+  grid.sel.clear(); grid.edit = null;
+  openModal("All leads", `
+    <div class="tbar">
+      <input type="search" id="gQ" placeholder="Search leads" value="${esc(grid.q)}" autocomplete="off" />
+      <button class="tool" id="gAdd">Add lead</button>
+      <button class="tool" id="gImport">Import CSV</button>
+    </div>
+    <div class="selbar hide" id="selBar"></div>
+    <div class="tscroll" id="gridWrap" style="max-height:calc(94dvh - 230px)"></div>
+    <div class="tfoot" id="gridFoot"></div>
+    <p class="help" style="margin:12px 0 0">Tap any cell to change it. Enter saves and drops to the row below, Escape cancels. Everything saves to your account.</p>
+  `, `<button class="btn primary" id="gDone" style="flex:1">Done</button>`, () => {
+    modal.classList.add("wide");
+    paintGrid();
+    $("#gDone").addEventListener("click", () => { modal.classList.remove("wide"); closeModal(); render(); });
+    $("#gQ").addEventListener("input", e => { grid.q = e.target.value; paintGrid(); });
+    $("#gAdd").addEventListener("click", () => { modal.classList.remove("wide"); addModal(); });
+    $("#gImport").addEventListener("click", () => { modal.classList.remove("wide"); importModal(); });
+    $("#gridWrap").addEventListener("click", e => {
+      const th = e.target.closest("th[data-sort]");
+      if(th){
+        if(grid.sort === th.dataset.sort) grid.dir = -grid.dir; else { grid.sort = th.dataset.sort; grid.dir = 1; }
+        paintGrid(); return;
+      }
+      const all = e.target.closest("#gAll");
+      if(all){
+        const rows = gridRows();
+        if(grid.sel.size === rows.length) grid.sel.clear();
+        else rows.forEach(l => grid.sel.add(l.id));
+        paintGrid(); return;
+      }
+      const box = e.target.closest("[data-sel]");
+      if(box){
+        const id = box.dataset.sel;
+        grid.sel.has(id) ? grid.sel.delete(id) : grid.sel.add(id);
+        paintGrid(); return;
+      }
+      if(e.target.closest("[data-dial]")) return;      // let the call sheet open
+      const span = e.target.closest("[data-edit]");
+      if(span) startEdit(span);
+    });
+    $("#selBar").addEventListener("click", async e => {
+      if(e.target.id === "gClear"){ grid.sel.clear(); paintGrid(); return; }
+      if(e.target.id === "gDel"){
+        const ids = Array.from(grid.sel);
+        if(!confirm("Delete "+ids.length+" lead"+(ids.length===1?"":"s")+" and their call history?")) return;
+        db.leads = db.leads.filter(l => ids.indexOf(l.id) === -1);
+        db.deleted.push.apply(db.deleted, ids);
+        grid.sel.clear(); save(); autoSync(); paintGrid();
+        toast("Deleted "+ids.length);
+      }
+    });
+    $("#selBar").addEventListener("change", e => {
+      if(e.target.id !== "gStatus" || !e.target.value) return;
+      const st = e.target.value;
+      db.leads.forEach(l => { if(grid.sel.has(l.id)){ l.status = st; touch(l); } });
+      save(); autoSync(); paintGrid();
+      toast("Set "+grid.sel.size+" to "+STATUS[st].label);
+    });
+  });
+}
+
 /* ============================== export / settings ============================== */
 function csvCell(v){ v = String(v==null?"":v); return /[",\n]/.test(v) ? '"'+v.replace(/"/g,'""')+'"' : v; }
 function leadsCSV(){
@@ -1366,7 +1602,9 @@ function settingsModal(){
       paintState(); render();
     });
     $("#pOut").addEventListener("click", async () => {
-      if(pendingCount() && !confirm(pendingCount()+" change(s) haven't synced yet. Sign out anyway?")) return;
+      const waiting = pendingCount();
+      if(waiting && !confirm(waiting+" change"+(waiting===1?"":"s")+" haven't reached your account yet. Sign out and lose them?")) return;
+      try{ localStorage.removeItem(cacheKey()); }catch(e){}   // leave nothing behind on a shared device
       await sb.auth.signOut();
       closeModal(); signedOut();
     });
@@ -1399,6 +1637,7 @@ function applyTheme(){
 $("#btnImport").addEventListener("click", importModal);
 $("#btnAdd").addEventListener("click", addModal);
 $("#btnScripts").addEventListener("click", scriptsModal);
+$("#btnTable").addEventListener("click", tableModal);
 $("#btnExport").addEventListener("click", ()=>exportModal("leads"));
 $("#btnSettings").addEventListener("click", settingsModal);
 $("#btnSync").addEventListener("click", ()=>syncNow(true));
