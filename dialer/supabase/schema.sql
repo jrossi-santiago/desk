@@ -106,7 +106,7 @@ alter table public.profiles force row level security;
 do $$
 declare t text;
 begin
-  foreach t in array array['leads','calls','scripts'] loop
+  foreach t in array array['leads','scripts'] loop
     execute format('drop policy if exists %I_own on public.%I', t, t);
     execute format($f$
       create policy %I_own on public.%I
@@ -117,6 +117,22 @@ begin
     $f$, t, t);
   end loop;
 end $$;
+
+-- Calls carry a second check: the lead being logged against must also be
+-- yours. Owning the call row is not enough, or one account could attach
+-- rows to another account's leads.
+drop policy if exists calls_own on public.calls;
+create policy calls_own on public.calls
+  for all
+  to authenticated
+  using (user_id = auth.uid())
+  with check (
+    user_id = auth.uid()
+    and exists (
+      select 1 from public.leads l
+      where l.id = calls.lead_id and l.user_id = auth.uid()
+    )
+  );
 
 drop policy if exists profiles_own on public.profiles;
 create policy profiles_own on public.profiles
