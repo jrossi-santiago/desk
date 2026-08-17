@@ -47,6 +47,8 @@ They're buttons. **Dialed** and **Picked up** open the calls behind the number �
 
 A call is logged when you dial — either green circle, the list one or the one inside the call sheet. Walking the queue with **Next**, or opening a lead to look at it, does not count as a call. A note you type without dialing does get logged.
 
+**Fixing the record.** Every logged call has an **×** next to it, in the Dialed list and in a lead's History tab. Tap it and the call is gone — misdial, butt-dial, hung up before it rang, whatever. A toast offers **Undo** for six seconds. Going the other way, a lead's History tab has **I called this one** for calls you made from the phone's own dialer, so they still count. Both changes reach your account on the next sync, so the numbers match everywhere.
+
 To clear out bad history, see `supabase/reset-call-log.sql`.
 
 ## Follow-ups and the calendar
