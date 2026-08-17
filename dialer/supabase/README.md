@@ -24,3 +24,9 @@ New accounts are stocked automatically — a trigger on `auth.users` creates a p
 Run it with `psql -f rls_test.sql`. Every step marked "must ERROR" is expected to fail — that is the test passing.
 
 The same checks were run against the live Supabase project over HTTP with two real accounts. That run is what caught the missing `calls` check.
+
+## Clearing bad call history
+
+`reset-call-log.sql` removes call records without touching leads. Put your email in it, run the preview first, then pick the full wipe or the gentler version that keeps calls you wrote a note on. Every statement is scoped to one account by email, so a shared project stays safe.
+
+After running it, tap sync in the app — the deletion pulls through to the device and the numbers drop to match.

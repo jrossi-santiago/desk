@@ -45,7 +45,9 @@ Queue order: follow-ups due today → never called → interested → the rest. 
 
 They're buttons. **Dialed** and **Picked up** open the calls behind the number — who, at what time, what happened — and tapping a row opens that lead. **Due** opens the calendar. **Pipeline** filters the list to interested leads.
 
-A call is logged when you dial. Opening a lead to look at it does not count as a call; a note you type without dialing does get logged.
+A call is logged when you dial — either green circle, the list one or the one inside the call sheet. Walking the queue with **Next**, or opening a lead to look at it, does not count as a call. A note you type without dialing does get logged.
+
+To clear out bad history, see `supabase/reset-call-log.sql`.
 
 ## Follow-ups and the calendar
 
