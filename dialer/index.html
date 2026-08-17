@@ -54,6 +54,7 @@ button{cursor:pointer;background:none;border:0}
 :focus-visible{outline:2px solid var(--dial); outline-offset:2px; border-radius:6px}
 .mono{font-family:var(--mono); font-variant-numeric:tabular-nums}
 .hide{display:none !important}
+[hidden]{display:none !important}
 
 /* ---------- app shell ---------- */
 .app{max-width:720px;margin:0 auto;padding:0 0 96px}
@@ -233,6 +234,21 @@ textarea.paste{width:100%;min-height:130px;border:1px solid var(--line);border-r
 .tokens button{font-family:var(--mono);font-size:11.5px;padding:4px 8px;border:1px solid var(--line);border-radius:6px;color:var(--ink-2);background:var(--surface-2)}
 .danger{color:var(--brick)}
 
+.gate{position:fixed;inset:0;z-index:90;background:var(--ground);display:grid;place-items:center;padding:24px;overflow-y:auto}
+.gatebox{width:100%;max-width:360px}
+.gatemark{width:44px;height:44px;border-radius:13px;background:var(--dial);display:grid;place-items:center;margin-bottom:20px}
+.gatemark svg{width:24px;height:24px;fill:var(--on-dial)}
+.gate h1{font-size:27px;font-weight:680;letter-spacing:-.02em;margin:0 0 5px}
+.gate p{margin:0 0 22px;color:var(--muted);font-size:14.5px}
+.gate .f{margin-bottom:13px}
+.gate .f input{width:100%;padding:12px;border:1px solid var(--line);border-radius:11px;background:var(--surface);font-size:16px}
+.gate .btn{width:100%;margin-top:6px}
+.gateerr{min-height:0;margin:0;color:var(--brick);font-size:13.5px;line-height:1.45}
+.gateerr:not(:empty){margin:2px 0 10px}
+.gatefoot{display:flex;justify-content:space-between;gap:12px;margin-top:18px}
+.gatefoot button{font-size:13.5px;color:var(--ink-2);font-weight:560;text-decoration:underline;text-underline-offset:3px}
+.gatefoot button:hover{color:var(--ink)}
+.booting{position:fixed;inset:0;z-index:95;background:var(--ground);display:grid;place-items:center;color:var(--muted);font-size:14px}
 .toast{
   position:fixed;left:50%;bottom:calc(20px + env(safe-area-inset-bottom));transform:translate(-50%,20px);
   background:var(--ink);color:var(--ground);padding:10px 16px;border-radius:999px;font-size:13.5px;font-weight:560;
@@ -278,6 +294,26 @@ textarea.paste{width:100%;min-height:130px;border:1px solid var(--line);border-r
 
   <main class="list" id="list"></main>
 </div>
+
+<section class="gate" id="gate" hidden>
+  <div class="gatebox">
+    <div class="gatemark"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6.6 10.8c1.4 2.8 3.8 5.2 6.6 6.6l2.2-2.2c.3-.3.7-.4 1-.2 1.2.4 2.4.6 3.6.6.6 0 1 .4 1 1V20c0 .6-.4 1-1 1C11.6 21 3 12.4 3 1.9c0-.6.4-1 1-1h3.5c.6 0 1 .4 1 1 0 1.3.2 2.5.6 3.6.1.4 0 .7-.2 1L6.6 10.8z"/></svg></div>
+    <h1 id="gateTitle">Dial Sheet</h1>
+    <p id="gateSub">Sign in to your list.</p>
+    <form id="gateForm" novalidate>
+      <div class="f"><label for="gEmail">Email</label>
+        <input id="gEmail" type="email" autocomplete="email" inputmode="email" autocapitalize="none" spellcheck="false" required /></div>
+      <div class="f"><label for="gPass">Password</label>
+        <input id="gPass" type="password" autocomplete="current-password" required /></div>
+      <p class="gateerr" id="gateErr" role="alert"></p>
+      <button class="btn primary" id="gateGo" type="submit">Sign in</button>
+    </form>
+    <div class="gatefoot">
+      <button id="gateSwap">Create an account</button>
+      <button id="gateReset">Forgot password</button>
+    </div>
+  </div>
+</section>
 
 <div class="scrim" id="scrim"></div>
 
@@ -351,16 +387,27 @@ textarea.paste{width:100%;min-height:130px;border:1px solid var(--line);border-r
   <div class="mfoot" id="mFoot"></div>
 </section>
 
+<div class="booting" id="booting">Loading…</div>
 <div class="toast" id="toast" role="status" aria-live="polite"></div>
 <input type="file" id="filePick" accept=".csv,.txt,text/csv,text/plain" class="hide" />
 
+<script src="vendor/supabase.js"></script>
+<script src="config.js"></script>
 <script>
 (function(){
 "use strict";
 
 /* ============================== storage ============================== */
-const KEY = "dialsheet.v1";
-const uid = () => Math.random().toString(36).slice(2,10);
+const sb = window.supabase.createClient(window.DIALER_CONFIG.url, window.DIALER_CONFIG.anonKey, {
+  auth:{persistSession:true, autoRefreshToken:true, detectSessionInUrl:true}
+});
+let me = null;                                   // the signed-in user
+const cacheKey = () => "dialsheet.v2." + (me ? me.id : "anon");
+const uid = () => (crypto.randomUUID ? crypto.randomUUID()
+  : "xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx".replace(/[xy]/g, c => {
+      const r = Math.random()*16|0; return (c==="x"?r:(r&0x3|0x8)).toString(16);
+    }));
+const isUuid = v => /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i.test(String(v||""));
 
 const DEFAULT_SCRIPT = `Hi, is this {{owner}}?
 
@@ -390,17 +437,6 @@ No problem — when's {{owner}} usually around? I'll call back then rather than 
 
 CLOSE: Appreciate the time, {{owner}}. Talk soon.`;
 
-const SAMPLE = [
-  {business:"Ridgeline Heating & Air", owner:"Dave Kowalski", metro:"Phoenix, AZ",   location:"Mesa",        phone:"+16025550142", email:"dave@ridgelinehvac.com",   status:"new"},
-  {business:"Copper State Roofing",    owner:"Maria Delgado", metro:"Phoenix, AZ",   location:"Chandler",    phone:"+16025550178", email:"office@copperstateroof.com",status:"callback", followAt:"", note:"Wants a call back after 4pm — busy on a job site."},
-  {business:"Northside Dental Studio", owner:"Dr. Amy Chen",  metro:"Denver, CO",    location:"Thornton",    phone:"+13035550119", email:"frontdesk@northsidedental.com", value:6000, status:"interested", note:"Asked for pricing. Wants to see case studies for dental."},
-  {business:"Bluegrass Lawn Pros",     owner:"Travis Boone",  metro:"Louisville, KY",location:"Jeffersontown",phone:"+15025550166",email:"travis@bluegrasslawn.com", status:"voicemail"},
-  {business:"Harbor Point Plumbing",   owner:"Sean Whitfield",metro:"Tampa, FL",     location:"Clearwater",  phone:"+18135550133", email:"sean@harborpointplumbing.com", status:"new"},
-  {business:"Vega Auto Glass",         owner:"Luis Vega",     metro:"San Antonio, TX",location:"Alamo Heights",phone:"+12105550107",email:"luis@vegaautoglass.com",  status:"noanswer"},
-  {business:"Summit Ridge Fitness",    owner:"Kaitlyn Pierce",metro:"Salt Lake City, UT",location:"Sandy",   phone:"+18015550190", email:"kaitlyn@summitridgefit.com", value:9500, status:"meeting", note:"Thursday 2pm, wants the owner of the gym on the call too."},
-  {business:"Old Mill Coffee Roasters",owner:"Priya Raman",   metro:"Portland, OR",  location:"Beaverton",   phone:"+15035550124", email:"priya@oldmillroasters.com", status:"new"}
-];
-
 const STATUS = {
   new:        {label:"New",            color:"var(--slate)"},
   callback:   {label:"Callback",       color:"var(--clay)"},
@@ -415,34 +451,35 @@ const STATUS = {
 const OUTCOMES = ["interested","meeting","callback","voicemail","noanswer","no","bad","dnc"];
 const CLOSED = ["no","bad","dnc","meeting"];
 
-let db = load();
+let db = blank();
 
 function blank(){
   return {
     v:1,
-    leads: SAMPLE.map(s => mkLead(Object.assign({sample:true}, s))),
+    leads: [],
     scripts: [{id:uid(), name:"Cold call — local business", body:DEFAULT_SCRIPT}],
     deleted: [],
+    scriptsUpdated: 0,
     settings: {me:"", company:"", offer:"we help local businesses get more inbound calls without spending more on ads",
-      theme:"auto", scriptId:null, scriptSize:18,
-      sheet:{url:"", token:"", auto:true, at:0, ids:[]}}
+      theme:"auto", scriptId:null, scriptSize:18, updated:0,
+      sync:{at:0, ids:[]}}
   };
 }
 function load(){
   try{
-    const raw = localStorage.getItem(KEY);
+    const raw = localStorage.getItem(cacheKey());
     if(!raw) return blank();
     const d = JSON.parse(raw);
     d.leads = (d.leads||[]).map(mkLead);
     if(!d.scripts || !d.scripts.length) d.scripts = blank().scripts;
     d.settings = Object.assign(blank().settings, d.settings||{});
-    d.settings.sheet = Object.assign(blank().settings.sheet, d.settings.sheet||{});
+    d.settings.sync = Object.assign(blank().settings.sync, d.settings.sync||{});
     d.deleted = d.deleted || [];
     return d;
   }catch(e){ return blank(); }
 }
 function save(){
-  try{ localStorage.setItem(KEY, JSON.stringify(db)); }
+  try{ localStorage.setItem(cacheKey(), JSON.stringify(db)); }
   catch(e){ toast("Couldn't save — storage is full or blocked"); }
 }
 function mkLead(o){
@@ -451,12 +488,14 @@ function mkLead(o){
     value:0, status:"new", followAt:"", calls:[], created:Date.now(), updated:0, sample:false
   }, o);
   if(o && o.note && !(l.calls||[]).length){
-    l.calls = [{at:Date.now()-86400000, outcome:l.status, note:o.note}];
+    l.calls = [{id:uid(), at:Date.now()-86400000, outcome:l.status, note:o.note}];
   }
   delete l.note;
   l.calls = l.calls || [];
   l.value = +l.value || 0;
   l.updated = +l.updated || Date.now();
+  if(!isUuid(l.id)) l.id = uid();
+  l.calls.forEach(c => { if(!c.id) c.id = uid(); });
   return l;
 }
 
@@ -606,7 +645,7 @@ function openSheet(id, dialing){
   const l = db.leads.find(x=>x.id===id); if(!l) return;
   state.leadId = id; state.tab = "script"; state.callIdx = -1;
   if(dialing){
-    l.calls.push({at:Date.now(), outcome:null, note:""});
+    l.calls.push({id:uid(), at:Date.now(), outcome:null, note:""});
     state.callIdx = l.calls.length-1;
     save();
   }
@@ -727,7 +766,7 @@ function commit(){
     l.calls[state.callIdx].note = note;
     l.calls[state.callIdx].outcome = outcome;
   }else if(note || outcome){
-    l.calls.push({at:Date.now(), outcome:outcome, note:note});
+    l.calls.push({id:uid(), at:Date.now(), outcome:outcome, note:note});
   }
   if(outcome) l.status = outcome;
   l.followAt = $("#followAt").value || (outcome==="callback" ? l.followAt : "");
@@ -816,142 +855,183 @@ document.addEventListener("keydown", e => {
   else if(modal.classList.contains("on")) closeModal();
 });
 
-/* ============================== google sheet sync ============================== */
+/* ============================== supabase sync ==============================
+   The device keeps a local copy so the app works with no signal. Every
+   change is stamped and queued; syncing pushes what changed, then pulls
+   the server's view back. Row-level security means these queries can only
+   ever touch this account's rows.                                        */
+
 const STATUS_BY_LABEL = {};
 Object.keys(STATUS).forEach(k => STATUS_BY_LABEL[STATUS[k].label.toLowerCase()] = k);
 function statusKey(v){
   const t = String(v||"").trim().toLowerCase();
   return STATUS[t] ? t : (STATUS_BY_LABEL[t] || "new");
 }
-function iso(ms){ return ms ? new Date(ms).toISOString() : ""; }
 
 function leadRow(l){
-  const last = l.calls[l.calls.length-1];
-  return {
-    id:l.id, business:l.business, owner:l.owner, phone:l.phone, email:l.email,
-    metro:l.metro, location:l.location, website:l.website, deal_value:l.value||0,
-    status:(STATUS[l.status]||STATUS.new).label, follow_up:l.followAt||"",
-    last_call:last?iso(last.at):"", calls:l.calls.length, notes:last?last.note:"",
-    updated:iso(l.updated||Date.now())
-  };
+  return {id:l.id, user_id:me.id, business:l.business||"", owner:l.owner||"", phone:l.phone||"",
+          email:l.email||"", metro:l.metro||"", location:l.location||"", website:l.website||"",
+          deal_value:+l.value||0, status:l.status||"new", follow_at:l.followAt || null};
 }
-function logRow(l, c){
-  return {when:iso(c.at), id:l.id, business:l.business, owner:l.owner, phone:l.phone,
-          metro:l.metro, outcome:(STATUS[c.outcome]||{}).label||"Dialed",
-          deal_value:l.value||0, note:c.note||""};
+function callRow(l, c){
+  return {id:c.id, user_id:me.id, lead_id:l.id, called_at:new Date(c.at).toISOString(),
+          outcome:c.outcome || null, note:c.note||""};
 }
 function applyRow(l, r){
   l.business = r.business||""; l.owner = r.owner||"";
-  l.phone = normPhone(r.phone); l.email = r.email||"";
+  l.phone = r.phone||""; l.email = r.email||"";
   l.metro = r.metro||""; l.location = r.location||""; l.website = r.website||"";
-  l.value = parseMoney(r.deal_value); l.status = statusKey(r.status);
-  l.followAt = String(r.follow_up||"").slice(0,10);
+  l.value = +r.deal_value||0; l.status = statusKey(r.status);
+  l.followAt = r.follow_at ? String(r.follow_at).slice(0,10) : "";
+  l.updated = Date.parse(r.updated_at||"") || Date.now();
   return l;
 }
-function mergeRemote(rows){
-  const cfg = db.settings.sheet;
+
+function mergeLeads(rows, startedAt){
+  const cfg = db.settings.sync;
   const byId = {}; db.leads.forEach(l => byId[l.id] = l);
   const seen = {};
   rows.forEach(r => {
-    const id = String(r.id||""); if(!id) return;
-    seen[id] = true;
-    const at = Date.parse(r.updated||"") || 0;
-    const cur = byId[id];
-    if(!cur){
-      const l = mkLead({id:id, updated:at || Date.now()});
-      db.leads.push(applyRow(l, r));
-    }else if(at > (cur.updated||0)){
-      applyRow(cur, r); cur.updated = at;
-    }
+    seen[r.id] = true;
+    const cur = byId[r.id];
+    if(!cur){ db.leads.push(applyRow(mkLead({id:r.id}), r)); return; }
+    // Anything edited while the request was in flight keeps its local value.
+    if((cur.updated||0) <= startedAt) applyRow(cur, r);
   });
-  // Rows you delete in the spreadsheet disappear here too.
   const prev = cfg.ids || [];
   if(prev.length){
     const gone = prev.filter(id => !seen[id]);
     if(gone.length) db.leads = db.leads.filter(l => gone.indexOf(l.id) === -1);
   }
-  cfg.ids = rows.map(r => String(r.id));
+  cfg.ids = rows.map(r => r.id);
+}
+function mergeCalls(rows){
+  const byLead = {};
+  rows.forEach(r => { (byLead[r.lead_id] = byLead[r.lead_id] || []).push(r); });
+  db.leads.forEach(l => {
+    const server = byLead[l.id] || [];
+    const have = {};
+    const out = server.map(r => {
+      have[r.id] = true;
+      return {id:r.id, at:Date.parse(r.called_at)||Date.now(), outcome:r.outcome||null,
+              note:r.note||"", synced:true};
+    });
+    // Calls made on this device that haven't reached the server yet survive.
+    l.calls.forEach(c => { if(!c.synced && !have[c.id]) out.push(c); });
+    out.sort((a,b) => a.at - b.at);
+    l.calls = out;
+  });
 }
 
-async function sheetCall(payload){
-  const cfg = db.settings.sheet;
-  const ctl = new AbortController();
-  const bail = setTimeout(()=>ctl.abort(), 25000);
-  try{
-    const res = await fetch(cfg.url, {
-      method:"POST",
-      // text/plain keeps this a "simple" request, so the browser skips the
-      // CORS preflight that Apps Script web apps can't answer.
-      headers:{"Content-Type":"text/plain;charset=utf-8"},
-      body:JSON.stringify(Object.assign({token:cfg.token}, payload)),
-      redirect:"follow"
-    });
-    if(!res.ok) throw new Error("the sheet replied "+res.status);
-    const data = await res.json();
-    if(!data.ok) throw new Error(data.error==="bad_token" ? "wrong token" : (data.error||"the script refused"));
-    return data;
-  }catch(err){
-    if(err.name==="AbortError") throw new Error("timed out");
-    if(err instanceof TypeError) throw new Error("couldn't reach the sheet");
-    throw err;
-  }finally{ clearTimeout(bail); }
+function friendlyError(err){
+  if(!err) return "something went wrong";
+  const m = String(err.message || err);
+  if(err.code === "23505" || /duplicate key/i.test(m)) return "two leads share the same phone number";
+  if(/Failed to fetch|NetworkError|Load failed/i.test(m)) return "no connection";
+  if(err.code === "42501" || /row-level security/i.test(m)) return "the server refused that write";
+  if(/JWT|token is expired/i.test(m)) return "session expired — sign in again";
+  return m;
 }
 
 function pendingCount(){
-  const since = db.settings.sheet.at || 0;
+  const since = db.settings.sync.at || 0;
   let n = db.leads.filter(l => (l.updated||0) > since).length + (db.deleted||[]).length;
   db.leads.forEach(l => l.calls.forEach(c => { if(!c.synced) n++; }));
   return n;
 }
 function paintSync(){
-  const btn = $("#btnSync"), cfg = db.settings.sheet;
-  if(!cfg.url){ btn.removeAttribute("data-s"); btn.title = "Connect a Google Sheet"; return; }
+  const btn = $("#btnSync"); if(!btn) return;
+  const cfg = db.settings.sync;
   const n = pendingCount();
-  const s = state.sync.busy ? "busy" : state.sync.error ? "error" : n ? "pending" : "ok";
-  btn.dataset.s = s;
-  btn.title = s==="busy" ? "Syncing…"
-    : s==="error" ? "Sync failed: "+state.sync.error
-    : s==="pending" ? n+" change"+(n===1?"":"s")+" waiting — tap to sync"
-    : "Synced "+(cfg.at?when(cfg.at):"");
+  const st = state.sync.busy ? "busy" : state.sync.error ? "error" : n ? "pending" : "ok";
+  btn.dataset.s = st;
+  btn.title = st==="busy" ? "Syncing…"
+    : st==="error" ? "Last sync failed: "+state.sync.error
+    : st==="pending" ? n+" change"+(n===1?"":"s")+" waiting — tap to sync"
+    : "Everything saved"+(cfg.at?" · "+when(cfg.at):"");
 }
+
 async function syncNow(manual){
-  const cfg = db.settings.sheet;
-  if(!cfg.url){ if(manual) toast("Add your sheet's web app URL in Settings first"); return false; }
-  if(state.sync.busy) return false;
+  if(!me || state.sync.busy) return false;
+  const cfg = db.settings.sync;
   state.sync.busy = true; state.sync.error = ""; paintSync();
   const startedAt = Date.now();
   try{
-    const push = db.leads.filter(l => (l.updated||0) > (cfg.at||0)).map(leadRow);
-    const log = [];
-    db.leads.forEach(l => l.calls.forEach(c => { if(!c.synced) log.push(logRow(l, c)); }));
-    const data = await sheetCall({leads:push, log:log, remove:db.deleted||[]});
-    mergeRemote(data.leads||[]);
-    db.leads.forEach(l => l.calls.forEach(c => { c.synced = true; }));
-    db.deleted = [];
+    /* ---- push ---- */
+    if((db.deleted||[]).length){
+      const { error } = await sb.from("leads").delete().in("id", db.deleted);
+      if(error) throw error;
+      db.deleted = [];
+    }
+    const changed = db.leads.filter(l => (l.updated||0) > (cfg.at||0));
+    if(changed.length){
+      const { error } = await sb.from("leads").upsert(changed.map(leadRow));
+      if(error) throw error;
+    }
+    const calls = [];
+    db.leads.forEach(l => l.calls.forEach(c => { if(!c.synced) calls.push(callRow(l, c)); }));
+    if(calls.length){
+      const { error } = await sb.from("calls").upsert(calls, {onConflict:"id", ignoreDuplicates:true});
+      if(error) throw error;
+    }
+    if((db.scriptsUpdated||0) > (cfg.at||0)){
+      const { error } = await sb.from("scripts").upsert(
+        db.scripts.map((x,i) => ({id:x.id, user_id:me.id, name:x.name, body:x.body, position:i})));
+      if(error) throw error;
+    }
+    if((db.settings.updated||0) > (cfg.at||0)){
+      const s = db.settings;
+      const { error } = await sb.from("profiles").upsert({user_id:me.id, display_name:s.me||"",
+        company:s.company||"", offer:s.offer||"", theme:s.theme||"auto", script_size:s.scriptSize||18});
+      if(error) throw error;
+    }
+
+    /* ---- pull ---- */
+    const [leadsRes, callsRes, scriptsRes, profRes] = await Promise.all([
+      sb.from("leads").select("*"),
+      sb.from("calls").select("*").order("called_at", {ascending:false}).limit(2000),
+      sb.from("scripts").select("*").order("position"),
+      sb.from("profiles").select("*").maybeSingle()
+    ]);
+    for(const r of [leadsRes, callsRes, scriptsRes, profRes]) if(r.error) throw r.error;
+
+    mergeLeads(leadsRes.data || [], startedAt);
+    mergeCalls(callsRes.data || []);
+    if((scriptsRes.data||[]).length && (db.scriptsUpdated||0) <= startedAt){
+      db.scripts = scriptsRes.data.map(r => ({id:r.id, name:r.name, body:r.body}));
+    }
+    const prof = profRes.data;
+    if(prof && (db.settings.updated||0) <= startedAt){
+      db.settings.me = prof.display_name||""; db.settings.company = prof.company||"";
+      db.settings.offer = prof.offer||""; db.settings.theme = prof.theme||"auto";
+      db.settings.scriptSize = prof.script_size||18;
+      applyTheme();
+    }
+
     cfg.at = startedAt;
     save(); render();
-    if(manual) toast("Synced — "+(data.leads||[]).length+" leads in the sheet");
+    if(manual) toast("Saved — "+db.leads.length+" lead"+(db.leads.length===1?"":"s")+" on your account");
     return true;
   }catch(err){
-    state.sync.error = String(err.message||err);
-    if(manual) toast("Sync failed — "+state.sync.error);
+    state.sync.error = friendlyError(err);
+    if(manual) toast("Couldn't sync — "+state.sync.error);
     return false;
   }finally{
     state.sync.busy = false; paintSync();
   }
 }
+
 let autoT;
 function autoSync(){
-  const cfg = db.settings.sheet;
   paintSync();
-  if(!cfg.url || !cfg.auto) return;
+  if(!me) return;
   clearTimeout(autoT);
-  autoT = setTimeout(()=>syncNow(false), 4000);
+  autoT = setTimeout(() => syncNow(false), 2500);
 }
+window.addEventListener("online", () => { if(me && pendingCount()) syncNow(false); });
 document.addEventListener("visibilitychange", () => {
-  const cfg = db.settings.sheet;
-  if(document.visibilityState!=="visible" || !cfg.url || !cfg.auto) return;
-  if(Date.now() - (cfg.at||0) > 120000) syncNow(false);
+  if(document.visibilityState !== "visible" || !me) return;
+  if(pendingCount() || Date.now() - (db.settings.sync.at||0) > 120000) syncNow(false);
 });
 
 /* ============================== modal plumbing ============================== */
@@ -1119,7 +1199,8 @@ function addModal(){
 /* ============================== scripts ============================== */
 function addScript(name, body){
   db.scripts.push({id:uid(), name:name||"Untitled script", body:body||""});
-  save(); scriptsModal(); toast("Script added");
+  db.scriptsUpdated = Date.now();
+  save(); autoSync(); scriptsModal(); toast("Script added");
 }
 function scriptsModal(){
   openModal("Call scripts", `
@@ -1135,7 +1216,9 @@ function scriptsModal(){
     $$("[data-del]").forEach(b=>b.addEventListener("click", ()=>{
       if(db.scripts.length===1){ toast("Keep at least one script"); return; }
       if(!confirm("Delete this script?")) return;
-      db.scripts = db.scripts.filter(s=>s.id!==b.dataset.del); save(); scriptsModal();
+      sb.from("scripts").delete().eq("id", b.dataset.del).then(()=>{});
+      db.scripts = db.scripts.filter(s=>s.id!==b.dataset.del);
+      db.scriptsUpdated = Date.now(); save(); scriptsModal();
     }));
   });
 }
@@ -1159,7 +1242,8 @@ function editScript(id){
       const name = $("#s_name").value.trim() || "Untitled script", body = $("#s_body").value;
       if(id){ const t = db.scripts.find(x=>x.id===id); t.name = name; t.body = body; }
       else db.scripts.push({id:uid(), name, body});
-      save(); scriptsModal(); toast("Script saved");
+      db.scriptsUpdated = Date.now();
+      save(); autoSync(); scriptsModal(); toast("Script saved");
     });
   });
 }
@@ -1246,61 +1330,62 @@ function settingsModal(){
         <option value="light" ${s.theme==="light"?"selected":""}>Light</option>
         <option value="dark" ${s.theme==="dark"?"selected":""}>Dark</option></select></div>
     </div>
-    <h3 style="font-size:13px;text-transform:uppercase;letter-spacing:.07em;color:var(--muted);margin:22px 0 8px">Google Sheet</h3>
-    <p class="help">Keep your list in a spreadsheet and use this as the dialer. Add rows there, call them here, and every outcome, note and follow-up date writes back. Setup steps are in <code>sheet-sync.gs</code>.</p>
-    <div class="fields">
-      <div class="f"><label for="p_url">Web app URL</label><input id="p_url" value="${esc(s.sheet.url)}" placeholder="https://script.google.com/macros/s/…/exec" /></div>
-      <div class="f"><label for="p_token">Token</label><input id="p_token" value="${esc(s.sheet.token)}" placeholder="the TOKEN you set in the script" /></div>
-      <label style="display:flex;align-items:center;gap:9px;font-size:14px;color:var(--ink-2);padding:2px 0">
-        <input type="checkbox" id="p_auto" ${s.sheet.auto?"checked":""} style="width:18px;height:18px" />
-        Sync automatically after each call
-      </label>
-    </div>
-    <div class="toolbar" style="padding:10px 0 0"><button class="tool go" id="pSync">Connect &amp; sync now</button></div>
-    <p class="help" id="syncState" style="margin-top:8px"></p>
-    <h3 style="font-size:13px;text-transform:uppercase;letter-spacing:.07em;color:var(--muted);margin:22px 0 8px">Your data</h3>
-    <p class="help">Without a sheet connected, leads, notes and scripts live in this browser only — nothing is uploaded anywhere. Export a backup before clearing your browser data or switching phones.</p>
+    <h3 style="font-size:13px;text-transform:uppercase;letter-spacing:.07em;color:var(--muted);margin:22px 0 8px">Account</h3>
+    <p class="help">Signed in as <b style="color:var(--ink)">${esc(me ? me.email : "")}</b>. Your leads, calls and scripts live on your account — sign in on any phone or computer and they're there. Nobody else can see them.</p>
+    <p class="help" id="syncState" style="margin-top:-4px"></p>
     <div class="toolbar" style="padding:0">
-      <button class="tool" id="pRestore">Restore backup</button>
-      <button class="tool" id="pSamples">Remove sample leads</button>
+      <button class="tool" id="pSync">Sync now</button>
+      <button class="tool" id="pPass">Change password</button>
+      <button class="tool" id="pOut">Sign out</button>
+    </div>
+    <h3 style="font-size:13px;text-transform:uppercase;letter-spacing:.07em;color:var(--muted);margin:22px 0 8px">Your data</h3>
+    <p class="help">Export whenever you like — it's your list. Erasing wipes this account's leads and call history everywhere, not just on this device.</p>
+    <div class="toolbar" style="padding:0">
+      <button class="tool" id="pExport">Export</button>
       <button class="tool" id="pWipe" style="color:var(--brick)">Erase everything</button>
     </div>
   `, `<button class="btn primary" id="pSave" style="flex:1">Done</button>`, () => {
     const saveSettings = () => {
       s.me = $("#p_me").value.trim(); s.company = $("#p_company").value.trim();
       s.offer = $("#p_offer").value.trim(); s.theme = $("#p_theme").value;
-      s.sheet.url = $("#p_url").value.trim(); s.sheet.token = $("#p_token").value.trim();
-      s.sheet.auto = $("#p_auto").checked;
-      save(); applyTheme();
+      s.updated = Date.now();
+      save(); applyTheme(); autoSync();
     };
     const paintState = () => {
       const el = $("#syncState"); if(!el) return;
-      el.innerHTML = !s.sheet.url ? "Not connected."
-        : state.sync.busy ? "Syncing…"
-        : state.sync.error ? `<span style="color:var(--brick)">Last try failed — ${esc(state.sync.error)}</span>`
-        : s.sheet.at ? `Last synced ${esc(when(s.sheet.at))} · ${(n=>n?n+" change"+(n===1?"":"s")+" waiting":"everything up to date")(pendingCount())}`
-        : "Connected but not synced yet.";
+      el.innerHTML = state.sync.busy ? "Saving…"
+        : state.sync.error ? `<span style="color:var(--brick)">Last sync failed — ${esc(state.sync.error)}</span>`
+        : s.sync.at ? `Last saved ${esc(when(s.sync.at))} · ${(n=>n?n+" change"+(n===1?"":"s")+" waiting":"everything up to date")(pendingCount())}`
+        : "Not synced yet.";
     };
     paintState();
     $("#pSave").addEventListener("click", () => { saveSettings(); closeModal(); toast("Saved"); });
     $("#pSync").addEventListener("click", async () => {
-      saveSettings();
-      if(!s.sheet.url){ toast("Paste the web app URL first"); return; }
-      paintState();
-      const ok = await syncNow(true);
-      paintState();
-      if(ok) render();
+      saveSettings(); paintState();
+      await syncNow(true);
+      paintState(); render();
     });
+    $("#pOut").addEventListener("click", async () => {
+      if(pendingCount() && !confirm(pendingCount()+" change(s) haven't synced yet. Sign out anyway?")) return;
+      await sb.auth.signOut();
+      closeModal(); signedOut();
+    });
+    $("#pPass").addEventListener("click", async () => {
+      const next = prompt("New password (at least 8 characters)");
+      if(next === null) return;
+      if(String(next).length < 8){ toast("Too short — 8 characters minimum"); return; }
+      const { error } = await sb.auth.updateUser({password:next});
+      toast(error ? "Couldn't change it — "+friendlyError(error) : "Password changed");
+    });
+    $("#pExport").addEventListener("click", () => exportModal("leads"));
     $("#p_theme").addEventListener("change", e => { s.theme = e.target.value; applyTheme(); });
-    $("#pRestore").addEventListener("click", ()=>{ $("#filePick").dataset.mode="json"; $("#filePick").click(); });
-    $("#pSamples").addEventListener("click", ()=>{
-      const n = db.leads.filter(l=>l.sample).length;
-      if(!n){ toast("No sample leads left"); return; }
-      db.leads = db.leads.filter(l=>!l.sample); save(); render(); toast("Removed "+n+" sample leads");
-    });
-    $("#pWipe").addEventListener("click", ()=>{
-      if(!confirm("Erase all leads, notes and scripts on this device? Export a backup first.")) return;
-      db = blank(); db.leads = []; save(); applyTheme(); render(); closeModal(); toast("Erased");
+    $("#pWipe").addEventListener("click", async ()=>{
+      if(!confirm("Erase every lead and call on this account, on all devices? Export first — this cannot be undone.")) return;
+      if(!confirm("Last check: really erase " + db.leads.length + " leads and their call history?")) return;
+      const { error } = await sb.from("leads").delete().eq("user_id", me.id);
+      if(error){ toast("Couldn't erase — "+friendlyError(error)); return; }
+      db.leads = []; db.deleted = []; db.settings.sync.ids = [];
+      save(); render(); closeModal(); toast("Erased");
     });
   });
 }
@@ -1319,9 +1404,109 @@ $("#btnSettings").addEventListener("click", settingsModal);
 $("#btnSync").addEventListener("click", ()=>syncNow(true));
 window.addEventListener("beforeunload", save);
 
-applyTheme();
-render();
-if(db.settings.sheet.url && db.settings.sheet.auto) setTimeout(()=>syncNow(false), 800);
+/* ---------------------------------------------------------- sign in ---- */
+
+let gateMode = "in";
+
+function authMessage(err){
+  const m = String((err && err.message) || err || "");
+  if(/Invalid login credentials/i.test(m))       return "That email and password don't match an account.";
+  if(/already registered|already been registered/i.test(m)) return "That email already has an account. Sign in instead.";
+  if(/Password should be at least/i.test(m))     return "Password needs at least 6 characters.";
+  if(/valid email|email_address_invalid/i.test(m)) return "That doesn't look like a real email address.";
+  if(/Email not confirmed/i.test(m))             return "Check your email and confirm the account first.";
+  if(/rate limit|too many/i.test(m))             return "Too many tries. Wait a minute and go again.";
+  if(/Failed to fetch|NetworkError|Load failed/i.test(m)) return "No connection.";
+  return m || "That didn't work.";
+}
+function gateBusy(on, label){
+  const b = $("#gateGo");
+  b.disabled = on;
+  b.textContent = on ? (label||"Working…") : (gateMode==="in" ? "Sign in" : "Create account");
+}
+function setGateMode(mode){
+  gateMode = mode;
+  const up = mode === "up";
+  $("#gateTitle").textContent = up ? "Create your account" : "Dial Sheet";
+  $("#gateSub").textContent   = up ? "Your list, your calls, on every device."
+                                   : "Sign in to your list.";
+  $("#gateGo").textContent    = up ? "Create account" : "Sign in";
+  $("#gateSwap").textContent  = up ? "I already have an account" : "Create an account";
+  $("#gPass").setAttribute("autocomplete", up ? "new-password" : "current-password");
+  $("#gateReset").classList.toggle("hide", up);
+  $("#gateErr").textContent = "";
+}
+function signedOut(){
+  me = null; db = blank();
+  $("#booting").hidden = true;
+  $("#gate").hidden = false;
+  $("#gPass").value = "";
+  setGateMode("in");
+  document.body.style.overflow = "hidden";
+}
+function signedIn(user){
+  const fresh = !me || me.id !== user.id;
+  me = user;
+  if(fresh) db = load();
+  $("#gate").hidden = true;
+  $("#booting").hidden = true;
+  document.body.style.overflow = "";
+  applyTheme(); render();
+  syncNow(false);
+}
+
+$("#gateForm").addEventListener("submit", async e => {
+  e.preventDefault();
+  const email = $("#gEmail").value.trim(), pass = $("#gPass").value;
+  if(!email || !pass){ $("#gateErr").textContent = "Email and password, both."; return; }
+  $("#gateErr").textContent = "";
+  gateBusy(true, gateMode==="in" ? "Signing in…" : "Creating…");
+  try{
+    if(gateMode === "in"){
+      const { error } = await sb.auth.signInWithPassword({email, password:pass});
+      if(error) throw error;
+    }else{
+      const { data, error } = await sb.auth.signUp({email, password:pass});
+      if(error) throw error;
+      if(!data.session){
+        $("#gateErr").style.color = "var(--pine)";
+        $("#gateErr").textContent = "Account created. Check your email for the confirmation link, then sign in.";
+        setTimeout(()=>{ $("#gateErr").style.color = ""; setGateMode("in"); }, 6000);
+      }
+    }
+  }catch(err){
+    $("#gateErr").textContent = authMessage(err);
+  }finally{
+    gateBusy(false);
+  }
+});
+$("#gateSwap").addEventListener("click", () => setGateMode(gateMode==="in" ? "up" : "in"));
+$("#gateReset").addEventListener("click", async () => {
+  const email = $("#gEmail").value.trim();
+  if(!email){ $("#gateErr").textContent = "Type your email first, then tap this."; return; }
+  const { error } = await sb.auth.resetPasswordForEmail(email, {redirectTo: location.href});
+  $("#gateErr").style.color = error ? "" : "var(--pine)";
+  $("#gateErr").textContent = error ? authMessage(error) : "Reset link sent. Check your email.";
+});
+
+sb.auth.onAuthStateChange(async (event, session) => {
+  if(event === "SIGNED_OUT") return signedOut();
+  if(event === "PASSWORD_RECOVERY"){
+    const next = prompt("Set a new password (at least 8 characters)");
+    if(next && String(next).length >= 8){
+      const { error } = await sb.auth.updateUser({password:next});
+      toast(error ? authMessage(error) : "Password updated");
+    }
+  }
+  if(session && session.user) signedIn(session.user);
+});
+
+(async function start(){
+  applyTheme();
+  const { data } = await sb.auth.getSession();
+  if(data && data.session) signedIn(data.session.user);
+  else signedOut();
+})();
 })();
 </script>
 </body>
