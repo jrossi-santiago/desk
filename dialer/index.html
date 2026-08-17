@@ -190,7 +190,10 @@ button{cursor:pointer;background:none;border:0}
 .f input,.f select,.f textarea{width:100%;padding:10px 11px;border:1px solid var(--line);border-radius:10px;background:var(--surface-2);font-size:16px}
 .two{display:grid;grid-template-columns:1fr 1fr;gap:10px}
 .log{display:flex;flex-direction:column;gap:0}
-.logitem{display:flex;gap:11px;padding:11px 0;border-bottom:1px solid var(--line-soft)}
+.logitem{display:flex;gap:11px;padding:11px 0;border-bottom:1px solid var(--line-soft);align-items:flex-start}
+.logitem .kill{flex:none;width:30px;height:30px;border-radius:8px;color:var(--muted);display:grid;place-items:center;border:1px solid transparent}
+.logitem .kill:hover{color:var(--brick);border-color:var(--line)}
+.logitem .kill svg{width:14px;height:14px;stroke:currentColor;fill:none;stroke-width:1.9;stroke-linecap:round}
 .logitem:last-child{border-bottom:0}
 .logitem .when{font-family:var(--mono);font-size:11.5px;color:var(--muted);width:82px;flex:none;padding-top:2px}
 .logitem .what{flex:1;min-width:0;font-size:14px}
@@ -296,15 +299,20 @@ table.grid .dialmini svg{width:13px;height:13px;fill:var(--on-dial)}
 .tfoot{display:flex;justify-content:space-between;align-items:center;padding-top:9px;font-size:12.5px;color:var(--muted)}
 /* activity list */
 .acts{display:flex;flex-direction:column}
-.act{display:flex;gap:11px;align-items:flex-start;padding:11px 2px;border-bottom:1px solid var(--line-soft);width:100%;text-align:left}
-.act:last-child{border-bottom:0}
-.act .t{font-family:var(--mono);font-size:12px;color:var(--muted);width:66px;flex:none;padding-top:3px;font-variant-numeric:tabular-nums}
-.act .who{flex:1;min-width:0}
-.act .who h4{margin:0;font-size:14.5px;font-weight:620;letter-spacing:-.01em;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-.act .who .o{font-size:11px;font-weight:660;text-transform:uppercase;letter-spacing:.04em;color:var(--oc,var(--muted));margin-top:2px}
-.act .who p{margin:3px 0 0;font-size:13px;color:var(--ink-2);line-height:1.45}
-.act .go{flex:none;color:var(--muted);align-self:center}
-.act .go svg{width:15px;height:15px;stroke:currentColor;fill:none;stroke-width:2}
+.arow{display:flex;gap:11px;align-items:flex-start;padding:11px 2px;border-bottom:1px solid var(--line-soft);width:100%;text-align:left}
+.arow:last-child{border-bottom:0}
+.arow .t{font-family:var(--mono);font-size:12px;color:var(--muted);width:66px;flex:none;padding-top:3px;font-variant-numeric:tabular-nums}
+.arow .who{flex:1;min-width:0}
+.arow .who h4{margin:0;font-size:14.5px;font-weight:620;letter-spacing:-.01em;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.arow .who .o{font-size:11px;font-weight:660;text-transform:uppercase;letter-spacing:.04em;color:var(--oc,var(--muted));margin-top:2px}
+.arow .who p{margin:3px 0 0;font-size:13px;color:var(--ink-2);line-height:1.45}
+.arow{position:relative}
+.arow .main{display:flex;gap:11px;align-items:flex-start;flex:1;min-width:0;text-align:left}
+.arow .kill{flex:none;align-self:center;width:32px;height:32px;border-radius:9px;color:var(--muted);display:grid;place-items:center;border:1px solid transparent}
+.arow .kill:hover{color:var(--brick);border-color:var(--line);background:var(--surface-2)}
+.arow .kill svg{width:15px;height:15px;stroke:currentColor;fill:none;stroke-width:1.9;stroke-linecap:round}
+.arow .go{flex:none;color:var(--muted);align-self:center}
+.arow .go svg{width:15px;height:15px;stroke:currentColor;fill:none;stroke-width:2}
 .dayswitch{display:flex;gap:6px;margin-bottom:12px}
 .dayswitch button{flex:1;padding:7px;border:1px solid var(--line);border-radius:9px;font-size:13px;font-weight:600;color:var(--ink-2);background:var(--surface-2)}
 .dayswitch button[aria-pressed="true"]{background:var(--ink);color:var(--ground);border-color:var(--ink)}
@@ -353,6 +361,8 @@ table.grid .dialmini svg{width:13px;height:13px;fill:var(--on-dial)}
   background:var(--ink);color:var(--ground);padding:10px 16px;border-radius:999px;font-size:13.5px;font-weight:560;
   z-index:80;opacity:0;pointer-events:none;transition:all .2s ease;max-width:90vw;text-align:center;
 }
+.toast .undo{pointer-events:auto;cursor:pointer}
+.toast .undo{color:var(--dial);margin-left:10px;text-decoration:underline;text-underline-offset:3px;padding:2px 4px}
 .toast.on{opacity:1;transform:translate(-50%,0)}
 </style>
 </head>
@@ -622,6 +632,7 @@ function blank(){
     leads: [],
     scripts: [{id:uid(), name:"Cold call — local business", body:DEFAULT_SCRIPT}],
     deleted: [],
+    deletedCalls: [],
     scriptsUpdated: 0,
     settings: {me:"", company:"", offer:"we help local businesses get more inbound calls without spending more on ads",
       theme:"auto", scriptId:null, scriptSize:18, updated:0,
@@ -638,6 +649,7 @@ function load(){
     d.settings = Object.assign(blank().settings, d.settings||{});
     d.settings.sync = Object.assign(blank().settings.sync, d.settings.sync||{});
     d.deleted = d.deleted || [];
+    d.deletedCalls = d.deletedCalls || [];
     return d;
   }catch(e){ return blank(); }
 }
@@ -692,6 +704,33 @@ function when(ts){
   return day+" "+d.toLocaleTimeString(undefined,{hour:"numeric",minute:"2-digit"});
 }
 function touch(l){ l.updated = Date.now(); return l; }
+
+// Correcting the record: a misdial can be taken back, and a call made from
+// the phone's own dialer can be added.
+function removeCall(leadId, callId){
+  const l = db.leads.find(x => x.id === leadId); if(!l) return null;
+  const i = l.calls.findIndex(c => c.id === callId); if(i < 0) return null;
+  const [gone] = l.calls.splice(i, 1);
+  if(gone.synced) db.deletedCalls.push(callId);
+  if(state.leadId === leadId && state.callIdx === i) state.callIdx = -1;
+  else if(state.leadId === leadId && state.callIdx > i) state.callIdx--;
+  touch(l); save(); autoSync();
+  return gone;
+}
+function restoreCall(leadId, call){
+  const l = db.leads.find(x => x.id === leadId); if(!l) return;
+  db.deletedCalls = db.deletedCalls.filter(id => id !== call.id);
+  delete call.synced;                      // send it back up as a new row
+  l.calls.push(call);
+  l.calls.sort((a,b) => a.at - b.at);
+  touch(l); save(); autoSync();
+}
+function addManualCall(leadId){
+  const l = db.leads.find(x => x.id === leadId); if(!l) return null;
+  const c = {id:uid(), at:Date.now(), outcome:null, note:""};
+  l.calls.push(c); touch(l); save(); autoSync();
+  return c;
+}
 function lastCallAt(l){ return l.calls.length ? l.calls[l.calls.length-1].at : 0; }
 function firstName(s){ return String(s||"").trim().split(/\s+/)[0] || ""; }
 function parseMoney(s){ const n = parseFloat(String(s==null?"":s).replace(/[^0-9.]/g,"")); return isFinite(n) && n>0 ? n : 0; }
@@ -703,11 +742,22 @@ function money(n){
 }
 const OPEN_VALUE = ["interested","meeting","callback"];
 
-let toastT;
-function toast(msg){
-  const t = $("#toast"); t.textContent = msg; t.classList.add("on");
-  clearTimeout(toastT); toastT = setTimeout(()=>t.classList.remove("on"), 2600);
+let toastT, toastUndo = null;
+function toast(msg, undo){
+  const t = $("#toast");
+  toastUndo = undo || null;
+  t.innerHTML = esc(msg) + (undo ? ' <b class="undo">Undo</b>' : "");
+  t.classList.toggle("act", !!undo);
+  t.classList.add("on");
+  clearTimeout(toastT);
+  toastT = setTimeout(() => { t.classList.remove("on"); toastUndo = null; }, undo ? 6000 : 2600);
 }
+$("#toast").addEventListener("click", e => {
+  if(!toastUndo || !e.target.closest(".undo")) return;
+  const fn = toastUndo; toastUndo = null;
+  $("#toast").classList.remove("on");
+  fn();
+});
 
 /* ============================== list ============================== */
 const FILTERS = [
@@ -901,11 +951,16 @@ function renderInfo(){
 function renderLog(){
   const l = activeLead(); if(!l) return;
   const items = l.calls.slice().reverse();
-  $("#logBody").innerHTML = items.length ? items.map(c=>{
+  $("#logBody").innerHTML = (items.length ? items.map(c=>{
     const st = STATUS[c.outcome] || {label:"Dialed", color:"var(--muted)"};
     return `<div class="logitem"><div class="when">${esc(when(c.at))}</div>
-      <div class="what" style="--st:${st.color}"><b>${esc(st.label)}</b>${c.note?`<p>${esc(c.note)}</p>`:""}</div></div>`;
-  }).join("") : `<p class="help">No calls logged yet.</p>`;
+      <div class="what" style="--st:${st.color}"><b>${esc(st.label)}</b>${c.note?`<p>${esc(c.note)}</p>`:""}</div>
+      <button class="kill" data-unlog="${c.id}" title="Not a call — remove it" aria-label="Remove this call">
+        <svg viewBox="0 0 24 24"><path d="M6 6l12 12M18 6L6 18"/></svg></button></div>`;
+  }).join("") : `<p class="help">No calls logged yet.</p>`)
+  + `<div class="toolbar" style="padding:14px 0 0"><button class="tool" id="btnLogCall">
+       <svg viewBox="0 0 24 24"><path d="M12 5v14M5 12h14"/></svg> I called this one</button></div>
+     <p class="help" style="margin-top:8px">Use this if you rang them from your phone's own dialer. Remove any entry that was a misdial.</p>`;
 }
 function syncExtras(outcome){
   // A follow-up date is always offered — any call can earn one, not just a callback.
@@ -990,6 +1045,24 @@ $("#infoFields").addEventListener("change", e => {
   const l = activeLead(); if(!l) return;
   l[k] = k==="phone" ? normPhone(e.target.value) : k==="value" ? parseMoney(e.target.value) : e.target.value;
   touch(l); save(); fillSheet(); toast("Updated");
+});
+$("#logBody").addEventListener("click", e => {
+  const kill = e.target.closest("[data-unlog]");
+  if(kill){
+    const l = activeLead(); if(!l) return;
+    const gone = removeCall(l.id, kill.dataset.unlog);
+    if(!gone) return;
+    fillSheet();
+    toast("Removed from your calls", () => { restoreCall(l.id, gone); fillSheet(); render(); });
+    return;
+  }
+  if(e.target.closest("#btnLogCall")){
+    const l = activeLead(); if(!l) return;
+    const c = addManualCall(l.id);
+    state.callIdx = l.calls.length - 1;
+    fillSheet();
+    toast("Logged as called", () => { removeCall(l.id, c.id); fillSheet(); render(); });
+  }
 });
 $("#btnRedial").addEventListener("click", () => {
   // Dialing from inside the sheet is a dial like any other. Without this the
@@ -1120,7 +1193,8 @@ function friendlyError(err){
 
 function pendingCount(){
   const since = db.settings.sync.at || 0;
-  let n = db.leads.filter(l => (l.updated||0) > since).length + (db.deleted||[]).length;
+  let n = db.leads.filter(l => (l.updated||0) > since).length
+        + (db.deleted||[]).length + (db.deletedCalls||[]).length;
   db.leads.forEach(l => l.calls.forEach(c => { if(!c.synced) n++; }));
   return n;
 }
@@ -1147,6 +1221,11 @@ async function syncNow(manual){
       const { error } = await sb.from("leads").delete().in("id", db.deleted);
       if(error) throw error;
       db.deleted = [];
+    }
+    if((db.deletedCalls||[]).length){
+      const { error } = await sb.from("calls").delete().in("id", db.deletedCalls);
+      if(error) throw error;
+      db.deletedCalls = [];
     }
     const changed = db.leads.filter(l => (l.updated||0) > (cfg.at||0));
     if(changed.length){
@@ -1652,19 +1731,23 @@ function activityModal(dayStr, connectsOnly){
     <div class="dayswitch">
       <button data-day="${today()}" aria-pressed="${day===today()}">Today</button>
       <button data-day="${yest}" aria-pressed="${day===yest}">Yesterday</button>
-      <button id="aConn" aria-pressed="${!!connectsOnly}">Connects only</button>
+      <button id="aConn" aria-pressed="${!!connectsOnly}">Connects</button>
     </div>
     <div class="acts" id="actList">${rows.length ? rows.map(r => {
-      const st = STATUS[r.call.outcome] || {label:"Dialed, no outcome logged", color:"var(--muted)"};
-      return `<button class="act" data-lead="${r.lead.id}">
-        <span class="t">${new Date(r.call.at).toLocaleTimeString(undefined,{hour:"numeric",minute:"2-digit"})}</span>
-        <span class="who">
-          <h4>${esc(r.lead.business||"(no name)")}</h4>
-          <span class="o" style="--oc:${st.color}">${esc(st.label)}</span>
-          ${r.call.note ? `<p>${esc(r.call.note)}</p>` : ""}
-        </span>
-        <span class="go"><svg viewBox="0 0 24 24"><path d="M9 6l6 6-6 6" fill="none"/></svg></span>
-      </button>`;
+      const st = STATUS[r.call.outcome] || {label:"No outcome yet", color:"var(--muted)"};
+      return `<div class="arow">
+        <button class="main" data-lead="${r.lead.id}">
+          <span class="t">${new Date(r.call.at).toLocaleTimeString(undefined,{hour:"numeric",minute:"2-digit"})}</span>
+          <span class="who">
+            <h4>${esc(r.lead.business||"(no name)")}</h4>
+            <span class="o" style="--oc:${st.color}">${esc(st.label)}</span>
+            ${r.call.note ? `<p>${esc(r.call.note)}</p>` : ""}
+          </span>
+          <span class="go"><svg viewBox="0 0 24 24"><path d="M9 6l6 6-6 6" fill="none"/></svg></span>
+        </button>
+        <button class="kill" data-unlog="${r.call.id}" data-of="${r.lead.id}" title="Not a call — remove it" aria-label="Remove this call">
+          <svg viewBox="0 0 24 24"><path d="M6 6l12 12M18 6L6 18"/></svg></button>
+      </div>`;
     }).join("") : `<p class="help" style="padding:26px 0;text-align:center">${
       connectsOnly ? "Nobody picked up "+label.toLowerCase()+" yet." : "No calls "+label.toLowerCase()+" yet. Tap a green circle to start."}</p>`}</div>
     <p class="help" style="margin-top:14px">${rows.length} call${rows.length===1?"":"s"} · ${label.toLowerCase()}. Tap one to open that lead.</p>
@@ -1673,6 +1756,18 @@ function activityModal(dayStr, connectsOnly){
     $$(".dayswitch [data-day]").forEach(b => b.addEventListener("click", () => activityModal(b.dataset.day, connectsOnly)));
     $("#aConn").addEventListener("click", () => activityModal(day, !connectsOnly));
     $("#actList").addEventListener("click", e => {
+      const kill = e.target.closest("[data-unlog]");
+      if(kill){
+        const leadId = kill.dataset.of;
+        const gone = removeCall(leadId, kill.dataset.unlog);
+        if(!gone) return;
+        render();
+        activityModal(day, connectsOnly);
+        toast("Removed from your calls", () => {
+          restoreCall(leadId, gone); render(); activityModal(day, connectsOnly);
+        });
+        return;
+      }
       const b = e.target.closest("[data-lead]"); if(!b) return;
       closeModal(); setTimeout(() => openSheet(b.dataset.lead, false), 260);
     });
@@ -1710,7 +1805,7 @@ function calendarModal(pickDay){
 
   const leadRowsFor = key => (map[key] || []).map(l => {
     const st = STATUS[l.status] || STATUS.new;
-    return `<button class="act" data-lead="${l.id}">
+    return `<button class="arow" data-lead="${l.id}">
       <span class="who"><h4>${esc(l.business||"(no name)")}</h4>
         <span class="o" style="--oc:${st.color}">${esc(st.label)}</span>
         <p>${esc([l.owner, fmtPhone(l.phone)].filter(Boolean).join(" · "))}</p></span>
